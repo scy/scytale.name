@@ -50,7 +50,7 @@ function hdr($tit) {
 </head>
 
 <body class='<?php echo(SECTION); ?>'>
-	<?php if(NOVUM) { ?><div id='RIGHTDOTS'><? } ?><div id='<?php echo((NOVUM)?('LEFTDOTS'):('CENTER')); ?>'>
+	<?php if(NOVUM) { ?><div id='RIGHTDOTS'><?php } ?><div id='<?php echo((NOVUM)?('LEFTDOTS'):('CENTER')); ?>'>
 		<div id='HEAD'>
 			<h1 class='<?php echo(SECTION); ?>'><?php echo($title); ?></h1>
 		</div>
@@ -100,7 +100,7 @@ function ftr() {
 </script>
 </body>
 
-</html><?
+</html><?php
 }
 
 function sn() {
