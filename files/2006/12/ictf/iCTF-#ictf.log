@@ -1,0 +1,1517 @@
+**** BEGINNE LOGBUCH UM Fri Dec  8 14:04:25 2006
+
+**** BEENDE LOGBUCH UM Fri Dec  8 14:06:24 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 14:06:24 2006
+
+Dez 08 14:06:31 Python interface unloaded
+**** BEENDE LOGBUCH UM Fri Dec  8 14:06:31 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 14:06:56 2006
+
+Dez 08 14:06:56 *	Du sprichst jetzt in #ictf
+Dez 08 14:06:56 *	Das Thema für #ictf ist: international CTF 2006
+Dez 08 14:06:56 *	Das Thema für #ictf wurde gesetzt durch nullptr um Fri Dec  8 00:47:57 2006
+Dez 08 14:07:34 *	[squareroots]mm (~jircii@cloak-BC858C73.rz.uni-mannheim.de) hat #ictf betreten
+**** BEENDE LOGBUCH UM Fri Dec  8 14:10:45 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 14:10:45 2006
+
+Dez 08 14:11:43 *	[cheddar]g0ud4 (~g0uda@cloak-B93A61BC.rochd3.qld.optusnet.com.au) hat #ictf verlassen (Leaving)
+**** BEENDE LOGBUCH UM Fri Dec  8 14:13:30 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 14:13:30 2006
+
+Dez 08 14:13:36 *	Natas (~deeseja@5D42673F.F65CFAD6.93F1E52.IP) hat #ictf betreten
+Dez 08 14:13:52 *	johns (~johns@cloak-89F5F4A6.informatik.uni-hamburg.de) hat #ictf betreten
+**** BEENDE LOGBUCH UM Fri Dec  8 14:14:11 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 14:14:11 2006
+
+Dez 08 14:14:14 *	Natas hat die Verbindung getrennt (Quit: Natas)
+Dez 08 14:14:18 *	johns ist jetzt bekannt als [cinsects]martin
+Dez 08 14:16:46 <[poly]yan>	.n
+Dez 08 14:16:48 <[poly]yan>	er
+Dez 08 14:25:53 *	lamer1165584331616 (~jircii@cloak-997A88E7.rz.uni-mannheim.de) hat #ictf betreten
+Dez 08 14:26:25 *	[TUD]no_maam (~no_maam@cloak-CDCDDBDD.cdc.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 08 14:26:39 *	[TUD]no_maam ist jetzt bekannt als [WoD]no_maam
+Dez 08 14:26:50 *	[squareroots]mm hat die Verbindung getrennt (Ping timeout)
+Dez 08 14:27:25 *	[RedCops]seb hat die Verbindung getrennt (Client exited)
+Dez 08 14:28:32 *	jockey (~rob@A38DAB86.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 14:28:47 <jockey>	\nick [chedder]jockey
+Dez 08 14:29:02 *	jockey ist jetzt bekannt als [cheddar]jockey
+Dez 08 14:29:07 *	[psu]BBA-A[0] hat die Verbindung getrennt (Quit: [psu]BBA-A[0])
+Dez 08 14:29:37 <[cheddar]jockey>	evening all
+Dez 08 14:29:46 <[cheddar]jockey>	or morning as the case may be
+Dez 08 14:30:03 *	redtiger (~ckrammer@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 14:30:27 *	redtiger ist jetzt bekannt als [squareroots]RedTiger
+Dez 08 14:33:12 *	DotF (~Administr@cloak-C1D5D2BB.wiwi.uni-regensburg.de) hat #ictf betreten
+Dez 08 14:34:01 <DotF>	Hi, is there any MD5 or other hash available for the image?
+Dez 08 14:36:50 *	[cm]davide (~cmdavid@cloak-B5185CBA.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 14:37:27 <[WoD]lars>	 MD5 (CTF.tgz.gpg) = a2a95b635dcdc09424decefea97842b5
+Dez 08 14:37:27 <[WoD]lars>	 MD5 (CTF.tgz) = 1ca4a718b9c89f2edc22fd3a329a9efe
+Dez 08 14:37:28 <[squareroots]Scytale>	Hi. Is there some slashnet operator here? Since we're doing NAT masquerading, no more than 3 clients from our IP can join.
+Dez 08 14:38:08 *	cryptobit (~cryptobit@cloak-E6D1A961.hsd1.md.comcast.net) hat #ictf betreten
+Dez 08 14:38:55 *	[cm]davide hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 14:38:56 *	[cm]gianz hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 14:38:56 *	[cm]ema hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 14:40:32 *	[cheddar]jockey hat die Verbindung getrennt (Ping timeout)
+Dez 08 14:40:32 *	cryptobit hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 14:41:01 *	cryptobit (~cryptobit@cloak-E6D1A961.hsd1.md.comcast.net) hat #ictf betreten
+Dez 08 14:42:05 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 14:45:39 *	cryptobit hat die Verbindung getrennt (Quit: cryptobit)
+Dez 08 14:49:11 *	[cm]ema_ (~ema@cloak-40330AA6.pool80116.interbusiness.it) hat #ictf betreten
+Dez 08 14:52:15 <[cinsects]m4z>	ola [cinsects]martin 
+Dez 08 14:52:21 *	[rwth]lexi (~lexi@cloak-46B3D17F.dedi23.de) hat #ictf betreten
+Dez 08 14:52:32 *	[rwth]lexi ist jetzt bekannt als [0ldEur0pe]lexi
+Dez 08 14:52:36 *	Spida (~timo@cloak-12E3CC2E.org) hat #ictf betreten
+Dez 08 14:53:06 <[0ldEur0pe]lexi>	[squareroot]tho: hi nach sueden
+Dez 08 14:53:22 *	[0ldEur0pe]lexi sendz greets to [WoD]s...
+Dez 08 14:53:34 <[0ldEur0pe]lexi>	and cheers to the rest :)
+Dez 08 14:53:50 <[WoD]lars>	[0ldEur0pe]lexi: Hi Lexi, I was afraid you could not show up.
+Dez 08 14:54:01 <[0ldEur0pe]lexi>	why that?
+Dez 08 14:54:03 *	[ENOFLAG]animefan (~niko@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 14:54:07 <[WoD]lars>	[0ldEur0pe]lexi: Heard rumours.
+Dez 08 14:54:09 <[0ldEur0pe]lexi>	we're quite early in fact
+Dez 08 14:54:39 <[0ldEur0pe]lexi>	still downloading the testimage... 
+Dez 08 14:55:36 <[WoD]lars>	http://www.sec-tud.de/~tiga/CTF.tgz.gpg
+Dez 08 14:55:57 <[0ldEur0pe]lexi>	we have that one already... ;)
+Dez 08 14:56:09 <[WoD]lars>	OK.
+Dez 08 14:57:10 *	jockey (~rob@A38DAB86.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 15:01:16 *	[ENOFLAG]thunderstorm (~root@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 15:01:35 *	[squareroots]log1c (ben@cloak-46224450.ein.informatiger.de) hat #ictf betreten
+Dez 08 15:02:15 *	[squareroots]log1c hat die Verbindung getrennt (Quit: [squareroots]log1c)
+Dez 08 15:03:32 *	[squareroots]RedTiger hat die Verbindung getrennt (Ping timeout)
+Dez 08 15:03:44 *	[WoD]ImgBox hat die Verbindung getrennt (Client exited)
+Dez 08 15:04:21 *	Dokuschnegge (~doku@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 15:05:02 *	jockey hat die Verbindung getrennt (Ping timeout)
+Dez 08 15:05:19 *	Dokuschnegge ist jetzt bekannt als [squareroots]doku
+Dez 08 15:05:24 *	log1c (ben@5BE998A1.3CC6C846.2E479.IP) hat #ictf betreten
+Dez 08 15:05:50 *	log1c ist jetzt bekannt als [squareroots]log1c
+Dez 08 15:06:46 *	minersthreat (~sgblanch@cloak-467FDB76.uncc.edu) hat #ictf betreten
+Dez 08 15:07:55 <[0ldEur0pe]lexi>	can somebody please tell us, in how much time which parts of the contest begins? it seems as if we can't handle simple arithmetics here any more ;)
+Dez 08 15:08:10 <[0ldEur0pe]lexi>	so, key release is in two hours, gameserver start in 4 hours?
+Dez 08 15:08:11 *	minersthreat ist jetzt bekannt als [uncc]minersthreat
+Dez 08 15:08:11 *	jockey (~rob@A38DAB86.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 15:08:33 <[ENOFLAG]Hessophanes>	Yes, I think so. @lexi
+Dez 08 15:08:38 *	[ENOFLAG]animefan hat die Verbindung getrennt (Ping timeout)
+Dez 08 15:08:59 *	[cm]davide (~cmdavid@cloak-B5185CBA.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 15:09:00 <[WoD]lars>	We expect similar times
+Dez 08 15:10:07 <[WoD]lars>	Pacific Time is MET-9h
+Dez 08 15:10:14 *	[ENOFLAG]animefan (~niko@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 15:10:21 <[0ldEur0pe]lexi>	ok
+Dez 08 15:10:49 *	[cheddar]mark hat die Verbindung getrennt (Client exited)
+Dez 08 15:11:16 *	Raistlino (~raistlin@cloak-3BD2F92E.elet.polimi.it) hat #ictf betreten
+Dez 08 15:11:37 *	Raistlino ist jetzt bekannt als [T0fH]Raistlin
+Dez 08 15:11:42 <[T0fH]Raistlin>	hiya
+Dez 08 15:12:45 *	herdom (~ircuser@83E2E9D1.EEEF9FAC.14DBE6B2.IP) hat #ictf betreten
+Dez 08 15:13:16 *	herdom ist jetzt bekannt als [DotF]herdom
+Dez 08 15:14:08 <[WoD]lars>	Yeah, watching the cam is even better than being there.
+Dez 08 15:14:44 *	DotF_Flo (~DotF_Flo@A708D3D7.8E29186E.86728EA6.IP) hat #ictf betreten
+Dez 08 15:14:59 <[T0fH]Raistlin>	we have no streaming this year :(
+Dez 08 15:15:08 *	cryptobit (~cryptobit@cloak-E6D1A961.hsd1.md.comcast.net) hat #ictf betreten
+Dez 08 15:15:26 *	DotF_Flo (~DotF_Flo@A708D3D7.8E29186E.86728EA6.IP) hat #ictf verlassen
+Dez 08 15:15:42 *	cryptobit hat die Verbindung getrennt (Quit: cryptobit)
+Dez 08 15:16:39 *	[TUD]ImgBox (~rooot@6DDF96E1.23B7DE05.7AE1AFFA.IP) hat #ictf betreten
+Dez 08 15:16:46 <[TUD]ImgBox>	hi guys
+Dez 08 15:16:50 *	DotF_Rafa (~DotF_Flo@A708D3D7.8E29186E.86728EA6.IP) hat #ictf betreten
+Dez 08 15:16:54 *	fabi3tto (~fabi3tto@B470CFE0.A3E6CE8A.AD70756B.IP) hat #ictf betreten
+Dez 08 15:16:55 <[T0fH]Raistlin>	hi
+Dez 08 15:17:23 <fabi3tto>	hi :D
+Dez 08 15:17:33 [0ldEur0pe]brueffer [0ldEur0pe]Kasperle [0ldEur0pe]lexi [cheddar]c0ld_pr4gue [cheddar]jared [cinsects]m4z [cinsects]martin [cinsects]n00k [cm]davide [cm]ema_ [DotF]herdom [ENOFLAG]animefan [ENOFLAG]Hessophanes [ENOFLAG]thunderstorm [int80]8-D [int80]mike [int80]scholar02 [int80]scyclops [minerThreat]_Natas [ncsu]tsg [poly]boris [poly]yan [RedCops]tosh [solo]ShdwFear [squareroot]tho [squareroots]doku [squareroots]log1c [squareroots]Scytale [squareroots]w0lverine [T0fH]Raistlin [TUD]ImgBox [uclion]root [uncc]minersthreat [wcsc]bonzoesc [wcsc]zap [WoD]jtb [WoD]lars [WoD]no_maam 
+Dez 08 15:17:33 [solo]ShdwFear [squareroot]tho [squareroots]doku [squareroots]log1c [squareroots]Scytale [squareroots]w0lverine 
+Dez 08 15:17:34 <[TUD]ImgBox>	hope you're watching our live stream? we're starting to built everything up in the room now :)
+Dez 08 15:17:34 *	fabi3tto hat die Verbindung getrennt (Quit: fabi3tto)
+Dez 08 15:17:49 <[cinsects]m4z>	tits?
+Dez 08 15:17:55 <[squareroots]Scytale>	URL?
+Dez 08 15:18:42 <[cinsects]n00k>	pr0n server? where?
+Dez 08 15:18:50 *	fabi3tto (~fabi3tto@B470CFE0.A3E6CE8A.AD70756B.IP) hat #ictf betreten
+Dez 08 15:18:56 <[TUD]ImgBox>	http://130.83.164.201:80 or http://130.83.164.201:8080 - play it with vlc, mplayer or try windows media player :)
+Dez 08 15:19:07 <[squareroots]log1c>	no pron allowed here! :>
+Dez 08 15:19:21 <[cinsects]n00k>	too bad :(
+Dez 08 15:19:37 <[WoD]jtb>	re
+Dez 08 15:19:46 *	fabi3tto ist jetzt bekannt als [t0fh]fabi3tto
+Dez 08 15:20:59 *	[ENOFLAG]thunderstorm hat die Verbindung getrennt (Quit: Lost terminal)
+Dez 08 15:21:37 *	Getrennt (Gegenseite hat den Socket geschlossen).
+**** BEENDE LOGBUCH UM Fri Dec  8 15:21:37 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 16:22:57 2006
+
+Dez 08 16:22:57 *	Du sprichst jetzt in #ictf
+Dez 08 16:22:57 *	Das Thema für #ictf ist: international CTF 2006
+Dez 08 16:22:57 *	Das Thema für #ictf wurde gesetzt durch nullptr um Fri Dec  8 00:47:57 2006
+Dez 08 16:23:14 <[cinsects]n00k>	not wirklich i glaube
+Dez 08 16:23:15 <[cheddar]jared>	nicht
+Dez 08 16:23:16 <[cheddar]jared>	:P
+Dez 08 16:23:22 <[PSU]n4rc>	DU HASTE MICH
+Dez 08 16:23:39 <[cinsects]mokrates>	yeah
+Dez 08 16:23:46 <[cinsects]mokrates>	reeeaal german ;)
+Dez 08 16:24:08 *	teehee (~pallus@cloak-99EFAA45.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 16:24:14 <[squareroots]log1c>	:>
+Dez 08 16:24:17 *	[RedCops]neerd (~RedCops@53A627E9.B9EBDA50.58A95CE5.IP) hat #ictf betreten
+Dez 08 16:24:26 *	[RedCops]tosh hat die Verbindung getrennt (Quit: Quitte)
+Dez 08 16:24:33 *	[minerThreat]_Natas hat die Verbindung getrennt (Ping timeout)
+Dez 08 16:24:50 *	teehee ist jetzt bekannt als [psu]sammie
+Dez 08 16:24:55 *	mutax (~mutax@cloak-B1700EA9.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 16:25:05 <mutax>	hi there
+Dez 08 16:25:09 *	[psu]sammie ist jetzt bekannt als [PSU]swich
+Dez 08 16:25:31 <[cinsects]m4z>	[PSU]n4rc: you mean "du hasst mich"?
+Dez 08 16:25:33 <[squareroots]log1c>	pizza anyone? :>
+Dez 08 16:25:33 *	[cheddar]g0ud4 hat die Verbindung getrennt (Ping timeout)
+Dez 08 16:25:54 *	sjl (~jay@A59D4CC6.144F689B.C248BCF2.IP) hat #ictf betreten
+Dez 08 16:26:05 *	sjl ist jetzt bekannt als [wcsc]sjl
+Dez 08 16:26:14 *	mutax ist jetzt bekannt als [ENOFLAG]mutax
+Dez 08 16:26:17 *	[W0Y]wollviech hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 16:26:19 <[T0fH]Raistlin>	yes please
+Dez 08 16:26:25 *	[USU]VenROCK (venrock@69246F11.9F42DEB9.415BE0DB.IP) hat #ictf betreten
+Dez 08 16:26:43 *	[ENOFLAG]chithead (~chithead@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 16:26:46 <[T0fH]Raistlin>	ftp it over here
+Dez 08 16:26:47 <[USU]VenROCK>	hi there
+Dez 08 16:26:49 <[poly]yan>	when is the start?
+Dez 08 16:26:53 *	freeman (~msz@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 16:27:02 <[cinsects]mokrates>	17:00 CET i think
+Dez 08 16:27:07 *	[W0Y]wollviech (~gk@cloak-46BCE251.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 16:27:23 <[poly]yan>	what is that in GMT? or PST?
+Dez 08 16:27:25 *	cryptobit (~cryptobit@cloak-E6D1A961.hsd1.md.comcast.net) hat #ictf betreten
+Dez 08 16:27:30 *	freeman ist jetzt bekannt als [W0Y]FreeMan
+Dez 08 16:27:31 <[cinsects]mokrates>	don'tknow
+Dez 08 16:27:34 <[W0Y]biesi>	8 PST 16 GMT
+Dez 08 16:27:44 <[cinsects]mokrates>	what' PST?
+Dez 08 16:27:49 <[W0Y]biesi>	pacific standard time
+Dez 08 16:27:50 <[poly]yan>	ah alright so in 35 mins
+Dez 08 16:27:52 <[cinsects]m4z>	pacific std
+Dez 08 16:28:09 <[USU]VenROCK>	guys, how can many client connect to irc.slashnet.org from one ip? is that possible?
+Dez 08 16:28:12 <[cinsects]UncleOwen>	16GMT
+Dez 08 16:28:17 *	[ENOFLAG]thomasbl (~noob@cloak-64826DF4.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 16:28:19 *	tosh (~tosh@A5781B6B.B9EBDA50.58A95CE5.IP) hat #ictf betreten
+Dez 08 16:28:38 *	[cheddar]uid0 ist jetzt bekannt als [cheddar]UIDZero
+Dez 08 16:28:46 <[T0fH]Raistlin>	16GMT distribution of the password, 18GMT opening of the cages, right ? :)
+Dez 08 16:29:02 *	tosh ist jetzt bekannt als [RedCops]Tosh
+Dez 08 16:29:02 *	codemonk (~codemonk@cloak-F210186.rbg.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 08 16:29:03 <[cinsects]n00k>	we hope so :)
+Dez 08 16:29:04 <[cinsects]UncleOwen>	We have 4 people on the same ip
+Dez 08 16:29:07 *	milin (~milin@53A627E9.B9EBDA50.58A95CE5.IP) hat #ictf betreten
+Dez 08 16:29:07 <codemonk>	hiho
+Dez 08 16:29:07 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 16:29:15 *	codemonk ist jetzt bekannt als [w0d]codemonk
+Dez 08 16:30:09 <[USU]VenROCK>	we've got the same as iCT1 got right now...(
+Dez 08 16:30:33 <[USU]VenROCK>	session limit exceeded... is there a workaround?
+Dez 08 16:30:35 *	bios (bios@cloak-5C953C60.rbg.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 08 16:30:40 <[cinsects]m4z>	[USU]VenROCK: 4 or 5
+Dez 08 16:30:46 <[cinsects]n00k>	choose a differen ip ;)
+Dez 08 16:30:52 <[USU]VenROCK>	=) lol
+Dez 08 16:30:53 *	[w0d]codemonk ist jetzt bekannt als [WoD]codemonk
+Dez 08 16:31:09 *	bios ist jetzt bekannt als [WoD]bios
+Dez 08 16:31:09 *	EisNerd ist jetzt bekannt als [WoD]EisNerd
+Dez 08 16:31:14 <[USU]VenROCK>	done that, but we haven't enough ip's...
+Dez 08 16:31:26 <[cheddar]jared>	i would guess most would only have 1 ip allocated
+Dez 08 16:31:31 <[USU]VenROCK>	ok, i'll try to represent our team)
+Dez 08 16:31:36 *	iCTF (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:31:48 <[squareroots]Scytale>	I've tried talking to somebody in #help and tried /operhelp, but no response
+Dez 08 16:31:56 <[PSU]n4rc>	ls
+Dez 08 16:32:07 <[squareroots]Scytale>	My solution was to use a VPN to my home box... ;)
+Dez 08 16:32:10 <[cinsects]UncleOwen>	Don't you have ssh at home?
+Dez 08 16:32:24 <[cheddar]jared>	some arent allowed ssh out either :)
+Dez 08 16:32:34 <[cheddar]jared>	these sort of competitions make university security admins very nervous
+Dez 08 16:32:38 <[squareroots]Scytale>	The VPN is running anyway
+Dez 08 16:32:52 <[cinsects]UncleOwen>	irc is allowed, ssh not? sounds br0ken to me...
+Dez 08 16:32:53 *	[cheddar]marbra (~markbran@93DAC2B5.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 16:33:00 <iCTF>	our admin is running away ;)
+Dez 08 16:33:19 <[cheddar]jared>	unc: we proxied irc
+Dez 08 16:33:21 <[cinsects]mokrates>	that's bad, isn't it?
+Dez 08 16:33:46 *	[minerThreat]_Natas hat die Verbindung getrennt (Client exited)
+Dez 08 16:33:57 *	schiele (~robert@cloak-27C40BE7.dip.t-dialin.net) hat #ictf betreten
+Dez 08 16:34:24 *	iCTF (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf verlassen
+Dez 08 16:34:39 <[cinsects]m4z>	i give free ips for root passwords (;
+Dez 08 16:34:49 <[T0fH]Raistlin>	lol
+Dez 08 16:34:57 <[T0fH]Raistlin>	we have a class B of IPs to choose from
+Dez 08 16:35:01 *	[WoD]jtb (~jtb@6DDF96E1.23B7DE05.7AE1AFFA.IP) hat #ictf betreten
+Dez 08 16:35:04 <[WoD]jtb>	hi
+Dez 08 16:35:06 <[wcsc]bonzoesc>	fat_joints_420 is mine
+Dez 08 16:35:06 <[T0fH]Raistlin>	i can send you some if you send us food
+Dez 08 16:35:09 <[WoD]jtb>	webcam is back online :)
+Dez 08 16:35:21 <[WoD]jtb>	just got a replacment for my graphics card :)
+Dez 08 16:35:54 <[WoD]snafu>	hey guys
+Dez 08 16:35:59 <[0ldEur0pe]lexi>	re
+Dez 08 16:36:12 <[WoD]jtb>	Webcam-url: http://130.83.164.201 - play it with vlc, mplayer or at your own risk: windows media player
+Dez 08 16:37:15 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 16:37:15 *	[cinsects]TriPhoenix hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 16:37:16 *	[cinsects]rillig hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 16:37:28 *	[cinsects]rillig (~roland@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:37:31 <[t0fh]fabi3tto>	I have some food :D
+Dez 08 16:37:36 *	w0lverine (~w0lverine@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 16:37:46 *	[cinsects]TriPhoenix (~triphoeni@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:37:54 *	[WOD]hamster (~hamster@6DDF96E1.23B7DE05.7AE1AFFA.IP) hat #ictf betreten
+Dez 08 16:37:57 *	w0lverine ist jetzt bekannt als [squareroots]w0lverine
+Dez 08 16:38:11 <[RedCops]neerd>	wanna share some ? we have too limited supply here :)
+Dez 08 16:38:54 *	[minerThreat]_Natas hat die Verbindung getrennt (Client exited)
+Dez 08 16:39:01 *	iCTF (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:39:15 *	cryptobit hat die Verbindung getrennt (Quit: OUCH!!!)
+Dez 08 16:39:45 *	cryptobit (~cryptobit@cloak-E6D1A961.hsd1.md.comcast.net) hat #ictf betreten
+Dez 08 16:39:45 *	iCTF (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf verlassen
+Dez 08 16:40:17 *	[W0Y]wollviech hat die Verbindung getrennt (Quit: [BX] Been around the world and found that only stupid people are breeding.)
+Dez 08 16:42:00 *	[squareroots]w0lverine hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:42:10 <[t0fh]fabi3tto>	mmm too late :D
+Dez 08 16:42:40 *	[WoD]jtb hat die Verbindung getrennt (Client exited)
+Dez 08 16:42:55 *	[cheddar]marbra hat die Verbindung getrennt (Ping timeout)
+Dez 08 16:43:04 *	iCTF (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:43:23 *	venrock (venrock@69246F11.9F42DEB9.415BE0DB.IP) hat #ictf betreten
+Dez 08 16:43:27 *	[ENOFLAG]animefan hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:43:27 *	[ENOFLAG]chithead hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:43:27 *	[ENOFLAG]thunderstorm hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:43:27 *	Guest687332486 (~me@A59D4CC6.144F689B.C248BCF2.IP) hat #ictf betreten
+Dez 08 16:43:52 *	[USU]VenROCK hat die Verbindung getrennt (Quit: BitchX-1.1-final -- just do it.)
+Dez 08 16:43:56 *	iCTF (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf verlassen
+Dez 08 16:44:16 <[cinsects]rillig>	test
+Dez 08 16:44:29 *	[cinsects]TriPhoenix hat die Verbindung getrennt (Quit: Wech)
+Dez 08 16:44:32 *	Guest687332486 ist jetzt bekannt als [wcsc]37inch
+Dez 08 16:44:33 <[ENOFLAG]mutax>	arghh
+Dez 08 16:44:36 *	jr_ (~jr@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:44:56 *	jr_ ist jetzt bekannt als [cinsects]jr
+Dez 08 16:45:20 *	[cm]davide (~cmdavid@cloak-B5185CBA.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 16:45:27 <[ENOFLAG]mutax>	do we have an irc-server inside the 10.x-net ?
+Dez 08 16:45:38 <[T0fH]Raistlin>	nope
+Dez 08 16:45:46 *	[squareroots]RedTiger (tiger@cloak-A4E80C3D.de.dtag.t-dialoff.de) hat #ictf betreten
+Dez 08 16:45:48 *	[ChocolateMakers]sullivan (~sullivan@cloak-B5185CBA.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 16:45:52 *	[CInsects]5eeU (~bastian@cloak-393A430F.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 16:45:52 <[ChocolateMakers]sullivan>	yo
+Dez 08 16:45:53 <[squareroots]Scytale>	Although that would be really cool... :)
+Dez 08 16:46:03 *	[cm]davide hat die Verbindung getrennt (Quit: [cm]davide)
+Dez 08 16:46:21 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 16:46:30 *	[cinsects]TriPhoenix (~triphoeni@cloak-B60601B9.de) hat #ictf betreten
+Dez 08 16:46:31 <[ENOFLAG]mutax>	all my team mates have been banned, as you might just have read :(
+Dez 08 16:46:40 *	[WoD]mcf1y (~mcfly@cloak-F210186.rbg.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 08 16:47:03 <[squareroots]Scytale>	Yes. We should have talked to the slashnet admins before today
+Dez 08 16:47:29 *	chithead (~chithead@cloak-19EC8ACC.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 16:47:36 <[cheddar]jared>	why didnt ucsb run their own ircd?
+Dez 08 16:47:39 <[squareroots]Scytale>	The problem seems to be that all operators are asleep or otherwise NA
+Dez 08 16:47:53 <[WoD]mcf1y>	lol
+Dez 08 16:47:54 *	chithead ist jetzt bekannt als [ENOFLAG]chithead
+Dez 08 16:47:55 <[squareroots]Scytale>	Ask USCB :)
+Dez 08 16:47:57 *	jp3 (~jp3@A5781B6B.B9EBDA50.58A95CE5.IP) hat #ictf betreten
+Dez 08 16:48:00 <[WoD]mcf1y>	all quakenet styylle here...
+Dez 08 16:48:31 <venrock>	emm... lets play quake ctf? =))
+Dez 08 16:48:42 *	venrock ist jetzt bekannt als [USU}VenROCK
+Dez 08 16:48:44 *	cryptobit hat die Verbindung getrennt (Quit: Take my advise. I don't use it anyway)
+Dez 08 16:48:44 *	jp3 ist jetzt bekannt als [RedCops]jp3
+Dez 08 16:48:45 <[T0fH]Raistlin>	lol
+Dez 08 16:48:45 *	[USU}VenROCK ist jetzt bekannt als [USU]VenROCK
+Dez 08 16:48:58 <[RedCops]jp3>	hi all
+Dez 08 16:49:20 *	[cheddar]marbra (~markbran@93DAC2B5.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 16:49:28 <[WoD]lars>	ten minutes to go, if I'm correct
+Dez 08 16:50:22 *	[W0Y]wollviech (~gk@cloak-46BCE251.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 16:51:07 <[cheddar]jared>	any word from vigna though :)
+Dez 08 16:51:12 *	[RedCops]Tosh hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:51:12 *	[RedCops]jp3 hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:51:12 *	[RedCops]seb hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 16:51:12 <LordBalzaroth>	Yawn
+Dez 08 16:51:15 *	cryptobit (~cryptobit@cloak-E6D1A961.hsd1.md.comcast.net) hat #ictf betreten
+Dez 08 16:51:31 <[cinsects]m4z>	where are all the girls?
+Dez 08 16:51:36 *	Robert (~musekinin@6DDF96E1.23B7DE05.7AE1AFFA.IP) hat #ictf betreten
+Dez 08 16:51:41 *	[poly]yan ist jetzt bekannt als rebecca
+Dez 08 16:51:43 <rebecca>	hey [cinsects]m4z 
+Dez 08 16:51:46 <Robert>	test
+Dez 08 16:51:47 <[cheddar]jared>	haha
+Dez 08 16:51:50 <rebecca>	<3
+Dez 08 16:51:59 *	rebecca ist jetzt bekannt als [poly]yan
+Dez 08 16:52:13 *	Robert (~musekinin@6DDF96E1.23B7DE05.7AE1AFFA.IP) hat #ictf verlassen
+Dez 08 16:52:15 <[cinsects]n00k>	weee ... we got a girl here ^^
+Dez 08 16:52:23 <[W0Y]mne>	w00t
+Dez 08 16:52:25 <[cheddar]jared>	quick, screenshot! we need proof
+Dez 08 16:52:29 <[cheddar]jared>	no one would believe us
+Dez 08 16:52:30 <[USU]VenROCK>	))
+Dez 08 16:52:35 <[RedCops]neerd>	we've got one too :)
+Dez 08 16:52:41 <[USU]VenROCK>	+1
+Dez 08 16:52:47 <[WoD]mcf1y>	is there a possibility to get a iline here? the connection limit per ip seems low...
+Dez 08 16:53:01 *	[WoD]jtb (~jtb@6DDF96E1.23B7DE05.7AE1AFFA.IP) hat #ictf betreten
+Dez 08 16:53:07 *	cryptobit hat die Verbindung getrennt (Quit: cryptobit)
+Dez 08 16:53:17 <[WoD]mcf1y>	we have problems to get all of our users in here
+Dez 08 16:53:17 <[t0fh]fabi3tto>	girls as supporters or...
+Dez 08 16:53:25 <[cinsects]UncleOwen>	16:52 < [RedCops]neerd> we've got one too :) <-- [X] sent pix
+Dez 08 16:53:29 <[cinsects]n00k>	we need cheerleaders
+Dez 08 16:53:29 <[WoD]mcf1y>	lol
+Dez 08 16:53:36 <[wcsc]bonzoesc>	we /have/ cheerleaders
+Dez 08 16:53:47 <[cinsects]n00k>	damn u gonna win then ;p
+Dez 08 16:53:54 *	[wcsc]37inch hat die Verbindung getrennt (Quit: ( www.nnscript.de :: NoNameScript 4.03 :: www.XLhost.de ))
+Dez 08 16:53:57 <[cinsects]m4z>	whoever rebecca was (i ignore nickchanges): get back here! ^^
+Dez 08 16:54:01 <[RedCops]neerd>	exchange girl pix vs root paswd to your box :)
+Dez 08 16:54:10 *	[wcsc]racerx (~racerx@A59D4CC6.144F689B.C248BCF2.IP) hat #ictf betreten
+Dez 08 16:54:19 *	aleksey (~mc@cloak-4208434.poly.edu) hat #ictf betreten
+Dez 08 16:54:31 *	[minerThreat]_Natas hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 16:54:42 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 16:54:52 <[ENOFLAG]mutax>	hmm - okay, something completely differen: I am using Xorg and fvwm2 on my workstation, whenever on some of the other desktops a change occures in a window it automaticall switches to that desktop which is annoying. cant find anything on google and no time left. Any ideas?!
+Dez 08 16:55:23 *	[NPS]KT (~NPSKT__@88048F2.ED518F5A.CC45CC78.IP) hat #ictf betreten
+Dez 08 16:56:30 <[cinsects]n00k>	use fluxbox ;)
+Dez 08 16:56:45 <[T0fH]Raistlin>	use windows :D
+Dez 08 16:56:52 *	tyll (~till@cloak-D1DB6B25.kawo2.rwth-aachen.de) hat #ictf betreten
+Dez 08 16:56:53 <[cinsects]n00k>	lol
+Dez 08 16:56:55 <[RedCops]neerd>	use a mac
+Dez 08 16:56:58 <[cinsects]n00k>	yes 95
+Dez 08 16:57:03 <[ENOFLAG]mutax>	gna!
+Dez 08 16:57:08 <[W0Y]biesi>	use a text console :)
+Dez 08 16:57:11 <[t0fh]fabi3tto>	-.-
+Dez 08 16:57:12 *	[cheddar]marbra hat die Verbindung getrennt (Ping timeout)
+Dez 08 16:57:15 <[cinsects]n00k>	dos?
+Dez 08 16:57:15 *	[cm]davide (~cmdavid@cloak-B5185CBA.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 16:57:18 <[wcsc]bonzoesc>	use wmii
+Dez 08 16:57:19 *	tyll ist jetzt bekannt als [0ldEur0pe]till
+Dez 08 16:57:20 <[cinsects]m4z>	[ENOFLAG]mutax: i have no idea of fvwm, but maybe theres a setting to remember the desk on a per-app babsis
+Dez 08 16:57:23 <[cinsects]m4z>	-b
+Dez 08 16:57:25 <[ENOFLAG]mutax>	okay, fluxbox, why not. I have the same prob on gnome - so i thought is xorg specific:(
+Dez 08 16:57:39 <[wcsc]bonzoesc>	xorg's not that smart
+Dez 08 16:57:41 <Spida>	[wcsc]bonzoesc: ion3
+Dez 08 16:57:44 <[0ldEur0pe]till>	Aloas
+Dez 08 16:57:47 <[0ldEur0pe]lexi>	could somebody confirm that 10.8.1.4 can be reached?
+Dez 08 16:57:52 <[cheddar]c0ld_pr4gue>	Aha, here go the RedCops mac cheerleaders :D
+Dez 08 16:58:03 <[wcsc]bonzoesc>	lexi: not pingin'
+Dez 08 16:58:04 <[cinsects]UncleOwen>	nope, down
+Dez 08 16:58:04 <[ENOFLAG]mutax>	[cinsects]m4z, the prob is that the app stays on that desktopm but even ehwn minmized the X swtiches to that daesk and maximizes the app on a change inside the win
+Dez 08 16:58:09 <[ENOFLAG]Hessophanes>	Nope @lexi
+Dez 08 16:58:13 <[T0fH]Raistlin>	ucsb is still sleeping ?
+Dez 08 16:58:20 <[ENOFLAG]mutax>	cu later [switching fluxbox
+Dez 08 16:58:22 *	[uncc]peon hat die Verbindung getrennt (Ping timeout)
+Dez 08 16:58:25 *	[ENOFLAG]mutax hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 16:58:43 <sysenter>	use rat poison
+Dez 08 16:58:51 <[wcsc]bonzoesc>	use screen
+Dez 08 16:58:57 <[cinsects]n00k>	use flush
+Dez 08 16:59:14 *	y0rn (~y0rn@cloak-EF9D0F2D.inaddr.intergenia.de) hat #ictf betreten
+Dez 08 16:59:16 <[USU]VenROCK>	s00... shall we start?
+Dez 08 16:59:29 <[cinsects]n00k>	in a minute 
+Dez 08 16:59:30 <[cinsects]UncleOwen>	do we have a scoreboard or something?
+Dez 08 16:59:33 <[RedCops]neerd>	as soon as ucsb awake yeah
+Dez 08 16:59:43 <[DotF]herdom>	scoreboard would be grand
+Dez 08 16:59:55 *	[PSU]swich hat die Verbindung getrennt (Quit: [PSU]swich)
+Dez 08 17:00:04 *	lordvykon (~lordvykon@cloak-4208434.poly.edu) hat #ictf betreten
+Dez 08 17:00:10 <[cinsects]m4z>	happy hacking (c:
+Dez 08 17:00:13 *	lordvykon hat die Verbindung getrennt (Quit: lordvykon)
+Dez 08 17:00:16 <LordBalzaroth>	60 seconds
+Dez 08 17:00:23 <[USU]VenROCK>	em... and were will grandboard be?
+Dez 08 17:00:24 <[0ldEur0pe]lexi>	60sec to what? 
+Dez 08 17:00:24 <[cheddar]jared>	do we have a url for the scoreboard?
+Dez 08 17:00:37 *	somedude (~root@cloak-4208434.poly.edu) hat #ictf betreten
+Dez 08 17:00:39 <[DotF]herdom>	good stuff
+Dez 08 17:00:45 *	innominelux_ (iCTF@cloak-D70C42AF.net) hat #ictf betreten
+Dez 08 17:01:12 <[WoD]lars>	that has been 60secs to 17:00MET
+Dez 08 17:01:12 <[cinsects]n00k>	gogogo
+Dez 08 17:01:12 *	eagle (~sshaim@918C3E86.F2E273E8.DA04887E.IP) hat #ictf betreten
+Dez 08 17:01:15 *	mutax (~mutax@cloak-B1700EA9.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:01:16 <LordBalzaroth>	just jocking. We are gointo start in a ... little while
+Dez 08 17:01:16 <[WoD]lars>	that has been 60secs to 17:01MET
+Dez 08 17:01:16 *	[WoD]mcf1y waves at poly...
+Dez 08 17:01:18 <[cinsects]n00k>	stuermt die vorderseite
+Dez 08 17:01:18 <[int80]cptncrunch>	The participants page says int80 still needs to be setup.  Can someone confirm we have no issues?
+Dez 08 17:01:20 *	mutax ist jetzt bekannt als [ENOFLAG]mutax
+Dez 08 17:01:23 <[ENOFLAG]mutax>	re
+Dez 08 17:01:23 *	eagle ist jetzt bekannt als Guest687332490
+Dez 08 17:01:38 *	dokuschnegge (laura@cloak-7514446B.net) hat #ictf betreten
+Dez 08 17:01:56 <[int80]8-D>	i was told we are all set up
+Dez 08 17:02:09 <[USU]VenROCK>	our team's gotta question, if images will be the same for everyone, then the flags will be posted during the game?
+Dez 08 17:02:12 *	ypc (~lordvykon@cloak-4208434.poly.edu) hat #ictf betreten
+Dez 08 17:02:12 <[0ldEur0pe]lexi>	[int80]8-D: i can't ping anything over at your place
+Dez 08 17:02:17 *	innominelux_ hat die Verbindung getrennt (Quit: innominelux_)
+Dez 08 17:02:28 <[0ldEur0pe]lexi>	[int80]8-D: could you ping our ip-range?
+Dez 08 17:02:29 *	[squareroots]w0lverine (~w0lverine@cloak-EF9D0F2D.inaddr.intergenia.de) hat #ictf betreten
+Dez 08 17:02:33 <[T0fH]Raistlin>	[USU]VenROCK, repeat your question ?
+Dez 08 17:02:42 *	ypc ist jetzt bekannt als [poly]ypc
+Dez 08 17:02:45 *	[uncc]peon (~unccpeo@cloak-5AB3FD41.uncc.edu) hat #ictf betreten
+Dez 08 17:02:48 *	[cheddar]marbra (~markbran@93DAC2B5.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 17:03:01 *	[squareroots]innominelux (iCTF@cloak-D70C42AF.net) hat #ictf betreten
+Dez 08 17:03:06 <somedude>	\NICK aleksey
+Dez 08 17:03:08 <[int80]8-D>	[USU]VenROCK: what exactly are you asking?  if the flags are the same for everyone?
+Dez 08 17:03:09 <[DotF]herdom>	lexi: could you ping 10.13.1.1 please	
+Dez 08 17:03:14 *	[W0Y]wollviech hat die Verbindung getrennt (Quit: [BX] Reserve your copy of BitchX-1.1-final for the Apple Newton today!)
+Dez 08 17:03:15 *	dokuschnegge ist jetzt bekannt als [squareroots]doku
+Dez 08 17:03:15 <somedude>	ls
+Dez 08 17:03:18 *	[W0Y]wollviech (~gk@cloak-DE995509.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:03:19 <[T0fH]Raistlin>	flags will be dynamically placed and updated by the scoring server, so they will change constantly for each team and for each service during the game (at least, it's been like that last years)
+Dez 08 17:03:20 <[DotF]herdom>	anyone: could you ping 10.13.1.1 please	
+Dez 08 17:03:31 <[USU]VenROCK>	int80, yep
+Dez 08 17:03:31 <[squareroots]Scytale>	herdom: doesn't work.
+Dez 08 17:03:35 *	[ENOFLAG]thunderstorm (~afds@cloak-58FDA546.math.tu-berlin.de) hat #ictf betreten
+Dez 08 17:03:37 *	sysenter ist jetzt bekannt als [SigMIL]sysenter
+Dez 08 17:03:38 *	awjb (~awjb@cloak-774C4C44.zlw-ima.rwth-aachen.de) hat #ictf betreten
+Dez 08 17:03:44 <[ENOFLAG]Hessophanes>	No response @herdom
+Dez 08 17:03:44 <[USU]VenROCK>	thnx
+Dez 08 17:03:47 <somedude>	\nick aleksey
+Dez 08 17:03:52 <somedude>	\nick alekseey
+Dez 08 17:03:52 *	andy__ (~andy@cloak-D291C4F7.server4you.de) hat #ictf betreten
+Dez 08 17:03:55 *	somedude ist jetzt bekannt als alekseey
+Dez 08 17:03:57 <[DotF]herdom>	thanx
+Dez 08 17:03:58 <[NPS]KT>	fwd slash
+Dez 08 17:04:00 <alekseey>	HAHA
+Dez 08 17:04:00 *	awjb ist jetzt bekannt als [0ldEur0pe]awjb
+Dez 08 17:04:03 *	schiele ist jetzt bekannt als [suqareroots]robert
+Dez 08 17:04:08 <[RedCops]neerd>	i think they cut all off because we are going to start, so for 2hours we will be alone with our network :)
+Dez 08 17:04:19 <[cheddar]UIDZero>	neerd - i believe you're right.
+Dez 08 17:04:20 *	[suqareroots]robert ist jetzt bekannt als [squareroots]robert
+Dez 08 17:04:20 <[cheddar]jared>	yeah
+Dez 08 17:04:25 <[cheddar]jared>	the gates wont be opened until after perusual
+Dez 08 17:04:25 <[ENOFLAG]Hessophanes>	Yeah, that may be the case...
+Dez 08 17:04:28 <[USU]VenROCK>	scoring server will place flags after the first 2 hours?
+Dez 08 17:04:31 <[T0fH]Raistlin>	neerd: correct probably
+Dez 08 17:04:36 <[int80]8-D>	yeah, that makes sense
+Dez 08 17:04:38 <[0ldEur0pe]Kasperle>	that's what they said last time as well ;)
+Dez 08 17:04:44 *	alekseey ist jetzt bekannt als [poly]aleksey
+Dez 08 17:04:46 <[USU]VenROCK>	ok)
+Dez 08 17:04:46 <[cheddar]jared>	[0ldEur0pe]Kasperle: yea
+Dez 08 17:04:48 <[int80]8-D>	[USU]VenROCK: yeah
+Dez 08 17:04:49 <[poly]aleksey>	hi
+Dez 08 17:04:53 <[wcsc]zap>	GOGOGO
+Dez 08 17:05:03 <[T0fH]Raistlin>	[USU]VenROCK, it will probably begin before, so they can test, but basically yes
+Dez 08 17:05:04 *	mithi (~mithi@cloak-774C4C44.zlw-ima.rwth-aachen.de) hat #ictf betreten
+Dez 08 17:05:04 *	aleksey ist jetzt bekannt als rashedus
+Dez 08 17:05:07 <[squareroots]log1c>	at least [squareroots]robert is good at coding C.. (i hope :P)
+Dez 08 17:05:18 <rashedus>	hey how do you ping only 1 packet :(
+Dez 08 17:05:33 *	volker (~newbie@cloak-8D7A57B9.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:05:35 <[squareroots]Scytale>	Actually you ping boxes, not packets.
+Dez 08 17:05:38 <[W0Y]biesi>	man ping :)
+Dez 08 17:05:40 *	mithi ist jetzt bekannt als [0ldEur0pe]mithi
+Dez 08 17:05:41 <rashedus>	mine pings 3 :(
+Dez 08 17:05:44 <[USU]VenROCK>	hwo said herdom??
+Dez 08 17:05:48 <[USU]VenROCK>	who*
+Dez 08 17:06:00 <[cheddar]jared>	harem?
+Dez 08 17:06:02 <[0ldEur0pe]lexi>	could it be that routing between teams is currently disabled?
+Dez 08 17:06:10 <[wcsc]bonzoesc>	ding ding
+Dez 08 17:06:13 <[DotF]herdom>	what's so funny about my nick?
+Dez 08 17:06:17 <[W0Y]FreeMan>	looks like routing is off
+Dez 08 17:06:20 <[cheddar]jared>	[0ldEur0pe]lexi:  that would be my thoughts
+Dez 08 17:06:31 <rashedus>	anyone has manned a woman ?
+Dez 08 17:06:41 <[cheddar]jared>	nope, thats a device to be mounted
+Dez 08 17:06:42 *	[ENOFLAG]mutax hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:06:43 <[USU]VenROCK>	[DotF]herdom - the jokes is that our team if HackERDOM
+Dez 08 17:06:44 *	[squareroot]tho hat die Verbindung getrennt (Client exited)
+Dez 08 17:06:50 <[wcsc]bonzoesc>	[cheddar]jared: or fingered
+Dez 08 17:06:51 <[cheddar]UIDZero>	lexi: traceroute drops most things it would seem... 
+Dez 08 17:06:52 *	volker ist jetzt bekannt als [ENOFLAG]volker
+Dez 08 17:06:53 <[USU]VenROCK>	has the game started?
+Dez 08 17:06:53 <[cinsects]UncleOwen>	and THAT'S why theres no internal ircd... we wouldn't be able to chat anymore
+Dez 08 17:06:56 <[poly]aleksey>	i tried
+Dez 08 17:06:58 *	tho (~tho@cloak-FDD8087F.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:07:00 *	rashedus ist jetzt bekannt als new_name
+Dez 08 17:07:07 *	j05ef (~j05ef@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:07:07 *	j05ef hat die Verbindung getrennt (Killed (OperServ (Session limit exceeded)))
+Dez 08 17:07:12 <[DotF]herdom>	venrock: cool
+Dez 08 17:07:13 *	tho ist jetzt bekannt als [squareroots]tho
+Dez 08 17:07:16 <[squareroots]Scytale>	Ah the smartness.
+Dez 08 17:07:18 *	victor666 (~victor@cloak-DE995509.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:07:21 <[int80]cptncrunch>	Lexi: we're down on purpose temporarially, but I was confirming we cleared up issues last night.
+Dez 08 17:07:22 <[poly]yan>	will the key be sent to the participants list?
+Dez 08 17:07:23 *	peter_bot (~piotr@cloak-EE8074B.poly.edu) hat #ictf betreten
+Dez 08 17:07:26 *	calm (~alm@cloak-89F5F4A6.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 17:07:28 <victor666>	hi folks
+Dez 08 17:07:28 *	y0rn ist jetzt bekannt als [squareroots]yorn
+Dez 08 17:07:30 <[wcsc]bonzoesc>	10.0.0.1 is pingable :)
+Dez 08 17:07:31 *	[W0Y]pizzaman hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:07:32 *	[W0Y]mne hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:07:33 *	[W0Y]FreeMan hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:07:41 <[wcsc]bonzoesc>	SLAM
+Dez 08 17:07:49 <[squareroots]tho>	hi everyone
+Dez 08 17:07:54 <[squareroots]tho>	greetings to aachen :-)
+Dez 08 17:07:57 <[cheddar]UIDZero>	you shouldn't be able to traceroute past 10.0.0.1 - and if you can, i'd like to know, because that means we've done something horribly wrong ::S
+Dez 08 17:07:59 <[USU]VenROCK>	em... could anyone ping 10.0.0.1
+Dez 08 17:08:02 <[cheddar]jared>	bonzoes, is it? i cant get a respone
+Dez 08 17:08:04 <[USU]VenROCK>	is it pinging?>
+Dez 08 17:08:16 <[ENOFLAG]Hessophanes>	No, not over here...
+Dez 08 17:08:20 <[poly]yan>	not over here either
+Dez 08 17:08:21 *	[cheddar]jaredisdumb (~andrewmar@FA1A08BD.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 17:08:22 <[USU]VenROCK>	em, problem solved
+Dez 08 17:08:22 *	peter_bot ist jetzt bekannt als [poly]peter
+Dez 08 17:08:24 <[wcsc]bonzoesc>	http://192.168.69.1:3000/
+Dez 08 17:08:27 <[wcsc]bonzoesc>	er
+Dez 08 17:08:29 <[poly]yan>	heh
+Dez 08 17:08:33 <[wcsc]bonzoesc>	64 bytes from 10.0.0.1: icmp_seq=1 ttl=63 time=69.414 ms
+Dez 08 17:08:39 *	[ENOFLAG]mutax (~ENOFLAG@cloak-B1700EA9.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:08:40 <DotF>	thanks for they key
+Dez 08 17:08:47 <[USU]VenROCK>	thnx bonzoesc
+Dez 08 17:08:49 <DotF>	we are starting decryption
+Dez 08 17:08:54 <[cheddar]jaredisdumb>	hey guys there's a problem with my /etc/sources.list, I tried apt-get install hack but it said the package wasn't found. What repository is the automatic internets hacker in?
+Dez 08 17:08:59 *	[W0Y]flo (~florian@cloak-D291C4F7.server4you.de) hat #ictf betreten
+Dez 08 17:09:01 *	Flo (~f.lukscha@cloak-DE995509.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:09:04 *	victor666 ist jetzt bekannt als [WOY]Destructor
+Dez 08 17:09:10 <[USU]VenROCK>	em... could anyone ping 10.10.1.1, 10.10.1.2, 10.10.1.4
+Dez 08 17:09:16 <[DotF]herdom>	alright, decrypting :)
+Dez 08 17:09:18 <[squareroots]log1c>	[cheddar]jaredisdumb: that would be packages.microsoft.com ;-)
+Dez 08 17:09:23 <[cheddar]jaredisdumb>	thx
+Dez 08 17:09:28 *	X-P hat die Verbindung getrennt (Quit: ircII EPIC4-2.2 -- Are we there yet?)
+Dez 08 17:09:36 <[uncc]peon>	The key is out?
+Dez 08 17:09:40 <[USU]VenROCK>	how do we get the key??
+Dez 08 17:09:43 <[cinsects]UncleOwen>	WE don't have a key yet...
+Dez 08 17:09:45 <[wcsc]zap>	MY KEY
+Dez 08 17:09:47 <[0ldEur0pe]lexi>	we'd like to get the key, too!
+Dez 08 17:09:48 <[CInsects]5eeU>	where is the key?
+Dez 08 17:09:50 <[wcsc]bonzoesc>	do not get the key
+Dez 08 17:09:51 <LordBalzaroth>	Guys, there is no routing between teams subnetworks
+Dez 08 17:09:51 <[ENOFLAG]thomasbl>	where can i get the key?
+Dez 08 17:09:52 <[wcsc]bonzoesc>	know the key
+Dez 08 17:09:52 <[cheddar]jaredisdumb>	./hack internet
+Dez 08 17:09:56 <[cheddar]UIDZero>	bonzoesc: what is that http URL?
+Dez 08 17:09:57 <[cheddar]jaredisdumb>	oh sorry wrong window
+Dez 08 17:09:58 *	Flo ist jetzt bekannt als Guest687332493
+Dez 08 17:10:09 <[squareroots]log1c>	PANIC PANIC PANIC NO KEY
+Dez 08 17:10:10 <[squareroots]log1c>	:>
+Dez 08 17:10:15 <[WCSC]LordFacetious>	./hack internet --omg
+Dez 08 17:10:16 <[squareroots]yorn>	got it decrypted, wtf is this? windows?
+Dez 08 17:10:16 <[cheddar]jared>	the key is asdf
+Dez 08 17:10:16 <[USU]VenROCK>	em... could anyone ping 10.10.1.1, 10.10.1.2, 10.10.1.4, pls!! we don't see anyone
+Dez 08 17:10:16 *	calm ist jetzt bekannt als [cinsects]calm
+Dez 08 17:10:20 <[WOY]Destructor>	omfg
+Dez 08 17:10:20 <LordBalzaroth>	And only teamboxes can ping mainbox
+Dez 08 17:10:21 <[cinsects]n00k>	!need key
+Dez 08 17:10:26 *	[squareroots]log1c (ben@5BE998A1.3CC6C846.2E479.IP) hat #ictf verlassen (poooooooooooooff)
+Dez 08 17:10:29 *	Guest687332493 ist jetzt bekannt als Kid
+Dez 08 17:10:33 *	[squareroots]log1c (ben@5BE998A1.3CC6C846.2E479.IP) hat #ictf betreten
+Dez 08 17:10:36 *	[wcsc]37inch (~me@1603EE0F.6CF5DE4F.C248BCF2.IP) hat #ictf betreten
+Dez 08 17:10:38 <[ChocolateMakers]sullivan>	[USU]VenROCK: nothing
+Dez 08 17:10:52 *	[uclion]root_ (~uclionr@cloak-8D631919.clspco.adelphia.net) hat #ictf betreten
+Dez 08 17:10:54 *	[squareroots]Morpheus (iCTF@cloak-D70C42AF.net) hat #ictf betreten
+Dez 08 17:10:58 *	[PSU] (_PSU_@cloak-5709A027.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 17:10:58 <[T0fH]Raistlin>	ROUTING IS DISABLED :p
+Dez 08 17:11:02 <[uncc]peon>	!!! Do we, as participants, have the key? 
+Dez 08 17:11:06 <[USU]VenROCK>	oh..) sorry for panic
+Dez 08 17:11:07 <[RedCops]neerd>	decryption ended, openbsd image yeah will be fun
+Dez 08 17:11:08 <[NPS]KT>	NO
+Dez 08 17:11:13 *	[PSU] hat die Verbindung getrennt (Quit: [PSU])
+Dez 08 17:11:22 <[cheddar]jared>	we dont even have the key yet
+Dez 08 17:11:27 <[cheddar]UIDZero>	??? KEY ??? 
+Dez 08 17:11:30 *	Kid ist jetzt bekannt als Guest687332495
+Dez 08 17:11:30 *	Guest687332495 ist jetzt bekannt als [W0Y]Kid
+Dez 08 17:11:31 <DotF>	ok, decrypted
+Dez 08 17:11:33 *	[WOY]Destructor ist jetzt bekannt als [W0Y]Destructor
+Dez 08 17:11:40 *	[PSU] (_PSU_@cloak-5709A027.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 17:11:43 <[USU]VenROCK>	what do you mean: decryption ended?? you've got a key alreadY?
+Dez 08 17:11:43 <[cheddar]jaredisdumb>	SO GUYS WHERE CAN I GET WAREZ
+Dez 08 17:11:46 <[squareroots]log1c>	[RedCops]neerd: with our key we got Windows 3.11?
+Dez 08 17:11:48 <[poly]aleksey>	dude, our image is up
+Dez 08 17:11:49 <[cheddar]jaredisdumb>	I WAS TOLD IRC IS GOOD FOR WAREZ
+Dez 08 17:11:50 *	[PSU]n4rc hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:11:52 <[CInsects]5eeU>	oh, win2000 server image...
+Dez 08 17:11:53 <[ChocolateMakers]sullivan>	[RedCops]neerd: strange, I got a VMS image
+Dez 08 17:11:54 <[W0Y]Destructor>	get teh warez from our teambox dude
+Dez 08 17:12:00 <new_name>	we got 300 points already !! woohoo !
+Dez 08 17:12:02 <[ENOFLAG]thomasbl>	[cheddar]jaredisdumb: look at ftp://127.0.0.1
+Dez 08 17:12:04 <[RedCops]neerd>	maybe it is a 3.11 they are as convivial 
+Dez 08 17:12:12 <[squareroots]log1c>	;-)
+Dez 08 17:12:13 <DotF>	win 3.11
+Dez 08 17:12:16 <[wcsc]bonzoesc>	mac os 9.2
+Dez 08 17:12:16 <[poly]yan>	we got a plan9 image
+Dez 08 17:12:25 <[ENOFLAG]thomasbl>	centos ;P
+Dez 08 17:12:25 <[TUD]ImgBox>	Windows Vista :)
+Dez 08 17:12:25 <[0ldEur0pe]lexi>	MS Dos 5.00
+Dez 08 17:12:25 <[wcsc]bonzoesc>	GET YOUR LEET APPLETALK 'SPLOITS
+Dez 08 17:12:26 <[W0Y]Destructor>	we are running on GEOS 
+Dez 08 17:12:29 <[ChocolateMakers]sullivan>	cool
+Dez 08 17:12:29 <[squareroots]Scytale>	WAH! HPUX! How are we supposed to fix all the holes?
+Dez 08 17:12:31 *	[PSU] hat die Verbindung getrennt (Quit: [PSU])
+Dez 08 17:12:31 <[USU]VenROCK>	more flood, more flood...
+Dez 08 17:12:32 <[WoD]bios>	looks loke beos
+Dez 08 17:12:34 <[t0fh]fabi3tto>	NetWare anyone ?
+Dez 08 17:12:37 *	[uncc]peon hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 17:12:38 <[poly]aleksey>	you plug the holes
+Dez 08 17:12:40 <[poly]aleksey>	with corks
+Dez 08 17:12:41 <[cheddar]jared>	dreamcast os
+Dez 08 17:12:42 <[poly]aleksey>	or
+Dez 08 17:12:43 <[squareroots]log1c>	uuuuuuups, we actually got the gameserver image
+Dez 08 17:12:45 <[ENOFLAG]thomasbl>	uuu
+Dez 08 17:12:46 <[WoD]bios>	palm os
+Dez 08 17:12:46 <jockey>	amiga?
+Dez 08 17:12:50 <[ENOFLAG]thomasbl>	python os ;P
+Dez 08 17:12:50 <[t0fh]fabi3tto>	gentoox ?
+Dez 08 17:12:54 <[uclion]root_>	BeOS here son
+Dez 08 17:12:58 <[USU]VenROCK>	free DOS
+Dez 08 17:12:58 *	[minerThreat]_Natas hat die Verbindung getrennt (Client exited)
+Dez 08 17:12:58 *	[PSU]Dr4g0n (_PSU_@cloak-5709A027.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 17:13:00 <[poly]yan>	we're runnin inferno
+Dez 08 17:13:01 <[poly]yan>	we win
+Dez 08 17:13:01 *	[uncc]peon (~unccpeo@cloak-5AB3FD41.uncc.edu) hat #ictf betreten
+Dez 08 17:13:03 <[ENOFLAG]thunderstorm>	OS/2
+Dez 08 17:13:08 <[squareroots]log1c>	we seem to be running out of OS :>
+Dez 08 17:13:10 *	[uclion]root_ ist jetzt bekannt als [uclion]mike
+Dez 08 17:13:12 <[squareroots]Scytale>	Palm OS?
+Dez 08 17:13:12 <[cinsects]m4z>	we fix0red our amiga image already
+Dez 08 17:13:13 <[t0fh]fabi3tto>	:D
+Dez 08 17:13:13 <[squareroots]yorn>	we are running STFU
+Dez 08 17:13:13 *	jockey ist jetzt bekannt als [cheddar]rob
+Dez 08 17:13:13 <[uncc]peon>	OMG! It's windoze bob... and the excitement kicked me off
+Dez 08 17:13:16 <[uclion]mike>	smalltalk here
+Dez 08 17:13:19 <[t0fh]fabi3tto>	WinCe :D
+Dez 08 17:13:21 <[ENOFLAG]thomasbl>	JavaOS ;P
+Dez 08 17:13:26 <[cinsects]calm>	EMACS
+Dez 08 17:13:29 <[cheddar]jared>	GoogleOS-BETA
+Dez 08 17:13:29 <[squareroots]Scytale>	lol
+Dez 08 17:13:30 <[squareroots]RedTiger>	Try Symbian...
+Dez 08 17:13:30 <[wcsc]bonzoesc>	bonzoesc's sweet os
+Dez 08 17:13:31 <[cheddar]c0ld_pr4gue>	CP/M
+Dez 08 17:13:33 <[squareroots]Scytale>	Sybian?
+Dez 08 17:13:34 <[WCSC]LordFacetious>	MS-DOS 1.0 FTW
+Dez 08 17:13:34 <[squareroots]Scytale>	Err.
+Dez 08 17:13:36 <[wcsc]zap>	NeXT
+Dez 08 17:13:39 <[cheddar]jaredisdumb>	you know I almost bought two JavaOS clients on ebay last week
+Dez 08 17:13:42 <[wcsc]bonzoesc>	sony-ericsson w800i
+Dez 08 17:13:43 <[uncc]minersthreat>	CP/M!
+Dez 08 17:13:44 <[WoD]lars>	vi-OS
+Dez 08 17:13:45 <[PSU]Dr4g0n>	gentoo ftw
+Dez 08 17:13:47 <[cheddar]jaredisdumb>	true story
+Dez 08 17:13:49 <[uclion]mike>	i understand you're latency now [ENOFLAG]thomasbl
+Dez 08 17:13:50 <[cinsects]m4z>	brotbackautomat v0.1
+Dez 08 17:13:50 <[DotF]herdom>	vi rulz
+Dez 08 17:13:56 <[cinsects]mokrates>	reactOS
+Dez 08 17:13:56 <[PSU]Dr4g0n>	vi ftw
+Dez 08 17:13:58 <[cinsects]UncleOwen>	netbsd?
+Dez 08 17:14:00 <[USU]VenROCK>	is jury present? what's going on?
+Dez 08 17:14:01 *	[DotF]zenoxx hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:14:05 <[WoD]bios>	hurd 2.0
+Dez 08 17:14:08 *	[DotF-Zenoxx (~DotF_Rob@cloak-ED26B110.wiwi.uni-regensburg.de) hat #ictf betreten
+Dez 08 17:14:08 <[W0Y]biesi>	amigaos
+Dez 08 17:14:10 <[cheddar]UIDZero>	anyone using BeOS? :P
+Dez 08 17:14:16 *	[USU]VenROCK goes into kernel panic
+Dez 08 17:14:18 <[cheddar]jaredisdumb>	I am still waiting for Vigna to mail me the punch cards
+Dez 08 17:14:27 <[W0Y]Destructor>	lol
+Dez 08 17:14:27 *	[DotF-Zenoxx ist jetzt bekannt als [DotF]Zenoxx
+Dez 08 17:14:40 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 17:14:44 <[PSU]Dr4g0n>	lol
+Dez 08 17:14:47 *	NPS_ax3l (~Ed@88048F2.ED518F5A.CC45CC78.IP) hat #ictf betreten
+Dez 08 17:14:47 <[uclion]mike>	!initiate bot checkin
+Dez 08 17:14:54 <[NPS]KT>	ive exploited a vi vulnerability in all of your machines....i hope you are prepared to use emacs
+Dez 08 17:15:02 <[W0Y]biesi>	ew, emacs
+Dez 08 17:15:05 <[cheddar]jaredisdumb>	I am using the IRC plugin on emacs right now
+Dez 08 17:15:09 <[cheddar]UIDZero>	OH NOOOS!!! vi!!! my precious vi!!!!!
+Dez 08 17:15:11 <[NPS]KT>	nice
+Dez 08 17:15:11 <[USU]VenROCK>	we use hexedit
+Dez 08 17:15:15 <[wcsc]bonzoesc>	ctrl-alt-meta f, m, r, shift-q
+Dez 08 17:15:18 <[cheddar]UIDZero>	er.. notepad?
+Dez 08 17:15:22 <[wcsc]bonzoesc>	we use cat > file
+Dez 08 17:15:22 <[cheddar]jaredisdumb>	and encoding a DVD using the aviencoder emacs plugin
+Dez 08 17:15:23 <[cinsects]teythoon>	emacs
+Dez 08 17:15:25 <[PSU]Dr4g0n>	pico ftw
+Dez 08 17:15:27 <[t0fh]fabi3tto>	nano :
+Dez 08 17:15:28 <[cinsects]mokrates>	nano
+Dez 08 17:15:28 <[PSU]Dr4g0n>	nano
+Dez 08 17:15:31 <[W0Y]biesi>	hexedit /dev/hda1
+Dez 08 17:15:33 <[cheddar]jared>	edlin for me!
+Dez 08 17:15:35 <[cheddar]jaredisdumb>	I just wish I could work out how the hell to actually write text with this piece of crap emacs
+Dez 08 17:15:36 <[cinsects]m4z>	vi
+Dez 08 17:15:38 <[cinsects]m4z>	!11
+Dez 08 17:15:40 <[t0fh]fabi3tto>	nano nano, la tua manooooooooo :D
+Dez 08 17:15:40 <[T0fH]Raistlin>	we usually simply think and project our thoughts on /dev/hda1
+Dez 08 17:15:41 <[USU]VenROCK>	biesi ))
+Dez 08 17:15:42 <[RedCops]neerd>	hey stop stealing my porn with your vi sploit !
+Dez 08 17:15:50 *	[ENOFLAG]komm (~root@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:15:53 <[squareroots]log1c>	no Porn allowed here
+Dez 08 17:15:55 <[wcsc]bonzoesc>	paperclip + usb cord
+Dez 08 17:15:57 <[cheddar]jaredisdumb>	I am stealing your porn with my emacs bit torrent plugin
+Dez 08 17:16:01 <[squareroots]log1c>	we got a poster hanging here :>
+Dez 08 17:16:04 <[cheddar]jared>	macgyver editor
+Dez 08 17:16:05 <[ENOFLAG]thomasbl>	no porn? shit.
+Dez 08 17:16:05 <[USU]VenROCK>	who said porn?
+Dez 08 17:16:11 <[wcsc]bonzoesc>	trivia for 300
+Dez 08 17:16:13 <[squareroots]Scytale>	Of course is porn allowed.. start posting ascii mangas! :D
+Dez 08 17:16:16 <[squareroots]Morpheus>	porn is life
+Dez 08 17:16:16 <[T0fH]Raistlin>	porn ? where ?
+Dez 08 17:16:20 <[W0Y]Destructor>	it is spelled pr0n anyway
+Dez 08 17:16:27 <[cinsects]m4z>	<imagine tits here>
+Dez 08 17:16:30 <[squareroots]Scytale>	wasn't pr0n a game?
+Dez 08 17:16:30 <[ENOFLAG]thomasbl>	life is porn! :)
+Dez 08 17:16:32 <[squareroots]log1c>	yeah, [squareroots]Scytale go right ahead please
+Dez 08 17:16:34 <[cheddar]jared>	(.)(.)
+Dez 08 17:16:35 <[cheddar]jaredisdumb>	omg band for posting tits
+Dez 08 17:16:36 <[W0Y]Destructor>	pr0n 1.0
+Dez 08 17:16:40 <[wcsc]bonzoesc>	8===D ( (
+Dez 08 17:16:49 <[cinsects]m4z>	8==m====D 
+Dez 08 17:16:49 <[cinsects]m4z>	8===m===D 
+Dez 08 17:16:49 <[cinsects]m4z>	8====m==D 
+Dez 08 17:16:49 <[cinsects]m4z>	8=====m=D 
+Dez 08 17:16:49 <[cinsects]m4z>	8====m==D 
+Dez 08 17:16:49 <[W0Y]biesi>	www.libpr0n.com
+Dez 08 17:16:52 <[cinsects]m4z>	8===m===D 
+Dez 08 17:16:54 <[cinsects]m4z>	8==m====D~~
+Dez 08 17:16:54 <[cinsects]rillig>	)<<>>(
+Dez 08 17:16:58 <[CInsects]5eeU>	yeah, ASCII p0rns
+Dez 08 17:16:58 *	[squareroots]jo (~jel@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:16:59 <[PSU]Dr4g0n>	rofl
+Dez 08 17:17:01 <[wcsc]bonzoesc>	ASS 2 ASS
+Dez 08 17:17:05 <[PSU]Dr4g0n>	way too much free time
+Dez 08 17:17:11 <[uclion]mike>	i wonder where the rest of my team is....
+Dez 08 17:17:14 <[WCSC]LordFacetious>	ubershiezer
+Dez 08 17:17:18 <[squareroots]Scytale>	klined :P
+Dez 08 17:17:22 *	[SigMIL]sysenter hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:17:25 <[WoD]lars>	        .--.
+Dez 08 17:17:27 <[WoD]lars>	      _J_   \
+Dez 08 17:17:27 <[WoD]lars>	     /   `.  |
+Dez 08 17:17:27 <[WoD]lars>	    |     |  |.-----.
+Dez 08 17:17:27 <[WoD]lars>	    | |   |-'    /3)_)
+Dez 08 17:17:27 <[cheddar]jaredisdumb>	lols jared is irc n00king all u nubs
+Dez 08 17:20:41 *	Getrennt ().
+**** BEENDE LOGBUCH UM Fri Dec  8 17:20:41 2006
+
+**** BEGINNE LOGBUCH UM Fri Dec  8 17:22:24 2006
+
+Dez 08 17:22:24 *	Du sprichst jetzt in #ictf
+Dez 08 17:22:24 *	Das Thema für #ictf ist: international CTF 2006
+Dez 08 17:22:24 *	Das Thema für #ictf wurde gesetzt durch nullptr um Fri Dec  8 00:47:57 2006
+Dez 08 17:22:26 <[WoD]mcf1y>	poly guys: anyone who took part in the trainigctf against the 2600 guys?
+Dez 08 17:22:28 *	nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf betreten
+Dez 08 17:22:30 <[W0Y]Destructor>	pwnz0rd
+Dez 08 17:22:34 <[t0fh]fabi3tto>	YOOO poli :D
+Dez 08 17:22:39 <[DotF]herdom>	University of Regensburg, Germany, as well
+Dez 08 17:22:39 <[wcsc]bonzoesc>	now gas/brake/dip
+Dez 08 17:22:40 *	tho (~tho@cloak-FDD8087F.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:22:44 <[W0Y]Destructor>	do u guys have a webcam this year online??
+Dez 08 17:22:46 <[WCSC]RideTheTrain>	Ghostride the whip!
+Dez 08 17:22:49 <[wcsc]bonzoesc>	put your stunna shades on
+Dez 08 17:22:49 *	tho ist jetzt bekannt als [squareroot]tho
+Dez 08 17:22:50 *	nadi hat die Verbindung getrennt (Quit: nadi)
+Dez 08 17:23:00 *	[ENOFLAG]nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf betreten
+Dez 08 17:23:14 *	[SigMIL]narayan hat die Verbindung getrennt (Quit: [SigMIL]narayan)
+Dez 08 17:23:26 *	innominelux_ hat die Verbindung getrennt (Quit: innominelux_)
+Dez 08 17:23:32 <[USU]VenROCK>	we are from ekaterinburg(Ural Mountains)((Russia)) =)
+Dez 08 17:23:36 *	[squareroots]RedTiger ist jetzt bekannt als redtiger1
+Dez 08 17:23:43 <[USU]VenROCK>	got 9.23 pm))
+Dez 08 17:23:43 <[W0Y]Destructor>	cool
+Dez 08 17:23:44 *	narayan (~narayan@cloak-DE0350B4.cs.uiuc.edu) hat #ictf betreten
+Dez 08 17:23:44 <[t0fh]fabi3tto>	how's the weather there ?
+Dez 08 17:23:52 <[t0fh]fabi3tto>	cooold ?
+Dez 08 17:23:58 <[WCSC]RideTheTrain>	Cold enouhg to freeze to death
+Dez 08 17:24:00 <[W0Y]Destructor>	here it'S 17:23
+Dez 08 17:24:03 <[USU]VenROCK>	yeah))
+Dez 08 17:24:04 *	redtiger1 ist jetzt bekannt als [squareroot]RedTiger
+Dez 08 17:24:04 <[WCSC]RideTheTrain>	*cough*
+Dez 08 17:24:08 <[cheddar]jaredisdumb>	in Australia it is approximately the surface temperature of the sun right now
+Dez 08 17:24:09 <[PSU]BBA-A[0]>	what are you ping response times to 0.0.1?
+Dez 08 17:24:10 <[RedCops]neerd>	here ? in france, britanny ? rainy as usual :)
+Dez 08 17:24:10 *	[squareroots]innominelux (iCTF@cloak-D70C42AF.net) hat #ictf betreten
+Dez 08 17:24:12 <[squareroots]log1c>	*yawn*
+Dez 08 17:24:13 *	narayan ist jetzt bekannt als [Sigmil]narayan
+Dez 08 17:24:14 <[wcsc]bonzoesc>	51F
+Dez 08 17:24:22 *	[PSU]Fox (~PSUFox@cloak-34D59339.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 17:24:22 <[cheddar]jared>	can anyone ping 0.0.1 anyway?
+Dez 08 17:24:24 *	[WCSC]RideTheTrain ist jetzt bekannt als [WCSC]James_Kims_Ghost
+Dez 08 17:24:31 <[squareroots]log1c>	only from our gateway @ [cheddar]jared 
+Dez 08 17:24:34 *	[t0fh]fabi3tto ist jetzt bekannt als [t0fH]fabi3tto
+Dez 08 17:24:35 <[USU]VenROCK>	how much in C is that?
+Dez 08 17:24:36 <[cheddar]jaredisdumb>	jared: you're dumb
+Dez 08 17:24:38 <[W0Y]biesi>	[wcsc]bonzoesc, can't you guys use real units :)
+Dez 08 17:24:46 <[wcsc]ForSwitch>	Dude.  hax teh n00bz0rz at 127.0.0.1
+Dez 08 17:24:46 <[PSU]BBA-A[0]>	i was trying to avoid typing the fill ip lol, 10.0.0.1
+Dez 08 17:24:48 <[USU]VenROCK>	by C here i mean celcium)
+Dez 08 17:24:51 <[wcsc]bonzoesc>	just double it and add 32
+Dez 08 17:24:51 <[PSU]BBA-A[0]>	full*
+Dez 08 17:24:55 <freeman>	/leave
+Dez 08 17:24:59 <[squareroots]Scytale>	jared: I can't
+Dez 08 17:25:01 <[cheddar]jaredisdumb>	guys
+Dez 08 17:25:03 <[wcsc]bonzoesc>	brb, having a metric six-pack
+Dez 08 17:25:04 <[W0Y]Destructor>	that is convenient to convert in asm too
+Dez 08 17:25:05 <[CInsects]5eeU>	Hamburg has 33 C :)
+Dez 08 17:25:08 <[wcsc]sjl>	http://www.google.com/search?q=51f+to+c
+Dez 08 17:25:10 <[cinsects]mokrates>	start-keylogger
+Dez 08 17:25:14 <[wcsc]bonzoesc>	(44 beers)
+Dez 08 17:25:14 <[RedCops]neerd>	the key, we need the key ... because we are starting to eat all our food to wait 
+Dez 08 17:25:16 <[squareroots]log1c>	[CInsects]5eeU: it doesnt!
+Dez 08 17:25:16 <[cheddar]jaredisdumb>	if you type shutdown -h now you get +1000 points
+Dez 08 17:25:17 <[cheddar]jared>	its only 22C here at the moment
+Dez 08 17:25:17 <[squareroots]log1c>	:P
+Dez 08 17:25:19 <[WCSC]James_Kims_Ghost>	I love Red Bull
+Dez 08 17:25:20 <[cheddar]jared>	but it is 2.30am in the morning
+Dez 08 17:25:20 <[cheddar]jared>	;)
+Dez 08 17:25:25 *	freeman hat die Verbindung getrennt (Quit: freeman)
+Dez 08 17:25:26 <[USU]VenROCK>	-3C
+Dez 08 17:25:36 <[DotF]herdom>	+10¡C in Dublin
+Dez 08 17:25:36 <[squareroots]Morpheus>	reb bull sucks
+Dez 08 17:25:38 *	[W0Y]mne hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:25:40 *	[W0Y]cp (~cp@cloak-E3A0F1F5.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:25:44 <[squareroots]Morpheus>	tea is the life
+Dez 08 17:25:49 <[WCSC]James_Kims_Ghost>	It gives you wings!
+Dez 08 17:25:50 <[squareroots]Scytale>	You need to type "/mode YOURNICK -x" to get the key
+Dez 08 17:25:53 <[W0Y]Destructor>	red bull is only drinkable when mixed with vodka
+Dez 08 17:25:54 <[USU]VenROCK>	green tea is
+Dez 08 17:25:54 *	[Sigmil]narayan hat die Verbindung getrennt (Quit: [Sigmil]narayan)
+Dez 08 17:25:56 <[WCSC]James_Kims_Ghost>	That's how I got to geek heaven
+Dez 08 17:26:00 *	[W0Y]mne (~mne@9E2066F5.C37CECAE.EDED6E6F.IP) hat #ictf betreten
+Dez 08 17:26:09 <[t0fH]fabi3tto>	Black russian with vodka :D
+Dez 08 17:26:11 <[WCSC]James_Kims_Ghost>	Everyone should visit Colorado, btw
+Dez 08 17:26:16 <[DotF]herdom>	Guinness
+Dez 08 17:26:19 <[WCSC]LordFacetious>	Tanqueray FTW
+Dez 08 17:26:22 <[CInsects]5eeU>	Kölsch
+Dez 08 17:26:24 *	[ENOFLAG]komm hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:26:25 *	sandor_tub hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:26:26 <[WCSC]James_Kims_Ghost>	Delerium Noel
+Dez 08 17:26:57 <[int80]cptncrunch>	can anyone ping 10.1.1.1?
+Dez 08 17:27:03 <[squareroots]log1c>	why 10.1.1.1?
+Dez 08 17:27:09 <[int80]cptncrunch>	testing
+Dez 08 17:27:09 <[squareroots]log1c>	routing between the teams is disabled
+Dez 08 17:27:10 <[squareroots]Scytale>	why not?
+Dez 08 17:27:14 <[W0Y]Destructor>	whaaat
+Dez 08 17:27:14 <[USU]VenROCK>	gotta question, what is DOS? if we find a vulnerable program and make it receive segmentation fault, is that a DOS?
+Dez 08 17:27:15 <[W0Y]wollviech>	the new ip is 127.0.0.1
+Dez 08 17:27:15 <[int80]8-D>	the routing is down
+Dez 08 17:27:16 <[int80]cptncrunch>	many thanks
+Dez 08 17:27:20 *	matthias (~uchimata@cloak-C11A4AF1.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:27:30 <[squareroots]Scytale>	Can anyone ping 63.161.169.137?
+Dez 08 17:27:34 <[cheddar]jaredisdumb>	the new ip is 207.46.18.30
+Dez 08 17:27:38 *	[cheddar]loopy (~loopy@7CB4EB0D.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 17:27:43 <[W0Y]mne>	no, the ip is 127.8.0.1 !
+Dez 08 17:27:45 *	matthias hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:27:46 <[W0Y]Destructor>	if u make it segfault u wont get a flag neither, right?
+Dez 08 17:27:46 <[cheddar]jared>	sup mr clark!
+Dez 08 17:27:54 <[squareroots]log1c>	can anyone ping 178.256.1.1?
+Dez 08 17:27:58 <[cheddar]jaredisdumb>	it's dr clark to the likes of you
+Dez 08 17:28:08 <[USU]VenROCK>	but some one would get nonworking service...
+Dez 08 17:28:15 <[USU]VenROCK>	so, what is DOS?
+Dez 08 17:28:25 <[W0Y]Destructor>	dr. med?
+Dez 08 17:28:27 <[wcsc]bonzoesc>	cross not ye streams
+Dez 08 17:28:29 <[squareroots]Morpheus>	Death of Shit
+Dez 08 17:28:35 <[WCSC]James_Kims_Ghost>	DOS is what windows runs on
+Dez 08 17:28:41 <[T0fH]Raistlin>	[USU]VenROCK, DOS is usually flooding or other destructive attacks that are not fun
+Dez 08 17:28:41 *	freeman (~freeman@cloak-7A1BA904.vie.surfer.at) hat #ictf betreten
+Dez 08 17:28:42 *	[wod]g0ph3r (~g0ph3r@cloak-2E8FB60A.inaddr.intergenia.de) hat #ictf betreten
+Dez 08 17:28:43 *	RouDaddy (~RouDaddy@cloak-788E5450.lawn.gatech.edu) hat #ictf betreten
+Dez 08 17:28:49 <[WCSC]James_Kims_Ghost>	How is a dos attack not fun??
+Dez 08 17:28:52 <[cheddar]jared>	smurfs, ping -f, dns poison, etc
+Dez 08 17:28:56 <[cinsects]mokrates>	yeah. i can ping it
+Dez 08 17:28:56 <[W0Y]Destructor>	i always laugh in my basemend too
+Dez 08 17:28:56 *	[wod]g0ph3r ist jetzt bekannt als [WoD]g0ph3r
+Dez 08 17:28:59 <[USU]VenROCK>	is that what jury implied in the rules?
+Dez 08 17:28:59 <[cheddar]jared>	bandwidth based attacks
+Dez 08 17:29:00 <[W0Y]Destructor>	t
+Dez 08 17:29:02 <[T0fH]Raistlin>	while killing a service and trashing a flag is not DOS
+Dez 08 17:29:29 <[T0fH]Raistlin>	the jury basically is Giovanni
+Dez 08 17:29:30 <[T0fH]Raistlin>	:D
+Dez 08 17:29:34 <[W0Y]mne>	while (1) fork();
+Dez 08 17:29:45 *	freeman ist jetzt bekannt als [W0Y]FreeMan
+Dez 08 17:29:46 <[cheddar]jared>	rm -rf /
+Dez 08 17:29:49 <[cheddar]jared>	is considered a DoS
+Dez 08 17:29:54 <[0ldEur0pe]lexi>	indeed
+Dez 08 17:29:58 <[W0Y]Destructor>	too bad
+Dez 08 17:30:00 *	iurtz (~peter.wur@9E2066F5.C37CECAE.EDED6E6F.IP) hat #ictf betreten
+Dez 08 17:30:06 *	RouDaddy ist jetzt bekannt als [int80]RouDaddy
+Dez 08 17:30:08 <[W0Y]biesi>	:() {: |:}
+Dez 08 17:30:15 *	daust4 (~daust4@cloak-5AB3FD41.uncc.edu) hat #ictf betreten
+Dez 08 17:30:15 <[cheddar]jaredisdumb>	^_^
+Dez 08 17:30:17 <[wcsc]bonzoesc>	:)
+Dez 08 17:30:33 <[T0fH]Raistlin>	laaaaaaaaaaame
+Dez 08 17:30:35 <[W0Y]Destructor>	the delay is just introduced to get us tired
+Dez 08 17:30:38 <[T0fH]Raistlin>	(rm -rf)
+Dez 08 17:30:42 <[WCSC]James_Kims_Ghost>	Giovanna - Judge, Jury, and Executioner
+Dez 08 17:30:45 <[cheddar]jaredisdumb>	we are already tired
+Dez 08 17:30:46 <[WCSC]James_Kims_Ghost>	*Giovanni
+Dez 08 17:30:50 <[WoD]lars>	Key is still not here
+Dez 08 17:30:52 <[W0Y]Destructor>	guilty, on all charges
+Dez 08 17:30:53 *	nullptr hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:31:05 <[squareroots]Morpheus>	what is yellow and smell????
+Dez 08 17:31:12 <[wcsc]zap>	Giovanni - not the keymaster
+Dez 08 17:31:16 <[cheddar]marbra>	dead canary?
+Dez 08 17:31:16 <[NPS]KT>	your mom
+Dez 08 17:31:20 *	iurtz ist jetzt bekannt als [WOY]iurtz
+Dez 08 17:31:20 <[WCSC]James_Kims_Ghost>	Urine?
+Dez 08 17:31:21 <[W0Y]Destructor>	hm... something u look at in your pants?
+Dez 08 17:31:26 <[squareroots]Morpheus>	uuuhhhhhhhhhhhhhh
+Dez 08 17:31:28 <[USU]VenROCK>	why is while(1) fork(); is not legal??
+Dez 08 17:31:30 <[cinsects]mokrates>	PING 178.256.1.1 (178.256.1.1) 56(84) bytes of data.
+Dez 08 17:31:30 <[cinsects]mokrates>	64 bytes from 178.256.1.1: icmp_seq=1 ttl=64 time=0.151 ms
+Dez 08 17:31:30 <[cinsects]mokrates>	64 bytes from 178.256.1.1: icmp_seq=2 ttl=64 time=0.119 ms
+Dez 08 17:31:30 <[cinsects]mokrates>	--- 178.256.1.1 ping statistics ---
+Dez 08 17:31:30 <[cinsects]mokrates>	2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+Dez 08 17:31:30 <[WCSC]LordFacetious>	there is only XUL
+Dez 08 17:31:30 <[W0Y]biesi>	a rotten banana
+Dez 08 17:31:32 <[cinsects]mokrates>	rtt min/avg/max/mdev = 0.119/0.135/0.151/0.016 ms
+Dez 08 17:31:33 <[WCSC]James_Kims_Ghost>	The dead hooker in my basement?
+Dez 08 17:31:37 <[W0Y]Destructor>	lol
+Dez 08 17:31:38 <[W0Y]Destructor>	hahaha
+Dez 08 17:31:38 <[WCSC]James_Kims_Ghost>	Oh. Ignore what I just said
+Dez 08 17:31:38 <[wcsc]bonzoesc>	http://static.flickr.com/79/210356611_1e0f0e3100_b.jpg
+Dez 08 17:31:40 *	[NPS]KT hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:31:40 *	NPS_ax3l hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:31:40 *	NPSbushman hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:31:41 *	[DotF]Tom (~user@5A24D353.8E29186E.86728EA6.IP) hat #ictf betreten
+Dez 08 17:31:44 *	[W0Y]_chris2 (~chris2@cloak-F7042AC8.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:31:49 <[W0Y]mne>	[USU]VenROCK, try it out .. :)
+Dez 08 17:31:56 <[cinsects]m4z>	STOP TEH SPAM OR WE WILL SHOOT THIS MICROSOFT GUY
+Dez 08 17:32:04 *	[PSU]Dr4g0n hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:32:06 <[cheddar]jaredisdumb>	shoot him
+Dez 08 17:32:08 <[WCSC]LordFacetious>	spamspamspam
+Dez 08 17:32:10 <[cinsects]UncleOwen>	@m4z: so what?
+Dez 08 17:32:10 <[USU]VenROCK>	i know what it is and how to protect my system from that...
+Dez 08 17:32:11 <[wcsc]bonzoesc>	*SPAMS*
+Dez 08 17:32:11 <[cheddar]jaredisdumb>	where is our WinFS?
+Dez 08 17:32:11 <[WoD]mcf1y>	shoot him
+Dez 08 17:32:12 <[cheddar]jaredisdumb>	what a bastard
+Dez 08 17:32:13 <[WCSC]James_Kims_Ghost>	It's not spam
+Dez 08 17:32:14 <[poly]yan>	did anyone get their pw?
+Dez 08 17:32:15 <[WCSC]James_Kims_Ghost>	Click on it
+Dez 08 17:32:16 <[W0Y]Destructor>	i leik!
+Dez 08 17:32:18 <[W0Y]Destructor>	spam
+Dez 08 17:32:19 <[W0Y]Destructor>	spam
+Dez 08 17:32:19 <[wcsc]bonzoesc>	g0tsp4m
+Dez 08 17:32:20 <[W0Y]Destructor>	spam,
+Dez 08 17:32:22 *	narayan (~narayan@cloak-DE0350B4.cs.uiuc.edu) hat #ictf betreten
+Dez 08 17:32:23 <[W0Y]Destructor>	for sure
+Dez 08 17:32:26 <[cinsects]m4z>	:D
+Dez 08 17:32:28 <[W0Y]Destructor>	i bet some guys didnt get it
+Dez 08 17:32:28 <[WCSC]James_Kims_Ghost>	It's fucking funny if you know what you're looking at
+Dez 08 17:32:28 *	narayan hat die Verbindung getrennt (Quit: narayan)
+Dez 08 17:32:32 <[W0Y]Destructor>	that is good 
+Dez 08 17:32:32 <[wcsc]zap>	ATTN: image contains powershell
+Dez 08 17:32:36 <[WCSC]LordFacetious>	v14gr@
+Dez 08 17:32:43 <[wcsc]bonzoesc>	powershell rules so much
+Dez 08 17:32:53 <[wcsc]sjl>	its got a blue background and everything!
+Dez 08 17:32:53 <[WCSC]James_Kims_Ghost>	that picture makes me want to merge without looking
+Dez 08 17:32:59 <[W0Y]Destructor>	lol
+Dez 08 17:33:00 <[WCSC]James_Kims_Ghost>	RUMSFELD!
+Dez 08 17:33:04 <[W0Y]Destructor>	hahaha
+Dez 08 17:33:04 <[wcsc]bonzoesc>	you can do newobj System.Net.WebClient.get(url) to get a url into stdout
+Dez 08 17:33:05 *	[WOY]iurtz ist jetzt bekannt als [W0Y]iurtz
+Dez 08 17:33:16 <[WoD]mcf1y>	is the microsoft guy dead now?
+Dez 08 17:33:17 <[W0Y]Destructor>	omg
+Dez 08 17:33:18 <[W0Y]Destructor>	pls not
+Dez 08 17:33:23 *	milin ist jetzt bekannt als [RedCops]Milin
+Dez 08 17:33:24 <[W0Y]Destructor>	powershell id teh shit
+Dez 08 17:33:34 <[WCSC]James_Kims_Ghost>	You mean Cnet?
+Dez 08 17:33:36 *	[W0Y]Destructor goes hang himself
+Dez 08 17:33:39 <[WoD]mcf1y>	brooklyn polytec, are you there?
+Dez 08 17:34:12 <[W0Y]Destructor>	omg omg omg
+Dez 08 17:34:16 <[W0Y]Destructor>	not win...
+Dez 08 17:34:22 *	[PSU]Fox hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:34:29 *	jannic (~jan@cloak-A91BF72F.hitnet.rwth-aachen.de) hat #ictf betreten
+Dez 08 17:34:30 *	daust4 hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:34:38 *	[DotF]Ghost (~asdf@cloak-2B541530.cip.uni-regensburg.de) hat #ictf betreten
+Dez 08 17:34:39 <[poly]yan>	yeah we're here
+Dez 08 17:34:49 <[poly]yan>	what's up?
+Dez 08 17:34:56 <[USU]VenROCK>	is mass media interviewing Giovanni?
+Dez 08 17:35:01 *	[wcsc]bonzoesc chases [WCSC]James_Kims_Ghost with the chill of winter
+Dez 08 17:35:08 <[WoD]mcf1y>	anyone of you took part in the trainig ctf against the 2600 guys?
+Dez 08 17:35:08 <[WCSC]James_Kims_Ghost>	Nooooooooo
+Dez 08 17:35:16 *	jannic ist jetzt bekannt als [0ldEur0pe]jannic
+Dez 08 17:35:22 *	daust4 (~daust4@cloak-5AB3FD41.uncc.edu) hat #ictf betreten
+Dez 08 17:35:22 <[WCSC]James_Kims_Ghost>	Know what's cold?
+Dez 08 17:35:24 *	Krishna (Krishna@cloak-E90484B9.lawn.gatech.edu) hat #ictf betreten
+Dez 08 17:35:25 <[WCSC]James_Kims_Ghost>	My dead body
+Dez 08 17:35:28 <[wcsc]bonzoesc>	u
+Dez 08 17:35:32 <[wcsc]zap>	what's cooler than cold
+Dez 08 17:35:34 *	Krishna ist jetzt bekannt als carl0
+Dez 08 17:35:38 *	[squareroot]tho hat die Verbindung getrennt (Quit: Lost terminal)
+Dez 08 17:35:39 <[WCSC]James_Kims_Ghost>	ice cold!
+Dez 08 17:35:41 <[WCSC]LordFacetious>	ICE COLD
+Dez 08 17:35:44 <[W0Y]Destructor>	charles bronson
+Dez 08 17:35:44 <[WoD]mcf1y>	[poly]yan: anyone of you took part in the trainig ctf against the 2600 guys?
+Dez 08 17:35:45 <[WCSC]James_Kims_Ghost>	ZING
+Dez 08 17:35:59 <[WCSC]LordFacetious>	alrightalright....
+Dez 08 17:36:01 <[poly]yan>	when?
+Dez 08 17:36:01 *	carl0 ist jetzt bekannt als [int80]carl0
+Dez 08 17:36:02 <[wcsc]bonzoesc>	anyone of you took part in the training ctf against the 2600 guys?
+Dez 08 17:36:03 *	[squareroots]doku hat die Verbindung getrennt (Client exited)
+Dez 08 17:36:05 *	narayan (~narayan@cloak-DE0350B4.cs.uiuc.edu) hat #ictf betreten
+Dez 08 17:36:05 <[WoD]mcf1y>	[poly]yan: about a year ago....
+Dez 08 17:36:12 *	[DotF] (~hatman@cloak-ED26B110.wiwi.uni-regensburg.de) hat #ictf betreten
+Dez 08 17:36:13 *	tho (~tho@cloak-FDD8087F.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:36:14 <[poly]yan>	people are saying some people did
+Dez 08 17:36:14 <[WCSC]James_Kims_Ghost>	What's big, hard and 37"?
+Dez 08 17:36:17 <[wcsc]bonzoesc>	lol urmom took part in a training *something* with 2600 guys
+Dez 08 17:36:20 <[poly]yan>	yeah we did
+Dez 08 17:36:20 *	Dimmo (~dimmoborg@cloak-D8AB8554.eunnet.net) hat #ictf betreten
+Dez 08 17:36:20 <[W0Y]Destructor>	charles bronson
+Dez 08 17:36:23 <[poly]yan>	we got really mad at them
+Dez 08 17:36:25 <[DotF]>	hi
+Dez 08 17:36:29 <[cheddar]jaredisdumb>	you guys talking about the Atari 2600?
+Dez 08 17:36:31 <[WoD]mcf1y>	hehe. greetings over there. are you in the same room?
+Dez 08 17:36:34 *	narayan ist jetzt bekannt als [SigMIL]narayan
+Dez 08 17:36:36 *	Dimmo ist jetzt bekannt als [USU]DimmoBorgir
+Dez 08 17:36:39 <[wcsc]37inch>	me?
+Dez 08 17:36:41 <[WCSC]James_Kims_Ghost>	Hack the atari FTW
+Dez 08 17:36:46 <[WCSC]LordFacetious>	Yes, go play gravitar in the corner.
+Dez 08 17:36:52 <[wcsc]zap>	yeah you had to find the flags that were protected by the dragon
+Dez 08 17:36:59 *	[SigMIL]narayan hat die Verbindung getrennt (Quit: [SigMIL]narayan)
+Dez 08 17:37:00 *	CTF14_sean (~sean@9E2066F5.C37CECAE.EDED6E6F.IP) hat #ictf betreten
+Dez 08 17:37:07 <[WoD]mcf1y>	[poly]yan: i am the german guy who organized that. it was nice fun...
+Dez 08 17:37:13 <[cheddar]jaredisdumb>	we have an xbox
+Dez 08 17:37:14 <[wcsc]bonzoesc>	FOX NFL.mp3
+Dez 08 17:37:17 <[poly]yan>	i wasn't there that day, but people here did
+Dez 08 17:37:22 <[USU]VenROCK>	ppl, we've got a sleep time over here, are we starting or good night?
+Dez 08 17:37:23 *	[squareroots]do (laura@cloak-7514446B.net) hat #ictf betreten
+Dez 08 17:37:24 *	[DotF] ist jetzt bekannt als [DotF]hatman
+Dez 08 17:37:26 *	[wcsc]sjl hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:37:26 *	[wcsc]racerx hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:37:26 *	[wcsc]ForSwitch hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:37:27 *	matthias (~uchimata@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:37:34 <[poly]yan>	any people from ucsb here?
+Dez 08 17:37:34 *	matthias (~uchimata@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf verlassen
+Dez 08 17:37:36 <[cheddar]jaredisdumb>	sleep, man
+Dez 08 17:37:42 <[cheddar]jaredisdumb>	this ain't starting for like 4 hours
+Dez 08 17:37:53 *	Krishna (Krishna@cloak-E90484B9.lawn.gatech.edu) hat #ictf betreten
+Dez 08 17:37:53 *	[int80]carl0 hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 17:38:00 <[USU]VenROCK>	do you really mean that?
+Dez 08 17:38:09 <[T0fH]Raistlin>	UCSB guys are moving stuff around and preparing
+Dez 08 17:38:11 <[WCSC]LordFacetious>	yes take a nap.
+Dez 08 17:38:17 <[W0Y]Destructor>	ok
+Dez 08 17:38:17 <[WoD]jtb>	can anyone ping 10.0.0.1 from a machine beside the teambox?
+Dez 08 17:38:22 <[cheddar]jaredisdumb>	yeah, I really mean it. And Jared is really dumb.
+Dez 08 17:38:22 *	[squareroots]uchi_mata (~uchimata@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:38:23 <[t0fH]fabi3tto>	so it was a fake ?
+Dez 08 17:38:23 <[T0fH]Raistlin>	still a good 30 mins to go, if you want my opinion
+Dez 08 17:38:29 *	tho ist jetzt bekannt als [squareroot]tho
+Dez 08 17:38:38 <[T0fH]Raistlin>	./kickban [t0fH]fabi3tto 
+Dez 08 17:38:38 <[ENOFLAG]Hessophanes>	UCSB (Balzaroth?), is there any estimation when we're gonna start?
+Dez 08 17:38:38 <[t0fH]fabi3tto>	nice fake though :D
+Dez 08 17:38:43 <[T0fH]Raistlin>	you'll never pass my exam :D
+Dez 08 17:38:56 <[t0fH]fabi3tto>	tnx :D
+Dez 08 17:38:57 <[poly]yan>	[T0fH]Raistlin: i'd agree with you, unfortunately
+Dez 08 17:39:02 <Krishna>	#$%
+Dez 08 17:39:16 <[poly]yan>	do we still get start+2 hrs, or does it start at 10am pst no matter what
+Dez 08 17:39:30 *	[W0Y]_chris2 (~chris2@cloak-F7042AC8.htu.tuwien.ac.at) hat #ictf verlassen (Leaving)
+Dez 08 17:39:31 <[ENOFLAG]Hessophanes>	That would have been my next question ;) @yan
+Dez 08 17:39:37 <[T0fH]Raistlin>	usually the latter, [poly]boris 
+Dez 08 17:39:39 *	Krishna ist jetzt bekannt als [int80]carl0
+Dez 08 17:39:43 <[USU]VenROCK>	can anyone from jury say when approxymately shall we start and i'll stop asking that... sorry
+Dez 08 17:39:43 <[W0Y]Destructor>	u could start bruteforcing teh image
+Dez 08 17:39:47 <[T0fH]Raistlin>	usually the latter, [poly]yan*
+Dez 08 17:39:48 <[t0fH]fabi3tto>	someone appreciating my irony :(
+Dez 08 17:39:51 <[WoD]jtb>	anyone got a webcam beside our team? ;)
+Dez 08 17:39:55 <[int80]carl0>	#$%
+Dez 08 17:40:02 *	daust4 hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 17:40:05 <[W0Y]Destructor>	#$%
+Dez 08 17:40:15 *	[poly]yan hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:40:28 *	[W0Y]wollviech hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:40:35 *	[cm]davide hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:40:36 <[cheddar]UIDZero>	I'll be putting some pics up soon if we don't start, but they're static :S
+Dez 08 17:40:41 *	[squareroots]Nemo (~nemo@cloak-DC809703.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:40:48 *	[W0Y]chris2 (~chris2@cloak-F7042AC8.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:40:49 *	[W0Y]mne hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:40:49 <[T0fH]Raistlin>	Folks,
+Dez 08 17:40:49 <[T0fH]Raistlin>	    Since the IRC server we chose was kicking off people
+Dez 08 17:40:49 <[T0fH]Raistlin>	we set up our own.
+Dez 08 17:40:49 <[T0fH]Raistlin>	Join the fun at
+Dez 08 17:40:49 <[T0fH]Raistlin>	bergman.cs.ucsb.edu
+Dez 08 17:40:50 <[T0fH]Raistlin>	channel: ictf
+Dez 08 17:40:51 <[T0fH]Raistlin>	There will be no discussion on slashnet anymore.
+Dez 08 17:40:53 <[T0fH]Raistlin>	G 
+Dez 08 17:41:00 *	[minerThreat]_Natas hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:41:01 *	[T0fH]Raistlin hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:41:04 *	[W0Y]pizzaman (~W0Ypizz@cloak-584C3E66.adsl.highway.telekom.at) hat #ictf verlassen
+Dez 08 17:41:06 <[0ldEur0pe]Kasperle>	which ports are open on that one?
+Dez 08 17:41:07 <[W0Y]biesi>	that doesn't work for me fwiw
+Dez 08 17:41:07 *	[QoY]atrox ist jetzt bekannt als [WoY]atrox
+Dez 08 17:41:08 <[squareroots]Scytale>	Says who?
+Dez 08 17:41:10 *	[0ldEur0pe]till hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:41:12 *	[2]yorn hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:41:14 <[W0Y]biesi>	(Too many host connections (local))
+Dez 08 17:41:14 *	Spida hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:41:16 *	[0ldEur0pe]awjb hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:41:19 *	celafotrap hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:41:20 *	[cheddar]UIDZero (~root@22146C21.DE7CAC8B.A24ED685.IP) hat #ictf verlassen
+Dez 08 17:41:23 <[int80]8-D>	new irc channel?
+Dez 08 17:41:29 *	[cheddar]c0ld_pr4gue hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:41:31 *	[cheddar]jaredisdumb (~andrewmar@FA1A08BD.DE7CAC8B.A24ED685.IP) hat #ictf verlassen
+Dez 08 17:41:32 *	[0ldEur0pe]mithi hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:41:32 *	[wcsc]bonzoesc (~bkerley@cloak-769BDB1C.tampfl.fios.verizon.net) hat #ictf verlassen
+Dez 08 17:41:33 *	[cheddar]jared hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:41:35 *	neil_ (~neil@49CBBA24.E0C8C6B9.C9CFCFC4.IP) hat #ictf betreten
+Dez 08 17:41:40 *	[wcsc]37inch hat die Verbindung getrennt (Quit: ( www.nnscript.de :: NoNameScript 4.03 :: www.XLhost.de ))
+Dez 08 17:41:41 *	[ChocolateMakers]sullivan hat die Verbindung getrennt (Quit: Time wasted on IRC: 56 minutes 19 seconds)
+Dez 08 17:41:46 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf betreten
+Dez 08 17:41:50 <[W0Y]Destructor>	r u just hoaxing ppl out of this channel
+Dez 08 17:41:54 *	[RedCops]Milin hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:41:59 *	[cinsects]UncleOwen hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:41:59 *	Dimmo (~dimmoborg@cloak-D8AB8554.eunnet.net) hat #ictf betreten
+Dez 08 17:42:00 *	[squareroots]log1c hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:42:02 *	[W0Y]mne (~mne@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:42:07 *	[W0Y]pizzaman (~W0Ypizz@cloak-584C3E66.adsl.highway.telekom.at) hat #ictf betreten
+Dez 08 17:42:16 <[0ldEur0pe]Kasperle>	this doesn't work for me
+Dez 08 17:42:17 *	[poly]peter hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:42:17 <[0ldEur0pe]Kasperle>	bleh
+Dez 08 17:42:17 *	[W0Y]j05ef (~j05ef@cloak-DE995509.htu.tuwien.ac.at) hat #ictf verlassen
+Dez 08 17:42:19 <[W0Y]mne>	server does not seem to work. (bergman.cs.ucsb.edu)
+Dez 08 17:42:20 <[W0Y]Destructor>	nope
+Dez 08 17:42:20 *	[W0Y]Kid hat die Verbindung getrennt (Quit: )
+Dez 08 17:42:22 *	[WCSC]LordFacetious hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:42:22 *	[squareroots]w0lverine hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:42:23 *	[W0Y]j05ef (~j05ef@cloak-DE995509.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:42:26 *	[W0Y]j05ef (~j05ef@cloak-DE995509.htu.tuwien.ac.at) hat #ictf verlassen
+Dez 08 17:42:26 <[W0Y]Destructor>	doesnt work  for noone
+Dez 08 17:42:27 *	[T0fH]Raistlin (~raistlin@cloak-3BD2F92E.elet.polimi.it) hat #ictf betreten
+Dez 08 17:42:28 *	[cheddar]marbra hat die Verbindung getrennt (Quit: [cheddar]marbra)
+Dez 08 17:42:28 <[WoD]mcf1y>	lol.....
+Dez 08 17:42:30 *	[DotF]Rafa hat die Verbindung getrennt (Quit: )
+Dez 08 17:42:31 *	Dimmo hat die Verbindung getrennt (Quit: Dimmo)
+Dez 08 17:42:32 *	[cinsects]n00k hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:42:32 *	[squareroots]Nemo hat die Verbindung getrennt (Quit: [squareroots]Nemo)
+Dez 08 17:42:35 <[0ldEur0pe]Kasperle>	i need something on a port != 6667
+Dez 08 17:42:37 *	[RedCops]Fanch hat die Verbindung getrennt (Quit: Quitte)
+Dez 08 17:42:37 <[WoD]mcf1y>	doesnt work for me also...
+Dez 08 17:42:37 *	[cinsects]mokrates hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:42:37 <[T0fH]Raistlin>	doesn't work, for me...
+Dez 08 17:42:41 *	[cinsects]martin hat die Verbindung getrennt (Quit: Changing server)
+Dez 08 17:42:47 *	[squareroots]innominelux hat die Verbindung getrennt (Quit: Verlassend)
+Dez 08 17:42:49 <[W0Y]pizzaman>	Kasperle: greetings
+Dez 08 17:42:50 <[0ldEur0pe]lexi>	n
+Dez 08 17:42:53 *	marcusmeisel (~marcusmei@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:42:53 <[cinsects]m4z>	[T0fH]Raistlin: is there a port different than 6667?
+Dez 08 17:42:58 <[0ldEur0pe]Kasperle>	hey pizzamann
+Dez 08 17:43:06 *	[W0Y]wollviech (~gk@cloak-DE995509.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:43:06 <[T0fH]Raistlin>	no idea
+Dez 08 17:43:10 *	neil_ ist jetzt bekannt als nms
+Dez 08 17:43:12 *	[cinsects]UncleOwen (~uo@cloak-6DE58FF1.inaddr.intergenia.de) hat #ictf betreten
+Dez 08 17:43:14 <[T0fH]Raistlin>	I'm as shut off as you
+Dez 08 17:43:20 *	[uclion]mike hat die Verbindung getrennt (Quit: )
+Dez 08 17:43:27 <[W0Y]Destructor>	teh shit
+Dez 08 17:43:37 *	marcusmeisel (~marcusmei@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+Dez 08 17:43:44 <[WoD]lars>	run to the hills
+Dez 08 17:43:47 *	[squareroot]RedTiger ist jetzt bekannt als redtiger
+Dez 08 17:43:47 *	[WCSC]James_Kims_Ghost ist jetzt bekannt als [WCSC]Steve_Irwin
+Dez 08 17:43:48 *	redtiger ist jetzt bekannt als [squareroot]RedTiger
+Dez 08 17:43:51 <[W0Y]pizzaman>	kasperle: use an ssh tunnel on a distinct machine and you can use any port you like
+Dez 08 17:43:51 *	Guest687332490 hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:44:16 <[USU]VenROCK>	connection problems...
+Dez 08 17:44:17 *	[T0fH]Raistlin hat die Verbindung getrennt (Quit: [T0fH]Raistlin)
+Dez 08 17:44:17 <[0ldEur0pe]Kasperle>	[W0Y]pizzaman: but that would separate it from all my other irc fun
+Dez 08 17:44:20 <[0ldEur0pe]Kasperle>	which sucks
+Dez 08 17:44:28 *	[PSU]Dr4g0n (_PSU_@cloak-5709A027.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 17:44:30 *	[int80]RouDaddy (~RouDaddy@cloak-788E5450.lawn.gatech.edu) hat #ictf verlassen
+Dez 08 17:44:31 <[0ldEur0pe]Kasperle>	plus, my local client isn't set up
+Dez 08 17:44:32 <[WCSC]Steve_Irwin>	I can't connect to bergman for the life of me
+Dez 08 17:44:40 *	[PSU]BBA-A[0] hat die Verbindung getrennt (Quit: [PSU]BBA-A[0])
+Dez 08 17:44:52 <[W0Y]Destructor>	i didnt like bergman as an actress... and she suxx at IRC
+Dez 08 17:44:53 *	[psu]BBA-A[0] (~PSUBBA-@cloak-6D23A39C.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 17:44:57 *	[int80]cptncrunch hat die Verbindung getrennt (Quit: .IRC: .NET IRC Client @ http://www.dotirc.com/)
+Dez 08 17:45:01 <[WoD]jtb>	the new server sucks
+Dez 08 17:45:03 *	[squareroots]jo hat die Verbindung getrennt (Quit: Verlassend)
+Dez 08 17:45:06 <[W0Y]pizzaman>	kasperle: how? - it's just that one server
+Dez 08 17:45:12 *	[DotF]Zenoxx hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:45:12 *	[t0fH]fabi3tto hat die Verbindung getrennt (Quit: Konversation terminated!)
+Dez 08 17:45:16 <[WoD]jtb>	"Too many host connections"
+Dez 08 17:45:23 <[WoD]mcf1y>	the new server suxx also...
+Dez 08 17:45:28 *	[USU]ugin (~ug1n@cloak-D8AB8554.eunnet.net) hat #ictf betreten
+Dez 08 17:45:28 <[PSU]Dr4g0n>	owned
+Dez 08 17:45:46 <[WoD]lars>	run for your live
+Dez 08 17:45:58 *	[RedCops]Fanch (~flesueur@53A627E9.B9EBDA50.58A95CE5.IP) hat #ictf betreten
+Dez 08 17:46:06 *	[T0fH]Raistlin (~raistlin@cloak-3BD2F92E.elet.polimi.it) hat #ictf betreten
+Dez 08 17:46:10 *	[squareroot]RedTiger ist jetzt bekannt als test
+Dez 08 17:46:12 <[W0Y]Destructor>	yo
+Dez 08 17:46:15 *	test ist jetzt bekannt als testfr324
+Dez 08 17:46:15 <[T0fH]Raistlin>	well
+Dez 08 17:46:27 *	testfr324 ist jetzt bekannt als redtiger
+Dez 08 17:46:27 *	sicko hat redtiger aus #ictf gekickt (Niq flood (3 nicks in 17secs of 30secs))
+Dez 08 17:46:31 *	[squareroots]do ist jetzt bekannt als dokuschnegge
+Dez 08 17:46:34 <[T0fH]Raistlin>	can someone drop word on the other server
+Dez 08 17:46:36 *	[W0Y]FreeMan hat die Verbindung getrennt (Quit: Download Gaim: http://gaim.sourceforge.net/)
+Dez 08 17:46:40 <[0ldEur0pe]Kasperle>	yeah. that'd rock
+Dez 08 17:46:41 <[T0fH]Raistlin>	that part of us is shut off ?
+Dez 08 17:46:43 *	samsiol (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:47:01 *	[cinsects]jr hat die Verbindung getrennt (Quit: [cinsects]jr)
+Dez 08 17:47:02 <[int80]8-D>	can anyone else log into that other server?
+Dez 08 17:47:03 *	[psu]BBA-A[0] hat die Verbindung getrennt (Quit: [psu]BBA-A[0])
+Dez 08 17:47:05 *	[ENOFLAG]nadi hat die Verbindung getrennt (Quit: Verlassend)
+Dez 08 17:47:05 <[DotF]hatman>	no
+Dez 08 17:47:07 <[W0Y]mne>	no
+Dez 08 17:47:09 *	[W0Y]FreeMan (~msz@cloak-7A1BA904.vie.surfer.at) hat #ictf betreten
+Dez 08 17:47:10 *	[squareroots]Morpheus hat die Verbindung getrennt (Client exited)
+Dez 08 17:47:11 <[USU]DimmoBorgir>	no
+Dez 08 17:47:13 <[WoD]mcf1y>	i can
+Dez 08 17:47:14 <[W0Y]Destructor>	no
+Dez 08 17:47:15 <[squareroots]Scytale>	no
+Dez 08 17:47:18 <[W0Y]Destructor>	no
+Dez 08 17:47:19 *	[WoD]codemonk hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:47:22 <[WoD]mcf1y>	it has a very long time as he is checking ident
+Dez 08 17:47:25 <[W0Y]Destructor>	no is the new yes
+Dez 08 17:47:46 <[squareroots]Scytale>	yes?
+Dez 08 17:47:47 *	[ENOFLAG]Wand (_ENOFLAG_W@cloak-9DE5733D.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:47:48 <[W0Y]biesi>	<nullptr> all right, working on it... <-- on the other server
+Dez 08 17:47:58 *	Merciless (~marcusmei@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:48:00 *	codemonk (~codemonk@cloak-F210186.rbg.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 08 17:48:06 *	[DotF]Tom hat die Verbindung getrennt (Quit: )
+Dez 08 17:48:11 *	[DotF]herdom hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:48:19 *	samsiol (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+Dez 08 17:48:25 *	Merciless (~marcusmei@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+Dez 08 17:48:26 *	[ENOFLAG]nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf betreten
+Dez 08 17:48:31 *	[DotF]herdom (~ircuser@83E2E9D1.EEEF9FAC.14DBE6B2.IP) hat #ictf betreten
+Dez 08 17:48:41 *	[T0fH]Raistlin hat die Verbindung getrennt (Quit: [T0fH]Raistlin)
+Dez 08 17:49:05 *	[WoY]atrox hat die Verbindung getrennt (Client exited)
+Dez 08 17:49:06 *	[0ldEur0pe]samsiol (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:49:07 <[W0Y]Destructor>	well
+Dez 08 17:49:09 <[W0Y]Destructor>	this suxx
+Dez 08 17:49:10 *	MercilessMercury (~marcusmei@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:49:17 *	[CInsects]5eeU hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:49:18 *	[cinsects]rillig hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 17:49:19 *	[wcsc]zap hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:49:22 <[USU]DimmoBorgir>	new server doesn't work
+Dez 08 17:49:28 <[W0Y]Destructor>	old server never did
+Dez 08 17:49:30 *	[W0Y]cp is bored
+Dez 08 17:49:37 <[ENOFLAG]thomasbl>	me too
+Dez 08 17:49:41 *	[ENOFLAG]nadi hat die Verbindung getrennt (Quit: [ENOFLAG]nadi)
+Dez 08 17:49:44 <[USU]DimmoBorgir>	it sais (Too many connections)
+Dez 08 17:49:44 <[ENOFLAG]thomasbl>	going to bed and sleeping a while
+Dez 08 17:49:46 *	[DotF]Ghost hat die Verbindung getrennt (Quit: )
+Dez 08 17:49:46 *	[USU]Think (~student@cloak-D8AB8554.eunnet.net) hat #ictf betreten
+Dez 08 17:49:59 <[W0Y]cp>	good idea
+Dez 08 17:50:02 *	[squareroots]Morpheus (iCTF@cloak-D70C42AF.net) hat #ictf betreten
+Dez 08 17:50:02 *	jared_ (~jared@22146C21.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 17:50:07 *	[ENOFLAG]nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf betreten
+Dez 08 17:50:10 <jared_>	i cant connect to the new server
+Dez 08 17:50:16 <[PSU]Dr4g0n>	who has decent ping times to 0.0.1?
+Dez 08 17:50:17 <[RedCops]neerd>	yeah got the toomany connections too :(
+Dez 08 17:50:18 *	jared_ ist jetzt bekannt als [cheddar]jared
+Dez 08 17:50:18 <[int80]8-D>	no one seems to be able to
+Dez 08 17:50:33 *	jasonHunter (~kc@cloak-F7042AC8.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:50:33 *	[DotF]Ghost (~asdf@cloak-2B541530.cip.uni-regensburg.de) hat #ictf betreten
+Dez 08 17:50:41 *	[squareroots]Morpheus hat die Verbindung getrennt (Quit: [squareroots]Morpheus)
+Dez 08 17:50:44 *	[ENOFLAG]thomasbl ist jetzt bekannt als boo
+Dez 08 17:50:47 <[WoD]jtb>	[PSU]Dr4g0n: Too many host connections
+Dez 08 17:50:49 <[PSU]Dr4g0n>	to what?
+Dez 08 17:50:49 <[WoD]jtb>	argh
+Dez 08 17:50:57 <[0ldEur0pe]Kasperle>	17:49 -!- ERROR Closing Link: lutz...] (Too many connections)
+Dez 08 17:50:57 <[WoD]jtb>	[PSU]Dr4g0n: 64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=174 ms
+Dez 08 17:50:58 <[0ldEur0pe]Kasperle>	yeah
+Dez 08 17:51:06 <[poly]boris>	64 bytes from 10.0.0.1: icmp_seq=0 ttl=64 time=84.709 ms
+Dez 08 17:51:06 <[poly]boris>	64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=84.680 ms
+Dez 08 17:51:06 <[poly]boris>	64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=86.542 ms
+Dez 08 17:51:09 *	[r2]Morpheus (iCTF@cloak-D70C42AF.net) hat #ictf betreten
+Dez 08 17:51:10 *	[ENOFLAG]thomasbl (~blubb@cloak-64826DF4.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:51:12 <[PSU]Dr4g0n>	rgr
+Dez 08 17:51:13 <[PSU]Dr4g0n>	thanks
+Dez 08 17:51:18 <[ENOFLAG]thomasbl>	new client new luck :)
+Dez 08 17:51:28 <[WoD]jtb>	[PSU]Dr4g0n: can you ping from any machine beside your teambox?
+Dez 08 17:51:45 <[WoD]jtb>	[PSU]Dr4g0n: it seems to me that 10.0.0.1 is only pingable from the teamboxes :(
+Dez 08 17:51:50 *	boo hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:51:51 *	raul (~raulg@cloak-431DBDA3.static.qsc.de) hat #ictf betreten
+Dez 08 17:51:58 *	[squareroots]uchi_mata ist jetzt bekannt als [r2]uchi_mata
+Dez 08 17:52:30 *	[DotF]Ghost hat die Verbindung getrennt (Quit: [DotF]Ghost)
+Dez 08 17:52:32 *	[WoD]EisNerd (eisnerd@cloak-5C953C60.rbg.informatik.tu-darmstadt.de) hat #ictf verlassen
+Dez 08 17:52:51 *	[cinsects]calm hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:52:53 *	raul ist jetzt bekannt als [ENOFLAG]raul
+Dez 08 17:52:56 *	Dani (~cyo@9E2066F5.C37CECAE.EDED6E6F.IP) hat #ictf betreten
+Dez 08 17:52:58 <[int80]8-D>	DELAYS :-(
+Dez 08 17:53:08 *	[DotF]Ghost (~asdf@cloak-2B541530.cip.uni-regensburg.de) hat #ictf betreten
+Dez 08 17:53:24 <[PSU]Dr4g0n>	new email out
+Dez 08 17:53:25 <[PSU]Dr4g0n>	check it
+Dez 08 17:53:28 <[WoD]mcf1y>	problem seems fixed.
+Dez 08 17:53:29 *	jasonHunter ist jetzt bekannt als [IOwnYou]jasonHunter
+Dez 08 17:53:33 <[DotF]hatman>	new server runs :-)
+Dez 08 17:53:43 <[IOwnYou]jasonHunter>	gimme gimme gimme
+Dez 08 17:53:56 *	codemonk hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:54:03 *	[cheddar]jared hat die Verbindung getrennt (Quit: [cheddar]jared)
+Dez 08 17:54:09 <[WoD]mcf1y>	bergman.cs.ucsb.edu channel #ictf
+Dez 08 17:54:13 *	[ENOFLAG]mutax hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 17:54:18 *	[ENOFLAG]WandII (_ENOFLAG_W@cloak-5B9BC6EC.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:54:18 *	[WCSC]Steve_Irwin (mr_manson@cloak-FC93F796.cust.bredbandsbolaget.se) hat #ictf verlassen
+Dez 08 17:54:37 <[int80]8-D>	bergman doens't work for me
+Dez 08 17:54:40 <[0ldEur0pe]Kasperle>	what's wrong with slashnet?
+Dez 08 17:54:42 <[squareroots]Scytale>	For me neither
+Dez 08 17:54:45 <[0ldEur0pe]Kasperle>	everybody seemed to be here
+Dez 08 17:54:46 *	[ENOFLAG]Hessophanes hat die Verbindung getrennt (Client exited)
+Dez 08 17:54:50 <[int80]8-D>	some peopel get kicked off slashnet i guess
+Dez 08 17:54:55 <[cinsects]TriPhoenix>	Kasperle: not enough connections per IP
+Dez 08 17:54:55 *	[WoD]snafu hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:54:56 <[squareroots]Scytale>	Slashnet allows a maximum of 3 connects per IP
+Dez 08 17:54:56 <[WoD]jtb>	slashnet allows only a couple of connections from one ip..
+Dez 08 17:55:01 <MercilessMercury>	5
+Dez 08 17:55:03 <[squareroots]Scytale>	3
+Dez 08 17:55:04 *	atrox (atrox@cloak-6811B995.spengergasse.at) hat #ictf betreten
+Dez 08 17:55:05 <[WoD]jtb>	same problem as every ctf
+Dez 08 17:55:07 <[W0Y]FreeMan>	slashent has some sicko connections/IP limit
+Dez 08 17:55:28 *	[sigmil]sysenter hat die Verbindung getrennt (Quit: leaving)
+Dez 08 17:55:37 *	hanno (~hanno@cloak-E3A0F1F5.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 17:55:40 *	dokuschnegge ist jetzt bekannt als [squarero
+Dez 08 17:55:45 <[IOwnYou]jasonHunter>	more join/leave messages than normal messages...
+Dez 08 17:55:47 *	[squarero (laura@cloak-7514446B.net) hat #ictf verlassen
+Dez 08 17:55:56 <[0ldEur0pe]Kasperle>	that new server has insane timeouts on ident ;)
+Dez 08 17:56:01 <[int80]8-D>	i think you can turn those off
+Dez 08 17:56:03 *	mark-qut (~mark-qut@751A8DA2.DE7CAC8B.A24ED685.IP) hat #ictf betreten
+Dez 08 17:56:12 *	DotF (~Administr@cloak-C1D5D2BB.wiwi.uni-regensburg.de) hat #ictf verlassen
+Dez 08 17:56:14 <[0ldEur0pe]Kasperle>	does it listen on any ports != 6667?
+Dez 08 17:56:17 <[IOwnYou]jasonHunter>	has anyone started working yet?
+Dez 08 17:56:17 *	atrox ist jetzt bekannt als [WoY]atrox
+Dez 08 17:56:25 <[0ldEur0pe]Kasperle>	that would make it less annoying ;)
+Dez 08 17:56:31 <[ENOFLAG]thomasbl>	mail says up to 20 min
+Dez 08 17:56:37 *	[ENOFLAG]komm (~root@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 17:56:40 <[IOwnYou]jasonHunter>	OldEurOpe... is that aachen?
+Dez 08 17:56:52 *	[ENOFLAG]Hessophanes (~hesso@cloak-23EAB8DE.math.tu-berlin.de) hat #ictf betreten
+Dez 08 17:56:54 <[PSU]Dr4g0n>	20 mins == 80 mins
+Dez 08 17:57:00 <[squareroots]Scytale>	jason: yes
+Dez 08 17:57:14 <[ENOFLAG]thomasbl>	80? with that until now?
+Dez 08 17:57:14 <[IOwnYou]jasonHunter>	what is that url of the list of teams again??
+Dez 08 17:57:14 <[0ldEur0pe]Kasperle>	[IOwnYou]jasonHunter: it is
+Dez 08 17:57:34 <[TUD]ImgBox>	http://www.cs.ucsb.edu/~vigna/CTF/participants.html
+Dez 08 17:57:39 <[IOwnYou]jasonHunter>	thx
+Dez 08 17:58:06 <[W0Y]wollviech>	they mean of course 32 minutes
+Dez 08 17:58:13 <[W0Y]wollviech>	0x20
+Dez 08 17:58:46 *	[minerThreat]_Natas (~deeseja@cloak-9EAD8DDB.uncc.edu) hat #ictf verlassen (Leaving)
+Dez 08 17:58:56 *	[uncc]peon hat die Verbindung getrennt (Ping timeout)
+Dez 08 17:59:40 <[TUD]ImgBox>	it took 2min for the bergman connection :(
+Dez 08 18:00:57 <[WoD]mcf1y>	true...
+Dez 08 18:01:08 <[WoD]mcf1y>	it seems to have a ident issue
+Dez 08 18:01:49 <[squareroots]Scytale>	It seems to have a ident-waiting-configuration issue
+Dez 08 18:03:19 <[0ldEur0pe]Kasperle>	the password is h1llb1lly
+Dez 08 18:03:26 <[PSU]Dr4g0n>	lol
+Dez 08 18:03:29 <[PSU]Dr4g0n>	tis true
+Dez 08 18:03:31 <[0ldEur0pe]Kasperle>	for those of you that cannot see the other irc server :(
+Dez 08 18:04:03 <[0ldEur0pe]Kasperle>	new rules: http://www.cs.ucsb.edu/~vigna/CTF/rules.html
+Dez 08 18:05:12 <[PSU]Dr4g0n>	what the other irc anyone?
+Dez 08 18:05:40 <[USU]VenROCK>	http://ivonova.cs.ucsb.edu/ doesn't work
+Dez 08 18:05:44 <[USU]VenROCK>	should it?
+Dez 08 18:06:23 <[PSU]Dr4g0n>	so... what is the other irc server that kasperle was referring to?
+Dez 08 18:06:30 <[0ldEur0pe]Kasperle>	bergman.cs.ucsb.edu
+Dez 08 18:06:43 <[0ldEur0pe]Kasperle>	check the ctf-participants mailinglist
+Dez 08 18:06:53 *	[ENOFLAG]komm hat die Verbindung getrennt (Quit: leaving)
+Dez 08 18:07:09 *	[0ldEur0pe]samsiol (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+Dez 08 18:07:13 *	[0ldEur0pe]samsiol (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:07:37 *	[wcsc]ForSwitch (~dfraze@A59D4CC6.144F689B.C248BCF2.IP) hat #ictf betreten
+Dez 08 18:07:43 *	[W0Y]Destructor hat die Verbindung getrennt (Quit: Ex-Chat)
+Dez 08 18:08:05 *	[wcsc]ForSwitch hat die Verbindung getrennt (Quit: [wcsc]ForSwitch)
+Dez 08 18:09:27 *	[psu]BBA-A[0] (~PSUBBA-@cloak-6D23A39C.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 18:09:28 *	[ENOFLAG]WandII hat die Verbindung getrennt (Quit: )
+Dez 08 18:10:03 *	[USU]ugin hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 18:10:03 *	[USU]Think hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 18:10:04 *	[USU]DimmoBorgir hat die Verbindung getrennt (User has been banned from SlashNET (Exceeding session limit))
+Dez 08 18:10:07 *	nomed (~nomed@cloak-D24FBE94.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:10:09 *	[squareroots]robert ist jetzt bekannt als [r2]robert
+Dez 08 18:10:13 *	[ENOFLAG]Hessophanes hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 18:10:13 *	[ENOFLAG]chithead hat die Verbindung getrennt (Quit: ChatZilla 0.9.67+ [SeaMonkey 1.0.6/0000000000])
+Dez 08 18:10:42 *	[0ldEur0pe]samsiol hat die Verbindung getrennt (Quit: Snak 5.1.5 IRC For Macintosh - http://www.snak.com)
+Dez 08 18:11:25 *	[0ldEur0pe]samsiol (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:12:04 *	[0ldEur0pe]brueffer (~chris@cloak-8C8F934D.hitnet.rwth-aachen.de) hat #ictf verlassen
+Dez 08 18:12:40 *	[ENOFLAG]Wand ist jetzt bekannt als [ENFLG]wnd
+Dez 08 18:12:40 *	[ENFLG]wnd hat die Verbindung getrennt (Quit: )
+Dez 08 18:12:56 *	[W0Y]mne hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 18:14:02 *	[PSU]Dr4g0n hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:14:58 *	[int80]carl0 hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:17:13 *	nomed (~nomed@cloak-D24FBE94.wirelesstest.ucsb.edu) hat #ictf verlassen
+Dez 08 18:17:26 *	nomed (~nomed@cloak-D24FBE94.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:17:55 *	[ENOFLAG]nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf verlassen (Verlassend)
+Dez 08 18:18:23 *	[PSU]teehee (~pallus@cloak-6BBCCE09.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 18:18:53 *	[cinsects]UncleOwen hat die Verbindung getrennt (Quit: leaving)
+Dez 08 18:19:05 *	nomed (~nomed@cloak-D24FBE94.wirelesstest.ucsb.edu) hat #ictf verlassen
+Dez 08 18:19:13 *	[ENOFLAG]nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf betreten
+Dez 08 18:19:43 *	nomed (~nomed@cloak-D24FBE94.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:22:09 *	nomed hat die Verbindung getrennt (Quit: changing servers)
+Dez 08 18:30:49 *	[IOwnYou]jasonHunter hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:31:06 *	[W0Y]iurtz hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:31:39 *	[W0Y]cp hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:32:35 *	[ENOFLAG]thunderstorm hat die Verbindung getrennt (Quit: leaving)
+Dez 08 18:34:39 *	[W0Y]FreeMan hat die Verbindung getrennt (Quit: Download Gaim: http://gaim.sourceforge.net/)
+Dez 08 18:38:33 *	[ENOFLAG]chithead (~chithead@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:39:07 *	[r2]Morpheus hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:42:56 *	[ENOFLAG]chithead (~chithead@cloak-A6760DFD.kbs.cs.tu-berlin.de) hat #ictf verlassen
+Dez 08 18:45:10 *	[0ldEur0pe]samsiol hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:47:54 *	[W0Y]pizzaman hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:48:08 *	ilya (~ilya@cloak-D8AB8554.eunnet.net) hat #ictf betreten
+Dez 08 18:48:32 *	[W0Y]wollviech hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:49:15 *	hanno hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:49:23 *	CTF14_sean hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:49:45 *	[W0Y]chris2 hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:49:50 *	MercilessMercury hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:50:39 *	andy__ hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:50:43 *	[W0Y]biesi hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:51:15 *	Dani hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:51:37 *	[WoY]atrox hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:54:00 *	[W0Y]flo hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:54:11 *	[PSU]teehee hat die Verbindung getrennt (Quit: [PSU]teehee)
+Dez 08 18:58:21 *	andy__ (~andy@cloak-D291C4F7.server4you.de) hat #ictf betreten
+Dez 08 18:58:57 *	MercilessMercury (~Merciless@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:58:59 *	[W0Y]flo (~florian@cloak-D291C4F7.server4you.de) hat #ictf betreten
+Dez 08 19:03:22 <MercilessMercury>	?
+Dez 08 19:05:58 *	[W0Y]cp (~cp@cloak-E3A0F1F5.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 19:12:42 *	Guest687332517 (~Elf@cloak-A480B0D4.cs.ucsb.edu) hat #ictf betreten
+Dez 08 19:12:46 *	Guest687332517 hat die Verbindung getrennt (Quit: Guest687332517)
+Dez 08 19:21:32 *	[PSU]Dr4g0n (_PSU_@cloak-5709A027.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 19:29:23 <[USU]VenROCK>	there wher quests, where are they now/??
+Dez 08 19:29:34 <[USU]VenROCK>	there were*
+Dez 08 19:29:57 <[USU]VenROCK>	were do we submit quests?
+Dez 08 19:30:06 *	[PSU]Fox (~PSUFox@cloak-3792F5C8.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 19:30:07 *	[USU]DimmoBorgir (~dimmoborg@cloak-D8AB8554.eunnet.net) hat #ictf betreten
+Dez 08 19:49:38 *	[uclion]root hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 20:03:04 <[WoD]mcf1y>	-wc
+Dez 08 20:03:05 *	[WoD]mcf1y (~mcfly@cloak-F210186.rbg.informatik.tu-darmstadt.de) hat #ictf verlassen
+Dez 08 20:21:51 *	[PSU]Dr4g0n hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:22:15 *	[PSU]Fox (~PSUFox@cloak-3792F5C8.mobility-up.psu.edu) hat #ictf verlassen
+Dez 08 20:46:31 *	[PSU]armengar hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:56:11 *	[r2]mm (~jircii@cloak-ABC222AE.rz.uni-mannheim.de) hat #ictf betreten
+Dez 08 20:57:19 *	[PSU]armengar (~armengar@cloak-C5ECDF48.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 20:57:19 *	andy__ hat die Verbindung getrennt (Client exited)
+Dez 08 20:57:55 *	[squareroots]mm hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:06:33 *	[RedCops]neerd hat die Verbindung getrennt (Quit: [RedCops]neerd)
+Dez 08 21:07:34 *	[DotF]hatman hat die Verbindung getrennt (Quit: Verlassend)
+Dez 08 21:11:44 *	mark-qut hat die Verbindung getrennt (Client exited)
+Dez 08 21:30:19 *	hanno (~hanno@cloak-E3A0F1F5.htu.tuwien.ac.at) hat #ictf betreten
+Dez 08 22:00:23 *	[W0Y]iurtz (~peter.wur@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 22:12:44 *	MercilessMercury hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:23:06 *	MercilessMercury (~Merciless@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 22:58:46 *	[W0Y]cp hat die Verbindung getrennt (Quit: Leaving)
+Dez 08 23:10:16 *	[PSU]Fox (~PSUFox@cloak-C13DC5DF.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 23:11:05 *	[PSU]Fox hat die Verbindung getrennt (Quit: [PSU]Fox)
+Dez 08 23:15:10 *	[psu]BBA-A[0] hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 23:15:51 *	[psu]BBA-A[0] (~PSUBBA-@cloak-EF906AFF.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 23:18:55 *	MercilessMercury hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:19:06 *	[ncsu]tsg (~realinfo@cloak-B6630BBA.unity.ncsu.edu) hat #ictf verlassen
+Dez 08 23:20:55 *	MercilessMercury (~Merciless@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 23:39:57 *	[PSU]armengar (~armengar@cloak-C5ECDF48.mobility-up.psu.edu) hat #ictf verlassen
+Dez 08 23:41:45 *	MercilessMercury hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 23:41:49 *	hanno hat die Verbindung getrennt (Client exited)
+Dez 08 23:41:52 *	[W0Y]flo hat die Verbindung getrennt (Client exited)
+Dez 08 23:41:55 *	[W0Y]iurtz hat die Verbindung getrennt (No route to host)
+Dez 08 23:43:43 *	[cinsects]TriPhoenix hat die Verbindung getrennt (Client exited)
+Dez 08 23:49:57 *	MercilessMercury (~Merciless@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 00:07:26 *	[ENOFLAG]nadi hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:10:45 *	narayan (~narayan@cloak-3E25F364.cs.uiuc.edu) hat #ictf betreten
+Dez 09 00:10:57 *	narayan ist jetzt bekannt als [SM]ex0
+Dez 09 00:11:47 *	[ENOFLAG]nadi (~tux@cloak-3A63DBC0.zrz.tu-berlin.de) hat #ictf betreten
+Dez 09 00:15:34 *	[WoD]lars (~lars@cloak-1A741B3.sec.informatik.tu-darmstadt.de) hat #ictf verlassen
+Dez 09 00:34:20 *	nms hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:38:38 <[SM]ex0>	SigMIL officially gives up 
+Dez 09 00:39:02 <[SM]ex0>	our webserver is displaying our surrender message
+Dez 09 00:39:03 <[SM]ex0>	enjoy
+Dez 09 00:39:26 <[SM]ex0>	we are team 3 by the way
+Dez 09 00:40:06 <[SM]ex0>	http://10.3.1.3/losers.php
+Dez 09 00:40:15 <[SM]ex0>	our surrender message
+Dez 09 00:41:40 <[WoD]no_maam>	[SM]ex0: we accept your offer, please hand over bagdada and the rest of what you took, and no harm will be done to you
+Dez 09 00:43:06 <[SM]ex0>	?? we have no money
+Dez 09 00:47:40 *	nms (~neil@cloak-4208434.poly.edu) hat #ictf betreten
+Dez 09 00:50:37 *	[ENOFLAG]nadi hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:52:22 *	[psu]BBA-A[0] hat die Verbindung getrennt (Quit: [psu]BBA-A[0])
+Dez 09 01:04:05 *	[SM]ex0 hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:04:29 *	[cheddar]loopy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:10:24 *	Brew (~breuerp@88048F2.ED518F5A.CC45CC78.IP) hat #ictf betreten
+Dez 09 01:16:05 *	mth (~Elf@cloak-A480B0D4.cs.ucsb.edu) hat #ictf betreten
+Dez 09 01:23:08 *	[psu]BBA-A[0] (~PSUBBA-@cloak-FD0328F2.rh.psu.edu) hat #ictf betreten
+Dez 09 01:24:19 <Brew>	?
+Dez 09 01:33:58 *	[ENOFLAG]volker hat die Verbindung getrennt (Quit: Quit)
+Dez 09 01:35:37 <Brew>	Quit
+Dez 09 01:35:44 *	Brew (~breuerp@88048F2.ED518F5A.CC45CC78.IP) hat #ictf verlassen (Leaving)
+Dez 09 01:37:32 *	Brew (~breuerp@88048F2.ED518F5A.CC45CC78.IP) hat #ictf betreten
+Dez 09 01:38:39 *	[USU]VenROCK hat die Verbindung getrennt (Quit: My damn controlling terminal disappeared!)
+Dez 09 01:41:37 *	[r2]uchi_mata hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:45:38 *	hanno (~hanno@cloak-E3A0F1F5.htu.tuwien.ac.at) hat #ictf betreten
+Dez 09 01:54:22 *	[WoD]g0ph3r (~g0ph3r@cloak-2E8FB60A.inaddr.intergenia.de) hat #ictf verlassen
+Dez 09 01:55:20 *	[ENOFLAG]nadi (~tux@cloak-E488B99A.zrz.tu-berlin.de) hat #ictf betreten
+Dez 09 01:55:29 *	[ENOFLAG]nadi hat die Verbindung getrennt (Quit: [ENOFLAG]nadi)
+Dez 09 01:59:02 *	Brew hat die Verbindung getrennt (Quit: Leaving)
+Dez 09 02:00:14 <[DotF]herdom>		done
+Dez 09 02:00:15 *	[RedCops]Fanch hat die Verbindung getrennt (Quit: Quitte)
+Dez 09 02:00:25 <MercilessMercury>	tis over
+Dez 09 02:01:49 *	MercilessMercury_ (~Merciless@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:01:49 *	MercilessMercury hat die Verbindung getrennt (Connection reset by peer)
+Dez 09 02:01:59 *	[W0Y]iurtz (~peter.wur@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:02:56 *	[W0Y]iurtz (~peter.wur@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+Dez 09 02:03:54 *	mth hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:04:16 *	lhostroot (~lhostroot@5A6D0B9F.62539635.EB74E751.IP) hat #ictf betreten
+Dez 09 02:04:31 *	lhostroot ist jetzt bekannt als [uclion]root
+Dez 09 02:04:34 <[uclion]root>	that was fun
+Dez 09 02:04:53 <[uclion]root>	helloo.... echo echoe cho
+Dez 09 02:05:04 *	[uclion]root hat die Verbindung getrennt (Quit: [uclion]root)
+Dez 09 02:06:54 *	[ENOFLAG]raul hat die Verbindung getrennt (Client exited)
+Dez 09 02:09:24 *	[ENOFLAG]thomasbl hat die Verbindung getrennt (Quit: Verlassend)
+Dez 09 02:09:40 *	[cheddar]rob hat die Verbindung getrennt (Quit: [cheddar]rob)
+Dez 09 02:11:32 *	[TUD]ImgBox hat die Verbindung getrennt (Client exited)
+Dez 09 02:13:19 *	hanno hat die Verbindung getrennt (Quit: BitchX by any other name is still BitchX)
+Dez 09 02:14:00 *	[solo]ShdwFear hat die Verbindung getrennt (Quit: )
+Dez 09 02:14:00 *	hanno (~hanno@cloak-E3A0F1F5.htu.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:15:31 *	hanno hat die Verbindung getrennt (Quit: hanno)
+Dez 09 02:18:12 *	LordBalzaroth hat die Verbindung getrennt (Quit: Leaving)
+Dez 09 02:20:59 *	[WoD]jtb hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:32:47 *	[WOD]hamster hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:42:11 *	sam (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:42:21 *	sam (~samsiol@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+Dez 09 02:42:23 <sicko>	d
+Dez 09 02:42:26 *	sicko hat die Verbindung getrennt (Quit: BitchX-1.1-final -- just do it.)
+Dez 09 02:43:11 *	[int80]8-D hat die Verbindung getrennt (Quit: Ex-Chat)
+Dez 09 02:52:11 *	nms hat die Verbindung getrennt (Client exited)
+Dez 09 02:52:45 *	[WoD]SEN hat die Verbindung getrennt (Quit: leaving)
+Dez 09 02:56:03 *	MercilessMercury_ (~Merciless@cloak-165BF48E.seclab.tuwien.ac.at) hat #ictf verlassen
+**** BEENDE LOGBUCH UM Sat Dec  9 03:11:06 2006
+

@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Abizeitung GSG 2003"
+AuthUserFile /var/www/scytale.name/auth/abi
+Require valid-user
+

@@ -1,0 +1,3 @@
+Options +Indexes
+RewriteEngine On
+RewriteRule ^git(|/.*)$ http://scytale.name/git/git-talk/ [R=permanent]

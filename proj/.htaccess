@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^(dretweet|emit|fmenu|levitation|overlay|tweethub)(|/.*)$ http://github.com/scy/$1 [L,R=temp]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]*) /git/$1.git/ [R]

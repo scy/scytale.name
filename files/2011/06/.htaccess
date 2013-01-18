@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^nyan\.cat\.ringtone\.mp3$ - [G]

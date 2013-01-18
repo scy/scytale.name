@@ -1,0 +1,332 @@
+/* Don't edit this file directly, use makestatic.sh instead. */
+
+html, body {
+	color: #ccc;
+}
+
+p, dd {
+	margin-top:0.3em;
+	margin-bottom:1em;
+}
+
+pre {
+	overflow:auto;
+	padding:0em;
+	margin:1em 2em;
+}
+
+blockquote {
+	font-style:italic;
+	border-left:3px solid #666;
+	padding:1em 1em 1em 1.5em;
+	background-color:#282828;
+}
+
+div.bigimg {
+	text-align:center;
+}
+
+div.bigimg img {
+	border:1px solid #333;
+}
+
+div.info {
+	border:1px solid #666;
+	background-color:#333;
+	padding:1em;
+	margin:1em;
+}
+
+div.info p {
+	margin:0.5em;
+}
+
+img, div#MENUCONNECT img {
+	border:0px;
+	margin:0px;
+	padding:0px;
+}
+
+h1, h2 {
+	padding:0.2em 0.5em;
+}
+
+h1 {
+	margin-top:0em;
+	text-align:right;
+}
+
+h2 {
+	margin-bottom:0.5em;
+	margin-top:1em;
+	background-color:#444;
+}
+
+h2 a {
+	color:#fff;
+	text-decoration:none;
+}
+
+a {
+	color:#61f2ae;
+	text-decoration:underline;
+}
+
+a:hover, a:active, div#FOOT a:hover, div#FOOT a:active {
+	color:#fff;
+}
+
+q {
+	font-style:italic;
+}
+
+div.via, div.date, div.tags {
+	text-align:right;
+	font-size:75%;
+	color:#888;
+}
+
+span.label {
+	font-weight:bold;
+	color:#aaa;
+}
+
+span.tag {
+	margin-left:0.8em;
+}
+
+div#LEFT {
+	position:fixed;
+	left:1em;
+	top:0em;
+	width:12.5em;
+	height:auto;
+	overflow:auto;
+	font-variant:small-caps;
+	font-weight:bold;
+}
+
+div#RIGHT {
+	position:fixed;
+	top:3px;
+	right:3px;
+}
+
+div#AVATAR {
+	border:1px solid #333;
+	padding:1px;
+}
+
+div#LEFT a {
+	text-decoration:none;
+	color:#000;
+}
+
+div#LEFT a:hover {
+	text-decoration:underline;
+}
+
+div#RIGHTDOTS {
+	margin-left:12.5em;
+	margin-right:20px;
+	padding-right:40px;
+	background-color:#000;
+	background-image:url(dots-right.png);
+	background-repeat:repeat-y;
+	background-position:right;
+}
+
+div#LEFTDOTS {
+	padding:1em 15px 1em 55px;
+	background-color:#222;
+	background-image:url(dots-left.png);
+	background-repeat:repeat-y;
+	background-position:left;
+}
+
+div#SITENAME, div#MENUCONNECT {
+	font-size:130%;
+	font-weight:bold;
+	letter-spacing:0.2em;
+	text-align:center;
+}
+
+div#MENUCONNECT, div#RIGHT {
+	padding:0em;
+	margin:0em;
+}
+
+div#SITENAME, div#MENU {
+	background-color:#333;
+	border:1px solid #666;
+}
+
+div#SITENAME {
+	padding-top:1em;
+	border-top:none;
+}
+
+div#MENU ul {
+	list-style:none;
+	margin:0em;
+	padding:0em;
+}
+
+div#MENU a {
+	display:block;
+	padding:0em 0.3em;
+	background-image:url(buttonbg-.png);
+	background-repeat:repeat-x;
+	background-position:bottom;
+}
+
+div#MENU li li a {
+	background:none;
+	padding:0em 0.6em;
+	color:#ccc;
+}
+
+div#MENU li li a:hover {
+	color:#fff;
+}
+
+div#FOOT {
+	text-align:center;
+	font-size:80%;
+	background-color:#111;
+	border-top:1px solid #333;
+	border-bottom:1px solid #333;
+	margin-top:2em;
+}
+
+div#FOOT a {
+	text-decoration:none;
+	color:#5c7ae6;
+}
+
+div#GITEMBED {
+	background-color:#fff;
+	margin:0em;
+	padding:0.5em;
+	color:#000;
+	overflow:auto;
+}
+
+div.pagenav {
+	text-align:center;
+	font-size:85%;
+}
+
+body.files a {
+	color:#f2ae61;
+}
+
+/* Needed for Gitweb embedding: We can't modify the <body> tag. */
+div#SITENAME.Gitweb a {
+	color:#ebf261;
+}
+h1.Gitweb {
+	color:#fff;
+	border-bottom:3px solid #ebf261;
+}
+
+a.blog {
+	color:#61f2ae;
+}
+
+body.blog div#SITENAME a {
+	color:#61f2ae;
+}
+
+body.blog h1 {
+	color:#fff;
+	border-bottom:3px solid #61f2ae;
+}
+
+body.blog h2 {
+	border-left:2px solid #61f2ae;
+}
+
+div#MENU a.blog {
+	background-color:#61f2ae;
+}
+a.proj {
+	color:#ebf261;
+}
+
+body.proj div#SITENAME a {
+	color:#ebf261;
+}
+
+body.proj h1 {
+	color:#fff;
+	border-bottom:3px solid #ebf261;
+}
+
+body.proj h2 {
+	border-left:2px solid #ebf261;
+}
+
+div#MENU a.proj {
+	background-color:#ebf261;
+}
+a.files {
+	color:#f2ae61;
+}
+
+body.files div#SITENAME a {
+	color:#f2ae61;
+}
+
+body.files h1 {
+	color:#fff;
+	border-bottom:3px solid #f2ae61;
+}
+
+body.files h2 {
+	border-left:2px solid #f2ae61;
+}
+
+div#MENU a.files {
+	background-color:#f2ae61;
+}
+a.wish {
+	color:#e65cdf;
+}
+
+body.wish div#SITENAME a {
+	color:#e65cdf;
+}
+
+body.wish h1 {
+	color:#fff;
+	border-bottom:3px solid #e65cdf;
+}
+
+body.wish h2 {
+	border-left:2px solid #e65cdf;
+}
+
+div#MENU a.wish {
+	background-color:#e65cdf;
+}
+a.contact {
+	color:#5c7ae6;
+}
+
+body.contact div#SITENAME a {
+	color:#5c7ae6;
+}
+
+body.contact h1 {
+	color:#fff;
+	border-bottom:3px solid #5c7ae6;
+}
+
+body.contact h2 {
+	border-left:2px solid #5c7ae6;
+}
+
+div#MENU a.contact {
+	background-color:#5c7ae6;
+}

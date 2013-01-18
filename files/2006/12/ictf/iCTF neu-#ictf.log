@@ -1,0 +1,3013 @@
+**** BEGINNE LOGBUCH UM Fri Dec  8 17:59:45 2006
+
+Dez 08 17:59:45 *	Du sprichst jetzt in #ictf
+Dez 08 17:59:45 *	Das Thema für #ictf ist: iCTF 2006: ok, let's try this server out...
+Dez 08 17:59:48 *	Think ist jetzt bekannt als [USU]Thin
+Dez 08 17:59:51 *	[r2]Morph (~stern@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 17:59:52 *	[sigmil]s ist jetzt bekannt als [sigmil]
+Dez 08 18:00:00 <[RC]neerd>	and us from RedCops to RC ^^
+Dez 08 18:00:02 *	[int80]ks hat die Verbindung getrennt ()
+Dez 08 18:00:02 *	Du bist jetzt bekannt als [r2]Scy
+Dez 08 18:00:06 *	y0rn ist jetzt bekannt als [|]yorn
+Dez 08 18:00:07 *	pigrew (~conrad@coeee4-pc.uncc.edu) hat #ictf betreten
+Dez 08 18:00:08 *	m4z (~m4z@e176144208.adsl.alicedsl.de) hat #ictf betreten
+Dez 08 18:00:11 *	[int80]8- ist jetzt bekannt als [int80]r0
+Dez 08 18:00:13 *	[int80]ks (iag0@lawn-128-61-127-43.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:00:13 *	[int80]ks hat die Verbindung getrennt ()
+Dez 08 18:00:13 *	[DotF]zen (~DotF_Rob@pc53438.wiwi.uni-regensburg.de) hat #ictf betreten
+Dez 08 18:00:14 *	[DotF]Gho (~asdf@sg100.cip.uni-regensburg.de) hat #ictf betreten
+Dez 08 18:00:15 *	[int80]ks (~iag0@lawn-128-61-127-43.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:00:18 *	jay (~jay@131.247.190.1) hat #ictf betreten
+Dez 08 18:00:20 *	[sigmil] ist jetzt bekannt als [SM]sysen
+Dez 08 18:00:20 *	[r2]cm (~[r2]cm@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:00:27 *	[int80]ks (~iag0@lawn-128-61-127-43.lawn.gatech.edu) hat #ictf verlassen ([int80]ks)
+Dez 08 18:00:28 <[DotF]Gho>	very good :)
+Dez 08 18:00:32 *	jay ist jetzt bekannt als [wcsc]sjl
+Dez 08 18:00:37 <[wcsc]sjl>	finally
+Dez 08 18:00:39 *	[r2]uchi_ (~uchimata@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:00:39 <[DotF]zen>	finally
+Dez 08 18:00:42 *	[ENOFLAG] ist jetzt bekannt als thomasbl
+Dez 08 18:00:43 *	[ENOFLAG] (~niko@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:00:48 *	[int80]ks (~iag0@lawn-128-61-127-43.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:00:50 <[WoD]mcf1>	so what is the status?
+Dez 08 18:00:53 *	[ENONICK] (~chithead@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:00:56 <thomasbl>	can anybody allow longer nicks?
+Dez 08 18:00:58 <[poly]yan>	any minute
+Dez 08 18:01:02 *	[|]yorn ist jetzt bekannt als [r2]yorn
+Dez 08 18:01:09 <[TH]Raist>	snafu, [WoD]mcf1 
+Dez 08 18:01:13 *	amin (~amin@pool-72-64-253-55.tampfl.fios.verizon.net) hat #ictf betreten
+Dez 08 18:01:13 <thomasbl>	[ENOFLAG]thomasbl doesnt work :(
+Dez 08 18:01:15 *	[r2]yorn ist jetzt bekannt als [r
+Dez 08 18:01:18 *	[r ist jetzt bekannt als [r2]yorn
+Dez 08 18:01:22 *	[CInsects (~bastian@svs16.informatik.uni-hamburg.de) hat #iCTF betreten
+Dez 08 18:01:24 <[WoD]jtb>	Live-Webcam: http://130.83.164.201 - try it with vlc, mplayer or at your own risk: windows media player
+Dez 08 18:01:28 *	[NPS]knyt (~knytetyme@70.134.97.141) hat #ictf betreten
+Dez 08 18:01:29 *	[int80]r0 ist jetzt bekannt als [GT]8-D
+Dez 08 18:01:31 *	lamer1165 ist jetzt bekannt als [r2]mm
+Dez 08 18:01:32 *	amin ist jetzt bekannt als [WCSC]Lor
+Dez 08 18:01:37 *	Kasperle (~lutz@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 08 18:01:37 <wh-Bonzo>	lor~~
+Dez 08 18:01:37 *	DaSch (~dasch@svs16.informatik.uni-hamburg.de) hat #ictf verlassen (DaSch)
+Dez 08 18:01:38 *	[NPS]knyt ist jetzt bekannt als [fog]etc
+Dez 08 18:01:40 *	LordBalza (~balzarot@128.111.48.31) hat #ictf betreten
+Dez 08 18:01:43 <[WoD]mcf1>	nicklen: depends on the ircd, with hybrid its a compileoption.
+Dez 08 18:01:44 *	[DotF]Tro (~asda@pc53438.wiwi.uni-regensburg.de) hat #ictf betreten
+Dez 08 18:01:46 *	[r2]alex (~alex@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:01:51 *	[fog]etc ist jetzt bekannt als [f0g]etc
+Dez 08 18:01:53 *	[WCSC]Lor ist jetzt bekannt als [WCSC]AMA
+Dez 08 18:01:54 *	[CInsects (~bastian@svs16.informatik.uni-hamburg.de) hat #ictf verlassen ([CInsects)
+Dez 08 18:01:54 *	[USU]K0DE (~Koder@UCIT-ATM.eunnet.net) hat #ictf betreten
+Dez 08 18:02:05 <[DotF]hat>	its to dark in your room [WoD]jtb 
+Dez 08 18:02:06 <[WoD]mcf1>	so increasing nicklen is a issue with some ircd, yes.
+Dez 08 18:02:09 *	[CInsects (~bastian@svs16.informatik.uni-hamburg.de) hat #iCTF betreten
+Dez 08 18:02:09 <[USU]K0DE>	Yo =)
+Dez 08 18:02:11 *	[ENOFLAG] ist jetzt bekannt als [FLAG]ani
+Dez 08 18:02:11 <zanardi>	the password for the image is h1llb1lly
+Dez 08 18:02:18 *	[r2]B3n (~Benjamin.@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:02:21 *	[W0Y]Free (~[W0Y]Free@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:02:22 <[r2]lux>	GOGOGO
+Dez 08 18:02:23 *	[ENONICK] ist jetzt bekannt als [ENFLG]ch
+Dez 08 18:02:29 <[ch]stfu>	OMG
+Dez 08 18:02:34 *	[uclion]r (~[uclion]r@rattlesnake-cuda-2-68-170-20-216.clspco.adelphia.net) hat #ictf betreten
+Dez 08 18:02:42 <[USU]K0DE>	where u go ? =)
+Dez 08 18:02:49 *	[SM]ex0 (~=@zaphod.acm.uiuc.edu) hat #ictf betreten
+Dez 08 18:02:50 <[WoD]mcf1>	set is as topic
+Dez 08 18:03:04 <[SM]ex0>	can anyone hear me 
+Dez 08 18:03:11 <[WoD]jtb>	[DotF]hat: too dark?
+Dez 08 18:03:13 *	w0lverine ist jetzt bekannt als [r2]w0lve
+Dez 08 18:03:14 <[SM]ex0>	the last time i tried i got kicked off
+Dez 08 18:03:15 <[SM]ex0>	yay
+Dez 08 18:03:16 <[FLAG]ani>	The password to the image is "h1llb1lly" (and you will understand why)
+Dez 08 18:03:16 <[FLAG]ani>	The NEW rules are at
+Dez 08 18:03:16 <[FLAG]ani>	http://www.cs.ucsb.edu/~vigna/CTF/rules.html
+Dez 08 18:03:16 <[FLAG]ani>	PLEASE READ THE RULES CAREFULLY: a lot has changed.
+Dez 08 18:03:16 <[FLAG]ani>	We are going to open the network in an hour or so...
+Dez 08 18:03:20 <[W0Y]woll>	[SM]ex0: no, but we can read you ;)
+Dez 08 18:03:21 *	__Cray (~chris@haakonia.hitnet.RWTH-Aachen.DE) hat #ictf betreten
+Dez 08 18:03:22 *	[RC]Fanch (~flesueur@193.54.193.10) hat #ictf betreten
+Dez 08 18:03:28 *	angus (~angus@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:03:30 *	Garnth (~1@131.247.190.1) hat #ictf betreten
+Dez 08 18:03:32 <[USU]K0DE>	real?
+Dez 08 18:03:32 <[ch]stfu>	OMFG NO FLAG
+Dez 08 18:03:36 <[USU]K0DE>	yeah!
+Dez 08 18:03:39 *	__Cray ist jetzt bekannt als [0ldEur0p
+Dez 08 18:03:46 <[USU]K0DE>	LET'S THE BATTLE BEGIN ^)
+Dez 08 18:03:53 *	[0ldEur0p ist jetzt bekannt als [0E]bruef
+Dez 08 18:04:04 <[TH]Raist>	zanardi, we hate you and we love you
+Dez 08 18:04:17 *	angus hat die Verbindung getrennt (KVIrc 3.2.5 Anomalies http://www.kvirc.net/)
+Dez 08 18:04:17 *	[NPS]KT ist jetzt bekannt als [f0g]etc2
+Dez 08 18:04:27 *	[f0g]etc hat die Verbindung getrennt (leaving)
+Dez 08 18:04:33 <[WCSC]Zap>	pressin
+Dez 08 18:04:42 *	[DotF]Tom (~user@132.199.211.30) hat #ictf betreten
+Dez 08 18:05:10 <[USU]K0DE>	omg...
+Dez 08 18:05:27 <[f0g]etc2>	WTF NO VMX FILE
+Dez 08 18:05:31 *	[cm]ema (~ema@host159-32.pool80116.interbusiness.it) hat #ictf betreten
+Dez 08 18:05:44 <[0E]lexi>	YES, no VMX-FILE
+Dez 08 18:05:46 <[0E]lexi>	?
+Dez 08 18:05:56 *	[W0Y]c2 (~chris2@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:06:03 <[USU]VenR>	http://ivonova.cs.ucsb.edu/ doen't work, should it?
+Dez 08 18:06:04 *	tom (~tom@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:06:05 *	ax3l (~Ed@205.134.188.162) hat #ictf betreten
+Dez 08 18:06:10 <[f0g]etc2>	INSTRUCTIONS?!?!?!
+Dez 08 18:06:17 *	mikep_ (~celtikl@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 18:06:20 *	[0E]Kaspe hat die Verbindung getrennt (leaving)
+Dez 08 18:06:45 <[W0Y]bies>	[USU]VenR, works now, it seems
+Dez 08 18:06:56 *	[r2]ba_ (~balthasar@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:07:20 *	mikep_ (~celtikl@vpnctf.poly.edu) hat #ictf verlassen (mikep_)
+Dez 08 18:07:32 <zanardi>	click on "All files
+Dez 08 18:07:33 *	[WoY]angu (~kvirc@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:07:38 <zanardi>	click on "All files
+Dez 08 18:07:59 <zanardi>	 click on "All files" on the vmware dialog and choose "CTF"
+Dez 08 18:08:04 *	[NPS]ax3l hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:08:08 <zanardi>	this way you'll start the vmware machine
+Dez 08 18:08:25 <zanardi>	we tested it, it works
+Dez 08 18:08:39 *	mikep_ (~celtikl@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 18:08:41 <[USU]K0DE>	ivonova is work
+Dez 08 18:09:04 <[ci]TriPx>	not anymore
+Dez 08 18:09:19 <Garnth>	http://www.cs.ucsb.edu/~vigna/CTF/rules.html
+Dez 08 18:09:24 *	[PSU]BBA- (~[PSU]BBA-@client-128-118-126-17.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 18:09:52 *	[ENOFLAG] (~hesso@c185.math.TU-Berlin.DE) hat #ictf betreten
+Dez 08 18:10:12 *	mikep_ (~celtikl@vpnctf.poly.edu) hat #ictf verlassen (mikep_)
+Dez 08 18:10:13 *	[ENFLG]ch hat die Verbindung getrennt (ChatZilla 0.9.67+ [SeaMonkey 1.0.6/0000000000])
+Dez 08 18:10:36 *	nucia (~steal@63.149.122.194) hat #ictf betreten
+Dez 08 18:10:37 *	[DotF]Tro hat die Verbindung getrennt ()
+Dez 08 18:10:50 *	[squarero ist jetzt bekannt als [r2]doku
+Dez 08 18:11:11 <nucia>	so...where do we get the server image?
+Dez 08 18:11:22 *	freeper (~smoser2@dynpool-canary.cs.uiuc.edu) hat #ictf betreten
+Dez 08 18:11:35 *	armengar_ (~armengar@client-128-118-126-186.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 18:11:36 *	[ENFLG]WN (_ENOFLAG_W@suffry.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:11:48 <[TH]Raist>	nucia, it's been available for 6 hours or so...
+Dez 08 18:11:55 *	armengar_ ist jetzt bekannt als [psu]arme
+Dez 08 18:11:58 <nucia>	awesome...
+Dez 08 18:12:01 <nucia>	where?
+Dez 08 18:12:11 <zanardi>	the image is at http://www.cs.ucsb.edu/~vigna/CTF/CTF.tgz.gpg
+Dez 08 18:12:20 <[ch]stfu>	nucia: http://www.microsoft.com/windowsxp/pro/howtobuy/default.mspx
+Dez 08 18:12:27 <zanardi>	nucia are you on the ctf-participants list?
+Dez 08 18:12:31 <nucia>	thanks
+Dez 08 18:12:38 <nucia>	thanks dbag
+Dez 08 18:13:03 <[USU]Thin>	"The competition has not started yet" is it true?
+Dez 08 18:13:07 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:13:13 *	[poly]mik (~celtikl@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 18:13:15 <[PSU]BBA->	yes
+Dez 08 18:13:23 *	[int80]ca hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:13:25 <nucia>	did the image location go out on the mailing list or what?
+Dez 08 18:13:49 <[PSU]BBA->	yes
+Dez 08 18:13:50 *	freeride hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:14:07 *	freeper ist jetzt bekannt als [SM]freep
+Dez 08 18:14:21 *	[FLAG]wnd (_ENOFLAG_W@lingia.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:14:34 <nucia>	crapola...looks like we gave y'all a head start ;)
+Dez 08 18:14:42 *	[WoY]visq (~benedikt@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:14:51 *	daust4 (~daust4@foobar.uncc.edu) hat #ictf verlassen (daust4)
+Dez 08 18:14:55 *	enji hat die Verbindung getrennt (Verlassend)
+Dez 08 18:15:16 <nucia>	what about the pass? was it in the email too?
+Dez 08 18:15:29 <zanardi>	the image location was disclosed on the mailing list a few hours ago
+Dez 08 18:15:45 <[r2]Scy>	The password to the image is "h1llb1lly" (and you will understand why
+Dez 08 18:15:46 *	[ENFLG]ko (~root@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:15:56 <nucia>	thanks
+Dez 08 18:16:02 *	v (~vladod@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:16:14 *	daust4 (~daust4@foobar.uncc.edu) hat #ictf betreten
+Dez 08 18:16:30 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:16:37 <[WoD]code>	there is a vmware problem with ubuntu server kernels, some machienes won't be able to boot the kernel
+Dez 08 18:16:43 <zanardi>	a few important things are going to be disclosed on the mailing list
+Dez 08 18:17:09 *	sullivan (~sullivan@ctf.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 18:17:11 <sullivan>	yo
+Dez 08 18:17:19 *	daust4 (~daust4@foobar.uncc.edu) hat #ictf verlassen (daust4)
+Dez 08 18:17:44 *	loser hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:18:03 *	tux_ (~tux@vpn-0560.zrz.TU-Berlin.DE) hat #ictf betreten
+Dez 08 18:18:44 *	[wcsc]rcx hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:18:53 *	tux_ ist jetzt bekannt als [ENFLG]na
+Dez 08 18:20:35 *	Raistolo (~raistlin@131.175.127.8) hat #ictf betreten
+Dez 08 18:20:50 <Raistolo>	cough
+Dez 08 18:20:58 <Raistolo>	[TH]Raist is a ghost :D
+Dez 08 18:21:36 *	[TH]Raist hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:21:38 <Raistolo>	which is the address of the team's page on the central bank ? it's not specified in the rules
+Dez 08 18:21:41 *	Raistolo ist jetzt bekannt als [TH]Raist
+Dez 08 18:21:52 *	[r2]matka (~matkare@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:22:15 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:22:29 *	freeride (~brad@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 18:22:52 <[r2]B3n>	Hi Phil
+Dez 08 18:22:58 <[r2]matka>	servus
+Dez 08 18:23:10 *	deadeye (~deadeyery@dhcp20-154.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:23:16 *	nomed (~nomed@dhcp20-247.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:23:36 *	[W0Y]Free ist jetzt bekannt als [W0Y]free
+Dez 08 18:23:50 <nullptr>	Raistolo: 10.0.0.2, but it's not available at the moment
+Dez 08 18:23:55 <[TH]Raist>	kkkk
+Dez 08 18:24:12 *	[poly]ra1 hat die Verbindung getrennt (Lost terminal)
+Dez 08 18:24:21 *	snow (~snow@205.134.188.162) hat #ictf betreten
+Dez 08 18:24:22 <[FLAG]ani>	has anyone a solution to the image kernel problem?
+Dez 08 18:24:26 <zanardi>	PLEASE check out the mailing list...
+Dez 08 18:24:37 *	snow hat die Verbindung getrennt (Leaving)
+Dez 08 18:25:40 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:25:41 *	nullptr gibt Op-Status an nomed
+Dez 08 18:26:10 *	nullptr gibt Op-Status an LordBalza
+Dez 08 18:27:04 *	snow (~snow@205.134.188.162) hat #ictf betreten
+Dez 08 18:28:01 *	deadeye hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:28:14 <[TH]Raist>	giovanni: clarification, we should have ibtn-client up and running before the game starts, right ?
+Dez 08 18:28:48 *	[r2]alex ist jetzt bekannt als [r2]alex1
+Dez 08 18:28:48 *	[r2]alex1 hat die Verbindung getrennt ()
+Dez 08 18:29:28 <LordBalza>	Before the game, there is no game. So, I do not think that running ibtn-client is necessary
+Dez 08 18:30:00 *	nullptr wonders what is a "balza"...
+Dez 08 18:30:01 *	[ENFLG]ra (~raulg@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:30:04 <[USU]Thin>	Which password we can change on our server?
+Dez 08 18:30:56 *	LordBalza ist jetzt bekannt als Balzaroth
+Dez 08 18:31:23 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:31:24 <[SM]ex0>	Can anyone at ucsb help with network issues
+Dez 08 18:31:30 <[TH]Raist>	Balza was a lot better :D
+Dez 08 18:31:47 <[SM]ex0>	We are having network issues
+Dez 08 18:31:47 <Balzaroth>	Anyone, but then remember to post the passord on the irc :D
+Dez 08 18:31:52 <[SM]ex0>	at uiuc
+Dez 08 18:32:17 <[USU]Thin>	Balzaroth, ok;)
+Dez 08 18:32:33 <nullptr>	[SM]ex0: the network is down until the game starts
+Dez 08 18:32:52 <Balzaroth>	Hey, how many teams have the image running right now ??
+Dez 08 18:32:53 <nullptr>	[SM]ex0: if you previously connected, you should be ok...
+Dez 08 18:32:55 <[SM]ex0>	including the main box?
+Dez 08 18:33:01 <[SM]ex0>	sould we be able to ping the main box?
+Dez 08 18:33:06 *	[ENOFLAG] ist jetzt bekannt als [ENFLG]He
+Dez 08 18:33:20 <Balzaroth>	Yes, you should
+Dez 08 18:33:34 *	[CInsects (~bastian@svs16.informatik.uni-hamburg.de) hat #iCTF verlassen ([CInsects)
+Dez 08 18:33:41 <[SM]ex0>	ok but we can't right now
+Dez 08 18:33:51 *	TheSneak (~matt@pc82.cs.ucdavis.edu) hat #ictf betreten
+Dez 08 18:33:51 <[SM]ex0>	we are unable to ping the main box
+Dez 08 18:33:52 <nucia>	we could ping the main box this morning but cant now...has something changed on the administrative side?
+Dez 08 18:34:08 <Balzaroth>	Please, if you have the image up can you say "ACK"
+Dez 08 18:34:21 <[r2]log1c>	ACK
+Dez 08 18:34:31 <wh-Bonzo>	ACK
+Dez 08 18:34:37 <[USU]Thin>	ACK
+Dez 08 18:34:45 <[WCSC]666>	aflACK
+Dez 08 18:34:45 <[TH]Raist>	ACK
+Dez 08 18:34:46 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:34:49 <m4z>	ACK
+Dez 08 18:34:51 <zanardi>	chris are you there?
+Dez 08 18:34:54 <nullptr>	[SM]ex0: you should contact vika...
+Dez 08 18:34:58 *	m4z ist jetzt bekannt als [ci]m4z
+Dez 08 18:35:06 <zanardi>	yes vika is the network witch
+Dez 08 18:35:12 *	TheSneak ist jetzt bekannt als [UCD]TheS
+Dez 08 18:35:26 <[ch]stfu>	ACK
+Dez 08 18:35:30 <[0E]awjb>	ACK
+Dez 08 18:35:36 *	[CI]5eeU (~bastian@svs16.informatik.uni-hamburg.de) hat #iCTF betreten
+Dez 08 18:35:45 <wh-Bonzo>	http://static.flickr.com/79/210356611_1e0f0e3100_b.jpg
+Dez 08 18:35:50 <[0E]lexi>	ACK
+Dez 08 18:35:51 *	[UCD]TheS ist jetzt bekannt als [UCD]snk
+Dez 08 18:36:13 *	[W0Y]mne (~mne@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:36:35 <zanardi>	cool pic
+Dez 08 18:36:37 *	[r2]B3n hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:37:23 <zanardi>	stefano (zanero) are you connected to IRC now?
+Dez 08 18:37:32 <[TH]Raist>	i'm here
+Dez 08 18:37:45 *	[TH]Raist waves his hand
+Dez 08 18:37:51 <zanardi>	we are going to start the game in 20mins
+Dez 08 18:37:57 *	nullptr hat das Thema geändert zu: iCTF 2006: T-20 min...or so...
+Dez 08 18:38:07 *	[r2]Morph hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:38:13 <[UCD]snk>	UCD is having local connectivity issues
+Dez 08 18:38:27 <nullptr>	how...local...?
+Dez 08 18:38:27 *	[poly]dan hat die Verbindung getrennt (Leaving)
+Dez 08 18:38:30 *	[WoY]angu hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:38:37 <[SM]ex0>	is vika in here
+Dez 08 18:38:37 <zanardi>	like, totally local?
+Dez 08 18:38:38 <[SM]ex0>	?
+Dez 08 18:38:39 *	[Int80] (user@lawn-128-61-114-38.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:38:42 <zanardi>	yes she is
+Dez 08 18:38:46 <[USU]Thin>	zanardi, 20 minutes for two hour deadline?
+Dez 08 18:38:46 <[UCD]snk>	(yeah... like we can't talk to our upstream router)
+Dez 08 18:38:52 <zanardi>	she disdains irc, though
+Dez 08 18:39:15 <zanardi>	but the IRC channel is being projected on the wall ...
+Dez 08 18:39:20 <nullptr>	[UCD]snk: ok, good luck ;-)
+Dez 08 18:39:46 <zanardi>	kruegel where are you? 
+Dez 08 18:40:01 *	[Int80] hat die Verbindung getrennt (Trillian (http://www.ceruleanstudios.com)
+Dez 08 18:40:01 *	[ENOFLAG] (~lars@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 18:40:05 *	[ENFLG]He ist jetzt bekannt als [ENFLG]H
+Dez 08 18:40:12 <[W0Y]free>	here
+Dez 08 18:40:14 *	[ENFLG]H hat die Verbindung getrennt (Leaving)
+Dez 08 18:40:15 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:40:28 <[W0Y]free>	but I am not logged in myself
+Dez 08 18:40:43 *	[ENOFLAG] ist jetzt bekannt als [ENOFLG]l
+Dez 08 18:40:44 *	[Int80]Kn (user@lawn-128-61-114-38.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:40:45 <[TH]Raist>	hah, using someone else's connection
+Dez 08 18:40:52 <[TH]Raist>	these wily austrian hackers...
+Dez 08 18:40:57 *	[ENOFLG]l ist jetzt bekannt als [ENFLG]la
+Dez 08 18:41:01 <[W0Y]free>	the last msg was from kruegel to zanardi 
+Dez 08 18:41:09 <nucia>	does anyone there have access to the router box managing the vpns?
+Dez 08 18:41:11 <[W0Y]free>	in case anyone wondered
+Dez 08 18:41:40 <nucia>	i'm interested in knowing if you can see our pings
+Dez 08 18:41:43 <zanardi>	free=chris kruegel?
+Dez 08 18:41:58 <[W0Y]free>	not anymore
+Dez 08 18:42:03 <zanardi>	I heard that chris kruegel went to jaiil a few days ago on hacking charges
+Dez 08 18:42:10 <[W0Y]free>	but from time to time .. when I call him
+Dez 08 18:42:11 <zanardi>	is it true?
+Dez 08 18:42:17 *	[NPS]scsi hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:42:52 <[W0Y]free>	well if he has a clone then amybe its true ... the guy here looks remarkably like him
+Dez 08 18:43:03 <[TH]Raist>	UCSB: is the IBAN code a mile-long hash ?
+Dez 08 18:43:21 <[TH]Raist>	or do we have some problems with the generations script ? :D
+Dez 08 18:43:41 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:43:42 <nullptr>	[TH]Raist: maybe a couple of klicks, but it's not a hash :-)
+Dez 08 18:43:42 <[WCSC]666>	I thought your name was racist for a second
+Dez 08 18:43:56 <Balzaroth>	I received only 10 ACKs. Does that mean that more than half of the team are not able to start the image??
+Dez 08 18:44:21 *	[NPS]scsi (~scsi@c-67-188-130-101.hsd1.ca.comcast.net) hat #ictf betreten
+Dez 08 18:44:32 *	[solo]Shd (ShdwSpectr@157.dialup.42.uia.net) hat #ictf betreten
+Dez 08 18:45:00 *	[poly]dan (~dan@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 18:45:08 *	v hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:45:14 *	tom hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:45:28 *	Balzaroth hat das Thema geändert zu: iCTF 2006: T-15 min...or so...
+Dez 08 18:45:58 *	[W0Y]Kid hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:46:02 *	[NPS]scsi hat die Verbindung getrennt (Lost terminal)
+Dez 08 18:46:12 <[USU]Thin>	Balzaroth, 15 mins for what? For battle begins? Or for two hours period?
+Dez 08 18:46:59 *	lelelele (~knoppix@ctf.sec.dico.unimi.it) hat #ictf betreten
+Dez 08 18:47:02 *	mercutio (~marco@dhcp20-131.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:47:24 *	[W0Y]c2 hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:47:24 *	[W0Y]flo hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:47:24 <[TH]Raist>	for the beginning :D
+Dez 08 18:47:43 *	[SM]sysen ist jetzt bekannt als [SM]sys
+Dez 08 18:48:11 <[RC]neerd>	ACK for redcops (sorry for the delay :p )
+Dez 08 18:48:16 <[WCSC]666>	I wish my gf only had a two hour period
+Dez 08 18:48:19 <[USU]Thin>	15 mins for routing will start?
+Dez 08 18:48:20 <[WCSC]666>	Like would be great
+Dez 08 18:48:29 <zanardi>	uiuc guys, how is it going? Vika is asking about you
+Dez 08 18:48:47 <[WCSC]666>	Tell Vika that Dustin from WCSC always asks about her
+Dez 08 18:49:00 <[WCSC]666>	And if she doesn't remember him, Bonzo will post the pic from DefCon
+Dez 08 18:49:01 *	[r2]B3n (~Benjamin.@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 18:49:08 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:49:15 <zanardi>	666 be careful, you are on speakerphones
+Dez 08 18:49:37 *	Balzaroth hat das Thema geändert zu: iCTF 2006: T-10 min...or so...
+Dez 08 18:49:40 *	nullptr hat das Thema geändert zu: iCTF 2006: ~10 min
+Dez 08 18:49:44 *	[W0Y]free hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:49:44 *	[W0Y]mne hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:49:44 *	[W0Y]bies hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:50:31 *	[WoY]visq hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:50:32 <[SM]sys>	zanardi: this is uiuc, is the mainbox ip 10.0.0.1
+Dez 08 18:50:53 *	husmousa (~husmousa@duke.cs.ucsb.edu) hat #ictf betreten
+Dez 08 18:50:54 <zanardi>	0ld Eur0pe are you there?
+Dez 08 18:50:58 *	[WoY]atro hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:51:24 <Kasperle>	sorta :P
+Dez 08 18:51:26 <[0E]lexi>	jes, we should be there
+Dez 08 18:51:45 *	[W0Y]woll hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:51:48 *	andy_ hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:51:49 *	husmousa ist jetzt bekannt als [UCSB]hus
+Dez 08 18:51:52 <zanardi>	uiuc: the mainbox IS 10.0.0.1
+Dez 08 18:52:24 *	DripFlux (~dripflux@205.134.188.162) hat #ictf betreten
+Dez 08 18:52:32 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:52:38 <zanardi>	UIUC: send an email to Vika describing why you cannot connect
+Dez 08 18:52:55 <zanardi>	she said she sent an email to the UIUC poc
+Dez 08 18:53:13 *	david hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:53:13 *	deadeye (~deadeyery@dhcp20-154.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 18:53:44 *	Balzaroth hat das Thema geändert zu: iCTF 2006: ~5 min
+Dez 08 18:54:02 <[TH]Raist>	davide read in private pls :)
+Dez 08 18:54:03 *	[W0Y]free (~[W0Y]Free@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:54:04 *	ax3l ist jetzt bekannt als [f0g]ax3l
+Dez 08 18:54:12 *	anjova (~andy@205.134.188.162) hat #ictf betreten
+Dez 08 18:54:36 <[USU]Thin>	Balzaroth, zanardi routing will work?
+Dez 08 18:54:53 *	anjova hat die Verbindung getrennt (Ex-Chat)
+Dez 08 18:55:09 *	deadeye (~deadeyery@dhcp20-154.wirelesstest.ucsb.edu) hat #ictf verlassen (deadeye)
+Dez 08 18:55:10 *	[W0Y]free hat die Verbindung getrennt (... und tschüß)
+Dez 08 18:55:33 <Balzaroth>	Of course
+Dez 08 18:55:39 *	[f0g] (~andy@205.134.188.162) hat #ictf betreten
+Dez 08 18:55:48 <zanardi>	routing always works
+Dez 08 18:55:58 <nullptr>	except when it doesn't
+Dez 08 18:55:58 <zanardi>	5 minutes to game
+Dez 08 18:56:19 *	[W0Y]mne (~mne@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:56:31 *	DripFlux ist jetzt bekannt als [f0g]Drip
+Dez 08 18:57:01 <[USU]Thin>	zanardi, can we close 22 port on our server?
+Dez 08 18:57:30 <[TH]Raist>	no, otherwise we won't be able to connect to it :D
+Dez 08 18:57:52 <[TH]Raist>	and please, do display a conveniently short root password in the connection banner somewhere
+Dez 08 18:57:54 *	dunedain (~dunedain@w-mob201-128-62-93-14.public.utexas.edu) hat #ictf betreten
+Dez 08 18:58:15 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 18:58:30 *	andy_ (~andy@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:58:42 *	[uclion]r hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:58:52 *	[W0Y]Free (~[W0Y]Free@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:58:55 <[USU]Thin>	[TH]Raist, wery funny:)
+Dez 08 18:59:04 *	[W0Y]woll (~gk@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:59:11 *	Balzaroth hat das Thema geändert zu: iCTF 2006: ~1 min
+Dez 08 18:59:22 *	[DotF]Tom hat die Verbindung getrennt (Ping timeout)
+Dez 08 18:59:22 <zanardi>	one minute to start
+Dez 08 18:59:24 <[W0Y]Free>	our main switch just died ... thank god we have a backup
+Dez 08 18:59:30 *	[wcsc]rx (~racerx@131.247.190.1) hat #ictf betreten
+Dez 08 18:59:39 *	dunedain ist jetzt bekannt als [ut]scott
+Dez 08 18:59:53 *	[W0Y]bies (~chb@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 18:59:56 <[TH]Raist>	do you also have the backup of the backup ?
+Dez 08 18:59:57 <zanardi>	ready, set, go!
+Dez 08 19:00:10 <[poly]yan>	are we live?
+Dez 08 19:00:19 *	[ENFLG]ch (~chithead@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 08 19:00:30 <nullptr>	you are live and being hacked
+Dez 08 19:00:33 <[USU]Thin>	10.0.0.2 is now pingable!
+Dez 08 19:00:54 *	Muelli (~muelli@vpn1-24.tu-graz.ac.at) hat #ictf betreten
+Dez 08 19:00:56 <[TH]Raist>	cool
+Dez 08 19:01:24 *	rillig (~roland@c167017.adsl.hansenet.de) hat #iCTF betreten
+Dez 08 19:01:30 *	rillig ist jetzt bekannt als [ci]rilli
+Dez 08 19:01:37 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:01:47 *	chris (~chris@grier.crhc.uiuc.edu) hat #ictf betreten
+Dez 08 19:01:47 *	chris hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 19:02:15 <[ci]ibmo>	hi muelli
+Dez 08 19:02:24 *	[SM]freep hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:02:28 *	odo (~odo@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 19:02:46 <Muelli>	hi
+Dez 08 19:02:55 *	[ci]ibmo is mokrates
+Dez 08 19:03:07 *	[r2]B3n hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:03:25 *	Muelli ist jetzt bekannt als [ci]Muell
+Dez 08 19:03:44 *	[SIGMil]M (epanastasi@glass.dreamhost.com) hat #ictf betreten
+Dez 08 19:03:50 <Balzaroth>	Do not try to hack the Central Bank !!!
+Dez 08 19:04:00 *	[SIGMil]M ist jetzt bekannt als [SIGMIL]M
+Dez 08 19:04:24 <Balzaroth>	We see yoor attempt and your gonna be penalized
+Dez 08 19:05:04 <[TH]Raist>	zanardi, we are seemingly having a problem with routing to the central bank
+Dez 08 19:05:13 <[TH]Raist>	will get back to you in a sec with more details
+Dez 08 19:05:51 <Balzaroth>	IMPORTANT, no reverse DNS... slow down the services and they appear DOWN
+Dez 08 19:06:44 *	i80-schol hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:06:54 <zanardi>	the first check was generated!
+Dez 08 19:06:58 <zanardi>	ride on!
+Dez 08 19:07:03 <zanardi>	somebody IS getting it
+Dez 08 19:07:22 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:07:30 <zanardi>	please do cp /dev/null /etc/resolv.conf
+Dez 08 19:07:46 <[USU]Thin>	Balzaroth, Can we check our stat by HTTP on 10.0.0.2? It is legal?
+Dez 08 19:08:58 *	[f0g]ax3l hat die Verbindung getrennt (Leaving)
+Dez 08 19:10:25 *	[squarero (~stern@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 19:10:44 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:10:58 *	[int80]sc (~[int80]sc@lawn-128-61-115-108.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:11:23 *	jstimson (~jstimson@205.134.188.162) hat #ictf betreten
+Dez 08 19:11:26 <Balzaroth>	Check that you /etc/TEAM is NOT 99
+Dez 08 19:11:48 *	[W0Y]flo (~florian@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 19:12:01 <zanardi>	0ld Eur0pe are big spenders!!!!
+Dez 08 19:12:05 <[TH]Raist>	we can't route from our vuln box to 10.0.0.2
+Dez 08 19:12:19 *	[W0Y]c2 (~chris2@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 19:12:23 <Kasperle>	hmm?
+Dez 08 19:13:29 <[TH]Raist>	exactly my same comment
+Dez 08 19:14:26 *	[WoY]angu (~kvirc@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 19:14:36 *	Koder_ (~Koder@UCIT-ATM.eunnet.net) hat #ictf betreten
+Dez 08 19:15:14 <[f0g]etc2>	is php serving supposed to be broken?
+Dez 08 19:15:30 <nullptr>	[f0g]etc2: nope
+Dez 08 19:15:46 <[WoD]jtb>	but it's broken :(
+Dez 08 19:15:47 <[TH]Raist>	think we found out
+Dez 08 19:15:50 <[r2]tho>	hmmm, our services are not down
+Dez 08 19:16:00 <nullptr>	[TH]Raist: should probably contact vika directly for network issues...
+Dez 08 19:16:01 <[r2]tho>	but the status page says that we are down...
+Dez 08 19:16:15 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:16:33 <[f0g]etc2>	let me restate the question, in the image you gave us php serving is not correctly configured...is that the way it is supposed to be?
+Dez 08 19:16:36 <nullptr>	[WoD]jtb: php is broken for you as well?
+Dez 08 19:16:49 <[WoD]jtb>	nullptr: yes, seems so
+Dez 08 19:16:56 <[WoD]jtb>	nullptr: try 10.6.1.3:1335
+Dez 08 19:16:58 <[f0g]etc2>	nullptr: same for me
+Dez 08 19:16:59 <nullptr>	[f0g]etc2: no, it shouldn't be...have you made any changes to the config?
+Dez 08 19:17:02 <[DotF]Raf>	we got the same problem...
+Dez 08 19:17:09 <[f0g]etc2>	we tried to fix it
+Dez 08 19:17:11 <nullptr>	gimme a sec...
+Dez 08 19:17:12 <[f0g]etc2>	but no dice
+Dez 08 19:17:39 <[WoD]jtb>	no changes to the config - php is broken :(
+Dez 08 19:17:46 <[DotF]Gho>	we changed nothing
+Dez 08 19:17:49 <[DotF]Gho>	but server is down
+Dez 08 19:17:54 <[DotF]Gho>	what to do?
+Dez 08 19:18:14 *	zanardi hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:18:21 *	ax3l (~Ed@205.134.188.162) hat #ictf betreten
+Dez 08 19:18:30 *	Koder_ hat die Verbindung getrennt (Ухожу)
+Dez 08 19:18:38 <[USU]K0DE>	?
+Dez 08 19:18:39 <[r2]lux>	u need to start it up urself 
+Dez 08 19:18:47 <nullptr>	it works for me
+Dez 08 19:19:02 *	[W0Y]Kid (~f.lukscha@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 19:19:20 <nullptr>	ok, PHP guys, check out the URL you are using...
+Dez 08 19:19:42 *	[SM]ex0 hat die Verbindung getrennt (Lost terminal)
+Dez 08 19:19:44 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:20:07 *	[PSU]teeh (~pallus@client-128-118-127-48.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 19:20:36 *	odo hat die Verbindung getrennt (Connection timed out)
+Dez 08 19:21:02 *	[SM]freep (~smoser2@dynpool-canary.cs.uiuc.edu) hat #ictf betreten
+Dez 08 19:21:09 <[TH]Raist>	our ibtn-client gets a "connection refused" ;)
+Dez 08 19:21:12 <[TH]Raist>	is that ok ?
+Dez 08 19:21:30 <[PSU]teeh>	yup
+Dez 08 19:22:12 *	tom (~tom@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 19:24:23 <Balzaroth>	Sorry guys, main bank down for maintainange
+Dez 08 19:24:27 <Balzaroth>	..ce
+Dez 08 19:24:33 <[TH]Raist>	lol
+Dez 08 19:25:24 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:27:04 <[TH]Raist>	the fact that all of our services are marked "down" is related to that ? :D
+Dez 08 19:27:15 <[USU]Thin>	Where post flags?
+Dez 08 19:27:16 *	zanardi (~vigna@128.111.48.31) hat #ictf betreten
+Dez 08 19:27:29 *	nullptr gibt Op-Status an zanardi
+Dez 08 19:27:54 <[TH]Raist>	[USU]Thin: flags ?
+Dez 08 19:28:24 *	[ch]jared hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:28:46 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:28:49 <Balzaroth>	we are up again
+Dez 08 19:28:56 *	nullptr hat das Thema geändert zu: iCTF 2006: it's (back) on
+Dez 08 19:28:59 <Spida>	[USU]Thin: just post them here
+Dez 08 19:29:09 <[USU]Thin>	Not flags... Questions!
+Dez 08 19:29:27 <[USU]Thin>	*Not flags... Quests!
+Dez 08 19:29:49 <[USU]VenR>	were do we submit quests?
+Dez 08 19:29:52 <[ci]teyth>	[ci]Muell: join fbi-oe
+Dez 08 19:30:25 *	odo (~odo@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 19:30:31 <[USU]VenR>	how?
+Dez 08 19:30:38 <[USU]VenR>	where is it?
+Dez 08 19:30:40 <[PSU]teeh>	copy paste
+Dez 08 19:31:21 *	jared (~jared@131.181.47.11) hat #ictf betreten
+Dez 08 19:31:23 <[USU]VenR>	where to copy paste?
+Dez 08 19:31:36 *	jared ist jetzt bekannt als [ch]jared
+Dez 08 19:31:46 <[r2]lux>	u have to post it right here
+Dez 08 19:31:55 <[r2]lux>	an bot takes it
+Dez 08 19:32:13 <[USU]VenR>	lol
+Dez 08 19:32:19 <[r2]lux>	^^
+Dez 08 19:34:17 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:34:57 *	[ENFLG]He (~hesso@c185.math.TU-Berlin.DE) hat #ictf betreten
+Dez 08 19:35:11 *	[RedCops] (~jp3@193.54.193.3) hat #ictf betreten
+Dez 08 19:37:17 *	[poly]pet hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:37:30 <Balzaroth>	Most of the team are not connected to the Central Bank.
+Dez 08 19:37:46 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:38:00 <[WoD]jtb>	Balzaroth: what does this mean?
+Dez 08 19:38:10 <[wcsc]37i>	that means you lose
+Dez 08 19:38:13 <[wcsc]37i>	:)
+Dez 08 19:38:27 <[W0Y]Free>	is the central bank down?
+Dez 08 19:38:57 <[wcsc]37i>	doesnt apear to be
+Dez 08 19:38:57 <[TH]Raist>	davide: we have troubles in connecting
+Dez 08 19:39:03 <[TH]Raist>	we connected for a brief time
+Dez 08 19:39:06 <[WoD]jtb>	which ip is the central bank? which port?
+Dez 08 19:39:10 <[TH]Raist>	and then we were disconnected again
+Dez 08 19:39:28 <[W0Y]Free>	all our services are reported as down ...
+Dez 08 19:39:36 <[W0Y]Free>	but they aren't
+Dez 08 19:39:41 <[TH]Raist>	same here
+Dez 08 19:40:05 <[r2]doku>	same here as well
+Dez 08 19:40:06 <Balzaroth>	that your ibtn-client is not working properly
+Dez 08 19:40:07 <[poly]dan>	we also 'think' we started everything
+Dez 08 19:40:14 <Balzaroth>	No
+Dez 08 19:40:15 <[WoD]jtb>	Balzaroth: where is the central bank? which ip? which port?
+Dez 08 19:40:24 *	[SIGMIL]M hat die Verbindung getrennt (My damn controlling terminal disappeared!)
+Dez 08 19:40:26 <[r2]tho>	our ibtn-client is running
+Dez 08 19:40:30 <[PSU]teeh>	127.0.0.1... 7
+Dez 08 19:40:46 <[r2]tho>	nevertheless the services are down
+Dez 08 19:41:35 <[W0Y]Free>	Balzaroth: all our services are reported as down, but at least some should be up
+Dez 08 19:41:36 <Balzaroth>	Check the /var/log/daemon 
+Dez 08 19:42:14 <[r2]tho>	connection reset by peer
+Dez 08 19:42:23 <[r2]tho>	seems like there is a problem at your side??
+Dez 08 19:42:33 <[TH]Raist>	same over here
+Dez 08 19:42:51 <[TH]Raist>	and then we tried to re-start the script, and it got stucks :D
+Dez 08 19:43:11 <zanardi>	the first quest is coming soon... be ready
+Dez 08 19:43:16 *	odo hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:43:25 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:43:25 <[USU]VenR>	where will it appear?
+Dez 08 19:43:25 <zanardi>	200,000 USD to the first 5 teams
+Dez 08 19:43:43 <Balzaroth>	Mmmm
+Dez 08 19:44:59 <[TH]Raist>	davide: connection reset by peer, i confirm
+Dez 08 19:45:25 <[W0Y]Free>	we get a lot of ..
+Dez 08 19:45:27 <[r2]tho>	now we get a 'address already in use' for ibtn
+Dez 08 19:45:30 <[W0Y]Free>	Dec  8 10:21:26 CTF IBTN: (98, 'Address already in use')
+Dez 08 19:45:30 <[W0Y]Free>	Dec  8 10:21:26 CTF IBTN: Connection failed...(auto-retry in 5 seconds)
+Dez 08 19:45:30 <[W0Y]Free>	Dec  8 10:21:31 CTF IBTN: (111, 'Connection refused')
+Dez 08 19:45:47 <[W0Y]Free>	in /var/log/daemon.log
+Dez 08 19:45:52 <[int80]sc>	has the game started?
+Dez 08 19:46:03 <Balzaroth>	Ok, the central bank accept connection only coming from specific IP and port number
+Dez 08 19:46:47 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:47:25 <[W0Y]Free>	what about the 'address already in use' ???
+Dez 08 19:47:36 *	[USU]K0DE hat die Verbindung getrennt (Ухожу)
+Dez 08 19:47:43 <[TH]Raist>	well, we are on that specific IP and port :D
+Dez 08 19:49:13 <Balzaroth>	I'm checking
+Dez 08 19:49:14 *	m4d_c0wZ_ (~m4d_c0wZ_@128.120.52.91) hat #ictf betreten
+Dez 08 19:49:46 <[WoD]jtb>	can anybody check connectivity to http://10.6.1.2:1337
+Dez 08 19:50:13 <[TH]Raist>	http://10.6.1.2:1337 does not answer
+Dez 08 19:50:25 <[WoD]jtb>	aahm 10.6.1.3
+Dez 08 19:50:39 <[WoD]jtb>	http://10.6.1.3:1337
+Dez 08 19:50:41 *	[SM]freep hat die Verbindung getrennt ()
+Dez 08 19:50:44 <[poly]dan>	hey UCSB, we also have lots of connection failed/connection refused in our /var/log/daemon
+Dez 08 19:51:04 <[poly]dan>	we're running the vuln box on 10.20.1.3
+Dez 08 19:51:35 <[WoD]jtb>	http://10.20.1.3:1337 is working
+Dez 08 19:51:53 <[W0Y]Free>	our vuln box is on 10.14.1.3 as requested
+Dez 08 19:52:22 <[W0Y]Free>	what con we do other than restart ibtn and hope it picks the right port?
+Dez 08 19:52:32 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 19:52:32 <[poly]dan>	hey are you guys there, we had a little network blip here
+Dez 08 19:52:49 <[WoD]jtb>	can anybody check connectivity to http://10.6.1.3:1337 ?
+Dez 08 19:53:01 <[r2]tho>	our ibtn-client is connected to 10.0.0.2 - but all services are marked down
+Dez 08 19:53:04 <[f0g]etc2>	works
+Dez 08 19:53:08 <[WoD]jtb>	thanks
+Dez 08 19:53:10 <nullptr>	[WoD]jtb: i can see it
+Dez 08 19:53:32 <[poly]dan>	jtb, it looks like 1337 is down.  i got a 404 when accessing it
+Dez 08 19:53:33 <[CI]5eeU>	same  problem as [r2]tho
+Dez 08 19:53:47 <[f0g]etc2>	jtb: can you check connectivity to http://10.4.1.3:1335/index.php
+Dez 08 19:53:48 <[r2]tho>	all services are locally up
+Dez 08 19:53:51 *	[poly]mik hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:54:24 <[TH]Raist>	10.0.0.2 is defunct....
+Dez 08 19:54:26 *	[poly]ypc hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:54:28 *	freeride hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:54:37 <[f0g]etc2>	jtp your service is accesisble on port 1337 but by default it returns 404, i think this is by design
+Dez 08 19:55:52 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 19:56:54 <Balzaroth>	I'm not receiving any SYN request...
+Dez 08 19:57:00 <[TH]Raist>	connection reset by peer
+Dez 08 19:57:02 <[WoD]jtb>	yeah, just want to know if there's any network problem
+Dez 08 19:57:17 <[TH]Raist>	:(
+Dez 08 19:57:34 <Balzaroth>	Probably there is, it is weird that for some team it works...
+Dez 08 19:57:36 <[f0g]etc2>	can someone check if they can connec to can you check connectivity to http://10.4.1.3:1335/index.php
+Dez 08 19:58:08 *	freeride (~brad@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 19:58:27 <[WoD]lars>	vigna@cs.ucsb.edu
+Dez 08 19:58:48 <[r2]lux>	just sv_restartround if evrythings working ;-)
+Dez 08 19:59:06 <[CI]5eeU>	(104, 'Connection reset by peer')
+Dez 08 19:59:06 <[Int80]Kn>	4.1.3 is runnin
+Dez 08 19:59:07 <[W0Y]Free>	is that the ibtn-client? tcp        0    101 10.14.1.3:43            10.0.0.2:1043           ESTABLISHED
+Dez 08 19:59:24 <[r2]tho>	free - yes
+Dez 08 19:59:24 <[W0Y]Free>	if yes, then we're connectet, so what gives?
+Dez 08 19:59:34 <[r2]tho>	we are also connected
+Dez 08 19:59:43 <[r2]tho>	nevertheless no points :-/
+Dez 08 19:59:43 <[WoD]jtb>	we're connected too
+Dez 08 20:00:08 <[W0Y]Free>	ahh .. so we're not alone :)
+Dez 08 20:00:09 <[ci]TriPx>	"reset by peer", here too (but not always)
+Dez 08 20:00:23 <[f0g]etc2>	ok...so if ppl can connect to our service why is it down?
+Dez 08 20:00:27 <[W0Y]Free>	tho: all your services are reported down?
+Dez 08 20:00:31 <[ci]TriPx>	also sometimes the connection hangs on FIN creating a lot of "address in use" 
+Dez 08 20:00:36 <[DotF]Raf>	@Balzaroth: which IP/Port does the central bank accept from ibtn?
+Dez 08 20:00:39 <[W0Y]flo>	ibtn-client is connected ("ESTABLISHED") but all services are reported down
+Dez 08 20:00:48 *	odo (~odo@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 20:00:52 <[WoD]jtb>	do we have to startup the apache?
+Dez 08 20:00:57 <[f0g]etc2>	yes, does ibtn require outbound tcp other than 1043?
+Dez 08 20:01:05 *	zanardi hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:01:39 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:01:48 <[TH]Raist>	still "connection reset by peer" over here
+Dez 08 20:01:54 <[DotF]Raf>	same here
+Dez 08 20:01:58 <[r2]tho>	free: all services are reported down
+Dez 08 20:02:06 <[W0Y]Free>	same here
+Dez 08 20:02:33 *	[poly]mik (~celtikl@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 20:02:38 <[WoD]mcf1>	bank down?
+Dez 08 20:02:40 <[r2]tho>	can you please check whether you can access 10.24.1.3:1337/index.php ?
+Dez 08 20:02:40 <[W0Y]Free>	balzaroth is suspiciuosly quiet now ...
+Dez 08 20:03:06 <[W0Y]Free>	yepp
+Dez 08 20:03:08 *	mercutio hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:03:09 <[W0Y]bies>	if we submit a quest solution, how do we know that we got it right?
+Dez 08 20:03:12 <[f0g]etc2>	up
+Dez 08 20:03:13 <[CI]5eeU>	Thorsten: 10.24.1.3:1337/index.php 404
+Dez 08 20:03:14 <[f0g]etc2>	404 byt up
+Dez 08 20:03:15 <[W0Y]Free>	get a 404 though
+Dez 08 20:03:20 *	[UCD]snk hat die Verbindung getrennt (Leaving)
+Dez 08 20:03:29 <[DotF]Raf>	404
+Dez 08 20:03:32 <[r2]tho>	sorry - 1335...
+Dez 08 20:03:33 <[W0Y]bies>	oh, quest points, I see
+Dez 08 20:03:36 <[f0g]etc2>	can anyone from UCSB give any indication why our services arent being scored as up
+Dez 08 20:03:51 <[DotF]Raf>	1335 is up
+Dez 08 20:03:58 <[int80]sc>	has the contest started
+Dez 08 20:03:59 <[r2]tho>	1336 is also up
+Dez 08 20:04:02 <[int80]sc>	???
+Dez 08 20:04:09 <[WoD]jtb>	Balzaroth: do we need to start apache?
+Dez 08 20:04:09 <[r2]tho>	sc: yes
+Dez 08 20:04:52 <[CI]5eeU>	can anyone ping 10.18.1.3
+Dez 08 20:05:01 <[WoD]jtb>	yes
+Dez 08 20:05:03 <[WoD]jtb>	[CI]5eeU: yes
+Dez 08 20:05:04 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:05:08 <[CI]5eeU>	thx
+Dez 08 20:05:11 <[r2]tho>	5eeU: yes
+Dez 08 20:05:18 <[PSU]BBA->	can anyone ping 10.25.1.1?
+Dez 08 20:05:31 <[DotF]Raf>	works
+Dez 08 20:05:34 <[DotF]Raf>	@bba
+Dez 08 20:05:35 <[W0Y]Free>	yes
+Dez 08 20:05:42 <[WoD]jtb>	[PSU]BBA-: yes
+Dez 08 20:06:05 <[PSU]BBA->	thanks
+Dez 08 20:06:25 *	[UCD]snk (~matt@128.120.52.163) hat #ictf betreten
+Dez 08 20:06:56 <Garnth>	when do the quests get scored?
+Dez 08 20:07:09 <[GT]8-D>	is there a way to know if my email was recieved?
+Dez 08 20:07:10 <Balzaroth>	Ok, guys, I think I got the problem
+Dez 08 20:07:15 <Balzaroth>	Try now 
+Dez 08 20:07:27 <[TH]Raist>	trying
+Dez 08 20:07:32 <[r2]log1c>	works
+Dez 08 20:07:32 <Balzaroth>	There was some guy connecting to my SSL server, makin it crash
+Dez 08 20:07:33 <[r2]log1c>	:>
+Dez 08 20:07:37 <[TH]Raist>	it's up
+Dez 08 20:07:40 <[GT]8-D>	was my email recieved?
+Dez 08 20:07:50 <[TH]Raist>	davide: LAAAAAAAAAAAAAAMEEEEEEEEEEEEEEE
+Dez 08 20:07:59 <[int80]sc>	our services are down...any idea why?
+Dez 08 20:08:06 <wh-Bonzo>	desk & chair
+Dez 08 20:08:07 <[int80]sc>	how to get them up?
+Dez 08 20:08:07 <[CI]5eeU>	same here
+Dez 08 20:08:33 <[DotF]Raf>	works here too
+Dez 08 20:08:41 *	odo hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:08:47 *	[wcwc]4sw (~dfraze@131.247.190.1) hat #ictf betreten
+Dez 08 20:08:54 *	Garnth hat die Verbindung getrennt ()
+Dez 08 20:08:59 <[DotF]Gho>	game reset?
+Dez 08 20:09:06 *	zanardi (~vigna@dhcp20-171.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 20:09:17 <Balzaroth>	Ok, I see pretty much all the teams UP
+Dez 08 20:09:19 <[DotF]Raf>	game should reset 
+Dez 08 20:09:19 <[r2]tho>	game reset?
+Dez 08 20:09:27 *	m4d_c0wZ_ hat die Verbindung getrennt (Leaving)
+Dez 08 20:09:35 *	[ch]zim hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:09:53 <[r2]tho>	Balzaroth: squareroot up or down?
+Dez 08 20:09:53 <[CI]5eeU>	game reset...?
+Dez 08 20:10:00 <[ch]stfu>	we can't reset the game now
+Dez 08 20:10:06 <[r2]lux>	y?
+Dez 08 20:10:23 <[ch]stfu>	because it will be like 2pm our time when it finishes if we start from scratch
+Dez 08 20:10:30 *	[WCSC]Gar (~1@131.247.190.1) hat #ictf betreten
+Dez 08 20:10:32 <[ch]stfu>	it's bad enough that it goes all through the night for us
+Dez 08 20:10:34 <[DotF]Gho>	doesnt matter
+Dez 08 20:10:41 <[GT]8-D>	are we up?
+Dez 08 20:10:42 <[r2]lux>	for us 2
+Dez 08 20:10:43 <[ch]stfu>	it does matter because we will all be unconscious
+Dez 08 20:10:46 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:10:55 <[ch]stfu>	asides from those in closer timezones
+Dez 08 20:11:01 <zanardi>	the tower of hanoi got the answer to quest 1!!!!
+Dez 08 20:11:07 <[GT]8-D>	was my email recieved?
+Dez 08 20:11:23 <[CI]5eeU>	and who else?
+Dez 08 20:11:28 *	freeride ist jetzt bekannt als [poly]bra
+Dez 08 20:11:32 *	[m4d]sul3 (~[m4d]sul3@128.120.52.91) hat #ictf betreten
+Dez 08 20:11:48 *	[poly]bra ist jetzt bekannt als [poly]brd
+Dez 08 20:11:52 *	[GT]8-D ist jetzt bekannt als [int80]GT
+Dez 08 20:11:56 <[ch]stfu>	was the Cheddar Horsemen email received?
+Dez 08 20:12:06 <[TH]Raist>	woah :D
+Dez 08 20:12:09 <[int80]GT>	sorry if that confused people
+Dez 08 20:12:27 <[WCSC]Gar>	was the wcsc e-mail recieved?
+Dez 08 20:12:45 <[TH]Raist>	davide: our services are STILL marked down...
+Dez 08 20:13:01 <[int80]GT>	our services are still down too
+Dez 08 20:13:10 <[DotF]Raf>	same here
+Dez 08 20:13:16 *	[ci]m4z hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:13:20 <[DotF]Raf>	services up and running but marked down
+Dez 08 20:13:38 <zanardi>	0ld Europe your answer is incorrect!
+Dez 08 20:14:08 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:14:12 *	mercutio (~marco@dhcp20-131.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 20:14:38 <[W0Y]flo>	when will round 37 start?
+Dez 08 20:14:59 <[R2]Tiger>	quite a long time in round 36...
+Dez 08 20:15:38 <Kasperle>	zanardi: no way :P
+Dez 08 20:15:52 <[TH]Raist>	yes it was !
+Dez 08 20:15:56 <[TH]Raist>	:p
+Dez 08 20:16:14 *	[ci]m4z (~m4z@e176173128.adsl.alicedsl.de) hat #ictf betreten
+Dez 08 20:16:30 <zanardi>	f0gd0gs got it!!!
+Dez 08 20:16:58 <[f0g]etc2>	w00t!
+Dez 08 20:17:28 <[f0g]etc2>	Balzaroth: are you seeing f0gd0gs up or down?
+Dez 08 20:17:37 *	xtrat (~egavas@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 20:17:43 <[WoD]jtb>	10.0.0.2: Sorry, an error occurred. Please try again later.
+Dez 08 20:17:52 <[R2]Tiger>	same here
+Dez 08 20:17:56 <[W0Y]bies>	here too
+Dez 08 20:17:57 <[r2]Scy>	and here
+Dez 08 20:18:00 <[WoD]jtb>	Who brokes it?
+Dez 08 20:18:00 <[WoD]mcf1>	yep.
+Dez 08 20:18:01 <[CI]5eeU>	HERE AS WELL
+Dez 08 20:18:04 <[WoD]mcf1>	lol
+Dez 08 20:18:11 *	[WoD]jtb starts wild blames
+Dez 08 20:18:12 <[W0Y]Free>	central bank down 
+Dez 08 20:18:17 <[WoD]mcf1>	ok, it seems a global problem ;-)
+Dez 08 20:18:31 <[W0Y]bies>	works again
+Dez 08 20:18:56 <Kasperle>	zanardi: incorrect or incomplete? 
+Dez 08 20:19:44 <[r2]lux>	yes works now
+Dez 08 20:19:54 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:20:13 <[CI]5eeU>	works
+Dez 08 20:20:19 <[USU]Thin>	Balzaroth, how does this checks stuff work?
+Dez 08 20:20:23 *	[WoD]mcf1 hat die Verbindung getrennt (Changing server)
+Dez 08 20:20:36 <[W0Y]bies>	zanardi, are those two the only teams that got points for the quest?
+Dez 08 20:20:55 <[ch]stfu>	are you going to tell the other teams who submitted an answer whether they got it or not?
+Dez 08 20:20:57 <[WoD]jtb>	10.0.0.2 is down again :(
+Dez 08 20:21:01 <[USU]Thin>	Balzaroth, electronic checks, i mean
+Dez 08 20:21:02 <[ch]stfu>	even if they don't get any points?
+Dez 08 20:21:07 <[W0Y]Free>	 zanardi: we submittet ch1 and got an reply which said "correct" .. so did we get the points or not?
+Dez 08 20:21:22 <[WoD]jtb>	Live-Webcam: http://130.83.164.201 - try it with vlc, mplayer or at your own risk: windows media player
+Dez 08 20:21:38 <[int80]GT>	10.0.0.2 is down
+Dez 08 20:21:42 <[TH]Raist>	error on 10.0.0.2
+Dez 08 20:21:44 <[TH]Raist>	:)
+Dez 08 20:22:11 *	[poly]pet (~piotr@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 20:23:16 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:23:26 <[r2]log1c>	why is there a "No incoming transactions last round." even if we get log entries saying that there are incoming transactions? :o
+Dez 08 20:23:35 <[r2]log1c>	( on 10.0.0.2 )
+Dez 08 20:23:46 <Balzaroth>	You can generate checks for other banks
+Dez 08 20:24:00 <Balzaroth>	You can then use that checks in their services. 
+Dez 08 20:24:23 <Balzaroth>	But remember that you use your money (i.e. your point) to generate checks
+Dez 08 20:25:09 <[DotF]Raf>	we can't find out which of our services are down.... please bring up 10.0.0.2
+Dez 08 20:25:25 <[0E]till>	I need new checks :-/
+Dez 08 20:25:35 <Balzaroth>	Yous should see on your page if your anser was correct
+Dez 08 20:26:30 *	odo (~odo@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 20:29:06 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:29:52 *	sionics (~____@221.151.38.226) hat #ictf betreten
+Dez 08 20:30:02 *	xtrat ist jetzt bekannt als [poly]xtr
+Dez 08 20:30:59 <[TH]Raist>	BTW: for Davide, Giovanni, Vika, Will and co... you guys are totally crazy :D
+Dez 08 20:31:08 <[DotF]Raf>	can't see on our page if answer war correct - still saying active quest
+Dez 08 20:31:17 *	odo hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:31:19 <[RC]neerd>	for quest1: no correct/incorrect info on our page don't you receive our answer ?  (Redcops)
+Dez 08 20:31:32 <zanardi>	pwnshop you need to say exactly WHAT THE BUG IS...
+Dez 08 20:32:09 <[r2]lux>	whoooooooooooooooo
+Dez 08 20:32:09 *	[PSU]teeh hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 20:32:28 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:32:47 <nucia>	do you need to know what the bug is (ie: verbage) or is replacement code ok?
+Dez 08 20:32:57 <[WCSC]Gar>	was the wcsc quest 1 e-mail recieved?
+Dez 08 20:33:21 <[WoD]jtb>	what service is "Main site"?
+Dez 08 20:34:10 <Balzaroth>	I uess is the main bank site
+Dez 08 20:34:15 <[r2]ba_>	Where can I see if my answer for Quest 1 has been received?
+Dez 08 20:34:34 <[W0Y]bies>	if 10.0.0.2 has non-zero quest money, the answer was received & correct :)
+Dez 08 20:34:42 *	ssir (~ssir@193.54.193.10) hat #ictf betreten
+Dez 08 20:35:07 <zanardi>	square root got it!!!
+Dez 08 20:35:49 *	ssir ist jetzt bekannt als [RC]
+Dez 08 20:35:52 *	[RC] ist jetzt bekannt als [RC]ssir
+Dez 08 20:36:06 <[r2]tho>	:-)
+Dez 08 20:36:13 <[DotF]Raf>	we had stolen $100 - but now it says $0 again - does that mean we lost $100?
+Dez 08 20:36:23 <[r2]lux>	we got only 160000 for the quest?
+Dez 08 20:36:26 <[r2]ba_>	why do we have we got 160000, not 200000?
+Dez 08 20:37:01 *	[r2]jo (~jel@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 20:37:09 *	[PSU]teeh (~pallus@client-128-118-126-113.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 20:37:19 <[r2]jo>	.
+Dez 08 20:37:28 <[r2]tho>	our insurance service is down
+Dez 08 20:37:46 <[CI]5eeU>	na und?
+Dez 08 20:37:48 <[CI]5eeU>	;)#
+Dez 08 20:38:08 <[r2]tho>	however, everyone can access http://10.24.1.3:1335/index.php
+Dez 08 20:38:13 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:38:14 <[r2]tho>	so what's wrong?
+Dez 08 20:38:19 *	Kasperle hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:38:24 <[r2]tho>	can you please check Balzaroth ?
+Dez 08 20:38:39 <[USU]Thin>	Balzaroth, if we too submit quest we can get 200000$?Or not?
+Dez 08 20:39:27 <zanardi>	TEAM NUCIA GOT IT QUEST 1 IS CLOSED...
+Dez 08 20:39:32 *	triple-h (~jrasmuss@131.247.190.1) hat #ictf betreten
+Dez 08 20:40:23 <Balzaroth>	The first five got the money
+Dez 08 20:40:37 <[USU]Thin>	I understand.
+Dez 08 20:40:39 <[r2]ba_>	will the questpoints be added to the total points?
+Dez 08 20:40:41 *	triple-h ist jetzt bekannt als [wcsc]tri
+Dez 08 20:40:47 *	cptn_crun (John@65-182-48-5.biltmorecommunications.net) hat #ictf betreten
+Dez 08 20:40:52 <[r2]ba_>	will the questpoints be added to the total money?
+Dez 08 20:40:59 *	[wcsc]tri ist jetzt bekannt als [wcsc]3h
+Dez 08 20:41:09 <Balzaroth>	Yes, at the end we add up all the point
+Dez 08 20:41:16 *	[PSU]teeh hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:41:35 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:42:22 *	jstimson hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:42:33 <[W0Y]flo>	all services show up as down again...
+Dez 08 20:43:17 <[W0Y]Free>	and this time ibtn-client is up and running
+Dez 08 20:45:01 <[W0Y]flo>	new round and still all services down (ibtn-client up and running)
+Dez 08 20:45:22 <Balzaroth>	What your team number
+Dez 08 20:45:26 <[W0Y]flo>	14
+Dez 08 20:45:46 *	[psu]arme hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:46:44 <[0E]bruef>	Balzaroth: ours show up as down as well
+Dez 08 20:46:45 <Balzaroth>	I can confirm that your are connected
+Dez 08 20:46:50 *	Spida hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:47:20 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:48:13 <[PSU]BBA->	can anyone ping 10.25.1.3?
+Dez 08 20:48:13 <[W0Y]flo>	services still down though...
+Dez 08 20:48:15 <Balzaroth>	I see wrong transaction coming from team 14
+Dez 08 20:48:41 <[USU]Dimm>	cool task 2 :)
+Dez 08 20:48:50 <[CI]5eeU>	you must be joking
+Dez 08 20:49:09 *	odo (~odo@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 20:49:29 *	Kasperle (~lutz@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 08 20:50:07 <[CM]david>	we are also down
+Dez 08 20:50:07 <[RC]neerd>	any bonus for naked dancing ? :D
+Dez 08 20:50:10 <Balzaroth>	Probably somebody hacked you and inject wrong transactions :)
+Dez 08 20:50:22 *	mercutio hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:50:28 <[WoD]jtb>	[RC]neerd: only if you are a woman ;)
+Dez 08 20:50:42 <[r2]log1c>	damn, everyone is dancing and nobody is hacking
+Dez 08 20:50:44 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:51:35 <Kasperle>	proprietary mac videos :(
+Dez 08 20:52:06 <zanardi>	we like proprietary
+Dez 08 20:52:12 <[DotF]Raf>	what's that submit your exploit link on the team page for? can we gain extra points?
+Dez 08 20:52:14 <[CI]5eeU>	where can we put the video? mail to vigna@..?
+Dez 08 20:52:16 <[WoD]jtb>	any tipp what "main site" is?
+Dez 08 20:53:32 *	Spida (~timo@spinnennetz.org) hat #iCTF betreten
+Dez 08 20:53:59 <[r2]tho>	which  service is main site?
+Dez 08 20:54:43 *	v (~vladod@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 20:55:14 *	odo hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:55:38 <zanardi>	send the movies to vigna@cs.ucsb.edu (please no more than 3MB)
+Dez 08 20:56:27 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 20:56:51 *	[r2]mm hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:57:19 *	andy_ hat die Verbindung getrennt (EOF From client)
+Dez 08 20:57:19 *	[psu]arme (~armengar@client-128-118-126-186.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 20:57:26 *	[WoD]mcfl (~mcfly@ccc3.rbg.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 08 20:57:26 <[TH]Raist>	giovanni, sent already...
+Dez 08 20:57:41 <[WoD]mcfl>	strange.
+Dez 08 20:57:46 <[WoD]mcfl>	well. back.
+Dez 08 20:59:52 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 20:59:57 <[f0g]etc2>	zanardi: submitted
+Dez 08 21:00:31 <Balzaroth>	Cmq guys, there are 8 services.. try to guess
+Dez 08 21:00:51 <[TH]Raist>	cmq would be "anyway", for non-italians :D
+Dez 08 21:00:53 *	[r2]mm (~jircii@vpn-136-226.rz.uni-mannheim.de) hat #ictf betreten
+Dez 08 21:01:19 *	mercutio (~marco@dhcp20-131.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 08 21:02:07 <[f0g]etc2>	zanardi: exploit report submitted
+Dez 08 21:03:09 <[CI]5eeU>	zanardi: video sent
+Dez 08 21:04:39 <zanardi>	blue blood is the fastest hollywood-bound team
+Dez 08 21:05:16 *	[UCD]snk hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:05:34 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 21:06:00 *	[poly]dan hat die Verbindung getrennt (EOF From client)
+Dez 08 21:07:00 <[r2]tho>	still unanswered: which service is main site?
+Dez 08 21:07:22 <zanardi>	the int80 guys with the striped shirt is definitely nest dancer
+Dez 08 21:07:27 <zanardi>	best dancer, sorry
+Dez 08 21:08:18 <[int80]sc>	which shirt color?
+Dez 08 21:08:27 <Balzaroth>	You have to figure it out 
+Dez 08 21:08:40 <[W0Y]Free>	hi giovanni. got our ch3 solution?
+Dez 08 21:08:41 <[wcsc]37i>	zanardi wcsc sent quest 3 did you receive?
+Dez 08 21:08:49 <[int80]sc>	blue.  that was keshav
+Dez 08 21:09:05 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:09:11 <[int80]sc>	he does salsa on the weekends.  it's just not fair.
+Dez 08 21:09:27 <zanardi>	f0gd0gs got QUEST 3 first!!!!
+Dez 08 21:09:46 <[W0Y]Free>	and We_0wn_You?
+Dez 08 21:10:08 <[f0g]etc2>	w00t - quest 0wnage
+Dez 08 21:10:41 *	mercutio hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:10:56 <zanardi>	WCSC got Quest 3!! One more to go...
+Dez 08 21:11:15 <[TH]Raist>	zanardi, didn't you get ours ?!
+Dez 08 21:11:26 <[TH]Raist>	we sent it like an age ago :)
+Dez 08 21:11:44 *	[ch]mark hat die Verbindung getrennt (EOF From client)
+Dez 08 21:11:45 <[W0Y]Free>	he, I submitted! ... it's to vigna@cs.ucsb.edu, right?
+Dez 08 21:12:19 <[f0g]etc2>	haha our email takes less hops to get to UCSB ;)
+Dez 08 21:12:21 <[TH]Raist>	we also submitted sploits... do they get scored ?
+Dez 08 21:12:36 <[W0Y]Free>	damn, you, dogs ;)
+Dez 08 21:12:39 <zanardi>	Cinsects got Quest 3. The quest is closed
+Dez 08 21:12:40 <[TH]Raist>	fsck the IP hops :p
+Dez 08 21:12:59 <[CI]5eeU>	mülli?
+Dez 08 21:14:29 *	[poly]dan (~dan@vpnctf.poly.edu) hat #ictf betreten
+Dez 08 21:14:42 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 21:17:20 <[DotF]Raf>	still unanswered: why should we submit exploits on our team page?
+Dez 08 21:17:26 <[DotF]Raf>	extra points?
+Dez 08 21:18:06 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:18:16 *	johns ist jetzt bekannt als [cinsects
+Dez 08 21:18:41 *	[cinsects ist jetzt bekannt als [ci]marti
+Dez 08 21:18:49 *	[ci]marti ist jetzt bekannt als [cinsects
+Dez 08 21:18:54 <Balzaroth>	Team 12 
+Dez 08 21:18:54 *	jstimson (~jstimson@205.134.188.162) hat #ictf betreten
+Dez 08 21:19:01 <Balzaroth>	Is anybody listening from team 12
+Dez 08 21:19:40 *	[cinsects ist jetzt bekannt als [CI]mj
+Dez 08 21:21:02 <[r2]tho>	hmmm locally our services are up
+Dez 08 21:21:07 <[r2]tho>	ibtn-client is running
+Dez 08 21:21:12 <[r2]tho>	but services are marked down?
+Dez 08 21:21:29 *	[poly]xtr hat die Verbindung getrennt (EOF From client)
+Dez 08 21:22:29 <nucia>	similar - we are marked as down...
+Dez 08 21:23:24 <[CI]5eeU>	same thing here
+Dez 08 21:23:35 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 21:23:38 <[RC]neerd>	same here
+Dez 08 21:24:01 <[squarero>	urghhhhh
+Dez 08 21:24:04 <[squarero>	ahhhhhh
+Dez 08 21:24:06 <[squarero>	uhhhhh
+Dez 08 21:24:15 <sullivan>	same here
+Dez 08 21:26:19 <[USU]Thin>	We too have same problem... services up and down in random manner... We don't stop an up them. But on stat page services ups and downs...
+Dez 08 21:27:02 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:27:30 <[W0Y]flo>	same here
+Dez 08 21:27:50 <[CI]5eeU>	Balzaroth: can you solve the problem?
+Dez 08 21:27:54 <[TH]Raist>	all down here
+Dez 08 21:27:58 <[TH]Raist>	and no problems
+Dez 08 21:28:16 <[TH]Raist>	(apparently)
+Dez 08 21:28:37 <[r2]ba_>	is quest 4 solved
+Dez 08 21:28:38 <[r2]ba_>	?
+Dez 08 21:29:20 <[r2]ba_>	have you received the mail from squerrroots? was it in time?
+Dez 08 21:29:40 <Balzaroth>	Sorry, I was taking a break
+Dez 08 21:29:45 <Balzaroth>	What's the problme
+Dez 08 21:29:47 <Balzaroth>	?
+Dez 08 21:30:05 <[CI]5eeU>	services seem down but are locally up
+Dez 08 21:30:21 <[TH]Raist>	same here...
+Dez 08 21:30:23 <Balzaroth>	Tell me the team number
+Dez 08 21:30:27 <[CI]5eeU>	18
+Dez 08 21:30:30 <[USU]Thin>	Same...
+Dez 08 21:30:34 <[TH]Raist>	15
+Dez 08 21:30:37 <[USU]Thin>	10
+Dez 08 21:30:48 <Spida>	8
+Dez 08 21:30:51 <[r2]ba_>	24
+Dez 08 21:31:02 <Spida>	seq 1 26 ?
+Dez 08 21:31:25 <[W0Y]mne>	14
+Dez 08 21:31:35 <Balzaroth>	We are updating the scorebot script
+Dez 08 21:31:52 <Balzaroth>	So, if a service is down, is usually down for everybody
+Dez 08 21:32:42 <[TH]Raist>	here EVERYTHING is down...
+Dez 08 21:32:42 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 21:32:42 <Balzaroth>	10 has everything up besides the web stuff, just because of our script. 
+Dez 08 21:33:00 <[squarero>	is the question solvet?
+Dez 08 21:34:05 <[r2]ba_>	have you received the answer for quest 4 from the squereroots?
+Dez 08 21:34:24 <Balzaroth>	Yeah, zanardi is away...
+Dez 08 21:34:32 <zanardi>	team 4, f0gd0gs, got the answer right first
+Dez 08 21:35:00 <[WoD]mcfl>	is there a chance to see more than just the top5?
+Dez 08 21:36:04 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:36:14 <[f0g]etc2>	uber quest pwnage
+Dez 08 21:36:43 <zanardi>	squareroots abd SIGMIL 
+Dez 08 21:36:55 <zanardi>	squareroots and SIGMIL got quest 4 as well 
+Dez 08 21:36:57 <[squarero>	what
+Dez 08 21:36:59 <[squarero>	????
+Dez 08 21:37:28 <[f0g]etc2>	MONTEREYS COAST
+Dez 08 21:37:43 <[PSU]BBA->	anyone able to ping 10.25.1.3?
+Dez 08 21:37:53 <[TH]Raist>	giovanni: is quest 4 still open ?
+Dez 08 21:38:32 *	[r2]ba_ ist jetzt bekannt als [r2]quest
+Dez 08 21:38:44 <zanardi>	team 13, we notice some weird activity... are you sure you know what you are doing... we are debating here...
+Dez 08 21:39:17 <[WoD]jtb>	[PSU]BBA-: no
+Dez 08 21:39:23 <[int80]sc>	is tractor insurance up for anyone?
+Dez 08 21:39:31 <[WoD]mcfl>	not here...
+Dez 08 21:39:38 <[WoD]jtb>	yup, not here..
+Dez 08 21:40:46 <Balzaroth>	Yes, it is up for some teams
+Dez 08 21:41:04 <nullptr>	[WoD], it looks up from here
+Dez 08 21:41:16 <[WoD]mcfl>	zour website tells us its down
+Dez 08 21:41:20 <Balzaroth>	almost half of the team have the insurance up
+Dez 08 21:41:33 <nullptr>	it will be updated soon :-)
+Dez 08 21:41:35 <[WoD]mcfl>	sorry. 10.0.0.2 tells us tracktor insurance is down...
+Dez 08 21:41:36 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 21:42:25 *	cheddar_d (~root@131.181.47.11) hat #ictf betreten
+Dez 08 21:42:56 *	[WoD]mcfl ist jetzt bekannt als [WoD]fly
+Dez 08 21:43:52 *	[f0g]etc2 hates compiled python
+Dez 08 21:44:22 <[WoD]fly>	nullptr: is there a chance to get a status for Tractor Insurance? It looks down here...
+Dez 08 21:44:37 *	[TH]Raist hates banking systems
+Dez 08 21:44:47 *	sean (~sean@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 21:44:52 <[W0Y]flo>	what happened to our quest transmissions?
+Dez 08 21:44:58 <[R2]Tiger>	w
+Dez 08 21:45:00 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:48:06 <sullivan>	zanardi: is it normal that everything here is DOWN and that even if we stole something we can't get it from our team's details?
+Dez 08 21:48:24 <[PSU]BBA->	anyone able to ping 10.25.1.1?
+Dez 08 21:48:34 <sullivan>	not me
+Dez 08 21:49:29 <[DotF]Raf>	here's team 13 - what's up?
+Dez 08 21:50:06 <[CI]5eeU>	works fine
+Dez 08 21:50:10 *	michael (~michael@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 08 21:50:15 <[f0g]etc2>	do IBAN #s expire?
+Dez 08 21:50:22 <[DotF]Raf>	zanardi - whats wrong?
+Dez 08 21:50:25 *	[UCD]snk (~matt@128.120.52.163) hat #ictf betreten
+Dez 08 21:50:31 <[CI]5eeU>	[PSU]BBA-
+Dez 08 21:50:45 <[USU]Thin>	All services down too... Balzaroth
+Dez 08 21:51:00 *	mercutio (~marco@128.111.48.31) hat #ictf betreten
+Dez 08 21:51:13 <[PSU]BBA->	5eeu?
+Dez 08 21:53:05 <[USU]Thin>	Balzaroth, we send anser for 5 quest
+Dez 08 21:53:33 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 21:53:37 *	sean hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:56:42 <sullivan>	everything still down and no money :-\ weird
+Dez 08 21:56:50 <zanardi>	HackerDom got quest 5 first! Go Russia! (says Vika)
+Dez 08 21:56:55 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 21:57:33 <[CI]5eeU>	[PSU]BBA-: ping worked fine :)
+Dez 08 21:57:36 <[USU]Thin>	8)
+Dez 08 21:57:38 <[CI]5eeU>	sorry
+Dez 08 21:58:02 <Balzaroth>	ok, team 16. All the scorebot script fails...
+Dez 08 21:58:38 <Balzaroth>	I gues you checnged something that screw up all the services... l
+Dez 08 21:59:10 <[CM]david>	we have some connection from other
+Dez 08 21:59:24 <[W0Y]bies>	Balzaroth, is that also the case for 14?
+Dez 08 21:59:41 *	freshman hat die Verbindung getrennt (Leaving)
+Dez 08 22:00:22 <[CI]5eeU>	Balzaroth: and 18?
+Dez 08 22:00:35 <Balzaroth>	I suggest any time you have all the services down, stop and start itn-client
+Dez 08 22:00:40 <Balzaroth>	ibtn
+Dez 08 22:00:55 <[TH]Raist>	and wait for some seconds in between
+Dez 08 22:01:01 <[TH]Raist>	or it will hang ;)
+Dez 08 22:01:02 <[TH]Raist>	:p
+Dez 08 22:01:12 <Balzaroth>	Yup
+Dez 08 22:01:46 <Balzaroth>	If that does not resolve the problem, I think you have a problem on your side....
+Dez 08 22:01:46 <[TH]Raist>	should we expect feedback for submissions of exploits ?
+Dez 08 22:02:24 <Balzaroth>	(of course, every once in a while we restart the service so everybody is down)
+Dez 08 22:02:40 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 22:03:05 <[CM]david>	ok, we have restarted, syslog said "Dec  8 13:07:18 CTF IBTN: The Inter-Bank Transaction Network is UP"
+Dez 08 22:03:20 <Balzaroth>	Ok
+Dez 08 22:03:42 <[CM]david>	but it the same of before
+Dez 08 22:03:44 <[W0Y]bies>	Balzaroth, so how long is each round?
+Dez 08 22:03:46 <Balzaroth>	That reset the connection with our server, so if you are still down after that.. either you change somenthing
+Dez 08 22:04:20 <Balzaroth>	on the image (like the cchecker... or some permission)
+Dez 08 22:04:30 *	X-P hat die Verbindung getrennt (Leaving)
+Dez 08 22:04:48 <Balzaroth>	or you have been hacked and they insert into your connection a lot of garbage
+Dez 08 22:05:54 <[CM]david>	is all down from the beginning
+Dez 08 22:06:07 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:06:34 <Balzaroth>	For some team we see a lot of deposite fails
+Dez 08 22:06:51 <Balzaroth>	Tha means problem with the check (probably)
+Dez 08 22:07:30 <[USU]Thin>	Balzaroth, why we have Quest points $0?:-[
+Dez 08 22:10:15 <[int80]sc>	Same Same, why doesn't int80 have Quest points?
+Dez 08 22:10:34 *	sean (~sean@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 22:11:47 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 22:12:25 <Balzaroth>	Ok, I can confirm that check deposit seems to be a problem in many teams...
+Dez 08 22:13:12 <Balzaroth>	Zanardi says that you didn't solve anything
+Dez 08 22:13:23 *	[ch]zim (~jzimm@131.181.47.2) hat #ictf betreten
+Dez 08 22:13:26 <Balzaroth>	beside the video, but we add that at the end
+Dez 08 22:13:34 *	[m4d]sul3 hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:14:23 <[W0Y]flo>	team 14 here, we've sent solutions for quests 2-4 but no feedback yet
+Dez 08 22:14:37 *	michael hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:15:11 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:18:26 *	michael (~michael@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 08 22:19:37 *	sean hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:20:55 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 22:21:35 *	michael hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:22:25 <Balzaroth>	Zanardi says that one of the answer was too late
+Dez 08 22:22:42 <[r2]quest>	which one?
+Dez 08 22:22:51 <Balzaroth>	Challenge 3
+Dez 08 22:24:08 <[r2]quest>	Balzaroth:have you received the quest 5 from the squareroots?
+Dez 08 22:24:11 *	[r2]alex (~alex@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 08 22:24:13 <[USU]Thin>	Balzaroth, And what about our 5 quest?
+Dez 08 22:24:20 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:30:02 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 22:30:35 *	[0E]awjb hat die Verbindung getrennt (Lost terminal)
+Dez 08 22:31:35 <[W0Y]woll>	Balzaroth: what about the two others (2 and 4?)
+Dez 08 22:32:53 *	michael (~michael@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 08 22:33:22 <[squarero>	how many teams have resolv the quest 6?
+Dez 08 22:33:36 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:34:29 <wh-Bonzo>	/home/vigna/Development/macos/src/banksite
+Dez 08 22:37:27 <Balzaroth>	We are investingating on the 1M dollar transaction.
+Dez 08 22:38:42 *	acharya (~acharya@springs.cs.ucsb.edu) hat #ictf betreten
+Dez 08 22:39:10 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 22:39:32 <[USU]Thin>	Balzaroth, And what about our 5 quest?
+Dez 08 22:39:45 <[USU]Thin>	We dont have any points...
+Dez 08 22:40:23 <[int80]sc>	Thin, are you asking for donations?
+Dez 08 22:40:28 <[int80]sc>	;-)
+Dez 08 22:40:34 <zanardi>	USU Thin who are You?
+Dez 08 22:40:36 <[wcsc]37i>	ill give you $5
+Dez 08 22:41:14 <[DotF]Raf>	@balzaroth: the 1M from team 13?
+Dez 08 22:41:33 *	sean (~sean@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 22:41:36 <[DotF]Raf>	we can't identify how's it been done
+Dez 08 22:42:11 <[CI]5eeU>	sorry, we g0t it :/
+Dez 08 22:42:21 <[CI]5eeU>	do ya want it back?
+Dez 08 22:42:24 <[CI]5eeU>	;)
+Dez 08 22:42:35 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:42:40 <[USU]Thin>	zanardi, 10 team
+Dez 08 22:43:03 <[USU]Thin>	zanardi, hacherdom
+Dez 08 22:43:13 <[DotF]Raf>	of course :)
+Dez 08 22:43:40 <zanardi>	Thin, what are you talkin' about? 
+Dez 08 22:43:51 *	sean hat die Verbindung getrennt (Leaving)
+Dez 08 22:44:07 <[USU]Thin>	zanardi, we done quest 5 but our Quest points =  $0
+Dez 08 22:45:14 *	sean (~sean@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 22:45:41 *	[UCD]snk hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:45:53 <zanardi>	Thin, Quest 5 is not finished. You'll see the money when the quest is over...
+Dez 08 22:46:45 <[USU]Thin>	thanks zanardi! Now i understand:)
+Dez 08 22:46:59 <wh-Bonzo>	it would be sweet if we could see how much money was in the game
+Dez 08 22:47:49 *	[UCD]snk (~matt@128.120.52.163) hat #ictf betreten
+Dez 08 22:47:54 *	acharya hat die Verbindung getrennt (using sirc version 2.211+KSIRC/1.3.12)
+Dez 08 22:48:13 <[TH]Raist>	there's some interesting guy
+Dez 08 22:48:26 *	[ch]mhl (~[ch]mhl@203-206-185-62.perm.iinet.net.au) hat #ictf betreten
+Dez 08 22:48:30 <[TH]Raist>	who is launching a lot of "wc" processes and effectively killing our machine
+Dez 08 22:48:38 *	sean hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:48:39 <[TH]Raist>	that should count as DoS, btw
+Dez 08 22:49:21 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 22:49:36 <zanardi>	folks, for the next quests please say WHAT TEAM YOU ARE FROM AND WHAT TEAM NUMBER/NAME IS 
+Dez 08 22:50:02 <Kasperle>	wow
+Dez 08 22:50:07 <Kasperle>	we finally made it into the game :D
+Dez 08 22:51:19 *	mercutio hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:51:20 *	[m4d]sul3 (~[m4d]sul3@128.120.52.91) hat #ictf betreten
+Dez 08 22:52:44 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 22:53:16 <[r2]quest>	zanardi: have you received the answer of quest 5 from the sqareroots and was it right?
+Dez 08 22:53:46 *	[PSU]teeh (~pallus@client-128-118-126-30.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 22:53:53 <[PSU]BBA->	same question from team BBA
+Dez 08 22:55:02 <[ci]TriPx>	or cinsects :)
+Dez 08 22:55:05 <[int80]sc>	any russians out there know of Tadeusz nalepa?
+Dez 08 22:56:02 <[USU]Thin>	[int80]sc, Sory... I dont know...
+Dez 08 22:58:05 <[int80]sc>	Thin:Russian Blues band we were listening to 
+Dez 08 22:58:24 <[poly]brd>	so when does this thing start?
+Dez 08 22:59:05 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:00:31 <[USU]Thin>	[int80]sc, I lisen rock:)
+Dez 08 23:00:40 <[USU]Thin>	*[int80]sc, I listen rock:)
+Dez 08 23:02:22 <[r2]log1c>	who's knocking on my ports > 65k? ;-)
+Dez 08 23:02:28 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:05:47 *	cptn_crun hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:06:40 *	[PSU]teeh hat die Verbindung getrennt (I Quit)
+Dez 08 23:06:41 *	sean (~sean@phyber.cs.ucsb.edu) hat #ictf betreten
+Dez 08 23:08:01 <[TH]Raist>	zanardi, whoever invented quest 5 should be hanged, burned, shot and THEN really hurt
+Dez 08 23:08:12 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:08:15 <[DotF]hat>	10.0.0.1 not pingable
+Dez 08 23:08:22 <[DotF]hat>	anyone else the same problem?
+Dez 08 23:09:15 <[PSU]BBA->	quest 5? so easy
+Dez 08 23:09:36 <[DotF]hat>	7 is actual
+Dez 08 23:09:38 <[PSU]BBA->	speaking english was a big plus :-P
+Dez 08 23:10:31 <[TH]Raist>	not as much as being proficient in geography :D
+Dez 08 23:10:39 <[PSU]BBA->	true
+Dez 08 23:11:38 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:12:47 <[W0Y]Free>	again, all our services are reported down but ibtn is connected
+Dez 08 23:13:20 <[USU]Thin>	Perfocards!!! Oldschool!!:-D
+Dez 08 23:13:39 <[W0Y]Free>	false alert, everything fine
+Dez 08 23:14:07 *	[PSU]BBA- hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 23:14:28 *	Fox (~Fox@client-128-118-126-44.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 23:17:19 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:17:27 *	[WoY]angu hat die Verbindung getrennt (EOF From client)
+Dez 08 23:17:28 <[ncsu]tsg>	we just gave away all our money to hackerdom  -- this game sux!
+Dez 08 23:17:43 <Fox>	pffft
+Dez 08 23:17:52 <zanardi>	what do you mean by "this game sux"?
+Dez 08 23:18:17 <[ncsu]tsg>	compared to last year
+Dez 08 23:18:30 <[psu]arme>	yeah :/
+Dez 08 23:18:40 *	[psu]arme ist jetzt bekannt als [PSU]arme
+Dez 08 23:18:57 *	[ncsu]tsg (~realinfo@winsec-hlb209.unity.ncsu.edu) hat #ictf verlassen ([ncsu]tsg)
+Dez 08 23:20:03 <zanardi>	I personally think that is really cool that you can steal money from other
+Dez 08 23:20:05 <zanardi>	teams
+Dez 08 23:20:28 <[W0Y]bies>	I like that too  :)
+Dez 08 23:20:33 <zanardi>	Note that even if you have "0" you can catch up by hacking 25 teams at one time
+Dez 08 23:20:44 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:20:46 <zanardi>	You can easily regain all your money and some
+Dez 08 23:21:17 <zanardi>	We have NO idea who is going to win: from the central host here, we see fortunes made and lost in minutes...
+Dez 08 23:21:26 <zanardi>	VERY cool
+Dez 08 23:21:53 <[PSU]arme>	it kind of sacrifices realism for fun
+Dez 08 23:22:05 <[ch]stfu>	Chocolate Makers, you're basically DoSing us, and who knows who else.
+Dez 08 23:24:28 *	Roscoe hat die Verbindung getrennt (EOF From client)
+Dez 08 23:24:37 <[int80]sc>	someone needs to constipate the chocolate makers
+Dez 08 23:25:49 *	[PSU]BBA- (~[PSU]BBA-@client-128-118-126-117.mobility-up.psu.edu) hat #ictf betreten
+Dez 08 23:26:27 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:27:17 *	[UCD]snk hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:28:21 <[int80]sc>	zanardi, please take a look at the barrage of bpt traffic.
+Dez 08 23:29:38 <[ch]stfu>	yeah, we're getting obscene amounts from 10.16
+Dez 08 23:29:50 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:31:46 <[TH]Raist>	same here...
+Dez 08 23:31:49 <[WoD]fly>	pizza!
+Dez 08 23:32:10 <[r2]lux>	yeah me 2, salami supreme ^^
+Dez 08 23:32:12 <sullivan>	spaghetti, mandolino e mafia
+Dez 08 23:32:28 <[CM]david>	sorry, we have some problem
+Dez 08 23:32:34 <[WoD]fly>	have a good meal!
+Dez 08 23:32:44 <[r2]lux>	thx u too
+Dez 08 23:32:58 <[ch]stfu>	well you've been having some problem for way too long
+Dez 08 23:33:37 *	[m4d]sul3 hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:34:08 <[r2]log1c>	CM seems to having problems everytime they participate ;-)
+Dez 08 23:34:32 <[CM]david>	it's ok now?
+Dez 08 23:34:56 <[r2]log1c>	you should answer that question, you are the one in trouble :)
+Dez 08 23:35:35 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:36:37 <[DotF]hat>	we're flooded from 10.16.1.122!
+Dez 08 23:36:44 <[DotF]hat>	and 10.16.1.122!
+Dez 08 23:36:46 <[DotF]hat>	and 10.16.1.123!
+Dez 08 23:36:49 <zanardi>	10.16, stop NOW!
+Dez 08 23:37:02 <zanardi>	Cioccolattai, smettetela...
+Dez 08 23:37:25 <[WoD]fly>	we are haveing a load problem with Bank Protocol
+Dez 08 23:37:50 <[WoD]fly>	is there a known problem in there?
+Dez 08 23:37:52 <zanardi>	quest 5 is now officially close!
+Dez 08 23:39:00 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:39:02 *	[UCD]snk (~matt@128.120.52.163) hat #ictf betreten
+Dez 08 23:39:46 <nucia>	who were the last teams to get 5??
+Dez 08 23:39:54 <[WoD]fly>	.... and seems stopped now. ;-P. Thank you?
+Dez 08 23:41:03 <[ci]TriPx>	yeah, we submitted q5 quite a while ago and didn't receive points :>
+Dez 08 23:41:24 <[r2]tho>	hmmm , our services  are up but they are not marked up
+Dez 08 23:41:29 <[r2]tho>	ibtn is running
+Dez 08 23:41:33 <[r2]tho>	what's wrong?
+Dez 08 23:41:36 *	tom hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:41:36 *	[W0Y]Kid hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:41:37 <[WoD]jtb>	This is a manual hack: please send us all your money - we're too lazy to hack your lame services!
+Dez 08 23:41:46 <Balzaroth>	We just close quest 5. I'm going to give you the point after I finished my apple :)
+Dez 08 23:41:49 *	v hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:42:02 *	[W0Y]Free hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 23:42:02 *	[W0Y]c2 hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 23:42:03 <[PSU]arme>	i dare you all to hack us
+Dez 08 23:43:12 <[r2]Scy>	what is quest 45br>? :)
+Dez 08 23:43:16 <wh-Bonzo>	We no longer accept answers to quest 1, 3, 4 and 45br>
+Dez 08 23:43:24 <wh-Bonzo>	somebody took a coathanger to the br tag
+Dez 08 23:44:40 *	[ci]TriPx hat die Verbindung getrennt (Connection reset by peer)
+Dez 08 23:44:48 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:45:33 *	TriPhoeni (~triphoeni@svs16.informatik.uni-hamburg.de) hat #ictf betreten
+Dez 08 23:45:33 *	TriPhoeni ist jetzt bekannt als [ci]TriPx
+Dez 08 23:45:48 *	[UCD]snk hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:46:00 <[USU]VenR>	
+Dez 08 23:46:34 *	[wcsc]37i hat die Verbindung getrennt (EOF From client)
+Dez 08 23:46:48 <Spida>	how many teams solved quest 8?
+Dez 08 23:46:54 *	[wcsc]37i (~me@131.247.97.35) hat #ictf betreten
+Dez 08 23:47:01 <[ch]jared>	how many people are even attempting it :)
+Dez 08 23:47:36 <[DotF]hat>	8 is nearly solved
+Dez 08 23:48:11 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:48:31 <[PSU]BBA->	touche UCSB, touche....
+Dez 08 23:48:42 <[WoD]fly>	hi Spida 
+Dez 08 23:50:01 *	[W0Y]Kid (~f.lukscha@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 23:50:55 <[r2]tho>	Balzaroth: our services are up - can you please verify?
+Dez 08 23:51:45 *	[W0Y]Free (~[W0Y]Free@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 08 23:53:33 <[f0g]etc2>	zanardi: quest 9 submission
+Dez 08 23:53:56 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 08 23:56:56 <[poly]dan>	is quest 7 still accepted?
+Dez 08 23:57:05 <wh-Bonzo>	no
+Dez 08 23:57:17 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 08 23:57:24 *	boguS (~boguS@coltrane.cs.ucsb.edu) hat #ictf betreten
+Dez 08 23:57:27 <[W0Y]Free>	\msg zanardi did you receive my resubmission of quest3? <msz@seclab.tuwien.ac.at>
+Dez 08 23:57:41 <[W0Y]Free>	\help
+Dez 08 23:57:46 <[W0Y]bies>	try a forward slash :)
+Dez 08 23:57:48 <[W0Y]Free>	wtf?
+Dez 08 23:57:53 <[wcsc]37i>	haha
+Dez 08 23:57:55 <[W0Y]Free>	ahh
+Dez 08 23:57:58 <[WoD]fly>	windows users?
+Dez 08 23:57:59 <wh-Bonzo>	lmbo
+Dez 08 23:58:17 <[W0Y]Free>	not-irc-user
+Dez 08 23:58:21 <wh-Bonzo>	hehe
+Dez 08 23:58:23 <wh-Bonzo>	I live in irc
+Dez 08 23:58:27 <wh-Bonzo>	they have a bed for me in the back
+Dez 08 23:58:34 <[W0Y]Free>	i live in the real world ;)
+Dez 08 23:58:37 <[wcsc]37i>	no thats mine
+Dez 08 23:58:45 <wh-Bonzo>	ps I wet the bed
+Dez 08 23:59:43 *	[W0Y]c2 (~chris2@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 00:00:18 *	[PSU]Dr4g (_PSU_@client-128-118-127-153.mobility-up.psu.edu) hat #ictf betreten
+Dez 09 00:00:51 <[ENFLG]mu>	10.14.1.3
+Dez 09 00:01:01 <[ENFLG]mu>	please stopp enumerating users ;)
+Dez 09 00:01:11 <[ENFLG]mu>	kater kater karlo is not here ;x)
+Dez 09 00:01:37 *	Roscoe (~D-Law@205.134.188.162) hat #ictf betreten
+Dez 09 00:02:25 *	[PSU]n4rc (~Elanor@client-128-118-126-201.mobility-up.psu.edu) hat #ictf betreten
+Dez 09 00:02:37 <[PSU]n4rc>	LOLRUS PUZZLE FANS!!!
+Dez 09 00:02:55 <wh-Bonzo>	zanardi: how much time we got left?
+Dez 09 00:02:55 <[PSU]n4rc>	^__^
+Dez 09 00:03:03 <[r2]log1c>	2h? :o
+Dez 09 00:03:31 <[PSU]n4rc>	LF39M BWL
+Dez 09 00:03:33 *	[WCSC]Gar hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:04:06 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:05:02 *	[UCD]snk (~matt@128.120.52.163) hat #ictf betreten
+Dez 09 00:05:22 <Balzaroth>	around 1h
+Dez 09 00:06:19 *	[ENFLG]na hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:07:11 <[r2]lux>	?
+Dez 09 00:07:27 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:07:52 <[UCD]snk>	any help for ibtn-client... it's giving us fits?
+Dez 09 00:08:17 <[RC]neerd>	39M BWL ? old instance, go AQ40 or naxx 
+Dez 09 00:08:30 <[PSU]n4rc>	I 1 MAN NAXX
+Dez 09 00:08:40 <[PSU]BBA->	on our private server
+Dez 09 00:08:41 <[PSU]n4rc>	i have tier 7
+Dez 09 00:08:59 <[RC]neerd>	well a bit harder on live servers :p
+Dez 09 00:09:07 <[f0g]etc2>	zenardi: quest 8 submission
+Dez 09 00:11:28 *	[ENFLG]na (~tux@vpn-0560.zrz.TU-Berlin.DE) hat #ictf betreten
+Dez 09 00:11:30 *	[wcsc]37i hat die Verbindung getrennt (EOF From client)
+Dez 09 00:11:38 *	[wcsc]37i (~me@131.247.97.35) hat #ictf betreten
+Dez 09 00:11:38 <[r2]uchi_>	what about quest 9?
+Dez 09 00:12:40 *	boguS hat die Verbindung getrennt (Leaving)
+Dez 09 00:13:01 *	[WCSC]Gar (~1@131.247.190.1) hat #ictf betreten
+Dez 09 00:13:13 <[WoD]fly>	how many quests will be in the end?
+Dez 09 00:13:14 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:13:35 <[ci]TriPx>	quest 9 just submitted :)
+Dez 09 00:13:52 <[WoD]fly>	and do i see it right that we will play for another 107min?
+Dez 09 00:14:18 <[CI]5eeU>	no, look above: about 45 mins
+Dez 09 00:14:25 <[TH]Raist>	how are exploits valued ?
+Dez 09 00:14:57 <[r2]uchi_>	arrived quest 9 for squareroots?
+Dez 09 00:15:07 <[WoD]fly>	how much money do you all have?
+Dez 09 00:16:04 <[0E]lexi>	[WoD]fly: after paying the pizza, maybe abour 5EUR.. ;)
+Dez 09 00:16:07 <[CI]5eeU>	[WoD]fly: 2^$your amount$
+Dez 09 00:16:15 <[CI]5eeU>	:D
+Dez 09 00:16:19 <nucia>	take what you have, add 7 zeros, that's a ball park
+Dez 09 00:16:24 <Kasperle>	more than the us military budget
+Dez 09 00:16:24 <[UCD]snk>	anyone else having problems with ibtn-client connection resets?
+Dez 09 00:16:37 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:16:47 <[WoD]fly>	[CI]5eeU: impressive. my calculator is too small for that number. much too small...
+Dez 09 00:17:19 <[WoD]fly>	[0E]lexi: same here. we can build a tower of pizzaboxes now. someone watching our webcam?
+Dez 09 00:18:05 <wh-Bonzo>	no
+Dez 09 00:18:19 <Kasperle>	so. how much $$$ do we get for the easter egg? :D
+Dez 09 00:18:27 *	[PSU]Dr4g hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:18:31 <[WoD]fly>	good. we just had our r00t-pw on it.
+Dez 09 00:18:37 <[WoD]fly>	;-P
+Dez 09 00:22:06 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:22:11 <[WoD]fly>	is the "make a movie" quest still open?
+Dez 09 00:22:23 <[r2]log1c>	no time limit :p
+Dez 09 00:24:06 <[WoD]fly>	ahem, all services reported down, look up, is webboard correct_
+Dez 09 00:24:27 *	[Int80]Kn hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:24:29 <[W0Y]Free>	us too
+Dez 09 00:25:04 <[WoD]fly>	some more victims? organizers?
+Dez 09 00:25:07 <Balzaroth>	Yes, the movie will be open 'till the end
+Dez 09 00:25:34 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:25:42 <[WoD]fly>	Balzaroth: can you confirm the "all down" thing?
+Dez 09 00:25:50 <[W0Y]Free>	Balzaroth:the board insists again that all our services are down which just isn't the case
+Dez 09 00:26:12 <[UCD]snk>	Balzaroth: do you know what could cause our ibtn-client to continually get conn resets from 10.0.0.2?
+Dez 09 00:26:46 <[W0Y]Free>	out ibtn-client is doing fine, BTW
+Dez 09 00:28:03 <[WoD]fly>	hello? Looks like network problems....
+Dez 09 00:29:24 <[WoD]jtb>	networking is working fine on our teambox
+Dez 09 00:29:42 <[WoD]jtb>	could please anyone try to access http://10.6.1.3:1335 ?
+Dez 09 00:29:56 <[WoD]fly>	on the internal network all seem up. is the scoreing bot somehow ..... eating pizza?
+Dez 09 00:30:13 <[r2]Scy>	jtb: 403 forbidden
+Dez 09 00:30:18 <[wcsc]37i>	no, your service is borkeddd
+Dez 09 00:30:39 <[WCSC]AMA>	echo "8===D" > mom
+Dez 09 00:31:14 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:31:39 <Balzaroth>	We are checking team 6...
+Dez 09 00:31:45 <[WoD]fly>	thx
+Dez 09 00:31:52 <[WoD]jtb>	Balzaroth: :)
+Dez 09 00:32:35 <[int80]sc>	int80 is experiencing the same circumstances, please send an update if the bot is down
+Dez 09 00:33:05 <Balzaroth>	We are now restarting the bot and see what happens...
+Dez 09 00:33:16 *	nms hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:33:28 <[WoD]fly>	we already dropped one place in the most relieable bank...
+Dez 09 00:33:32 <[WoD]fly>	;-/
+Dez 09 00:33:45 <[WoD]fly>	hrm.
+Dez 09 00:34:37 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:34:48 <[ENFLG]ch>	anyone tried to punch "> on kloth.net?
+Dez 09 00:35:02 *	boguS (~boguS@coltrane.cs.ucsb.edu) hat #ictf betreten
+Dez 09 00:35:44 <zanardi>	I am still missing 7 teams for Quest 2! Come on! Send the movie...
+Dez 09 00:35:49 <[WoD]jtb>	ok, services are up again
+Dez 09 00:35:54 *	[m4d]Sul3 (~[m4d]Sul3@nat6-176.cs.ucdavis.edu) hat #ictf betreten
+Dez 09 00:35:55 <[WoD]fly>	ok, services (mostly) up again, thank you
+Dez 09 00:35:59 <zanardi>	Quest 2
+Dez 09 00:36:00 <zanardi>	Team25, Blue Blood Alpha
+Dez 09 00:36:00 <zanardi>	Team18, Cinsect
+Dez 09 00:36:00 <zanardi>	Team 19, Cheddar Horsemen
+Dez 09 00:36:00 <zanardi>	Team 12, int80
+Dez 09 00:36:00 <zanardi>	Team 15,Tower of Hanoi
+Dez 09 00:36:01 <zanardi>	Team 13, Defender of the Flag
+Dez 09 00:36:03 <zanardi>	Team 7, WCSC
+Dez 09 00:36:05 <zanardi>	[Team 20, pwnshop] wrong format
+Dez 09 00:36:07 <zanardi>	Team 5, Miner Threat
+Dez 09 00:36:09 <zanardi>	Team 2, Emanaton
+Dez 09 00:36:11 <zanardi>	Team 22, Enoflag
+Dez 09 00:36:13 <zanardi>	Team 10, HackerDom
+Dez 09 00:36:16 <zanardi>	Team 24, Squareroots
+Dez 09 00:36:17 <zanardi>	Team 9, RedCops
+Dez 09 00:36:18 <[r2]log1c>	how high is the delay of the scorebord?
+Dez 09 00:36:20 <zanardi>	Team 23, Nucia
+Dez 09 00:36:21 <zanardi>	Team 14, We 0wn You
+Dez 09 00:36:23 <zanardi>	[Team 8, 0ld Eur0pe] wrong format
+Dez 09 00:36:28 <zanardi>	This is the current list. If you are not in the list above, get your act together and.. DANCE!
+Dez 09 00:36:58 <[USU]Thin>	Yeach! Dance with us!
+Dez 09 00:37:43 <[r2]log1c>	zanardi: delay of the scoreboard?
+Dez 09 00:38:14 <Kasperle>	we do not have the proprietary technology to satisfy your audiovisual needs
+Dez 09 00:38:26 <[UCD]snk>	ditto
+Dez 09 00:38:37 <Balzaroth>	The firsts teams are very close... 
+Dez 09 00:38:43 <[USU]Thin>	How much time left?
+Dez 09 00:38:45 <Balzaroth>	Keep hacking
+Dez 09 00:38:46 <[ci]TriPx>	what about the quest 9 cash? anyone got some yet?
+Dez 09 00:38:52 <[DotF]Raf>	and the last ones ;)
+Dez 09 00:39:09 <[DotF]Raf>	close too? ;)
+Dez 09 00:39:11 <Balzaroth>	Less then 1/2 hour
+Dez 09 00:39:21 <Kasperle>	w00t!?
+Dez 09 00:40:06 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:40:09 <Balzaroth>	There are more than 10 teams with less than 1M dollars
+Dez 09 00:40:12 *	[PSU]n4rc hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:40:14 <[f0g]>	i thought this was advertised to go util 1700 PST??
+Dez 09 00:40:16 <[f0g]Drip>	what happenend to 5:00PM PST?
+Dez 09 00:40:29 <Fox>	laters
+Dez 09 00:40:30 *	Fox (~Fox@client-128-118-126-44.mobility-up.psu.edu) hat #ictf verlassen (Fox)
+Dez 09 00:40:30 <[WoD]fly>	5pm? 1am here...
+Dez 09 00:40:39 <[ch]stfu>	9:41am here
+Dez 09 00:40:44 <[ch]stfu>	we are more hardcore than you
+Dez 09 00:40:46 <Balzaroth>	Ok, sorry
+Dez 09 00:40:47 <[ch]stfu>	bludgers
+Dez 09 00:40:51 <[USU]Thin>	4.40 am:)
+Dez 09 00:40:59 <[W0Y]bies>	0:40am :)
+Dez 09 00:41:00 <Balzaroth>	Zanardi says that it is gonna finish at 5pm
+Dez 09 00:41:09 <Balzaroth>	(uff... I need some sleeeeeep)
+Dez 09 00:41:17 <[ch]stfu>	1 hour 20 minutes?
+Dez 09 00:41:23 <[WoD]fly>	so how long to go? 1 hr 20min?
+Dez 09 00:41:25 <Balzaroth>	Seems so
+Dez 09 00:41:40 <[int80]sc>	Really impressed with Europe, Asia and South Pacific, sun about to rise there?
+Dez 09 00:41:48 <[r2]log1c>	Balzaroth: scoreboard delay?
+Dez 09 00:41:54 <[r2]log1c>	#
+Dez 09 00:41:56 <[W0Y]bies>	[int80]GT, not in europe :)
+Dez 09 00:42:07 <[int80]sc>	nope, just finishing dinner
+Dez 09 00:42:12 <[USU]Thin>	In Russia is dark night:)
+Dez 09 00:42:19 <[ci]uo>	germany, too
+Dez 09 00:42:19 <[int80]sc>	making our own tower of pizza boxes
+Dez 09 00:42:25 <[ci]uo>	0:41am
+Dez 09 00:42:29 <[USU]Thin>	Sun will rise about five hours:)
+Dez 09 00:42:35 <[TH]Raist>	same as germany :p
+Dez 09 00:42:46 <[WoD]fly>	nice. dark night here also. but its closer to the new sun as to the old sun ;-)
+Dez 09 00:43:10 <[int80]sc>	There is a full moon, my pants are down 
+Dez 09 00:43:16 <[ch]stfu>	the new sun rose hours ago here
+Dez 09 00:43:28 *	ace (~ace@ns1.nologin.org) hat #ictf betreten
+Dez 09 00:43:29 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:43:34 <[ch]stfu>	I hate it as much as I hate a Chocolate Makers DoS attack
+Dez 09 00:44:25 *	[OE]scape (~rebel@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 09 00:45:44 <[r2]tho>	we have a problem: all our services are down (ifconfig eth1 down) and we are still loosing points 
+Dez 09 00:45:49 <[r2]tho>	how can this happen?
+Dez 09 00:46:10 *	[ch]stfu hat die Verbindung getrennt (I Quit)
+Dez 09 00:46:29 <[wcsc]37i>	how much you need?
+Dez 09 00:46:32 <[wcsc]37i>	ill send you a dollar
+Dez 09 00:46:40 <[r2]tho>	we lost ~1.800.000 points
+Dez 09 00:46:56 <[r2]tho>	within a few rounds
+Dez 09 00:47:01 <[r2]log1c>	and > 1.000.000 points with all services down
+Dez 09 00:47:05 <[WoD]jtb>	[r2]tho: :P
+Dez 09 00:47:09 <[r2]tho>	has somebody found a way to fake points/transactions?
+Dez 09 00:47:29 <[WCSC]666>	Miss me? :-*
+Dez 09 00:47:32 <[ci]uo>	so that's 11 teams with <1M?
+Dez 09 00:47:50 <[r2]log1c>	would be 1 team with 0$ soon...
+Dez 09 00:47:52 *	[t0fh]fab (~fabi3tto@131.175.127.8) hat #ictf betreten
+Dez 09 00:48:01 <[WCSC]AMA>	HOLY GOD THE RAPE RAYS
+Dez 09 00:48:01 <[WoD]jtb>	mmh, we also need more money..
+Dez 09 00:48:07 *	nms (~neil@vpnctf.poly.edu) hat #ictf betreten
+Dez 09 00:48:26 <[WoD]jtb>	But the command mkmoney helps ;)
+Dez 09 00:49:04 <[r2]tho>	[WoD]jtb: you can fake transactions?
+Dez 09 00:49:13 <[poly]brd>	when does this madness end?
+Dez 09 00:49:15 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:49:21 <[wcsc]37i>	NEVER
+Dez 09 00:49:33 *	[ENFLG]na hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:49:59 <[RC]ssir>	$*
+Dez 09 00:50:02 <[ci]uo>	12 mins
+Dez 09 00:50:12 <[PSU]BBA->	BONER
+Dez 09 00:50:16 <[PSU]BBA->	2005 UCSB FTW
+Dez 09 00:50:16 <[RC]ssir>	m'en fous, vous me faites chier alors je parle français...
+Dez 09 00:50:26 <[CI]5eeU>	tais toi!
+Dez 09 00:50:29 <[RC]ssir>	vous connaissez l'histoire de toto?
+Dez 09 00:50:37 <[RC]ssir>	euh l'aut
+Dez 09 00:50:40 <[CI]5eeU>	de quoi?
+Dez 09 00:50:47 <[RC]ssir>	y'a d'autres français?
+Dez 09 00:50:51 <[RedCops]>	non
+Dez 09 00:50:56 <[RC]ssir>	ah.
+Dez 09 00:50:56 <[CI]5eeU>	non allemands ;)
+Dez 09 00:51:00 <[PSU]arme>	bonjour mon amis francais
+Dez 09 00:51:01 <[RC]ssir>	ahr.
+Dez 09 00:51:02 <[WoD]jtb>	[r2]tho: fake transactions? I don't know nothing ;)
+Dez 09 00:51:02 <[RC]ssir>	ya.
+Dez 09 00:51:03 <[DotF]hat>	dann reden wir doch gleihc deutsch >/(
+Dez 09 00:51:05 <[PSU]BBA->	this channel is hosted in america, please speak english :-P
+Dez 09 00:51:06 <[RC]ssir>	ich auch
+Dez 09 00:51:08 <[DotF]hat>	:-)
+Dez 09 00:51:15 <[WoD]jtb>	yup, bleibt bei englisch..
+Dez 09 00:51:27 <[RC]ssir>	eh tu causes pas anglais, toi!!!
+Dez 09 00:51:38 <[PSU]arme>	oui!
+Dez 09 00:51:48 <[SM]sys>	ta gueule pute
+Dez 09 00:51:48 <[USU]Thin>	Lingva latina non pennis konina...
+Dez 09 00:52:07 <[USU]Thin>	Longus pennis bazis vita
+Dez 09 00:52:21 *	[PSU]BBA- hat die Verbindung getrennt (I Quit)
+Dez 09 00:52:35 <[DotF]hat>	no one likes french
+Dez 09 00:52:39 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:52:46 <[int80]sc>	wo shoa han yu
+Dez 09 00:52:50 <[DotF]hat>	or spanish or so
+Dez 09 00:52:54 <zanardi>	check your latin, dude
+Dez 09 00:53:00 <[RC]ssir>	mmmh mh...
+Dez 09 00:53:08 <[int80]sc>	yo tambien
+Dez 09 00:53:14 <[r2]tho>	hey [WoD]jtb - if you can fake transactions then you are cheating...
+Dez 09 00:53:19 <[RC]ssir>	We hate hats
+Dez 09 00:54:00 <[WCSC]666>	Who is worried about cheating?
+Dez 09 00:54:04 *	[r2]cm hat die Verbindung getrennt (Ping timeout)
+Dez 09 00:54:52 <[wcsc]37i>	where are the other 2 quests?
+Dez 09 00:55:22 <[CI]calm>	thought game is over in bout 10 mins
+Dez 09 00:55:26 <[DotF]Raf>	is there a real highscore?
+Dez 09 00:55:40 <[W0Y]flo>	how much time left?
+Dez 09 00:55:52 <[USU]Thin>	About one hour left
+Dez 09 00:56:20 <[t0fh]fab>	another hour of pain :)
+Dez 09 00:56:30 <[W0Y]woll>	we'd like a definite timestamp 
+Dez 09 00:56:33 <Balzaroth>	No, its not cheating... that is the focus of the game
+Dez 09 00:56:37 <[W0Y]bies>	is scoring based essentially on "best hackers"?
+Dez 09 00:56:47 <[ci]uo>	@Balzaroth: How much time is left?
+Dez 09 00:57:06 <Balzaroth>	1h right now
+Dez 09 00:57:11 <[r2]tho>	Balzaroth: but how can we loose 1.8M points in <10 rounds?
+Dez 09 00:57:29 <[r2]tho>	isn't there a max value per round?
+Dez 09 00:57:34 *	[PSU]arme hat die Verbindung getrennt (I Quit)
+Dez 09 00:57:40 <[f0g]etc2>	can IBANS only be used once?
+Dez 09 00:58:08 <wh-Bonzo>	sure whatever
+Dez 09 00:58:09 <[wcsc]37i>	yeah
+Dez 09 00:58:22 *	[int80]Ro (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 00:59:00 <Balzaroth>	No, you can use them as many times as you want
+Dez 09 00:59:02 <[wcwc]4sw>	Timezones were everybody's friends.
+Dez 09 00:59:07 *	tom (~tom@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 00:59:27 <Balzaroth>	Yeah, there is a limit per round
+Dez 09 00:59:50 <[r2]log1c>	that would be?
+Dez 09 01:01:09 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:01:44 *	[int80]Ro hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:01:53 <[WoD]fly>	scoreingbot dead again? all services down again?
+Dez 09 01:02:16 <[WoD]fly>	Balzaroth: we are reportet down again...
+Dez 09 01:02:16 <wh-Bonzo>	yeah, wait a few minutes and it should fix itself
+Dez 09 01:03:02 <[WoD]jtb>	We're loosing at lot of reliabity points while the bot is down
+Dez 09 01:03:17 <[FLAG]ani>	what service is "Main site" as it is always down for us
+Dez 09 01:03:26 <wh-Bonzo>	mom
+Dez 09 01:03:37 *	boguS hat die Verbindung getrennt (Leaving)
+Dez 09 01:04:09 <[WCSC]666>	I think we need to stop for a minute and praise allah
+Dez 09 01:04:11 *	[r2]matka hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:04:30 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:04:34 <[WCSC]666>	and tom cruise
+Dez 09 01:04:39 <wh-Bonzo>	and batman
+Dez 09 01:04:52 <[r2]log1c>	don't forget Mr. Gates!
+Dez 09 01:04:54 <[wcsc]37i>	and baby jesus
+Dez 09 01:04:57 <zanardi>	wizard of dos
+Dez 09 01:05:16 <[WoD]jtb>	zanardi: what?
+Dez 09 01:05:29 <wh-Bonzo>	wizard of unix > wizard of dos
+Dez 09 01:05:59 <[WoD]jtb>	Balzaroth: could you please check the bot again?
+Dez 09 01:06:16 <zanardi>	wizard of dos, you need to meet qeust 2
+Dez 09 01:06:18 <zanardi>	quest 2
+Dez 09 01:06:26 <zanardi>	we want the video. You have to do it.
+Dez 09 01:06:40 <wh-Bonzo>	what if they don't have 10 people?
+Dez 09 01:06:41 <zanardi>	:-) please
+Dez 09 01:06:45 <zanardi>	ok
+Dez 09 01:06:59 <[squarero>	how many teams under 1 mio??????
+Dez 09 01:07:38 <[WoD]fly>	zanardi: fix the bot and we can talk about it. :-)
+Dez 09 01:07:56 <Balzaroth>	Ok, we are rebooting the scorebot right now
+Dez 09 01:08:10 <wh-Bonzo>	;_;
+Dez 09 01:08:14 <[WoD]fly>	ok. we are working in cutting our video, which is the actual problem.
+Dez 09 01:08:32 <[wcsc]3h>	5 people could each do 2 dances
+Dez 09 01:08:43 <wh-Bonzo>	2 people could do five dances
+Dez 09 01:08:51 <[SM]sys>	why's the scorebot rebooting
+Dez 09 01:08:55 <wh-Bonzo>	1/2 person could do 20 dances
+Dez 09 01:09:08 <[WCSC]666>	paraplegics ftw
+Dez 09 01:09:15 <[WCSC]AMA>	tunak tunak tun
+Dez 09 01:09:20 <[ci]TriPx>	btw: we're still missing some quest money on 9, how about that? :)
+Dez 09 01:09:30 <wh-Bonzo>	[SM]sys: because you touch yourself
+Dez 09 01:09:41 <[WoD]fly>	who is 10.19.1.182? Please stop flooding.
+Dez 09 01:09:42 <[WCSC]666>	everytime you masturbate, giovanni resets the scorebot
+Dez 09 01:10:02 <zanardi>	the french team is going to be penalized for having a pool table in their lab
+Dez 09 01:10:14 <[WCSC]AMA>	remember.. no 8==m==D
+Dez 09 01:10:20 <zanardi>	sigmil? Video?
+Dez 09 01:10:36 <zanardi>	mad cows?
+Dez 09 01:10:41 <zanardi>	UC Lions?
+Dez 09 01:10:46 <[WCSC]AMA>	or rather.. 8mD
+Dez 09 01:10:49 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:11:02 <[WCSC]Zap>	zanardi: we'll take their money for submitting another video
+Dez 09 01:11:12 <zanardi>	if it's not for the point, it will be for posterity! Just send the movie.
+Dez 09 01:11:27 <[WCSC]666>	I can send some homemade, straight porn for bonus points
+Dez 09 01:11:31 <zanardi>	I'll give funny money out for movies...
+Dez 09 01:11:46 <zanardi>	No pr0n. At least not the one YOU like
+Dez 09 01:12:09 *	jackrabbi (~viiishenk@UCIT-ATM.eunnet.net) hat #ictf betreten
+Dez 09 01:12:29 *	jackrabbi ist jetzt bekannt als [usu]jac
+Dez 09 01:12:32 <[RC]neerd>	the pool is not in our lab (what a pity :p )
+Dez 09 01:12:36 *	[usu]jac ist jetzt bekannt als [usu]jack
+Dez 09 01:13:34 <[WCSC]666>	I wish the doctor who music would stop
+Dez 09 01:13:39 <[WCSC]666>	I'd rather hear bananaphone
+Dez 09 01:13:46 *	[t0fh]fab hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:14:02 <[WCSC]Zap>	ooo ha! oooooo ooooo ha! ha! ha!
+Dez 09 01:14:13 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:14:14 <[CI]5eeU>	reboot?
+Dez 09 01:14:15 <[CI]5eeU>	;)
+Dez 09 01:15:15 <[ci]nonsy>	too many rootshells ;)
+Dez 09 01:15:19 *	[t0fh]fab (~fabi3tto@131.175.127.8) hat #ictf betreten
+Dez 09 01:15:31 <[USU]Thin>	Do not have 100$, have 100 friends! Great russian idioma!:)
+Dez 09 01:15:58 <[t0fh]fab>	but not for the ctf :D
+Dez 09 01:16:43 <[usu]jack>	people! there's no happiness in money!
+Dez 09 01:17:06 <[USU]Thin>	Hapinnes in rootshels!:-D
+Dez 09 01:17:19 <[RC]ssir>	the answer for quest 6 is for sale...
+Dez 09 01:17:28 <[RC]ssir>	100000000$
+Dez 09 01:17:37 *	[0E]awjb (~awjb@nb-13.zlw-ima.RWTH-Aachen.DE) hat #ictf betreten
+Dez 09 01:17:48 <[TH]Raist>	I won't buy that, but you need to mail it to me
+Dez 09 01:17:54 <[TH]Raist>	afterwards
+Dez 09 01:17:56 <[TH]Raist>	:D
+Dez 09 01:18:24 <[RC]ssir>	Matlab is not running on Apple...
+Dez 09 01:18:31 <[RC]ssir>	As much as I know..
+Dez 09 01:18:48 <[CI]5eeU>	i would buy, change you change i just have 10000000000000$
+Dez 09 01:18:50 <[CI]5eeU>	;)
+Dez 09 01:18:51 *	[USU]K0DE (~Koder@UCIT-ATM.eunnet.net) hat #ictf betreten
+Dez 09 01:19:08 <[USU]Thin>	And punch cards dont pluggable in FDD:-D
+Dez 09 01:19:21 <[USU]K0DE>	Do u like our VIDEO guys?
+Dez 09 01:19:35 <[poly]dan>	we submitted quest 2 wooooooo
+Dez 09 01:19:43 <[poly]dan>	no one had a camera here
+Dez 09 01:19:45 <[poly]dan>	and no one had a mac
+Dez 09 01:19:56 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:20:00 <[poly]dan>	so we grabbed images off a security camera, sequenced the jpegs into a movie, and converted it with mencoder
+Dez 09 01:20:01 *	kost (~kost@UCIT-ATM.eunnet.net) hat #ictf betreten
+Dez 09 01:20:01 <[poly]dan>	lol
+Dez 09 01:20:06 <[USU]K0DE>	for what u need mac?
+Dez 09 01:20:16 <[USU]Thin>	Place in WEB all videos after game!
+Dez 09 01:20:37 <[int80]sc>	can we confirm the score bot is still down?
+Dez 09 01:20:47 *	kost ist jetzt bekannt als [USU]kost
+Dez 09 01:20:57 <[USU]K0DE>	We still need some money (^^)
+Dez 09 01:20:57 <[RC]ssir>	punch cards are human readable if you have old guys (i mean real old) in your team
+Dez 09 01:21:26 <Spida>	my father used to do that kind of stuff
+Dez 09 01:21:41 <[USU]Thin>	I have a theoretiacl knowledge how to read it...
+Dez 09 01:21:45 <[t0fh]fab>	we've finished that quest just a minute after the quest was closed
+Dez 09 01:22:14 <[USU]Thin>	many our teachers knows how to read cards:)
+Dez 09 01:22:21 <[ENFLG]ch>	ssir: it's just another alphabet
+Dez 09 01:22:33 <[int80]sc>	score bot is up / down?
+Dez 09 01:23:08 <[CI]5eeU>	i write my exams this way
+Dez 09 01:23:10 <[CI]5eeU>	;)
+Dez 09 01:23:18 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:23:44 <[USU]Thin>	Hackers! How old are you?
+Dez 09 01:23:56 <[USU]Thin>	i just intresting...
+Dez 09 01:24:14 *	[PSU]BBA- (~[PSU]BBA-@TWM151-70-94.rh.psu.edu) hat #ictf betreten
+Dez 09 01:25:02 <[DotF]hat>	hey austria stop it!
+Dez 09 01:25:04 <[USU]K0DE>	05:25 aaaahh....
+Dez 09 01:25:26 *	cyo (~cyo@ctf.seclab.tuwien.ac.at) hat #ICTF betreten
+Dez 09 01:25:54 <[USU]kost>	Austrian,are you looking just like your command's picture? ;)
+Dez 09 01:25:55 <[m4d]Sul3>	nucia blows
+Dez 09 01:26:48 <[UCD]snk>	zanardi, mad cows video on the way
+Dez 09 01:27:41 *	[ci]nonsy sings money money money
+Dez 09 01:27:45 <[r2]tho>	all our services are down and we are still loosing points
+Dez 09 01:27:57 <[r2]tho>	what's wrong?
+Dez 09 01:28:02 <[USU]K0DE>	=))))
+Dez 09 01:28:07 <[USU]Thin>	=))))
+Dez 09 01:28:08 <[RC]ssir>	try it with services up
+Dez 09 01:28:21 <[RC]ssir>	;-)
+Dez 09 01:28:23 <[USU]K0DE>	pls read the rulez
+Dez 09 01:28:40 <[CI]5eeU>	[r2]tho: we hab the same problem about 2 hours ago - it ends - sometime...
+Dez 09 01:28:48 <[CI]5eeU>	had
+Dez 09 01:28:50 <[W0Y]woll>	[DotF]hat,  stop what? 
+Dez 09 01:28:56 <[W0Y]woll>	:-)
+Dez 09 01:29:03 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:29:22 <[R2]Tiger>	it ends when your account is empty?
+Dez 09 01:29:51 <[DotF]hat>	:-)
+Dez 09 01:30:01 <[TH]Raist>	still 30 mins to go ?
+Dez 09 01:30:03 <[DotF]hat>	dont know w0y
+Dez 09 01:30:07 <[int80]sc>	you mean empty again.
+Dez 09 01:30:39 <[USU]K0DE>	()))))))))--*
+Dez 09 01:30:51 <[f0g]etc2>	gay this game is
+Dez 09 01:30:58 <[PSU]BBA->	word
+Dez 09 01:31:01 <[W0Y]bies>	this game is cool :)
+Dez 09 01:31:02 <[CI]5eeU>	[R2]Tiger: yes, at least - ask vienna where your money may have gone
+Dez 09 01:31:04 <[USU]K0DE>	gay?
+Dez 09 01:31:14 <[PSU]BBA->	2005 UCSB ftw
+Dez 09 01:31:14 <[CI]5eeU>	they rule this game
+Dez 09 01:31:22 *	[W0Y]bies whistles innocently
+Dez 09 01:31:22 <[WCSC]666>	english is not obviously first languange here in
+Dez 09 01:31:22 *	[PSU]arme (~armengar@64.178.110.189.dynamic.dejazzd.com) hat #ictf betreten
+Dez 09 01:31:32 <[TH]Raist>	vienna definitely rulez :p 
+Dez 09 01:31:48 <[WoD]fly>	what about the quests we submitted? Any information about that?
+Dez 09 01:32:10 <[USU]K0DE>	KaK Ha C4eT PyCCKoro Hape4u9 ?
+Dez 09 01:32:22 <wh-Bonzo>	moskau moskau
+Dez 09 01:32:25 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:32:27 <[WCSC]666>	rammstein
+Dez 09 01:32:30 <[R2]Tiger>	at least theres enough money left on our account to pay for all the drugs and chicks in here...
+Dez 09 01:32:31 <[f0g]Drip>	gay means french
+Dez 09 01:32:37 <[USU]Thin>	Red^2
+Dez 09 01:32:37 <[USU]kost>	dimmi borgir
+Dez 09 01:32:39 <[WCSC]666>	coke & hookers ftw
+Dez 09 01:32:53 <[DotF]hat>	hey vienna do u already have snow?
+Dez 09 01:32:56 <[RC]ssir>	no, french means gay
+Dez 09 01:33:09 <[USU]K0DE>	rDe?
+Dez 09 01:33:16 <[W0Y]bies>	[DotF]hat, no, actually
+Dez 09 01:33:20 <[W0Y]bies>	which is rather unusual
+Dez 09 01:33:47 *	robert (~musekinin@130.83.164.201) hat #ictf betreten
+Dez 09 01:33:55 *	robert (~musekinin@130.83.164.201) hat #ictf verlassen (robert)
+Dez 09 01:34:12 <[TH]Raist>	even on the alps no snow, or very little
+Dez 09 01:34:19 <[TH]Raist>	which is one of the reasons we are here tonite
+Dez 09 01:34:20 *	robert (~musekinin@130.83.164.201) hat #ictf betreten
+Dez 09 01:34:21 <[TH]Raist>	:p
+Dez 09 01:34:25 <robert>	test
+Dez 09 01:34:25 <[USU]kost>	o! ppl! what's yor time now? my clocks show 5:34 AM
+Dez 09 01:34:29 *	robert (~musekinin@130.83.164.201) hat #ictf verlassen (robert)
+Dez 09 01:34:34 <[W0Y]bies>	1:34am
+Dez 09 01:34:35 <[PSU]arme>	7:34
+Dez 09 01:34:37 <[TH]Raist>	1:34 am
+Dez 09 01:34:41 <[PSU]arme>	pm
+Dez 09 01:34:46 <[m4d]Sul3>	4:34 pm
+Dez 09 01:34:53 <Spida>	zanardi: can you tell us why our (8) insurance is scored as down? 
+Dez 09 01:35:02 <[USU]K0DE>	5:34am...
+Dez 09 01:35:08 <[USU]Thin>	Whats the weather?
+Dez 09 01:35:09 <[int80]sc>	7:35PM
+Dez 09 01:35:10 *	[wod]robe (~musekinin@130.83.164.201) hat #ictf betreten
+Dez 09 01:35:13 <[WoD]fly>	01:35 am
+Dez 09 01:35:13 <[wod]robe>	test
+Dez 09 01:35:15 <[WCSC]AMA>	ICE COLD.
+Dez 09 01:35:18 <Balzaroth>	I'm back
+Dez 09 01:35:24 <[USU]kost>	weather - bad? very dirty
+Dez 09 01:35:27 <Balzaroth>	20 minutes to the end
+Dez 09 01:35:29 <[USU]Thin>	Where many snow?:)
+Dez 09 01:35:32 <[USU]K0DE>	+2 of Celcium
+Dez 09 01:35:34 <thomasbl>	weather? dark ;)
+Dez 09 01:35:41 <[PSU]arme>	snow here
+Dez 09 01:35:53 <thomasbl>	cool!
+Dez 09 01:35:59 <thomasbl>	give us some ;)
+Dez 09 01:36:05 <[PSU]arme>	lol
+Dez 09 01:36:14 *	[ch]mhl (~[ch]mhl@203-206-185-62.perm.iinet.net.au) hat #ictf verlassen ([ch]mhl)
+Dez 09 01:36:17 <[USU]Thin>	In the past week we have -25 celsium:)
+Dez 09 01:36:21 <[WoD]fly>	all services down again.
+Dez 09 01:36:23 <[ci]TriPx>	Balzaroth: we still seem to be missing payment for quest 9, anything on that?
+Dez 09 01:36:25 <thomasbl>	whoa. very cool!
+Dez 09 01:36:40 <[WoD]fly>	Balzaroth: all services seems down again. can you check that again?
+Dez 09 01:36:41 <thomasbl>	i hope we get snow until xmas...
+Dez 09 01:36:42 <[WoD]jtb>	all our services are down again *ggrrr*
+Dez 09 01:36:58 <[wod]robe>	We already handed in answerd to quest 2 and 6 when do we get info if they are accepted or not?
+Dez 09 01:37:13 <Balzaroth>	Yup, we are going to give the quest point at the end with the exploit points
+Dez 09 01:37:13 <[USU]K0DE>	no xmas,NewYear - is celebrate
+Dez 09 01:37:36 <[WoD]jtb>	no xmas this year - iptables is blocking it^^
+Dez 09 01:37:59 <[W0Y]bies>	how does exploit scoring work?
+Dez 09 01:38:02 <[ci]TriPx>	Balzaroth: okay, great :)
+Dez 09 01:38:02 <[WoD]fly>	come to the 23c3 conference to berlin. events.ccc.de/congress/2006/
+Dez 09 01:38:11 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:38:17 <[wod]robe>	But you guys check if they are valid @Balzaroth ?
+Dez 09 01:38:39 *	[USU]VenR hat die Verbindung getrennt (BitchX-1.1-final -- just do it.)
+Dez 09 01:38:47 <Balzaroth>	What ?
+Dez 09 01:39:01 <[wod]robe>	If the quests are answered correctly.
+Dez 09 01:39:04 <[WoD]fly>	scoreingbot seems dead, all services down, no change in money.
+Dez 09 01:39:04 <Balzaroth>	If the answer are correct??
+Dez 09 01:39:08 <[wod]robe>	yes.
+Dez 09 01:39:24 <Balzaroth>	Of course, we actually refused a lot of answer because they were wrong
+Dez 09 01:39:51 *	[ut]scott hat die Verbindung getrennt (using sirc version 2.211+KSIRC/1.3.12)
+Dez 09 01:40:11 <[WoD]fly>	Balzaroth: scoreingbot seems dead again, all services down, no change in money. could you change that? that suxx....
+Dez 09 01:40:11 *	dunedain (~dunedain@w-mob201-128-62-93-14.public.utexas.edu) hat #ictf betreten
+Dez 09 01:40:13 <[USU]K0DE>	W0Y it's time to show the cards :)
+Dez 09 01:40:26 *	dunedain ist jetzt bekannt als [ut]scott
+Dez 09 01:40:34 *	[r2]lux hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:40:41 *	[r2]uchi_ hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:41:33 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:41:37 <Balzaroth>	Yes, since you guys were complaining we slowed it down
+Dez 09 01:41:51 <ace>	is there a publicly available score page?
+Dez 09 01:41:58 <[WCSC]666>	no
+Dez 09 01:42:35 <Balzaroth>	Yes, on ivonova.cs.ucsb.edu
+Dez 09 01:42:46 <[WoD]fly>	Balzaroth: we are not complaining about the speed. we sould loke to have it working again.
+Dez 09 01:42:57 <ace>	thx balzaroth 
+Dez 09 01:43:02 *	Balzaroth hat das Thema geändert zu: iCTF 2006: 15 minutes
+Dez 09 01:43:07 *	[ut]scott hat die Verbindung getrennt (using sirc version 2.211+KSIRC/1.3.12)
+Dez 09 01:43:50 *	michael_ (~michael@vpnctf.poly.edu) hat #ictf betreten
+Dez 09 01:44:05 <[poly]dan>	zanardi, did you guys get our movie?
+Dez 09 01:44:06 <[CI]5eeU>	Balzaroth: is this final or round based score?
+Dez 09 01:44:09 <[poly]dan>	<---- pwnshop
+Dez 09 01:44:21 <[USU]kost>	people, we want to have a bucket of russian vodka and drink it NOW!
+Dez 09 01:45:07 <Balzaroth>	Which score are you talking about ?
+Dez 09 01:45:20 <[WoD]fly>	Balzaroth: scoreingbot team 6.
+Dez 09 01:45:34 <[WoD]fly>	neither money nor services is changeing. all reported down, as before.
+Dez 09 01:46:11 <[RC]ssir>	"what is the difference between a hillbilly..."?
+Dez 09 01:46:16 <[RC]ssir>	hehehehehe
+Dez 09 01:46:33 <[RC]ssir>	GIOVANI GIVE US THE MONEY!!!!
+Dez 09 01:46:41 <[RC]ssir>	WE GOT QUEST 6
+Dez 09 01:46:42 <[PSU]arme>	its a hillbilly bank, don't expect to get much ;)
+Dez 09 01:46:46 <[USU]kost>	I have an idea - lets play CTF in Quake 3 - after the game finished =)
+Dez 09 01:46:47 <[RC]ssir>	GIVE THE MONEY
+Dez 09 01:46:54 <[RC]ssir>	RIGHT NOW!
+Dez 09 01:46:57 <[RC]ssir>	WE NEED IT
+Dez 09 01:46:59 <[WCSC]666>	ut2k4
+Dez 09 01:47:03 <[WCSC]666>	fuck q3
+Dez 09 01:47:04 <wh-Bonzo>	your balance: some fleas, jeans full of holes, car parts
+Dez 09 01:47:08 <[RC]ssir>	pleeeeeeease
+Dez 09 01:47:19 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:47:21 <[RC]ssir>	Austria is kickiçng up our ass
+Dez 09 01:47:24 <[RC]ssir>	give the money
+Dez 09 01:47:27 <[RC]ssir>	quick
+Dez 09 01:47:28 <[USU]K0DE>	do u know what is DOSHIRAK?????
+Dez 09 01:47:29 <[RC]ssir>	quick
+Dez 09 01:47:30 <[RC]ssir>	quick
+Dez 09 01:48:00 <[WoD]jtb>	could please anyone try to access http://10.6.1.3:1335 ?
+Dez 09 01:48:01 *	[int80]ks hat die Verbindung getrennt ()
+Dez 09 01:48:01 *	mercutio (~marco@128.111.48.31) hat #ictf betreten
+Dez 09 01:48:29 <Spida>	[WoD]jtb: 403
+Dez 09 01:48:35 <[WoD]jtb>	ok :(
+Dez 09 01:48:38 <[USU]kost>	403
+Dez 09 01:48:41 <[WoD]jtb>	the scoring bot is broken
+Dez 09 01:48:48 <[WoD]jtb>	your services are all up and working
+Dez 09 01:49:19 *	[ci]Muell hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:50:00 <[TH]Raist>	it was a bogus game anyway
+Dez 09 01:50:05 <[TH]Raist>	it's supposed to be ctf
+Dez 09 01:50:08 <[TH]Raist>	not ct$
+Dez 09 01:50:09 <[int80]sc>	a moment of silence for the score bot please
+Dez 09 01:50:10 <[TH]Raist>	:p
+Dez 09 01:50:12 <[USU]kost>	commands! do you have girls as your participants&
+Dez 09 01:50:14 <[USU]kost>	?
+Dez 09 01:50:30 *	Roscoe hat die Verbindung getrennt (Leaving)
+Dez 09 01:50:33 <[USU]kost>	*teams
+Dez 09 01:50:41 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:51:03 <[TH]Raist>	where's the scorebot ?
+Dez 09 01:51:05 <[TH]Raist>	:p
+Dez 09 01:51:12 <[f0g]etc2>	if it was up your ass you'd know
+Dez 09 01:51:24 <[PSU]arme>	ce n'est pas une scorebot
+Dez 09 01:51:26 <[int80]GT>	our money is going down and it says our services are down
+Dez 09 01:51:30 *	v (~vladod@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 01:51:34 <[USU]Thin>	Score bot is a GIRL:-S
+Dez 09 01:51:44 <[WoD]fly>	zanardi, Balzaroth: the scoreingbot is dead and should be burried.
+Dez 09 01:51:44 <[TH]Raist>	doubt it, too sleepy to feel even that :p
+Dez 09 01:51:56 <[USU]K0DE>	int80 u lose it exactly =)
+Dez 09 01:52:03 <[USU]kost>	scorebot is a blond
+Dez 09 01:52:33 *	[RedCops] hat die Verbindung getrennt (Quitte)
+Dez 09 01:52:36 <[f0g]Drip>	or french
+Dez 09 01:52:42 *	[r2]uchi_ (~uchimata@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 09 01:52:44 <[int80]GT>	r2, how much money do you have?
+Dez 09 01:52:45 <zanardi>	vika says to Thin: "GIRL is bad?!?"
+Dez 09 01:52:45 <[USU]K0DE>	guys do u like blods?
+Dez 09 01:52:48 <[t0fh]fab>	a dead blond girl -.-
+Dez 09 01:52:51 <zanardi>	"And you are Russian"
+Dez 09 01:52:55 <zanardi>	??
+Dez 09 01:53:01 <[USU]K0DE>	yeeeeaaaah
+Dez 09 01:53:02 <zanardi>	Vika's words
+Dez 09 01:53:10 <zanardi>	Worse than an epithaph
+Dez 09 01:53:28 <[int80]sc>	We would like to thank UCSB for providing a cute coordinator :-)
+Dez 09 01:53:31 <[USU]Thin>	zanardi, i love girls;)
+Dez 09 01:53:43 *	Balzaroth hat das Thema geändert zu: iCTF 2006: 5 minutes
+Dez 09 01:54:00 <[0E]lexi>	Balzaroth: 6min?
+Dez 09 01:54:02 *	[WCSC]666 looks over and sees [wcsc]4sw dreaming about vika
+Dez 09 01:54:08 <[wcsc]37i>	more quests!!
+Dez 09 01:54:09 <[WoD]fly>	Balzaroth: could you please check the Scoreingbot. Its def wrong here.
+Dez 09 01:54:10 *	powerd (~lordvykon@vpnctf.poly.edu) hat #ictf betreten
+Dez 09 01:54:32 <wh-Bonzo>	http://static.flickr.com/79/210356611_1e0f0e3100_b.jpg
+Dez 09 01:54:33 *	g0ph3r (~g0ph3r@static-ip-62-75-165-221.inaddr.intergenia.de) hat #ictf betreten
+Dez 09 01:54:37 <[USU]K0DE>	it's are wounderful wounderful life
+Dez 09 01:54:40 <[f0g]etc2>	more quests less banking
+Dez 09 01:54:42 <[f0g]Drip>	<-- doesn't see anymore gold question marks
+Dez 09 01:54:48 <[WCSC]666>	in the pic is [wcsc]4sw
+Dez 09 01:54:49 <[WoD]jtb>	anyone else with all services marked as down?
+Dez 09 01:54:51 <[int80]GT>	are quest points added already...
+Dez 09 01:54:53 <[WCSC]666>	And that's what he looks like now
+Dez 09 01:54:56 <[DotF]hat>	how can u steal when we're down?
+Dez 09 01:54:59 <[int80]GT>	or is the total our money plus the quests
+Dez 09 01:55:06 <wh-Bonzo>	magic vcr-stealin' powers
+Dez 09 01:55:08 <[RC]ssir>	who else got quest 6????
+Dez 09 01:55:11 <[RC]ssir>	mmmh?
+Dez 09 01:55:16 *	no_maam (~no_maam@cdcnt23.cdc.informatik.tu-darmstadt.de) hat #ictf betreten
+Dez 09 01:55:16 <[f0g]etc2>	maybe we can go with the integer underflow for balance...
+Dez 09 01:55:16 *	[ENOFLAG] (~tux@vpn-0522.zrz.TU-Berlin.DE) hat #ictf betreten
+Dez 09 01:55:17 <[USU]Thin>	Balzaroth, zanardi, vika! Thank you very much!!! The game was very intresting!!!
+Dez 09 01:55:19 <[WCSC]666>	he has a tattoo of hsihpllehs on his stomach
+Dez 09 01:55:23 *	no_maam ist jetzt bekannt als [WoD]no_m
+Dez 09 01:55:27 <[int80]sc>	hear hear
+Dez 09 01:55:29 *	[ENOFLAG] hat die Verbindung getrennt (Verlassend)
+Dez 09 01:55:31 <[RC]ssir>	I don't care about buffer overflows...
+Dez 09 01:55:37 *	Brew (~breuerp@205.134.188.162) hat #ictf betreten
+Dez 09 01:55:40 <[RC]ssir>	I am onlyn concerned by quest 6
+Dez 09 01:55:41 *	g0ph3r ist jetzt bekannt als [WoD]g0ph
+Dez 09 01:55:48 <[RC]ssir>	Quest 6 overflow
+Dez 09 01:55:50 <[RC]ssir>	yeah
+Dez 09 01:55:54 <[RC]ssir>	it rooooooocks
+Dez 09 01:55:57 *	[W0Y]jose (~j05ef@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 01:56:04 <[RC]ssir>	Quest 6 is quest sex
+Dez 09 01:56:12 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:56:13 <[ch]jared>	quest 10 submittin soon
+Dez 09 01:56:15 <[t0fh]fab>	quest 6 is quest hex :D
+Dez 09 01:56:15 <[RC]ssir>	Quest 6 is quite SEX
+Dez 09 01:56:15 *	powerd hat die Verbindung getrennt (leaving)
+Dez 09 01:56:30 *	ax3l hat die Verbindung getrennt (Leaving)
+Dez 09 01:56:33 <[f0g]etc2>	team 20, give us our policy back
+Dez 09 01:56:36 <[WoD]no_m>	quest 6 was easy
+Dez 09 01:56:41 <[f0g]etc2>	;)
+Dez 09 01:56:43 <[USU]K0DE>	maniacs
+Dez 09 01:57:02 *	powerd (~lordvykon@vpnctf.poly.edu) hat #iCTF betreten
+Dez 09 01:57:09 <[RC]ssir>	Rememeber that name : John Pee from Gif-sur-Yvette
+Dez 09 01:57:13 <[RC]ssir>	A great guy
+Dez 09 01:57:20 <[RC]ssir>	The "Quest 6 guy"
+Dez 09 01:57:27 <[RC]ssir>	the quest sex guy
+Dez 09 01:57:28 <wh-Bonzo>	http://vadeodd.ytmnd.com/
+Dez 09 01:57:33 <zanardi>	Folks, we going to shut down in 2 minutes.
+Dez 09 01:57:35 <[ci]nonsy>	why shellphish ?
+Dez 09 01:57:44 <[WCSC]666>	why not?
+Dez 09 01:57:58 <zanardi>	The final scores will be published in 30minutes or so...
+Dez 09 01:58:05 <zanardi>	end game!!!!
+Dez 09 01:58:07 <[WoD]fly>	zanardi: we would be glad if you power it up and we would be glad if this has be done minutes ago.
+Dez 09 01:58:17 <[WCSC]666>	We should send a video of a us all doing meatspin
+Dez 09 01:58:20 <nucia>	where will the scores be published?
+Dez 09 01:58:25 <[WCSC]666>	*all
+Dez 09 01:58:26 <[ch]jared>	we're emailing the solution for quest 10 now
+Dez 09 01:58:39 *	jstimson hat die Verbindung getrennt (Leaving)
+Dez 09 01:58:43 <[PSU]BBA->	hhahaha
+Dez 09 01:58:46 <wh-Bonzo>	booyah, >10m
+Dez 09 01:58:47 <[RC]ssir>	quesyt 10 sucks
+Dez 09 01:58:51 *	[f0g]etc2 hat die Verbindung getrennt (Leaving)
+Dez 09 01:58:52 <[RC]ssir>	quest 6 is good
+Dez 09 01:59:00 <[WoD]jtb>	*gggrrrrr* services down for many rounds because of the §$/()(&%§($/§ scoring bot
+Dez 09 01:59:02 <[RC]ssir>	who cares quest 10?
+Dez 09 01:59:05 <[RC]ssir>	no one
+Dez 09 01:59:07 *	[f0g]Drip (~dripflux@205.134.188.162) hat #ictf verlassen (Leaving)
+Dez 09 01:59:10 <[r2]log1c>	gg :>
+Dez 09 01:59:11 <[WCSC]666>	Quest 11 is the best
+Dez 09 01:59:12 <[RC]ssir>	who cares quest 6?
+Dez 09 01:59:14 *	[W0Y]jose hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:59:14 <[RC]ssir>	everyone
+Dez 09 01:59:15 <[SM]sys>	when will the winners be announced
+Dez 09 01:59:16 *	snow hat die Verbindung getrennt (EOF From client)
+Dez 09 01:59:16 *	[f0g] hat die Verbindung getrennt (EOF From client)
+Dez 09 01:59:16 *	Brew hat die Verbindung getrennt (EOF From client)
+Dez 09 01:59:18 <[ch]jared>	zanardi: you should get th eemail now
+Dez 09 01:59:24 <[ch]jared>	did we make the cutoff?
+Dez 09 01:59:28 <[WCSC]666>	I dunno about everyone else...but our quests go to 11
+Dez 09 01:59:35 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:59:36 *	RouDaddy (~RouDaddy@lawn-128-61-117-77.lawn.gatech.edu) hat #ictf betreten
+Dez 09 01:59:48 *	[wod]robe hat die Verbindung getrennt (Ping timeout)
+Dez 09 01:59:52 <[TH]Raist>	zanardi: we are mailing you two quest submissions right now...
+Dez 09 02:00:00 <[WCSC]666>	Prolly too late
+Dez 09 02:00:03 *	aleksey (~mc@vpnctf.poly.edu) hat #ictf betreten
+Dez 09 02:00:05 <[WCSC]666>	Scoreboard is down
+Dez 09 02:00:15 *	[RC]Fanch hat die Verbindung getrennt (Quitte)
+Dez 09 02:00:30 <[USU]K0DE>	where is result?
+Dez 09 02:00:39 <[WCSC]AMA>	gg
+Dez 09 02:00:41 <wh-Bonzo>	wait 30 minutes
+Dez 09 02:00:43 <[WCSC]666>	gg
+Dez 09 02:00:45 <[poly]brd>	show me the money
+Dez 09 02:00:48 <celafotra>	gg
+Dez 09 02:00:50 <[poly]brd>	gg
+Dez 09 02:00:55 <[WCSC]Gar>	gg nextmap
+Dez 09 02:00:57 <[USU]K0DE>	wooot?
+Dez 09 02:00:58 <[0E]lexi>	waiting process [**-------------------------------------------------------] 0/30min
+Dez 09 02:00:59 <[ci]nonsy>	good nite
+Dez 09 02:01:06 <[PSU]arme>	gg
+Dez 09 02:01:07 <[W0Y]Free>	gg
+Dez 09 02:01:09 *	[ci]nonsy hat die Verbindung getrennt (byebye)
+Dez 09 02:01:19 <[WoD]lars>	money money money, makes me funny
+Dez 09 02:01:19 <[USU]K0DE>	XopoLLIa9 urPa !
+Dez 09 02:01:20 <[PSU]arme>	2v2
+Dez 09 02:01:39 <[WoD]lars>	Do we get answers to our submissions of quest 2 and 6?
+Dez 09 02:01:40 <[r2]jo>	.
+Dez 09 02:01:42 <[WCSC]666>	a/s/l
+Dez 09 02:01:44 <[int80]GT>	r2, did you really have less than 100 dollars?
+Dez 09 02:01:46 *	sean hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:01:56 <[int80]GT>	or was my script not working anymore?
+Dez 09 02:02:12 <[R2]Tiger>	no comment
+Dez 09 02:02:17 <wh-Bonzo>	so yeah, when checks bounced that meant the target team was flatline, right?
+Dez 09 02:02:17 <[W0Y]flo>	is it really over?
+Dez 09 02:02:39 *	RouDaddy hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:02:42 <[int80]GT>	10.24.1.251
+Dez 09 02:03:00 *	[CI]calm hat die Verbindung getrennt ([BX] Reserve your copy of BitchX-1.1-final for the Microsoft Xbox today!)
+Dez 09 02:03:01 <[poly]yan>	ugh we were so close to quest 10 
+Dez 09 02:03:13 <powerd>	use windows next years
+Dez 09 02:03:24 *	[r2]quest hat die Verbindung getrennt (I Quit)
+Dez 09 02:03:24 <[uncc]min>	a/s/l
+Dez 09 02:03:35 <wh-Bonzo>	59/420/wherever
+Dez 09 02:03:54 <[USU]K0DE>	u like Billy Gates?
+Dez 09 02:03:55 *	powerd hat die Verbindung getrennt (leaving)
+Dez 09 02:04:02 <[USU]K0DE>	we hate him
+Dez 09 02:04:07 <[wcsc]37i>	bill is the man
+Dez 09 02:04:08 <[PSU]arme>	we hate him too
+Dez 09 02:04:17 <wh-Bonzo>	billy gates = typical php programmer
+Dez 09 02:04:19 <[WoD]lars>	Billy Gats 'as 'rittn oal da code
+Dez 09 02:04:21 <[PSU]arme>	lol
+Dez 09 02:04:40 *	[R2]Nemo hat die Verbindung getrennt (*poff*)
+Dez 09 02:04:45 <[r2]w0lve>	ld
+Dez 09 02:04:46 <[r2]w0lve>	ls
+Dez 09 02:04:53 *	[r2]alex hat die Verbindung getrennt ()
+Dez 09 02:04:55 *	[m4d]Sul3 hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:04:59 <[USU]K0DE>	lsd )))
+Dez 09 02:04:59 <[USU]kost>	ls -al
+Dez 09 02:05:04 <[ENFLG]mu>	okay finally -> what the f*** was MainSite??!!!
+Dez 09 02:05:10 <[TH]Raist>	mom ?
+Dez 09 02:05:16 <[usu]jack>	rm -rf
+Dez 09 02:05:17 <[wcsc]rx>	mom
+Dez 09 02:05:18 <[uncc]min>	i think mom
+Dez 09 02:05:24 <[wcsc]rx>	popen ftw
+Dez 09 02:05:26 <[ENFLG]mu>	hmmm
+Dez 09 02:05:48 <[WoD]lars>	Main Site was mom
+Dez 09 02:05:51 <[ENFLG]mu>	mom always run at our site but the status ALWAYS showed the MainSite as beeing down.
+Dez 09 02:05:57 <[int80]GT>	10.24.1.251 ftw
+Dez 09 02:05:58 <[DotF]hat>	great team 12
+Dez 09 02:06:00 <[DotF]hat>	:-)
+Dez 09 02:06:04 *	[r2]uchi_ hat die Verbindung getrennt (I Quit)
+Dez 09 02:06:13 *	[ENFLG]mu is wondering
+Dez 09 02:06:19 *	[r2]w0lve hat die Verbindung getrennt (Lost terminal)
+Dez 09 02:06:37 <[poly]yan>	is a scoreboard up?
+Dez 09 02:06:43 *	[W0Y]jose (~j05ef@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:06:54 <[r2]Scy>	GT: looks like our firewall was pretty crappy... how did you get in?
+Dez 09 02:07:04 <[SM]sys>	hink mom
+Dez 09 02:07:05 <[SM]sys>	19:05 < [wcsc]rx> popen ftw
+Dez 09 02:07:05 <[SM]sys>	19:05 < [ENFLG]mu> hmmm
+Dez 09 02:07:05 <[USU]K0DE>	So where is my 598066$
+Dez 09 02:07:31 *	[wcsc]sjl hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:07:39 <wh-Bonzo>	sent robot in through chimney
+Dez 09 02:07:42 *	[ENFLG]ra hat die Verbindung getrennt (byebye)
+Dez 09 02:07:43 <[wcsc]rx>	  }
+Dez 09 02:07:46 <[int80]GT>	what firewall?
+Dez 09 02:07:57 <[poly]brd>	bow down to my firewall
+Dez 09 02:08:00 *	mercutio hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:08:09 <[USU]K0DE>	what is firewall?
+Dez 09 02:08:10 <[r2]Scy>	yep. that's my definition of "crappy"...
+Dez 09 02:08:29 <wh-Bonzo>	[USU]K0DE: that thing that hangs out in the system tray and pops up warnings when you do things
+Dez 09 02:08:34 *	[uclion]r (~lhostroot@128.198.60.99) hat #ictf betreten
+Dez 09 02:08:46 <[USU]K0DE>	i just kidding =)
+Dez 09 02:08:52 <[PSU]BBA->	weather bug?
+Dez 09 02:08:59 *	[RC]Milin hat die Verbindung getrennt (EOF From client)
+Dez 09 02:09:00 <wh-Bonzo>	realplayer
+Dez 09 02:09:02 <[PSU]BBA->	ah
+Dez 09 02:09:04 <[poly]brd>	dude, i owned your MOM
+Dez 09 02:09:05 <[poly]brd>	haha
+Dez 09 02:09:07 <[PSU]arme>	windows
+Dez 09 02:09:09 <wh-Bonzo>	toot toot
+Dez 09 02:09:14 *	aleksey hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:09:17 <wh-Bonzo>	bad joke train, hope you got your ticket [poly]brd 
+Dez 09 02:09:23 <wh-Bonzo>	all aboard
+Dez 09 02:09:24 *	thomasbl hat die Verbindung getrennt (Verlassend)
+Dez 09 02:09:39 *	[ch]rob hat die Verbindung getrennt (I Quit)
+Dez 09 02:09:44 <[poly]yan>	scores?!?!
+Dez 09 02:09:45 <[poly]yan>	:(
+Dez 09 02:09:49 <[uclion]r>	^ bump
+Dez 09 02:09:55 *	[W0Y]jose hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:10:08 *	[W0Y]iurt (~peter.wur@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:10:16 <[poly]brd>	i'd like to see everyones video...
+Dez 09 02:10:23 *	[0E]mithi hat die Verbindung getrennt (Lost terminal)
+Dez 09 02:10:24 <[uncc]min>	rawr
+Dez 09 02:10:24 *	[0E]awjb hat die Verbindung getrennt (leaving)
+Dez 09 02:10:26 <[PSU]BBA->	i'd rather not :-P
+Dez 09 02:10:30 <wh-Bonzo>	             _ _     ___ __          _          _          
+Dez 09 02:10:30 <wh-Bonzo>	__ __ ____ _(_) |_  |_  )  \   _ __ (_)_ _ _  _| |_ ___ ___
+Dez 09 02:10:30 <wh-Bonzo>	\ V  V / _` | |  _|  / / () | | '  \| | ' \ || |  _/ -_|_-<
+Dez 09 02:10:30 <wh-Bonzo>	 \_/\_/\__,_|_|\__| /___\__/  |_|_|_|_|_||_\_,_|\__\___/__/
+Dez 09 02:10:30 <wh-Bonzo>	                                                           
+Dez 09 02:10:35 <[uncc]min>	lol
+Dez 09 02:10:37 <[int80]GT>	me too
+Dez 09 02:10:47 <[int80]GT>	are they going to put up a page w/ how much money everyone has?
+Dez 09 02:10:48 <wh-Bonzo>	I love everyone!
+Dez 09 02:10:49 <[WCSC]AMA>	w00t for figlet
+Dez 09 02:10:51 *	[ch]jared hat die Verbindung getrennt (leaving)
+Dez 09 02:10:57 <[PSU]BBA->	http://www.kxxv.com/Global/story.asp?S=5785699
+Dez 09 02:11:00 <wh-Bonzo>	america the beautiful
+Dez 09 02:11:02 <[USU]K0DE>	but i don't
+Dez 09 02:11:03 <[PSU]BBA->	go america
+Dez 09 02:11:14 <wh-Bonzo>	              auti
+Dez 09 02:11:15 <wh-Bonzo>	             e    f
+Dez 09 02:11:15 <wh-Bonzo>	            b      u
+Dez 09 02:11:15 <wh-Bonzo>	                    l
+Dez 09 02:11:15 <wh-Bonzo>	a         e
+Dez 09 02:11:15 <wh-Bonzo>	 m
+Dez 09 02:11:17 <wh-Bonzo>	  e      h
+Dez 09 02:11:19 <wh-Bonzo>	   r    t
+Dez 09 02:11:19 *	[TH]Raist hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:11:21 <wh-Bonzo>	    ica
+Dez 09 02:11:31 *	[TUD]ImgB hat die Verbindung getrennt (EOF From client)
+Dez 09 02:11:39 <[uncc]min>	i can make ascii text too
+Dez 09 02:11:51 <wh-Bonzo>	TEN MILLION DOLLARS
+Dez 09 02:11:51 <[ci]m4z>	 _______
+Dez 09 02:11:54 <[ci]m4z>	< tits! >
+Dez 09 02:11:54 <[ci]m4z>	 -------
+Dez 09 02:11:54 <[ci]m4z>	        \   ^__^
+Dez 09 02:11:54 <[ci]m4z>	         \  (oo)\_______
+Dez 09 02:11:54 <[ci]m4z>	            (__)\       )\/\
+Dez 09 02:11:56 <wh-Bonzo>	macro bruster
+Dez 09 02:11:56 <[WCSC]Zap>	hhhhbrusted
+Dez 09 02:11:56 <[ci]m4z>	                ||----w |
+Dez 09 02:11:57 *	[OE]scape hat die Verbindung getrennt (BitchX: The FAQ maker!)
+Dez 09 02:11:59 <[ci]m4z>	                ||     ||
+Dez 09 02:12:00 <[poly]pet>	[PSU]BBA -> lol
+Dez 09 02:12:01 <[WoD]lars>	ggg
+Dez 09 02:12:03 <[t0fh]fab>	mooooooo
+Dez 09 02:12:07 <[poly]yan>	scores!
+Dez 09 02:12:08 *	wh-Bonzo contemplates bigmatix
+Dez 09 02:12:22 *	DotF-DH (~newbie@89.100.138.124) hat #ictf betreten
+Dez 09 02:12:29 <wh-Bonzo>	                /
+Dez 09 02:12:29 <wh-Bonzo>	               /               .'
+Dez 09 02:12:29 <wh-Bonzo>	              /              .'
+Dez 09 02:12:29 <wh-Bonzo>	             /   ______.   .'
+Dez 09 02:12:29 <wh-Bonzo>	            /   / __/_//  '  OWOWOWOWOOWOWW
+Dez 09 02:12:29 <wh-Bonzo>	           /   / /  @"@    OWOWOWOWOWOWOWOW
+Dez 09 02:12:31 <wh-Bonzo>	          /    \ G  ' >'  OWOWOWOWOWOWOWO  _.-'
+Dez 09 02:12:32 *	[f0g]r00t hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:12:34 <wh-Bonzo>	         /      \/.  C '  OWOWOWOWOW   _.-'
+Dez 09 02:12:35 <wh-Bonzo>	        /     .---\  / --.         _.-'    OH GOD THE PYC
+Dez 09 02:12:37 *	nomed hat die Verbindung getrennt (Bitchx:  Better than peer)
+Dez 09 02:12:37 <wh-Bonzo>	       /     /     \(     \    _.-'    
+Dez 09 02:12:39 <wh-Bonzo>	      /     /  \    \  (.  )  '    
+Dez 09 02:12:41 <wh-Bonzo>	     /     /   /\       \ /   
+Dez 09 02:12:43 <wh-Bonzo>	    /      \  |  \       \               __..--''
+Dez 09 02:12:45 <wh-Bonzo>	   /   .'   \_\   )     )\\      __..--''
+Dez 09 02:12:47 <wh-Bonzo>	  /  .'      ) \  |    /   \  -''
+Dez 09 02:12:48 <[ch]zim>	                                     /)
+Dez 09 02:12:50 <wh-Bonzo>	 / .'   _   '///` (   /\    \
+Dez 09 02:12:51 <wh-Bonzo>	/.' _.-'  __     /    ) )    )
+Dez 09 02:12:53 <wh-Bonzo>	'.-'..--''      /   ,' /    /
+Dez 09 02:12:55 <wh-Bonzo>	 .__---------- /__./  /    / --------------------a:f
+Dez 09 02:12:57 <wh-Bonzo>	    ``--..  __//  /   )   /                      ejm
+Dez 09 02:12:59 <wh-Bonzo>	           /    _J)   /)`-\
+Dez 09 02:13:02 <wh-Bonzo>	           `-__/-'  ` \\  |(
+Dez 09 02:13:03 <wh-Bonzo>	                       `\   \  -..__
+Dez 09 02:13:05 <wh-Bonzo>	                         `--'       ``--.._
+Dez 09 02:13:07 <wh-Bonzo>	                                            ``--
+Dez 09 02:13:13 *	Balzaroth hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:13:18 <[PSU]BBA->	what is that?
+Dez 09 02:13:20 <[wcsc]3h>	zim with the nutshot
+Dez 09 02:13:22 <wh-Bonzo>	rapesay
+Dez 09 02:13:22 <[uclion]r>	goodby op :(
+Dez 09 02:13:24 *	[W0Y]mne hat die Verbindung getrennt (Leaving)
+Dez 09 02:13:49 <wh-Bonzo>	http://www.asciiartfarts.com/20010209.html
+Dez 09 02:13:57 <[WCSC]AMA>	bye, suckas
+Dez 09 02:13:59 *	[solo]Shd hat die Verbindung getrennt ()
+Dez 09 02:14:02 *	cheddar_d hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:14:11 <[PSU]BBA->	ah, didnt come out so well
+Dez 09 02:14:17 *	[UCD]snk hat die Verbindung getrennt (Leaving)
+Dez 09 02:14:20 <[ci]m4z>	 _____________
+Dez 09 02:14:21 <[ci]m4z>	< this is YOU >
+Dez 09 02:14:21 <[ci]m4z>	 -------------
+Dez 09 02:14:21 <[ci]m4z>	      \                _
+Dez 09 02:14:21 <[ci]m4z>	       \              (_)
+Dez 09 02:14:23 <[ci]m4z>	        \   ^__^       / \
+Dez 09 02:14:25 <wh-Bonzo>	bruster
+Dez 09 02:14:26 <[ci]m4z>	         \  (oo)\_____/_\ \
+Dez 09 02:14:28 <[ci]m4z>	            (__)\       ) /
+Dez 09 02:14:31 <[ci]m4z>	                ||----w ((
+Dez 09 02:14:33 <[ci]m4z>	                ||     ||>>
+Dez 09 02:15:03 <[ci]uo>	moo
+Dez 09 02:15:06 *	dougr33d (~doug@rrcs-71-42-147-68.sw.biz.rr.com) hat #ictf betreten
+Dez 09 02:15:09 <[uncc]min>	someone has issues
+Dez 09 02:15:12 *	zanardi hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:15:24 <wh-Bonzo>	my ascii art is bigger than your ascii art
+Dez 09 02:15:29 <[ci]ibmo>	yo muthafuckas!
+Dez 09 02:15:31 <[t0fh]fab>	so, who can give us results ? :D
+Dez 09 02:15:35 <[ci]ibmo>	this was devilitious
+Dez 09 02:15:40 <wh-Bonzo>	bkerley.myweb.usf.edu/rapesay.tgz
+Dez 09 02:15:46 *	dougr33d ist jetzt bekannt als [cftrap]d
+Dez 09 02:15:55 <[PSU]arme>	downloading now!
+Dez 09 02:15:59 *	DotF-DH hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:16:05 <[ci]ibmo>	mmolle@mokrates:~$ date
+Dez 09 02:16:05 <[ci]ibmo>	Sat Dec  9 02:15:46 CET 2006
+Dez 09 02:16:07 *	[0E]till hat die Verbindung getrennt (Leaving)
+Dez 09 02:16:15 <[WoD]lars>	The whole bank idea was great, really!
+Dez 09 02:16:22 <[poly]yan>	i liked it too
+Dez 09 02:16:30 <[cftrap]d>	ya it was great
+Dez 09 02:16:31 <[PSU]arme>	ehh liked last years better
+Dez 09 02:16:36 <[PSU]BBA->	me too
+Dez 09 02:16:52 <[wcsc]rx>	different, whole concept took awhile to understand
+Dez 09 02:17:05 *	[uncc]min hat das Thema geändert zu: iCTF 2006: over
+Dez 09 02:17:15 *	DotF-DH (~newbie@89.100.138.124) hat #ictf betreten
+Dez 09 02:17:16 *	DotF-DH hat die Verbindung getrennt (Connection reset by peer)
+Dez 09 02:17:27 *	[DotF]Raf hat die Verbindung getrennt ()
+Dez 09 02:17:30 <[WoD]lars>	In the begining we had great difficulties adjusting our scripts...
+Dez 09 02:17:38 <[uclion]r>	need results, then I can leave and get beeer
+Dez 09 02:17:46 <[PSU]BBA->	same
+Dez 09 02:18:06 <[PSU]BBA->	waiting for results to eat/drink rest of night away
+Dez 09 02:18:13 <[ci]ibmo>	nobody really fixed bts ;)
+Dez 09 02:18:19 *	DotF-DH (~newbie@89.100.138.124) hat #ictf betreten
+Dez 09 02:18:20 <[t0fh]fab>	re--sults
+Dez 09 02:18:22 <[t0fh]fab>	re--sults
+Dez 09 02:18:29 <DotF-DH>	hi guys
+Dez 09 02:18:29 *	cptn_crun (John@lawn-128-61-119-143.lawn.gatech.edu) hat #ictf betreten
+Dez 09 02:18:34 <[ci]m4z>	time for... tetrinet!
+Dez 09 02:18:35 <[poly]yan>	re--sluts
+Dez 09 02:18:37 <[poly]yan>	re--sluts
+Dez 09 02:18:38 <[PSU]BBA->	if we all start chanting there is no way they can ignore us, lets take a stand!
+Dez 09 02:18:44 <[PSU]BBA->	.....
+Dez 09 02:18:49 <[t0fh]fab>	-.-
+Dez 09 02:19:06 <[int80]GT>	they can just kick us...
+Dez 09 02:19:15 <[wcsc]rx>	chanting?, ... let me put on my robe and wizard hat...
+Dez 09 02:19:28 *	[R2]Tiger hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:19:39 *	[PSU]arme cats magic missle on [wcsc]rx
+Dez 09 02:19:55 <[wcsc]rx>	casts power word shield
+Dez 09 02:19:56 <[PSU]BBA->	cat projectiles?
+Dez 09 02:19:57 *	[r2]jo hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:20:00 *	[WoD]jtb hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:20:05 *	TinyIRC (~tinyirc@SJJ141.rh.psu.edu) hat #ictf betreten
+Dez 09 02:20:05 *	TinyIRC hat die Verbindung getrennt (I was using TinyIRC! Visit http://www.tinyirc.net/ for more information.)
+Dez 09 02:20:07 <[PSU]BBA->	meeeeeoooooooooooooooowwwwwwwwww *boom*
+Dez 09 02:20:23 <wh-Bonzo>	power word boners
+Dez 09 02:20:24 *	[cm]gianz hat die Verbindung getrennt (Leaving)
+Dez 09 02:20:26 <[WCSC]Gar>	power word shild is't a real spell, nerd
+Dez 09 02:20:31 <[wcsc]rx>	no no no... level 9 cock of the infinite
+Dez 09 02:20:36 *	[DotF]hat hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:20:47 <[PSU]arme>	pwned
+Dez 09 02:20:51 *	[uclion]r is surrounded by nerds
+Dez 09 02:20:59 <[CI]5eeU>	[wcsc]rx: definitely!
+Dez 09 02:21:03 <[PSU]BBA->	look where we are and what we did today...
+Dez 09 02:21:08 <[int80]GT>	sure it is
+Dez 09 02:21:09 <[PSU]BBA->	no further comments necessary
+Dez 09 02:21:10 *	[uclion]r doesn't use computers
+Dez 09 02:21:13 <[int80]GT>	and now you have a weakened soul
+Dez 09 02:21:30 *	DotF-DH hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:21:36 *	[ENFLG]mu < /dev/beer :(
+Dez 09 02:21:38 <[WoD]lars>	EXTERMINATE! OBLITERATE!
+Dez 09 02:21:39 *	Kasperle hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:21:48 <[squarero>	1
+Dez 09 02:22:03 <[ENFLG]mu>	has anyone maanged to devcompile that python?!
+Dez 09 02:22:10 *	michael hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:22:13 <[ENFLG]mu>	argh. t'late to type...
+Dez 09 02:22:17 <[r2]log1c>	;>
+Dez 09 02:22:27 *	[WoY]visq (~benedikt@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:22:28 <[uclion]r>	:(){ :|:& };:
+Dez 09 02:22:41 <[r2]log1c>	we didnt ;P
+Dez 09 02:22:42 <[W0Y]Kid>	bts?
+Dez 09 02:22:43 <[ENFLG]mu>	[uclion]r, no, please no forlk bomb for mee ;)
+Dez 09 02:22:43 <[WoD]lars>	°.°
+Dez 09 02:22:44 <[PSU]arme>	grep beer|more
+Dez 09 02:23:13 <[PSU]BBA->	while((true) && (BBA != null)) { echo "alcohol" > BBA }
+Dez 09 02:23:33 <[int80]sc>	which beer
+Dez 09 02:23:39 <[cftrap]d>	cat /dev/beer > /mnt/stomach/
+Dez 09 02:23:47 <[ci]TriPx>	mu: we tries but no luck here :(
+Dez 09 02:23:55 <[int80]GT>	decompyle sucks
+Dez 09 02:23:59 <[WoD]fly>	the organizers are gine...
+Dez 09 02:24:02 <[ci]TriPx>	seems that python 2.4 disassembling/decommpiling isn't very widespread 
+Dez 09 02:24:06 <[ENFLG]mu>	[ci]TriPx, we too.
+Dez 09 02:24:08 <[ENFLG]mu>	yess
+Dez 09 02:24:09 <[int80]sc>	mount -t fat /dev/stomach /mnt/mine
+Dez 09 02:24:10 <[ENFLG]mu>	defiitely
+Dez 09 02:24:14 <[ci]TriPx>	a lot of wrong magic numbers
+Dez 09 02:24:15 <[CI]5eeU>	guess the orginizers went home
+Dez 09 02:24:20 <[ENFLG]mu>	2.5 is okay, even 2.3 , bit not 2.4
+Dez 09 02:24:21 <[ci]TriPx>	and the builtin dis module wasn't helpful, too
+Dez 09 02:24:26 <[int80]sc>	6min left
+Dez 09 02:24:34 *	[r2]alex (~alex@pipool-laptop5.informatik.uni-mannheim.de) hat #ictf betreten
+Dez 09 02:24:41 <[W0Y]Kid>	says who
+Dez 09 02:24:42 <[WoD]lars>	watch ls -lahR | grep 02:30
+Dez 09 02:24:57 <[WoD]lars>	Dr. Who
+Dez 09 02:25:01 <[poly]brd>	ticktockticktock
+Dez 09 02:25:01 <[int80]sc>	so how was that claim.php getting used?
+Dez 09 02:25:14 <[poly]brd>	to pay my kids way through college
+Dez 09 02:25:28 <wh-Bonzo>	to buy daddy a new pair of shoes :(
+Dez 09 02:25:33 <[t0fh]fab>	ronf
+Dez 09 02:25:34 <[int80]sc>	apparantly, you can deposite, then take more money using stuff under cgi-bin
+Dez 09 02:25:36 *	atrox (atrox@idefix.spengergasse.at) hat #ictf betreten
+Dez 09 02:25:38 <[poly]brd>	actually i really did crash my boat
+Dez 09 02:25:56 <[W0Y]Kid>	poly what ´type of boat?
+Dez 09 02:26:12 <[W0Y]Kid>	i14´s rule
+Dez 09 02:26:13 <[uclion]r>	I liked the addition of quests this year, some of those were fun little distractions
+Dez 09 02:26:16 <[CI]5eeU>	these nerds here playing tetris..
+Dez 09 02:26:19 <[poly]brd>	you should read all my insurance claims if you are interestd
+Dez 09 02:26:20 *	atrox ist jetzt bekannt als [WoY]atro
+Dez 09 02:26:40 *	TinyIRC (~tinyirc@SJJ141.rh.psu.edu) hat #ictf betreten
+Dez 09 02:26:45 <[W0Y]Kid>	fork bomb is pretty lame
+Dez 09 02:26:57 <wh-Bonzo>	macho men cache slam
+Dez 09 02:27:12 <[uclion]r>	real men hack the g1bs0n
+Dez 09 02:27:14 <[W0Y]bies>	[int80]GT, claim had a sql injection
+Dez 09 02:27:26 <[ENFLG]mu>	the problem on the punchcard-quest was: We are way too old over here to know them ;o)
+Dez 09 02:27:34 <[ENFLG]mu>	erm. young I mean
+Dez 09 02:27:42 <[int80]GT>	ah
+Dez 09 02:27:43 *	[ENFLG]mu need more Coffe!
+Dez 09 02:27:43 <[uclion]r>	wha, never use an ibm 029?
+Dez 09 02:27:46 <[int80]sc>	thank man, > bies
+Dez 09 02:27:47 <[ENFLG]mu>	nope
+Dez 09 02:27:49 <[int80]GT>	i wasn't in charge of sql
+Dez 09 02:27:50 *	TinyIRC ist jetzt bekannt als [PSU]USP
+Dez 09 02:27:58 <[W0Y]bies>	but the more important vulnerability was in buy.php
+Dez 09 02:27:59 <[WoY]atro>	the punchcards contained a pascal program :)
+Dez 09 02:28:05 <[uclion]r>	that was algol wasn't it?
+Dez 09 02:28:07 <[W0Y]bies>	could be combined with claim
+Dez 09 02:28:08 *	[PSU]BBA- ist jetzt bekannt als mynickwon
+Dez 09 02:28:11 <[WCSC]Zap>	p
+Dez 09 02:28:12 <[WCSC]Zap>	20:27 < [WoY]atro> the punchcards contained a pascal program :)
+Dez 09 02:28:23 <[ENFLG]ch>	punching cards were from here http://www.kloth.net/services/cardpunch.php
+Dez 09 02:28:27 <[DotF]Gho>	who of you cracked the bpt?
+Dez 09 02:28:29 *	mynickwon ist jetzt bekannt als [PSU]lead
+Dez 09 02:28:36 <[int80]sc>	it seemed to us that we were losing so much money through cgi-bin/stock 
+Dez 09 02:28:37 *	[RC]neerd hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:28:41 *	michael_ hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:28:42 <[poly]dan>	 we cracked bpt, but too late
+Dez 09 02:28:42 <[USU]Thin>	http://www.kloth.net/services/cardpunch.php +)
+Dez 09 02:28:45 *	[RC]ssir hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:28:50 <[WoY]atro>	EBCDIC rulez :)
+Dez 09 02:28:51 *	[r2]doku hat die Verbindung getrennt ()
+Dez 09 02:29:08 <[int80]GT>	was bpt the udp one?
+Dez 09 02:29:19 <[ch]zim>	yes
+Dez 09 02:29:22 <[DotF]Gho>	yes
+Dez 09 02:29:24 <[WoY]atro>	i use punchcards as notice cards :)
+Dez 09 02:29:25 <[ch]zim>	it was udp
+Dez 09 02:29:29 <[W0Y]iurt>	who of you patched the sts?
+Dez 09 02:29:36 <[WCSC]Gar>	i bet the kloth page was what they used to make the cards
+Dez 09 02:29:39 <[W0Y]iurt>	we tried compiling that thing for hours... no success!!
+Dez 09 02:29:41 <[WoY]atro>	we have tons of them under the roof
+Dez 09 02:29:41 *	DotF_DH (~dh@89.100.138.124) hat #ictf betreten
+Dez 09 02:29:47 <[int80]GT>	yeah, we cracked bpt in  the first hour
+Dez 09 02:29:49 <[ENFLG]mu>	[Woy]atro  the datacenter at our universty too- seem they still have left some ;)
+Dez 09 02:30:07 <[FLAG]wnd>	[[WOY]iurt: we did
+Dez 09 02:30:18 <[r2]yorn>	what was bpts passwd?
+Dez 09 02:30:22 <[poly]dan>	how did you crack bpt?
+Dez 09 02:30:29 <[uclion]r>	bpt passwd: asdasd
+Dez 09 02:30:32 <[W0Y]iurt>	special compiler/lib-versions?
+Dez 09 02:30:32 *	[ENFLG]ko hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:30:34 <[poly]dan>	i put it in john and it took 7 hours on a dual processor 3.4
+Dez 09 02:30:36 <[uclion]r>	iirc
+Dez 09 02:30:37 <[int80]sc>	it's bout time!!!!!!!
+Dez 09 02:30:37 *	[ENFLG]la hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:30:38 <[0E]lexi>	waiting process [*****************************************************--] 29/30min
+Dez 09 02:30:42 *	andy_ (~andy@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:30:47 <[int80]sc>	it's 30 in atl
+Dez 09 02:30:48 *	DotF_DH ist jetzt bekannt als [DotF]DH
+Dez 09 02:31:19 <[poly]dan>	int80sc, what did you use to crack bpt that you did it so fast?
+Dez 09 02:31:19 <[int80]GT>	there were overflows...
+Dez 09 02:31:19 *	sullivan hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:31:29 *	[FLAG]ani hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:31:29 *	[ENFLG]ch hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:31:37 <[0E]lexi>	waiting process [********************************************************] 30/30min
+Dez 09 02:31:41 <[int80]GT>	this guy we know...
+Dez 09 02:31:56 <[ENFLG]mu>	banjos.wav 
+Dez 09 02:32:05 <[ENFLG]mu>	ohhh my ;x)
+Dez 09 02:32:14 <[FLAG]wnd>	[WOY]iurt: no, but you had to compile a new lighttpd to make it work
+Dez 09 02:32:26 <[ENFLG]mu>	seems some people had fun building the image ;x)
+Dez 09 02:32:53 <[r2]log1c>	good fight, good nicht
+Dez 09 02:32:53 *	[ci]m4z moos
+Dez 09 02:32:55 <[r2]log1c>	night :>
+Dez 09 02:32:59 *	[r2]log1c hat die Verbindung getrennt (leaving)
+Dez 09 02:33:09 <[USU]Dimm>	good morning
+Dez 09 02:33:20 <[int80]sc>	we want food
+Dez 09 02:33:20 <[DotF]Gho>	@INT80: what tools did you use to get the src?
+Dez 09 02:33:29 *	[RC]ssir (~ssir@193.54.193.10) hat #ictf betreten
+Dez 09 02:33:29 <[ci]ibmo>	apt-get source ?
+Dez 09 02:33:42 <[DotF]Gho>	of the bpt ...
+Dez 09 02:33:43 <[ENFLG]mu>	looool
+Dez 09 02:33:46 <[int80]GT>	objdump
+Dez 09 02:33:49 <[W0Y]bies>	there was no new lighttpd needed
+Dez 09 02:33:53 <[0E]lexi>	waiting process [********************************************************]**** 32/30min
+Dez 09 02:33:59 <[poly]pet>	[int80]sc we have left over pizza if you're interested
+Dez 09 02:34:00 <[DotF]DH>	but objdump doesn't give you the source, right?
+Dez 09 02:34:03 <[WoD]lars>	Did anyone compile a new stocks ? (cpp)
+Dez 09 02:34:04 <[DotF]DH>	only asm code
+Dez 09 02:34:23 <wh-Bonzo>	waiting process [********************************************************]******************** send help
+Dez 09 02:34:24 <[DotF]DH>	we recompiled it --- eh, tried to
+Dez 09 02:34:27 <[int80]sc>	we guessed bits around
+Dez 09 02:34:45 <[DotF]DH>	but you actually went with the asm code? crazy ;-)
+Dez 09 02:34:49 <[ci]m4z>	[***]** hormone overflow
+Dez 09 02:34:55 <[int80]GT>	asm ftw
+Dez 09 02:34:57 <[FLAG]wnd>	[WOY]bies how did you make the original lighttpd to work with the custom stocks binary?
+Dez 09 02:35:20 <[W0Y]bies>	oh, stocks...
+Dez 09 02:35:32 <[W0Y]bies>	sorry, don't know about that one
+Dez 09 02:35:32 <[DotF]DH>	we didn't have to recompile lighttpd to get it working 
+Dez 09 02:35:41 <[DotF]DH>	was just a matter of configuration
+Dez 09 02:35:45 <nookieman>	where are the girls?
+Dez 09 02:35:48 <cptn_crun>	$cores???
+Dez 09 02:35:56 <[int80]GT>	if by source you mean odjdump -d dpt > asm.txt...
+Dez 09 02:36:01 <[FLAG]wnd>	[DotF]DH: thats hot, tell us more
+Dez 09 02:36:03 <[uclion]r>	nookieman, vika is probably around somewhere
+Dez 09 02:36:08 *	cptn_crun ist jetzt bekannt als [int80]jo
+Dez 09 02:36:18 <nookieman>	wtf vika
+Dez 09 02:36:59 <[ENFLG]mu>	   _____
+Dez 09 02:36:59 <[ENFLG]mu>	  ( o o )
+Dez 09 02:36:59 <[ENFLG]mu>	   \ v /
+Dez 09 02:36:59 <[ENFLG]mu>	   /\ /\
+Dez 09 02:36:59 <[ENFLG]mu>	   W V W
+Dez 09 02:36:59 <wh-Bonzo>	 ____ 
+Dez 09 02:36:59 <[ENFLG]mu>	     *
+Dez 09 02:36:59 <wh-Bonzo>	/    \
+Dez 09 02:36:59 <wh-Bonzo>	| . .|
+Dez 09 02:36:59 <wh-Bonzo>	|   O| send scores
+Dez 09 02:36:59 <wh-Bonzo>	\____/
+Dez 09 02:36:59 <[t0fh]fab>	 /^(ronf)+$/
+Dez 09 02:36:59 <sionics>	:)
+Dez 09 02:36:59 <[WoD]fly>	where are the scores?
+Dez 09 02:37:02 *	zanardi (~vigna@dhcp20-171.wirelesstest.ucsb.edu) hat #ictf betreten
+Dez 09 02:37:25 <[WoD]lars>	scores! Scores!! SCORES!
+Dez 09 02:37:28 <[WoD]fly>	hey organizer! what about some scores?
+Dez 09 02:37:38 <[ci]ibmo>	youhupou
+Dez 09 02:37:38 <wh-Bonzo>	 _____ 
+Dez 09 02:37:38 <wh-Bonzo>	/     \
+Dez 09 02:37:38 <wh-Bonzo>	|[.][.]|
+Dez 09 02:37:38 <wh-Bonzo>	|     O| I got new glasses
+Dez 09 02:37:38 <wh-Bonzo>	\_____/
+Dez 09 02:37:41 <[ci]teyth>	gogogo
+Dez 09 02:37:42 <[uclion]r>	rabble rabble rabble!
+Dez 09 02:37:42 <[r2]alex>	scores
+Dez 09 02:37:43 <[int80]sc>	beer > scores
+Dez 09 02:37:44 <[uclion]r>	rabble rabble rabble!
+Dez 09 02:37:44 <[ci]uo>	scores!!!!!!! *spam*
+Dez 09 02:37:45 <[r2]alex>	scors
+Dez 09 02:37:46 <[uclion]r>	rabble rabble rabble!
+Dez 09 02:37:48 <[int80]GT>	[poly] where's the pizza?
+Dez 09 02:37:58 <[ci]ibmo>	yo muthafuckas
+Dez 09 02:37:59 <[RC]ssir>	in your ass
+Dez 09 02:38:04 <sionics>	when finish?
+Dez 09 02:38:07 <[ci]rilli>	,-
+Dez 09 02:38:08 <[ci]rilli>	|\
+Dez 09 02:38:09 <wh-Bonzo>	 _____ 
+Dez 09 02:38:10 *	[ENFLG]He hat die Verbindung getrennt (EOF From client)
+Dez 09 02:38:10 <wh-Bonzo>	/     \
+Dez 09 02:38:10 <wh-Bonzo>	|[.][.]|
+Dez 09 02:38:10 <wh-Bonzo>	|     O==m=8
+Dez 09 02:38:10 <wh-Bonzo>	\_____/
+Dez 09 02:38:11 <[r2]alex>	SC000000000R$ZZZZZZ
+Dez 09 02:38:18 <[ci]rilli>	,-
+Dez 09 02:38:19 <[ci]rilli>	\|
+Dez 09 02:38:20 <[ENFLG]mu>	   _____
+Dez 09 02:38:20 <[ENFLG]mu>	  ( 9 i )
+Dez 09 02:38:20 <[ENFLG]mu>	   \ . /  Pizza?          
+Dez 09 02:38:20 <[ENFLG]mu>	    \ /
+Dez 09 02:38:20 <[ENFLG]mu>	     :
+Dez 09 02:38:22 <[ci]ibmo>	elevenone
+Dez 09 02:38:23 <[WoD]lars>	pizza is finished already
+Dez 09 02:38:23 <[poly]pet>	it's right here, brooklyn
+Dez 09 02:38:39 <wh-Bonzo>	 _____ 
+Dez 09 02:38:39 <wh-Bonzo>	/     \
+Dez 09 02:38:39 <wh-Bonzo>	|[.][.]|
+Dez 09 02:38:39 <wh-Bonzo>	|   ( O==m=8
+Dez 09 02:38:39 <wh-Bonzo>	\_____/  mmf unf
+Dez 09 02:38:43 <[wcwc]4sw>	(>^.^)>
+Dez 09 02:38:54 <[ci]ibmo>	full of good yummyness
+Dez 09 02:38:56 *	[DotF]zen hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:38:59 <sionics>	what time is now GMT?
+Dez 09 02:39:02 <[ci]ibmo>	... are scores
+Dez 09 02:39:04 <wh-Bonzo>	3456:2346
+Dez 09 02:39:06 <[uclion]r>	need scores, late for the donkey show
+Dez 09 02:39:07 <[ci]uo>	1:38 GMT
+Dez 09 02:39:07 <wh-Bonzo>	gmt makes no sense
+Dez 09 02:39:07 <[ENFLG]mu>	wh-Bonzo, Pizza alright?
+Dez 09 02:39:09 <sionics>	thx
+Dez 09 02:39:12 <[CI]5eeU>	GMT 1:38 am
+Dez 09 02:39:15 <[int80]GT>	should be 0136
+Dez 09 02:39:16 <[int80]jo>	scoooooooooooooores
+Dez 09 02:39:18 <[WCSC]Zap>	19:13:00
+Dez 09 02:39:24 <[ci]ibmo>	Es See oh Ar E Es
+Dez 09 02:39:28 *	[PSU]arme hat die Verbindung getrennt (I Quit)
+Dez 09 02:39:29 <[wcwc]4sw>	if Time.now == "New York"
+Dez 09 02:39:41 <[ci]teyth>	          )   (            
+Dez 09 02:39:42 <[ci]teyth>	      ))  (  ))   (       
+Dez 09 02:39:42 <[ci]teyth>	     ))) ((( ))) ((( ))) 
+Dez 09 02:39:42 <[ci]teyth>	     ((( ))) ((( ))) (((
+Dez 09 02:39:42 <[ci]teyth>	    ___oo__OOO__==_+_ooo__ 
+Dez 09 02:39:44 <[ci]ibmo>	then you are in a strange universe
+Dez 09 02:39:44 <[ci]teyth>	   /______________________\
+Dez 09 02:39:51 <[USU]Dimm>	It's 6:39 A.M. in the Urals.
+Dez 09 02:39:59 *	elmar (~elmar@132.199.211.8) hat #ictf betreten
+Dez 09 02:40:01 <wh-Bonzo>	urinals
+Dez 09 02:40:10 <[WoD]fly>	elmar: here also?
+Dez 09 02:40:15 *	[WoD]fly ist jetzt bekannt als mcfly
+Dez 09 02:40:19 <[DotF]Gho>	elmar?
+Dez 09 02:40:19 <wh-Bonzo>	marty!
+Dez 09 02:40:23 <wh-Bonzo>	get in the delorean
+Dez 09 02:40:26 <wh-Bonzo>	88mph
+Dez 09 02:40:28 <wh-Bonzo>	flux capacitor
+Dez 09 02:40:34 <wh-Bonzo>	let's get back to the mofo future
+Dez 09 02:40:36 <[uclion]r>	1.21 jiggawatts
+Dez 09 02:40:39 <[WCSC]Zap>	2.1 jiggawhatwhats
+Dez 09 02:40:40 <[ci]ibmo>	you're the doc, doc
+Dez 09 02:40:42 <elmar>	wanted to lurk in quiet, but you guys had to notice...
+Dez 09 02:40:45 <[wcwc]4sw>	Skanks on a plane.
+Dez 09 02:40:45 <wh-Bonzo>	4.20 jiggawatts
+Dez 09 02:40:57 <[t0fh]fab>	zanardi: we must leave in 20mins / alarm will be set at h3
+Dez 09 02:40:57 <wh-Bonzo>	skinks on a plane
+Dez 09 02:41:07 <wh-Bonzo>	i drove an h3 to YOUR MOM'S HOUSE
+Dez 09 02:41:23 <[WCSC]Zap>	dingillb andilly a h a h funeralre's?
+Dez 09 02:41:30 <[ENFLG]mu>	                 ___          ______           Frobtech, Inc.
+Dez 09 02:41:30 <[ENFLG]mu>	                /__/\     ___/_____/\
+Dez 09 02:41:30 <[ENFLG]mu>	                \  \ \   /         /\\
+Dez 09 02:41:30 <[ENFLG]mu>	                 \  \ \_/__       /  \         "If you've got the job,
+Dez 09 02:41:30 <[ENFLG]mu>	                 _\  \ \  /\_____/___ \         we've got the frob."
+Dez 09 02:41:31 <[ENFLG]mu>	                // \__\/ /  \       /\ \
+Dez 09 02:41:33 <[ENFLG]mu>	        _______//_______/    \     / _\/______
+Dez 09 02:41:35 <[ENFLG]mu>	       /      / \       \    /    / /        /\
+Dez 09 02:41:37 <[WCSC]Zap>	Q: We dihat'ffers ths thence betillbw
+Dez 09 02:41:37 <[ENFLG]mu>	    __/      /   \       \  /    / /        / _\__
+Dez 09 02:41:39 <[ENFLG]mu>	   / /      /     \_______\/    / /        / /   /\
+Dez 09 02:41:39 <wh-Bonzo>	macro brusta
+Dez 09 02:41:41 <[ENFLG]mu>	  /_/______/___________________/ /________/ /___/  \
+Dez 09 02:41:41 <[int80]GT>	{snakes} e R^2
+Dez 09 02:41:42 *	[W0Y]jose (~j05ef@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:41:43 <[ENFLG]mu>	  \ \      \    ___________    \ \        \ \   \  /
+Dez 09 02:41:45 <[ENFLG]mu>	   \_\      \  /          /\    \ \        \ \___\/
+Dez 09 02:41:47 <[WCSC]Zap>	 drhe funk unerat tat tal. /n
+Dez 09 02:41:47 <[ENFLG]mu>	      \      \/          /  \    \ \        \  /
+Dez 09 02:41:49 <[ENFLG]mu>	       \_____/          /    \    \ \________\/
+Dez 09 02:41:51 <[ENFLG]mu>	            /__________/      \    \  /
+Dez 09 02:41:52 <[WCSC]Zap>	brust
+Dez 09 02:41:53 <[ENFLG]mu>	            \   _____  \      /_____\/
+Dez 09 02:41:54 <[WCSC]Zap>	brust
+Dez 09 02:41:55 <[ENFLG]mu>	             \ /    /\  \    / \  \ \
+Dez 09 02:41:56 <[WCSC]Zap>	brust
+Dez 09 02:41:57 <[WoD]lars>	mplayer http://www.sec-tud.de/~tiga/team6wod.mpg
+Dez 09 02:41:59 <[ENFLG]mu>	              /____/  \  \  /   \  \ \
+Dez 09 02:42:01 <[ENFLG]mu>	              \    \  /___\/     \  \ \
+Dez 09 02:42:03 <[ENFLG]mu>	               \____\/            \__\/
+Dez 09 02:42:04 <[ci]m4z>	         _____    
+Dez 09 02:42:06 <wh-Bonzo>	snakes.each do |s| puts "had it with these mothafuckin' #{s} on this mothafuckin' plane" end
+Dez 09 02:42:06 <[ci]m4z>	        /  _/\\  
+Dez 09 02:42:06 <[ci]m4z>	        | / oo
+Dez 09 02:42:06 <[ci]m4z>	        \(   _\
+Dez 09 02:42:06 <[ci]m4z>	         \  O/
+Dez 09 02:42:09 <[ci]m4z>	         /   \
+Dez 09 02:42:11 <[ci]m4z>	         ||  ||
+Dez 09 02:42:14 <[ci]m4z>	         ||  ||      "Hmmmmmmmm..."
+Dez 09 02:42:16 <[ci]m4z>	         ||  || _____ /
+Dez 09 02:42:17 <[ci]ibmo>	scooooooooooooores
+Dez 09 02:42:18 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:19 <[ci]m4z>	         | \ ||(___  )
+Dez 09 02:42:19 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:20 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:21 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:21 <[ci]m4z>	        // / \|_)o (  )
+Dez 09 02:42:21 <[WCSC]Zap>	8==========D
+Dez 09 02:42:22 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:24 <[ci]m4z>	        \\ ///|)\_(    )
+Dez 09 02:42:26 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:26 <[ci]m4z>	         ||   |\ )(    )
+Dez 09 02:42:29 <[ci]m4z>	         ||   ) \/(____)_     ___
+Dez 09 02:42:29 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:30 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:31 *	mne (~mne@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 02:42:31 <[ci]m4z>	         ||   |\___/     `---' `.`.
+Dez 09 02:42:33 *	[ENFLG]He (~hesso@fb3-s4.math.TU-Berlin.DE) hat #ictf betreten
+Dez 09 02:42:34 <[ci]m4z>	         ||   | :   _       .'   ))
+Dez 09 02:42:36 <wh-Bonzo>	EAT AT BURGER KING
+Dez 09 02:42:36 <[ci]m4z>	         ||   | `..' `~~~-.'   .'__ _
+Dez 09 02:42:37 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:38 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:39 <[ci]m4z>	         \\  /           '.______  ( (
+Dez 09 02:42:40 <wh-Bonzo>	CENSORED CENSORED CENSORED
+Dez 09 02:42:41 <[ci]m4z>	         ((___ooO                `._\_\ jro
+Dez 09 02:42:46 <[ENFLG]mu>	                 (  /\__________/\  )
+Dez 09 02:42:47 <[ENFLG]mu>	                  \(^ @___..___@ ^)/
+Dez 09 02:42:47 <[ENFLG]mu>	                   /\ (\/\/\/\/) /\
+Dez 09 02:42:47 <[ENFLG]mu>	                  /  \(/\/\/\/\)/  \
+Dez 09 02:42:47 <[ENFLG]mu>	                -(    """"""""""    )
+Dez 09 02:42:47 <[ENFLG]mu>	                  \      _____      /
+Dez 09 02:42:49 *	mne ist jetzt bekannt als [W0Y]mne
+Dez 09 02:42:49 <[ENFLG]mu>	                  (     /(   )\     )
+Dez 09 02:42:51 <wh-Bonzo>	macro busting                         [ OK ]
+Dez 09 02:42:51 <[ENFLG]mu>	                  _)   (_V) (V_)   (_
+Dez 09 02:42:53 <[ENFLG]mu>	                 (V)(V)(V)   (V)(V)(V)
+Dez 09 02:43:01 <[WCSC]Zap>	              monster brusting
+Dez 09 02:43:01 <mcfly>	hey guys? not realized so far that the asci art thing is not working on irc?
+Dez 09 02:43:03 <[WoD]lars>	mplayer http://www.sec-tud.de/~tiga/team6wod.mpg
+Dez 09 02:43:03 <[ci]teyth>	(.|.)
+Dez 09 02:43:04 <[ci]teyth>	 ).(
+Dez 09 02:43:04 <[ci]teyth>	( v )
+Dez 09 02:43:04 <[ci]teyth>	 \|/
+Dez 09 02:43:05 <wh-Bonzo>	Starting Macro Busting...               [ OK ]
+Dez 09 02:43:05 *	Bateau (~Bateau@mail.lavitt.net) hat #ictf betreten
+Dez 09 02:43:11 <[WCSC]Zap>	yeah we aren't on buttes
+Dez 09 02:43:15 <wh-Bonzo>	:v
+Dez 09 02:43:17 <[int80]sc>	=============================================
+Dez 09 02:43:17 <[int80]sc>	1st Place:  int80       10.12.1.0
+Dez 09 02:43:18 <[int80]sc>	2nd Place:  Emanaton    10.2.1.0
+Dez 09 02:43:18 <[int80]sc>	3rd Place:  f0gd0gs     10.4.1.0
+Dez 09 02:43:19 <[int80]sc>	4th Place:  Wizards Of  10.6.1.0
+Dez 09 02:43:19 <[int80]sc>	5th Place:  WCSC        10.7.1.0
+Dez 09 02:43:19 <[int80]sc>	Others:     notified via emails.
+Dez 09 02:43:21 <[int80]sc>	Thank you for playing.
+Dez 09 02:43:27 <wh-Bonzo>	you boner
+Dez 09 02:43:28 <[ci]ibmo>	you know, what a quarterpounder is called in europe?
+Dez 09 02:43:36 <[CI]5eeU>	hahaha
+Dez 09 02:43:43 <[int80]sc>	w00t!!!
+Dez 09 02:43:45 <[wcwc]4sw>	Good show sc.
+Dez 09 02:43:45 <wh-Bonzo>	luxembourg baby
+Dez 09 02:43:49 <[wcsc]3h>	nice
+Dez 09 02:43:54 <[WCSC]Zap>	class
+Dez 09 02:43:57 <[ci]uo>	!flame [int80]sc
+Dez 09 02:43:59 <wh-Bonzo>	is in session
+Dez 09 02:44:10 <[WCSC]Gar>	the simultaneous awwwwwwwww, was amazing
+Dez 09 02:44:11 <[DotF]DH>	cu next time *G*
+Dez 09 02:44:24 <[wcwc]4sw>	That'd be pretty cool, especially with how little we saw you in the top 5. ;)
+Dez 09 02:44:32 <[uclion]r>	burrrn
+Dez 09 02:44:35 <[WCSC]Zap>	gud1
+Dez 09 02:44:35 <[ENFLG]mu>	                        _-^--^=-_
+Dez 09 02:44:36 <[ENFLG]mu>	                   _.-^^          -~_ 
+Dez 09 02:44:36 <[ENFLG]mu>	                _--      WE WANT     --_
+Dez 09 02:44:36 <[ENFLG]mu>	               <     T H E   R E A L   >)
+Dez 09 02:44:36 <[ENFLG]mu>	               |    S C O R E S ! ! !    |   
+Dez 09 02:44:36 <celafotra>	pwned
+Dez 09 02:44:36 <[ENFLG]mu>	                \._                   _./ 
+Dez 09 02:44:39 <[ENFLG]mu>	                   ```--. . , ; .--'''
+Dez 09 02:44:40 <wh-Bonzo>	macro brusta
+Dez 09 02:44:40 <[ENFLG]mu>	                         | |   |   
+Dez 09 02:44:42 <[ENFLG]mu>	                      .-=||  | |=-.
+Dez 09 02:44:44 <[ENFLG]mu>	                      `-=#$%&%$#=-'
+Dez 09 02:44:45 <[USU]Thin>	Congratulations!
+Dez 09 02:44:46 <[ENFLG]mu>	                         | ;  :|  
+Dez 09 02:44:48 <[ENFLG]mu>	                _____.,-#%&$@%#&#~,._____
+Dez 09 02:44:59 *	[W0Y]jose hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:45:10 <[USU]Thin>	Douch...
+Dez 09 02:45:14 <Bateau>	a nice stacked bar graph for each team for each round would be GREAT
+Dez 09 02:45:18 <[uclion]r>	*sp Douche
+Dez 09 02:45:18 <wh-Bonzo>	 _____ 
+Dez 09 02:45:18 <wh-Bonzo>	/     \
+Dez 09 02:45:18 <wh-Bonzo>	|[.][.]|
+Dez 09 02:45:18 <wh-Bonzo>	|   ( O==m=8 mmf I sure am glad i'm on int80
+Dez 09 02:45:18 <wh-Bonzo>	\_____/      otherwise I wouldn't be able to eat dick
+Dez 09 02:45:21 <[int80]GT>	how much money did people in the top 5 have?
+Dez 09 02:45:23 <Bateau>	so we could see the changing of the scored over time
+Dez 09 02:45:23 <celafotra>	are most of you guys undergraduates or graduates?
+Dez 09 02:45:30 <celafotra>	im just curious
+Dez 09 02:45:36 <wh-Bonzo>	u-grad for like one week\
+Dez 09 02:45:38 <[ci]ibmo>	why did the hacker cross the street?
+Dez 09 02:45:40 <Bateau>	undergrad (sophmore)
+Dez 09 02:45:42 <[RC]ssir>	We had an old brasilian guy for punch cards...
+Dez 09 02:45:46 <[ci]ibmo>	because he wanted the scooooores!
+Dez 09 02:45:47 <[int80]sc>	we had over 33 million
+Dez 09 02:45:47 <[wcwc]4sw>	U-grad.
+Dez 09 02:45:49 <[DotF]DH>	ugrads here
+Dez 09 02:45:57 <[RC]ssir>	THANK YOU, RICARDO
+Dez 09 02:45:59 <[int80]GT>	yes
+Dez 09 02:46:00 *	Bateau was with NUCIA, but had to leave early
+Dez 09 02:46:07 *	[wcsc]37i hat die Verbindung getrennt (EOF From client)
+Dez 09 02:46:10 <[DotF]DH>	I did the punchcards myself
+Dez 09 02:46:13 <[DotF]DH>	;-)
+Dez 09 02:46:15 <wh-Bonzo>	boat
+Dez 09 02:46:21 <[ch]marb>	highschool
+Dez 09 02:46:21 <[WCSC]Zap>	@gpl
+Dez 09 02:46:27 *	[ENFLG]WN hat die Verbindung getrennt ()
+Dez 09 02:46:29 <[wcwc]4sw>	We had some FL vote counters to the punch cards.
+Dez 09 02:46:36 <Bateau>	lol
+Dez 09 02:46:38 <[DotF]Gho>	lexi keep on counting
+Dez 09 02:46:42 <[DotF]DH>	hehe
+Dez 09 02:46:45 <wh-Bonzo>	we got half a pascal program, and 2345890 votes for bush
+Dez 09 02:46:49 <[ci]rilli>	what were the two operators in the X := X ? 100 ? 3; statement?
+Dez 09 02:46:50 <[0E]lexi>	waiting process [********************************************************]**************** 500/30min
+Dez 09 02:46:59 <[wcsc]3h>	Hillbilly dialectized version of iCTF home page:  Th' 2006 UCSB Internashunal Cappure Th' Flag... Intryduckshun ... Th' UCSB Internashunal Cappure Th' Flag (also known as th' iCTF) is a distributed, wide-area security exercise, whose goal is t'tess the security skills of th' participants fum both th' attack an' defense viewpoints.... Th' Cappure Th' Flag corntess is a multi-site, multi-team hackin' corntess in which a number of teams compete independently a
+Dez 09 02:47:00 <[DotF]Gho>	thx
+Dez 09 02:47:00 *	[0E]lexi gets goooored
+Dez 09 02:47:04 <Bateau>	so when will we get complete results?
+Dez 09 02:47:05 *	[int80]jo hat die Verbindung getrennt (Ping timeout)
+Dez 09 02:47:06 *	[ENFLG]ch (~chithead@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 09 02:47:08 <[ci]ibmo>	1, 2, 3, muhahahahaha, 4, 5, 6,
+Dez 09 02:47:19 <[r2]yorn>	katze
+Dez 09 02:47:22 *	[ci]ibmo ist jetzt bekannt als teh-count
+Dez 09 02:47:25 <[r2]yorn>	zm0wl
+Dez 09 02:47:26 <wh-Bonzo>	smoke weed <============================> every day
+Dez 09 02:47:29 *	[int80]jo (John@lawn-128-61-119-143.lawn.gatech.edu) hat #ictf betreten
+Dez 09 02:47:30 <[ENFLG]ch>	rilli: PROGRAM TX; VAR X : REAL; COUNT:INTEGER; BEGIN COUNT:=1; X:=10.0; REPEAT X := X + X/100*3; COUNT:=COUNT + 1; UNTIL COUNT = 10; WRITELN (X); END.
+Dez 09 02:47:30 <[DotF]DH>	Hillbilly rulz
+Dez 09 02:47:36 *	teh-count ist jetzt bekannt als [ci]ibmo
+Dez 09 02:47:36 <[WoD]lars>	mplayer http://www.sec-tud.de/~tiga/team6wod.mpg
+Dez 09 02:47:40 <[WoD]lars>	have fun
+Dez 09 02:47:41 <[poly]dan>	where were the emails sent to?  the PoC's for each time?
+Dez 09 02:47:43 <[ci]rilli>	[ENFLG]ch: thanks.
+Dez 09 02:47:44 <[ci]teyth>	 _       _                                   _ _ _      _  __ _ _ 
+Dez 09 02:47:44 <[ci]teyth>	| |_ ___| |__    ___  ___ ___  _ __ ___  ___| | | | ___| |/ _/ / |
+Dez 09 02:47:44 <[ci]teyth>	| __/ _ \ '_ \  / __|/ __/ _ \| '__/ _ \/ __| | | |/ _ \ | |_| | |
+Dez 09 02:47:44 <[ci]teyth>	| ||  __/ | | | \__ \ (_| (_) | | |  __/\__ \_|_|_|  __/ |  _| | |
+Dez 09 02:47:44 <[ci]teyth>	 \__\___|_| |_| |___/\___\___/|_|  \___||___(_|_|_)\___|_|_| |_|_|
+Dez 09 02:47:46 <[ci]teyth>	                                                                  
+Dez 09 02:47:49 <mcfly>	wh-Bonzo: send some.
+Dez 09 02:47:57 *	[int80]no (~root@199.77.130.167) hat #ictf betreten
+Dez 09 02:48:08 *	[PSU]teeh (~pallus@c-71-58-93-248.hsd1.pa.comcast.net) hat #ictf betreten
+Dez 09 02:48:27 <[ci]teyth>	                             _ _ _      _  __ _ 
+Dez 09 02:48:27 <[ci]teyth>	 ___  ___ ___  _ __ ___  ___| | | | ___| |/ _/ |
+Dez 09 02:48:27 <[ci]teyth>	__|/ __/ _ \| '__/ _ \/ __| | | |/ _ \ | |_| |
+Dez 09 02:48:27 <[ci]teyth>	\__ \ (_| (_) | | |  __/\__ \_|_|_|  __/ |  _| |
+Dez 09 02:48:27 <[ci]teyth>	|___/\___\___/|_|  \___||___(_|_|_)\___|_|_| |_|
+Dez 09 02:48:29 <[ci]teyth>	                                                
+Dez 09 02:48:33 *	root (~root@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 09 02:48:36 <[ci]teyth>	o_O
+Dez 09 02:48:37 *	[wcsc]3h slaps wh-Bonzo around a bit with a large trout
+Dez 09 02:48:41 <[int80]no>	much less lag now
+Dez 09 02:48:47 *	[int80]GT hat die Verbindung getrennt (Ex-Chat)
+Dez 09 02:48:48 <[RC]ssir>	PROGRAM TX : PRINTL "GIVE THE SCORES";END:
+Dez 09 02:48:56 <[uclion]r>	need the scoreezz!!!!111!!elevenoneone!
+Dez 09 02:48:58 *	[int80]no ist jetzt bekannt als [int80]GT
+Dez 09 02:48:58 <[int80]jo>	$$$$
+Dez 09 02:49:02 <[ci]ibmo>	PLEAAAAAAAAASE
+Dez 09 02:49:02 <[DotF]Gho>	you can find the results here: /q results ictf
+Dez 09 02:49:11 <[ENFLG]ch>	ssir: Your program has to begin with BEGIN
+Dez 09 02:49:13 *	[uclion]r braces for the people to leave
+Dez 09 02:49:27 *	lelelele hat die Verbindung getrennt (Leaving)
+Dez 09 02:49:28 <[WoD]lars>	you will find the scores under rm -rf /*
+Dez 09 02:49:36 <[ci]m4z>	 _____
+Dez 09 02:49:38 *	[ENFLG]mu leaves (results ictf)
+Dez 09 02:49:38 <[ci]m4z>	< moo >
+Dez 09 02:49:38 <[ci]m4z>	 -----
+Dez 09 02:49:38 <[ci]m4z>	   \
+Dez 09 02:49:38 <[ci]m4z>	    \        .
+Dez 09 02:49:39 <[ci]ibmo>	lame
+Dez 09 02:49:40 <[ENFLG]mu>	muhahah!
+Dez 09 02:49:40 <[ci]m4z>	     .---.  //
+Dez 09 02:49:41 <[ci]rilli>	by the way, should the Pascal program have been PROGRAM TX(INPUT, OUTPUT)?
+Dez 09 02:49:43 <[WCSC]Zap>	brust
+Dez 09 02:49:43 <[ci]m4z>	    Y|o o|Y//
+Dez 09 02:49:46 <[ci]teyth>	/disco everyone :D
+Dez 09 02:49:46 <[ci]m4z>	   /_(i=i)K/
+Dez 09 02:49:47 <[uclion]r>	yeah, like the mIRC Fax function, just type Alt+F A X
+Dez 09 02:49:48 <[ci]m4z>	   ~()~*~()~
+Dez 09 02:49:49 <[RC]ssir>	for(i=1;i<1000000$;i++) {
+Dez 09 02:49:51 <[ci]m4z>	    (_)-(_)
+Dez 09 02:49:53 <[ci]m4z>	     Darth
+Dez 09 02:49:55 <[DotF]Gho>	enoflag has lost
+Dez 09 02:49:56 <[ci]m4z>	     Vader
+Dez 09 02:49:58 <[ci]m4z>	     koala
+Dez 09 02:50:01 <[int80]sc>	i just tried rm -rf /* and nothing is hapening.. oh wait
+Dez 09 02:50:03 <[RC]ssir>	printf("scooooooooooooooooooooooooooooooooooooooores";
+Dez 09 02:50:05 <[ci]ibmo>	ENOSCORES
+Dez 09 02:50:06 <wh-Bonzo>	NOOOOOOOOOOOOOOOOOOOOOOO
+Dez 09 02:50:07 <[RC]ssir>	]
+Dez 09 02:50:09 <[RC]ssir>	}
+Dez 09 02:50:12 <[poly]dan>	the scores are already on your hard drives!  do 'ls -la > /dev/hda'
+Dez 09 02:50:17 *	RouDaddy (~crouland@c-76-17-127-78.hsd1.ga.comcast.net) hat #ictf betreten
+Dez 09 02:50:23 <[wcwc]4sw>	cat /dev/urandom > #ictf
+Dez 09 02:50:24 <[RC]ssir>	while(true) {
+Dez 09 02:50:27 *	[wcsc]3h slaps wh-Bonzo around a bit with a large trout
+Dez 09 02:50:44 <[DotF]DH>	trouts are actually very good
+Dez 09 02:50:45 <[r2]tho>	scores...
+Dez 09 02:50:47 *	[wcsc]3h slaps [wcsc]3h around a bit with a large trout
+Dez 09 02:50:48 <[DotF]DH>	u serious?
+Dez 09 02:50:56 <[RC]ssir>	execve("cat "scoooooores" > ./etc/shadow"
+Dez 09 02:50:57 <[ci]ibmo>	no!
+Dez 09 02:50:58 <[ENFLG]ch>	[wcwc]4sw: how mean. Better use strings /dev/urandom
+Dez 09 02:51:05 <[ci]m4z>	root@www# shutdown -h now
+Dez 09 02:51:06 <[wcwc]4sw>	0 days, -9 hours, -49 minutes left.
+Dez 09 02:51:08 <[r2]yorn>	nick 10-24-1-251
+Dez 09 02:51:13 <[RC]ssir>	nan mais sans deconner, là,  ca traine....
+Dez 09 02:51:25 *	[r2]yorn ist jetzt bekannt als A10-24-1-
+Dez 09 02:51:28 <[wcsc]3h>	this reminds me of last night's shuttle launch ....
+Dez 09 02:51:28 *	[int80]s1 (~scyclops@199.77.130.173) hat #ictf betreten
+Dez 09 02:51:32 <[wcwc]4sw>	                /
+Dez 09 02:51:33 <[wcwc]4sw>	               /               .'
+Dez 09 02:51:33 <[wcwc]4sw>	              /              .'
+Dez 09 02:51:33 <[wcwc]4sw>	             /   ______.   .'
+Dez 09 02:51:33 <[wcwc]4sw>	            /   / __/_//  '  OWOWOWOWOOWOWW
+Dez 09 02:51:34 <[ci]ibmo>	scooores
+Dez 09 02:51:34 *	A10-24-1- ist jetzt bekannt als tesbox
+Dez 09 02:51:35 <[wcwc]4sw>	           /   / /  @"@    OWOWOWOWOWOWOWOW
+Dez 09 02:51:35 <[ci]ibmo>	points
+Dez 09 02:51:36 <[uclion]r>	[tmbo] was here
+Dez 09 02:51:37 <[ci]ibmo>	dots
+Dez 09 02:51:38 <[wcwc]4sw>	          /    \ G  ' >'  OWOWOWOWOWOWOWO  _.-'
+Dez 09 02:51:38 *	tesbox ist jetzt bekannt als testbox
+Dez 09 02:51:39 <[ci]ibmo>	whatever
+Dez 09 02:51:40 <[wcwc]4sw>	         /      \/.  C '  OWOWOWOWOW   _.-'
+Dez 09 02:51:42 <nookieman>	!flame *.fr
+Dez 09 02:51:43 <[wcwc]4sw>	        /     .---\  / --.         _.-'    0 days, -9 hours,
+Dez 09 02:51:43 <wh-Bonzo>	gg rapesay
+Dez 09 02:51:45 <[wcwc]4sw>	       /     /     \(     \    _.-'     -49 minutes left.
+Dez 09 02:51:47 <[WCSC]Zap>	rape brusted
+Dez 09 02:51:48 <[wcwc]4sw>	      /     /  \    \  (.  )  '    
+Dez 09 02:51:48 *	testbox 0wned...
+Dez 09 02:51:50 <[wcwc]4sw>	     /     /   /\       \ /   
+Dez 09 02:51:53 <[wcwc]4sw>	    /      \  |  \       \               __..--''
+Dez 09 02:51:55 <[wcwc]4sw>	   /   .'   \_\   )     )\\      __..--''
+Dez 09 02:51:58 <[wcwc]4sw>	  /  .'      ) \  |    /   \  -''
+Dez 09 02:51:59 *	[DotF]Gho is still waiting
+Dez 09 02:52:00 <[wcwc]4sw>	 / .'   _   '///` (   /\    \
+Dez 09 02:52:03 <[wcwc]4sw>	/.' _.-'  __     /    ) )    )
+Dez 09 02:52:05 <[wcwc]4sw>	'.-'..--''      /   ,' /    /
+Dez 09 02:52:08 <[wcwc]4sw>	 .__---------- /__./  /    / --------------------a:f
+Dez 09 02:52:10 <[wcwc]4sw>	    ``--..  __//  /   )   /                      ejm
+Dez 09 02:52:11 *	nms hat die Verbindung getrennt (EOF From client)
+Dez 09 02:52:11 <celafotra>	.
+Dez 09 02:52:13 <[wcwc]4sw>	           /    _J)   /)`-\
+Dez 09 02:52:13 <[r2]Scy>	PR========N
+Dez 09 02:52:15 <[wcwc]4sw>	           `-__/-'  ` \\  |(
+Dez 09 02:52:16 <[W0Y]mne>	seems your shuttle had problems launching
+Dez 09 02:52:18 <[wcwc]4sw>	                       `\   \  -..__
+Dez 09 02:52:20 <[wcwc]4sw>	                         `--'       ``--.._
+Dez 09 02:52:23 <[wcwc]4sw>	                                            ``--
+Dez 09 02:52:24 <[r2]Scy>	s/=/0/g
+Dez 09 02:52:25 <[DotF]DH>	where is the next CTF contest?
+Dez 09 02:52:28 <[ci]teyth>	figlet creates pr0n... echo '.,|,.' | figlet
+Dez 09 02:52:35 <[0E]lexi>	berlin in decemer 29th
+Dez 09 02:52:36 <[wcsc]3h>	in cyberspace
+Dez 09 02:52:38 *	RouDaddy hat die Verbindung getrennt (RouDaddy has no reason)
+Dez 09 02:52:42 <[PSU]teeh>	where? u retarded?
+Dez 09 02:52:43 <[W0Y]mne>	i'll be there ;)
+Dez 09 02:52:50 *	[WoY]atro too
+Dez 09 02:52:51 <[DotF]DH>	is that at the annual CCC meeting?
+Dez 09 02:52:54 *	[poly]brd hat die Verbindung getrennt (Leaving)
+Dez 09 02:53:07 <[r2]tho>	yes
+Dez 09 02:53:09 <[wcwc]4sw>	Lexi, can you post a copy of the services for those of us in the states?
+Dez 09 02:53:11 <[wcwc]4sw>	Or an image?
+Dez 09 02:53:14 <[t0fh]fab>	we have 8 minutes sharp to leave
+Dez 09 02:53:17 <[ci]ibmo>	at your home
+Dez 09 02:53:20 <[t0fh]fab>	7
+Dez 09 02:53:31 <[ci]ibmo>	scooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooores
+Dez 09 02:53:34 <wh-Bonzo>	your a home
+Dez 09 02:53:38 <testbox>	gaynau
+Dez 09 02:53:42 <wh-Bonzo>	gaynasa
+Dez 09 02:53:50 <[DotF]DH>	lexi: will you be doing a cipher3 next year?
+Dez 09 02:53:50 <[DotF]Gho>	pennen die anderen deutschen schon?
+Dez 09 02:53:53 <[WCSC]Zap>	na na na naaaaa naaa na! SCORE!
+Dez 09 02:53:54 <[r2]tho>	http://maps.philippfleck.de/ctf.php
+Dez 09 02:53:55 <[wcsc]3h>	Wille dort ist Bier?
+Dez 09 02:53:56 <wh-Bonzo>	lexi: say yes
+Dez 09 02:53:58 <[0E]lexi>	guess so
+Dez 09 02:54:02 <[ci]ibmo>	we don't sleep!
+Dez 09 02:54:12 <[ci]ibmo>	hier schlaeft niemand
+Dez 09 02:54:13 <[0E]lexi>	wir schlafen im sitzen... ;-(
+Dez 09 02:54:13 <[WCSC]666>	I was thinking
+Dez 09 02:54:13 <[DotF]DH>	good stuff
+Dez 09 02:54:19 <[WCSC]666>	Firefly is a fucking Star Wars rip off
+Dez 09 02:54:22 <[WCSC]666>	What a shitty movie
+Dez 09 02:54:24 <[ci]ibmo>	(hier sind hoechstens schlaefer am werk) ;)
+Dez 09 02:54:26 <[r2]Scy>	wir schlafen nicht... weil wir auf die verdammten SCOOOORES warten...
+Dez 09 02:54:33 <mcfly>	lol
+Dez 09 02:54:35 <[WCSC]666>	How can anyone possibly watch that garbage more than once?
+Dez 09 02:54:36 <[ci]rilli>	Hamburg, the city of Schlaefer.
+Dez 09 02:54:41 <[uclion]r>	the scores have been posted, login to filepile.org to retrieve them
+Dez 09 02:54:49 <[ci]rilli>	o
+Dez 09 02:54:51 <[ci]rilli>	oops.
+Dez 09 02:54:52 <wh-Bonzo>	manpile
+Dez 09 02:55:06 <[ci]teyth>	[ci]rilli: u called?
+Dez 09 02:55:06 *	RouDaddy (~crouland@c-76-17-127-78.hsd1.ga.comcast.net) hat #ictf betreten
+Dez 09 02:55:16 *	[ENFLG]ch hat die Verbindung getrennt (ChatZilla 0.9.67+ [SeaMonkey 1.0.6/0000000000])
+Dez 09 02:55:23 <[DotF]DH>	rs-tho: nice map
+Dez 09 02:55:25 <[uclion]r>	I got all my sploitz at www.manhole.com
+Dez 09 02:55:30 <wh-Bonzo>	wh-Bonzo: ni e logo
+Dez 09 02:55:34 <wh-Bonzo>	wh-Bonzo: nice logo
+Dez 09 02:55:36 <[WCSC]666>	We need to do math
+Dez 09 02:55:44 <wh-Bonzo>	2 + 3 = you suck
+Dez 09 02:55:48 <[r2]Scy>	http://www.humanupgrades.com/
+Dez 09 02:55:49 <[0E]lexi>	waiting process [********************************************************]**************** 666/30min
+Dez 09 02:55:57 <[ci]ibmo>	hm
+Dez 09 02:55:58 <[WCSC]666>	The competition was an hour and a half late to start..
+Dez 09 02:56:04 <[WCSC]666>	So we might be waiting that long for the scores
+Dez 09 02:56:07 <[ci]ibmo>	can you say that in bytes per second?
+Dez 09 02:56:08 <Bateau>	well good game all, I need Zzz
+Dez 09 02:56:11 <[WCSC]666>	time to take out the vodka!
+Dez 09 02:56:13 <[0E]lexi>	i guess the scores are calculates using an abacus
+Dez 09 02:56:15 <[0E]lexi>	;)
+Dez 09 02:56:17 <[uclion]r>	vodka++
+Dez 09 02:56:20 *	Bateau (~Bateau@mail.lavitt.net) hat #ictf verlassen (Leaving)
+Dez 09 02:56:23 <[WCSC]Zap>	i could work faster on my slide rule
+Dez 09 02:56:28 <[ENFLG]mu>	[0E]lexi: no, punchcards ;)
+Dez 09 02:56:30 <[DotF]DH>	red wine ++
+Dez 09 02:56:32 <[poly]pet>	goodnight
+Dez 09 02:56:33 *	[poly]pet hat die Verbindung getrennt (leaving)
+Dez 09 02:56:34 <[WCSC]666>	I worked with my slide rule this morning
+Dez 09 02:56:35 <[WCSC]666>	Twice
+Dez 09 02:56:41 <[uclion]r>	pint of raw ether ++
+Dez 09 02:56:42 <mcfly>	is there a problem with the scores? in that case we could drive home and come back in an hour.
+Dez 09 02:56:43 <[DotF]Gho>	sind denn die leute aus darmstadt noch da?
+Dez 09 02:56:43 <[ENFLG]mu>	n8
+Dez 09 02:56:47 <mcfly>	or tomorrow
+Dez 09 02:56:49 <[DotF]Gho>	ah da gehen sie pennen
+Dez 09 02:56:50 <[DotF]DH>	did you find the tool the punchcards were created with?
+Dez 09 02:56:52 <[r2]Scy>	or... in a week...
+Dez 09 02:56:55 <wh-Bonzo>	mcfly: you could drive home and come back 5 minutes ago
+Dez 09 02:57:00 <[PSU]teeh>	u mean mspaint?
+Dez 09 02:57:02 <wh-Bonzo>	1.21 GIGGAWATS
+Dez 09 02:57:06 <wh-Bonzo>	FLUX CAPACITOR
+Dez 09 02:57:08 <[PSU]teeh>	jiggawatts
+Dez 09 02:57:11 <wh-Bonzo>	GET IN THE DELOREAN
+Dez 09 02:57:14 <[WCSC]666>	Jigga
+Dez 09 02:57:15 <[0E]lexi>	we need to take with us our gateway, otherwise I'd leave now and check the scores tomorrow
+Dez 09 02:57:16 <[DotF]DH>	http://www.kloth.net/services/cardpunch.php
+Dez 09 02:57:18 <[WCSC]666>	what's my motherfukin name
+Dez 09 02:57:18 <wh-Bonzo>	SET THE CLOCK FOR 16:20
+Dez 09 02:57:21 <[wcwc]4sw>	Quit camping the scores guys. I'm calling teh mods. >:(
+Dez 09 02:57:23 <[WCSC]666>	jigga
+Dez 09 02:57:27 <[WCSC]666>	and who I'm rollin with huh?
+Dez 09 02:57:34 <[USU]Dimm>	what is login:pass for filepile.org?
+Dez 09 02:57:34 <[ci]ibmo>	punkte!!!
+Dez 09 02:57:38 *	[ENFLG]He hat die Verbindung getrennt (EOF From client)
+Dez 09 02:57:38 *	root hat die Verbindung getrennt (Connection reset by peer)
+Dez 09 02:57:47 <[WCSC]666>	login: fuck pass: int80
+Dez 09 02:57:47 <[PSU]teeh>	http://www.realdoll.com
+Dez 09 02:57:47 <[uclion]r>	omg you don't have a filiepile account, lolz
+Dez 09 02:57:55 <[wcwc]4sw>	http://scores.on.nimp.org
+Dez 09 02:58:22 <[WCSC]666>	We got second!
+Dez 09 02:58:24 <[WCSC]666>	wooot
+Dez 09 02:58:34 <[WCSC]666>	I can't believe who got first
+Dez 09 02:58:43 <[wcwc]4sw>	And it appears that a woman shitting on her face took 3rd.
+Dez 09 02:58:46 <[WCSC]666>	But I don't want to ruin it by announcing it
+Dez 09 02:59:10 <wh-Bonzo>	XD int80 got 8th
+Dez 09 02:59:11 *	root (~root@seclab13.kbs.cs.tu-berlin.de) hat #ictf betreten
+Dez 09 02:59:28 <[WCSC]666>	Since we're talking about hacking..
+Dez 09 02:59:36 <[WCSC]666>	Have you seen this shit that tracks your phone
+Dez 09 02:59:42 <[ci]ibmo>	wie ist die hackordnung?
+Dez 09 02:59:42 *	nucia hat die Verbindung getrennt (Leaving)
+Dez 09 02:59:43 <[WCSC]666>	Based on GPS coordinates?
+Dez 09 02:59:43 <[t0fh]fab>	zanardi: we must leave, please post results on the mailing list. Bye
+Dez 09 02:59:45 *	[ENFLG]He (~hesso@fb3-s4.math.TU-Berlin.DE) hat #ictf betreten
+Dez 09 02:59:48 *	[t0fh]fab hat die Verbindung getrennt (EOF From client)
+Dez 09 02:59:49 <[WCSC]666>	http://phonetrace.org
+Dez 09 02:59:57 *	[W0Y]bies hat die Verbindung getrennt (Leaving)
+Dez 09 02:59:57 <[uclion]r>	I <3 phonetrace
+Dez 09 03:00:04 <[uclion]r>	fukitall I'm outta here
+Dez 09 03:00:07 <[ci]ibmo>	hackordnung hackordnung hackordnung!
+Dez 09 03:00:08 <[ENFLG]mu>	I think they analyze some tcpdumps to find the scores out 'cause of the buggy scorebot ;x)
+Dez 09 03:00:10 *	[uclion]r hat die Verbindung getrennt (scores now beeyotc)
+Dez 09 03:00:36 <[RC]ssir>	find / -name "scores.tct"
+Dez 09 03:00:46 <[ci]ibmo>	did you even score the scores?
+Dez 09 03:00:57 <[RC]ssir>	no
+Dez 09 03:00:58 <[r2]Scy>	fuck the fucking fuckers.
+Dez 09 03:01:01 <[CI]5eeU>	:-!
+Dez 09 03:01:13 <testbox>	ey scy...
+Dez 09 03:01:13 <[PSU]teeh>	roflmao reboot -f
+Dez 09 03:01:15 <testbox>	ficken?
+Dez 09 03:01:17 <wh-Bonzo>	today we're going to sing a song
+Dez 09 03:01:19 <[WoD]lars>	http://video.google.de/videoplay?docid=2107860976834753426&q=bagman
+Dez 09 03:01:20 *	angus (~nah@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 03:01:22 <[int80]GT>	http://www.youtube.com/v/EpmjHrmNI9I
+Dez 09 03:01:25 <wh-Bonzo>	it's a jaunty tune called "don't click links in irc"
+Dez 09 03:01:27 <[int80]s1>	hey scy is that your full handle?
+Dez 09 03:01:28 <[DotF]Gho>	[0E]lexi still counting?
+Dez 09 03:01:28 <[r2]tho>	4753426&q=bagman
+Dez 09 03:01:29 <[r2]Scy>	testbox, du bist schon penetriert genug.
+Dez 09 03:01:30 <[int80]GT>	ever seen a cat on acid?
+Dez 09 03:01:33 <[WCSC]Zap>	jeaunty tune
+Dez 09 03:01:41 <testbox>	stimmt ich bin voller löcher
+Dez 09 03:01:41 <wh-Bonzo>	[int80]GT: classique video
+Dez 09 03:01:43 <[0E]lexi>	waiting process [****************]******************************************************** 667/30min
+Dez 09 03:01:49 <testbox>	die backdoors net mitgerechnet
+Dez 09 03:01:54 <[r2]Scy>	gnnnnnn...
+Dez 09 03:02:02 *	[CM]david hat die Verbindung getrennt (Ping timeout)
+Dez 09 03:02:08 <testbox>	gibts eigentlich schon scores?
+Dez 09 03:02:16 <[WoD]lars>	sleep(155372165537772728839892993885477636235326748383474646774383484374);
+Dez 09 03:02:31 <[RC]ssir>	Y'a François qui se casse
+Dez 09 03:02:32 <[DotF]DH>	while(1) { sleep(100); }
+Dez 09 03:02:47 <[wcsc]3h>	bbb
+Dez 09 03:03:19 <[r2]Scy>	OMG TEH CHAT CRASCHED
+Dez 09 03:03:26 <[wcwc]4sw>	0 days, -10 hours, -1 minutes left.
+Dez 09 03:03:28 <[PSU]teeh>	no me gusta el taco
+Dez 09 03:03:29 <[RC]ssir>	Jacob, peau de zob, t'es là?
+Dez 09 03:03:34 <testbox>	lörn inglisch you n00b
+Dez 09 03:03:40 *	[WoD]SEN hat die Verbindung getrennt (Lost terminal)
+Dez 09 03:03:41 <celafotra>	damn, iono what people in california think 30 minutes means
+Dez 09 03:03:44 <[int80]jo>	scores on http://www.hornymanatee.com/
+Dez 09 03:03:47 <[DotF]DH>	testbox, where r u from
+Dez 09 03:03:48 <[ch]zim>	ouaip, j'emerge
+Dez 09 03:03:48 <[WCSC]666>	1.5 hours
+Dez 09 03:03:53 <testbox>	im from italy
+Dez 09 03:03:57 <[WCSC]666>	They're having a gay parade first
+Dez 09 03:03:59 <[DotF]DH>	milano?
+Dez 09 03:04:02 <[WCSC]666>	and smoking weed
+Dez 09 03:04:06 <testbox>	no not really
+Dez 09 03:04:10 <mcfly>	i think we are going home...
+Dez 09 03:04:11 <testbox>	im from mannheim
+Dez 09 03:04:14 *	celafotra hat die Verbindung getrennt (Leaving)
+Dez 09 03:04:14 <[wcwc]4sw>	j' le txt5d asfk mk
+Dez 09 03:04:15 <[DotF]DH>	he he 
+Dez 09 03:04:17 *	[W0Y]bies (~chb@ctf.seclab.tuwien.ac.at) hat #ictf betreten
+Dez 09 03:04:21 <[ch]zim>	je suis tombe en sommeil en desassemblant ce &^%&^%&% de bpt
+Dez 09 03:04:33 <[wcsc]3h>	ich bin ein berliner
+Dez 09 03:04:35 <[ch]zim>	y'a qui avec vous
+Dez 09 03:04:36 <[RC]ssir>	p'tit joueur
+Dez 09 03:04:36 <[DotF]DH>	mannheim, that's not exactly in italy
+Dez 09 03:04:37 <[ch]zim>	?
+Dez 09 03:04:47 <testbox>	no not really but quite near
+Dez 09 03:04:48 <[RC]ssir>	moi
+Dez 09 03:04:49 <[RC]ssir>	et eux
+Dez 09 03:04:49 <[DotF]DH>	I'm from Regensburg, but sitting in Dublin right now
+Dez 09 03:05:00 <[r2]Scy>	no. But there are some "Via Dei Muschi" in italy. try google maps.
+Dez 09 03:05:01 <[WoD]lars>	Now the officiale scores: We all lose.
+Dez 09 03:05:03 <[RC]ssir>	et  les autres
+Dez 09 03:05:07 <[wcsc]3h>	my parents were circus people
+Dez 09 03:05:09 *	[WoD]lars ist jetzt bekannt als lars
+Dez 09 03:05:17 <wh-Bonzo>	official scores: fdic ain't gonna bail your ass out this time
+Dez 09 03:05:23 <[WCSC]666>	>++++++++++[<++++++++++>-]<->>>>>+++[>+++>+++<<-]<<<<+<[>[>+
+Dez 09 03:05:23 <[WCSC]666>	>+<<-]>>[-<<+>>]++++>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<[[-]>>
+Dez 09 03:05:23 <[WCSC]666>	>>>>[[-]<++++++++++<->>]<-[>+>+<<-]>[<+>-]+>[[-]<->]<<<<<<<<
+Dez 09 03:05:24 <[WCSC]666>	<->>]<[>+>+<<-]>>[-<<+>>]+>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<
+Dez 09 03:05:24 <testbox>	i've been to muschi
+Dez 09 03:05:24 <[WCSC]666>	<[>>+>+<<<-]>>>[-<<<+>>>]++>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<
+Dez 09 03:05:26 <[WCSC]666>	<[>+<[-]]<[>>+<<[-]]>>[<<+>>[-]]<<<[>>+>+<<<-]>>>[-<<<+>>>]+
+Dez 09 03:05:27 <[WCSC]666>	+++>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<[>+<[-]]<[>>+<<[-]]>>[<
+Dez 09 03:05:28 <testbox>	nice town...
+Dez 09 03:05:29 <[WCSC]666>	<+>>[-]]<<[[-]>>>++++++++[>>++++++<<-]>[<++++++++[>++++++<-]
+Dez 09 03:05:30 <lars>	I'm from Bremen, living in Darmstadt and wishing myself to Honolulu
+Dez 09 03:05:32 <[WCSC]666>	>.<++++++++[>------<-]>[<<+>>-]]>.<<++++++++[>>------<<-]<[-
+Dez 09 03:05:34 <[WCSC]666>	>>+<<]<++++++++[<++++>-]<.>+++++++[>+++++++++<-]>+++.<+++++[
+Dez 09 03:05:35 <[WCSC]666>	>+++++++++<-]>.+++++..--------.-------.++++++++++++++>>[>>>+
+Dez 09 03:05:37 <[WCSC]666>	>+<<<<-]>>>>[-<<<<+>>>>]>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<<<
+Dez 09 03:05:41 <[DotF]DH>	honolulu, woa
+Dez 09 03:05:42 <[WCSC]666>	[>>>+>+<<<<-]>>>>[-<<<<+>>>>]+>+<[-<->]<[[-]>>-<<]>>[[-]<<+>
+Dez 09 03:05:43 <wh-Bonzo>	beer busta\
+Dez 09 03:05:44 <[WCSC]666>	>]<<<[>>+<<[-]]>[>+<[-]]++>>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<
+Dez 09 03:05:45 <[WCSC]666>	+<[[-]>-<]>[<<<<<<<.>>>>>>>[-]]<<<<<<<<<.>>----.---------.<<
+Dez 09 03:05:47 <[WCSC]666>	.>>----.+++..+++++++++++++.[-]<<[-]]<[>+>+<<-]>>[-<<+>>]+>+<
+Dez 09 03:05:50 <[WCSC]666>	[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<<[>>+>+<<<-]>>>[-<<<+>>>]++++
+Dez 09 03:05:52 <[WCSC]666>	>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<[>+<[-]]<[>>+<<[-]]>>[<<+>
+Dez 09 03:05:53 <[WCSC]Zap>	oh no the bottles fell :(
+Dez 09 03:05:53 <[WCSC]666>	>[-]]<<[[-]>++++++++[<++++>-]<.>++++++++++[>+++++++++++<-]>+
+Dez 09 03:05:55 <[WCSC]666>	.-.<<.>>++++++.------------.---.<<.>++++++[>+++<-]>.<++++++[
+Dez 09 03:05:58 <[WCSC]666>	>----<-]>++.+++++++++++..[-]<<[-]++++++++++.[-]]<[>+>+<<-]>>
+Dez 09 03:06:02 <[WCSC]666>	[-<<+>>]+++>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<[[-]++++++++++.
+Dez 09 03:06:03 <[WCSC]666>	>+++++++++[>+++++++++<-]>+++.+++++++++++++.++++++++++.------
+Dez 09 03:06:04 <[r2]Scy>	brainfuck--
+Dez 09 03:06:05 <[ch]zim>	il est quelle heure a pelec maintenant?
+Dez 09 03:06:05 <[WCSC]666>	.<++++++++[>>++++<<-]>>.<++++++++++.-.---------.>.<-.+++++++
+Dez 09 03:06:08 <[WCSC]666>	++++.++++++++.---------.>.<-------------.+++++++++++++.-----
+Dez 09 03:06:09 <[WCSC]666>	-----.>.<++++++++++++.---------------.<+++[>++++++<-]>..>.<-
+Dez 09 03:06:12 <[WCSC]666>	---------.+++++++++++.>.<<+++[>------<-]>-.+++++++++++++++++
+Dez 09 03:06:13 <[WCSC]666>	.---.++++++.-------.----------.[-]>[-]<<<.[-]]<[>+>+<<-]>>[-
+Dez 09 03:06:15 <[WCSC]666>	<<+>>]++++>+<[-<->]<[[-]>>-<<]>>[[-]<<+>>]<<[[-]++++++++++.[
+Dez 09 03:06:17 <[WCSC]666>	-]<[-]>]<+<]
+Dez 09 03:06:17 <[RC]ssir>	3h10 du mat
+Dez 09 03:06:19 <[int80]jo>	reported.
+Dez 09 03:06:29 <[ch]zim>	on est en train de dejeuner
+Dez 09 03:06:32 <[ch]zim>	12h06
+Dez 09 03:06:38 <wh-Bonzo>	|>o aborted
+Dez 09 03:06:41 <[RC]ssir>	Bon ap
+Dez 09 03:06:43 <[wcwc]4sw>	Final Scores:
+Dez 09 03:06:43 <[wcsc]3h>	retarded
+Dez 09 03:06:44 <[wcwc]4sw>	__   __            _                     
+Dez 09 03:06:44 <[wcwc]4sw>	\ \ / /__  _   _  | |    ___  ___  ___   
+Dez 09 03:06:44 <[wcwc]4sw>	 \ V / _ \| | | | | |   / _ \/ __|/ _ \  
+Dez 09 03:06:46 <[wcwc]4sw>	  | | (_) | |_| | | |__| (_) \__ \  __/_ 
+Dez 09 03:06:49 <[wcwc]4sw>	  |_|\___/ \__,_| |_____\___/|___/\___(_)
+Dez 09 03:06:50 <wh-Bonzo>	macro busta
+Dez 09 03:06:51 <[wcwc]4sw>	                                         
+Dez 09 03:06:56 *	testbox loses
+Dez 09 03:06:56 <wh-Bonzo>	;_;
+Dez 09 03:07:10 *	[WCSC]666 goes to have earsex
+Dez 09 03:07:18 <testbox>	im coming with you
+Dez 09 03:07:21 <[int80]jo>	well at least he's still abstinent
+Dez 09 03:07:26 <[ci]teyth>	                       _ _     _  __     _  __ _ 
+Dez 09 03:07:26 <[ci]teyth>	 ___ __ ___ _ _ ___ __| | |___| |/ _|___| |/ _/ |
+Dez 09 03:07:26 <[ci]teyth>	(_-</ _/ _ \ '_/ -_|_-<_|_/ -_) |  _/ -_) |  _| |
+Dez 09 03:07:26 <[ci]teyth>	/__/\__\___/_| \___/__(_|_)___|_|_| \___|_|_| |_|
+Dez 09 03:07:26 <[ci]teyth>	                                                 
+Dez 09 03:07:27 <testbox>	just watching thou...
+Dez 09 03:07:34 <[WCSC]666>	Yeah, I'm going to refrain from sex
+Dez 09 03:07:34 <[r2]Scy>	testbox, would you please use /query or sth...
+Dez 09 03:07:39 <[WCSC]666>	I love John and he loves me
+Dez 09 03:07:42 <[WCSC]666>	So we have earsex
+Dez 09 03:07:43 <testbox>	paar aufs maul?
+Dez 09 03:07:47 <[DotF]Gho>	hhe
+Dez 09 03:07:51 <[wcwc]4sw>	Mbzt gru fpberf e gru a0g hc j0r vm zrrr!!!1111barbarbar
+Dez 09 03:08:08 <[int80]GT>	nice bf program...i got a whitespace one for you "                                                                                                                                                                                                                   "                                                                     
+Dez 09 03:08:28 <wh-Bonzo>	  ____
+Dez 09 03:08:28 <wh-Bonzo>	 /    \
+Dez 09 03:08:28 <wh-Bonzo>	|..  
+Dez 09 03:08:28 <wh-Bonzo>	|o   can't draw ascii art earsex :(
+Dez 09 03:08:43 <lars>	Anything scory yet?
+Dez 09 03:08:44 <[0E]lexi>	zanardi: we're off in 5min
+Dez 09 03:08:47 *	[wcsc]3h zzzzzzzzzzzzz
+Dez 09 03:08:52 <wh-Bonzo>	 ___   _ _____ _____ _    ___ ___ _____ _   ___ 
+Dez 09 03:08:52 *	testbox is scory
+Dez 09 03:08:52 <wh-Bonzo>	| _ ) /_\_   _|_   _| |  | __/ __|_   _/_\ | _ \
+Dez 09 03:08:52 <wh-Bonzo>	| _ \/ _ \| |   | | | |__| _|\__ \ | |/ _ \|   /
+Dez 09 03:08:52 <wh-Bonzo>	|___/_/ \_\_|   |_| |____|___|___/ |_/_/ \_\_|_\
+Dez 09 03:08:52 <wh-Bonzo>	                                                
+Dez 09 03:08:54 <lars>	To score or not to score.
+Dez 09 03:09:00 <testbox>	not to...
+Dez 09 03:09:00 <[0E]lexi>	please send the scores by mail, too
+Dez 09 03:09:02 <mcfly>	lexi: we are leaving here right now....
+Dez 09 03:09:06 <[wcwc]4sw>	You're all nerds.  You didn't score at all today.
+Dez 09 03:09:07 <[FLAG]wnd>	a kingdom for a score
+Dez 09 03:09:08 <wh-Bonzo>	and courier pigeon
+Dez 09 03:09:19 <[r2]Scy>	cyrus pigeon.
+Dez 09 03:09:20 <[wcwc]4sw>	It's ok.  I didn't either. </so lonely>
+Dez 09 03:09:28 <lars>	it's getting T+70
+Dez 09 03:09:34 <wh-Bonzo>	HOW COULD THIS HAPPEN TO ME
+Dez 09 03:09:38 *	[ci]m4z slaps [wcwc]4sw around a bit with a hot, greasy sausage
+Dez 09 03:09:49 <[wcwc]4sw>	It must be my birthday.
+Dez 09 03:10:17 <[ci]m4z>	there's hot pudding also!
+Dez 09 03:10:25 <[ci]teyth>	                                                            
+Dez 09 03:10:27 <[ci]teyth>	                                                             @@@@@@    @@@@@@@   @@@@@@   @@@@@@@   @@@@@@@@   @@@@@@   
+Dez 09 03:10:30 <[ci]teyth>	@@@@@@@   @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@   
+Dez 09 03:10:31 *	testbox rubs hot pudding all over scy's body
+Dez 09 03:10:33 <[ci]teyth>	!@@       !@@       @@!  @@@  @@!  @@@  @@!       !@@       
+Dez 09 03:10:35 <[ci]teyth>	!@!       !@!       !@!  @!@  !@!  @!@  !@!       !@!       
+Dez 09 03:10:37 <wh-Bonzo>	macro busta
+Dez 09 03:10:38 <[ci]teyth>	!!@@!!    !@!       @!@  !@!  @!@!!@!   @!!!:!    !!@@!!    
+Dez 09 03:10:39 <wh-Bonzo>	macro busta
+Dez 09 03:10:40 <[ci]teyth>	 !!@!!!   !!!       !@!  !!!  !!@!@!    !!!!!:     !!@!!!   
+Dez 09 03:10:41 <wh-Bonzo>	macro busta
+Dez 09 03:10:43 <[ci]teyth>	     !:!  :!!       !!:  !!!  !!: :!!   !!:            !:!  
+Dez 09 03:10:44 <wh-Bonzo>	macro busta
+Dez 09 03:10:45 <[ci]teyth>	    !:!   :!:       :!:  !:!  :!:  !:!  :!:           !:!   
+Dez 09 03:10:46 <wh-Bonzo>	macro busta
+Dez 09 03:10:48 <[ci]teyth>	:::: ::    ::: :::  ::::: ::  ::   :::   :: ::::  :::: ::   
+Dez 09 03:10:49 <wh-Bonzo>	macro busta
+Dez 09 03:10:50 <[ci]teyth>	:: : :     :: :: :   : :  :    :   : :  : :: ::   :: : :    
+Dez 09 03:10:53 <[ci]teyth>	                                                            
+Dez 09 03:10:56 <wh-Bonzo>	you lose
+Dez 09 03:11:06 Python interface unloaded
+**** BEENDE LOGBUCH UM Sat Dec  9 03:11:06 2006
+

@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^panoptique/*$ https://pinboard.in/u:scy/t:le-panoptique-cest-moi/ [NC,R=temp,L]

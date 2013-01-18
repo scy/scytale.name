@@ -1,0 +1,12 @@
+Options +Indexes
+
+AddDescription "security advisories" adv
+AddDescription "some blog buttons" buttons
+AddDescription "code snippets" code
+AddDescription "documents, articles, essays" doc
+AddDescription "some random pictures." pix
+AddDescription "talks I held" talks
+AddDescription "temporary chaos" tmp
+
+RewriteEngine On
+RewriteRule ^qb-src(|/.*?)(\.qb)?$ /blog$1 [R=permanent]

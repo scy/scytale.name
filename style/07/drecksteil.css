@@ -1,0 +1,30 @@
+/* Don't edit this file directly, use makestatic.sh instead. */
+
+div#LEFT, div#RIGHT {
+	position:absolute;
+}
+
+div#MENU a {
+	background-image:none;
+}
+
+div#GITEMBED {
+	width:100%;
+	overflow:scroll;
+}
+
+div#MENU a.blog {
+	background-image:url(buttonbg-blog.png);
+}
+div#MENU a.proj {
+	background-image:url(buttonbg-proj.png);
+}
+div#MENU a.files {
+	background-image:url(buttonbg-files.png);
+}
+div#MENU a.wish {
+	background-image:url(buttonbg-wish.png);
+}
+div#MENU a.contact {
+	background-image:url(buttonbg-contact.png);
+}

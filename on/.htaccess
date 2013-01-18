@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^twitter/*$ http://twitter.com/scy [NC,R=temp,L]
+RewriteRule ^(g(oogle)?)?(plus|\+)/*$ https://plus.google.com/109150254638842206625/about [NC,R=temp,L]
+RewriteRule ^f(ace)?b(ook)?/*$ http://www.facebook.com/Scy83 [NC,R=temp,L]
+RewriteRule ^f(orm)?s(pring)?/*$ http://www.formspring.me/Scytale [NC,R=temp,L]
+RewriteRule ^spotify/*$ http://open.spotify.com/user/1121729483 [NC,R=temp,L]
+RewriteRule ^okc(upid)?/*$ http://www.okcupid.com/profile/Scy83 [NC,R=temp,L]
+RewriteRule ^github/*$ https://github.com/scy [NC,R=temp,L]
+RewriteRule ^/*$ http://scytale.name/ [NC,R=temp]

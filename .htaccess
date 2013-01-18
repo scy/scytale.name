@@ -1,0 +1,34 @@
+RewriteEngine On
+
+RewriteBase /
+
+# qb has moved back to /blog/ again.
+RewriteRule ^qb(|/.*)$ /blog$1 [R=permanent,L]
+
+# Make the blog the start page.
+RewriteRule ^$ /blog/ [R,L]
+
+# Things that have been deleted.
+RewriteRule ^files/(avatar|pim)(|/.*)$ - [R=410,L]
+RewriteRule ^files/code/(amazon|calextract|frenzy|p5|pingbot|rcal|retzel|tagesschau-av500)(|/.*)$ - [R=410,L]
+RewriteRule ^files/talks/(lastfm|planung)(|/.*)$ - [R=410,L]
+RewriteRule ^files/pix/(050423a|060510b|060708a|060708b)(|/.*)$ - [R=410,L]
+RewriteRule ^where(|/.*)$ - [G]
+
+# Redirects for things I will maybe host myself soon.
+RewriteRule ^cal/html/?$ http://www.google.com/calendar/embed?src=scytale.name@googlemail.com&ctz=Europe/Berlin [R,L]
+RewriteRule ^cal/fbi/?$ http://www.google.com/calendar/ical/scytale.name@googlemail.com/public/basic.ics [R,L]
+
+RewriteRule ^cal/dhbw\.ics$ https://www.google.com/calendar/ical/intlutqt0lk8tcti7v6c0ffjhg\%40group.calendar.google.com/public/basic.ics [NE,R,L]
+RewriteRule ^cal/dhbw\.html$ https://www.google.com/calendar/embed?src=intlutqt0lk8tcti7v6c0ffjhg\%40group.calendar.google.com&ctz=Europe/Berlin [NE,R,L]
+
+# Things that have moved elsewhere.
+RewriteRule ^(doc|talks)(|/.*)$ /files/$1$2 [R=301]
+RewriteRule ^(files/doc/essays/dune-starwars)\.pdf$ /$1/dune-starwars.pdf [R=301]
+RewriteRule ^git(|/.*)$ http://github.com/scy/ [R=permanent]
+
+# Things of the future.
+RewriteRule ^\.plan$ https://github.com/scy/scytale.name/blob/master/plan.markdown [R=temp,L]
+
+# Things that should not be accessible.
+RewriteRule ^\. - [F]

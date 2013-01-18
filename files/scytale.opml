@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<opml version="2.0">
+	<head>
+	</head>
+	<body>
+		<outline text="Uni">
+			<outline type="rss" text="Galdo" xmlUrl="http://wordpress.galdo.de/feed/" htmlUrl="http://wordpress.galdo.de/"/>
+			<outline type="rss" text="Phulab" xmlUrl="http://blog.philippfleck.de/1_philipps_blog/feeds/atom" htmlUrl="http://blog.philippfleck.de/"/>
+		</outline>
+		<outline text="IT">
+			<outline text="Persons">
+				<outline type="rss" text="Andreas Krennmair" xmlUrl="http://synflood.at/blog/index.php?/feeds/index.rss2" htmlUrl="http://synflood.at/blog/"/>
+				<outline type="rss" text="annalist" xmlUrl="http://noblogs.org/rss.php?blogId=3244&amp;profile=atom" htmlUrl="http://annalist.noblogs.org/"/>
+				<outline type="rss" text="basquiat" xmlUrl="http://blog.basquiat.de/feeds/atom.xml" htmlUrl="http://blog.basquiat.de/"/>
+				<outline type="rss" text="blackie" xmlUrl="http://www.kdedevelopers.org/blog/1397/feed" htmlUrl="http://www.kdedevelopers.org/blog/1397/"/>
+				<outline type="rss" text="Boris" xmlUrl="http://nyx.desrever.de/?feed=rss2" htmlUrl="http://nyx.desrever.de/"/>
+				<outline type="rss" text="Dakon" xmlUrl="http://der-dakon.net/blog/blog.xml" htmlUrl="http://der-dakon.net/blog/"/>
+				<outline type="rss" text="Dataloo" xmlUrl="http://www.dataloo.de/feed/" htmlUrl="http://www.dataloo.de/"/>
+				<outline type="rss" text="DrMaXX" xmlUrl="http://drmaxx.org/?atom10" htmlUrl="http://drmaxx.org/"/>
+				<outline type="rss" text="enno" xmlUrl="http://enno.verbrennung.org/rss.php" htmlUrl="http://enno.verbrennung.org/"/>
+				<outline type="rss" text="Fefe" xmlUrl="http://blog.fefe.de/rss.xml?html" htmlUrl="http://blog.fefe.de/"/>
+				<outline type="rss" text="fukami" xmlUrl="http://fukami.vakuum.net/feed/atom" htmlUrl="http://fukami.vakuum.net/"/>
+				<outline type="rss" text="F!XMBR" xmlUrl="http://www.fixmbr.de/feed/" htmlUrl="http://www.fixmbr.de/"/>
+				<outline type="rss" text="Gerrit van Aacken" xmlUrl="http://praegnanz.de/?atom=1" htmlUrl="http://praegnanz.de/weblog/"/>
+				<outline type="rss" text="Inte" xmlUrl="http://blog.kral.ws/feeds/posts/default" htmlUrl="http://blog.kral.ws/"/>
+				<outline type="rss" text="Kai Raven" xmlUrl="http://blog.kairaven.de/feeds/atom10.xml" htmlUrl="http://blog.kairaven.de/"/>
+				<outline type="rss" text="maha" xmlUrl="http://www.maha-online.de/blog/feed/" htmlUrl="http://www.maha-online.de/blog/"/>
+				<outline type="rss" text="mømø" xmlUrl="http://netzhure.de/feeds/atom10.xml" htmlUrl="http://netzhure.de/"/>
+				<outline type="rss" text="psychon" xmlUrl="http://znc.in/~psychon/blog/qb.php/?atom10" htmlUrl="http://znc.in/~psychon/blog/qb.php/"/>
+				<outline type="rss" text="Rop Gonggrijp" xmlUrl="http://rop.gonggri.jp/?feed=atom" htmlUrl="http://rop.gonggri.jp/"/>
+				<outline type="rss" text="Scytale" xmlUrl="https://scytale.name/blog/?atom10" htmlUrl="https://scytale.name/blog/"/>
+				<outline type="rss" text="Tim Pritlove" xmlUrl="http://tim.geekheim.de/feed/atom/" htmlUrl="http://tim.geekheim.de/"/>
+			</outline>
+			<outline text="News">
+				<outline type="rss" text="CCC Events" xmlUrl="http://events.ccc.de/feed/atom/" htmlUrl="http://events.ccc.de/"/>
+				<outline type="rss" text="Chaosradio Blog" xmlUrl="http://blog.chaosradio.ccc.de/index.php/feed/" htmlUrl="http://blog.chaosradio.ccc.de/"/>
+				<outline type="rss" text="Gulli" xmlUrl="http://feeds.gulli.com/gulli/" htmlUrl="http://www.gulli.com/news/"/>
+				<outline type="rss" text="Heise" xmlUrl="http://www.heise.de/newsticker/heise-atom.xml" htmlUrl="http://www.heise.de/newsticker/"/>
+				<outline type="rss" text="Netzpolitik" xmlUrl="http://netzpolitik.org/feed/atom/" htmlUrl="http://netzpolitik.org/"/>
+			</outline>
+			<outline text="Projects">
+				<outline type="rss" text="newsbeuter" xmlUrl="http://newsbeuter.wordpress.com/feed/" htmlUrl="http://newsbeuter.wordpress.com/"/>
+				<outline type="rss" text="Planet OpenMoko" xmlUrl="http://planet.openmoko.org/rss20.xml" htmlUrl="http://planet.openmoko.org/"/>
+			</outline>
+		</outline>
+		<outline text="Music">
+			<outline type="rss" text="Björk Official News" xmlUrl="http://bjork.com/rss/index.php" htmlUrl="http://bjork.com/"/>
+			<outline type="rss" text="last.fm Reply Tracker" xmlUrl="http://ws.audioscrobbler.com/1.0/user/Scy83/replytracker.rss" htmlUrl="http://www.last.fm/dashboard/replytracker"/>
+		</outline>
+		<outline text="News">
+			<outline type="rss" text="Lawblog" xmlUrl="http://www.lawblog.de/index.php/feed/" htmlUrl="http://www.lawblog.de/"/>
+			<outline type="rss" text="Mannheim" xmlUrl="http://web.mannheim.de/rss/rss091.xml" htmlUrl="http://www.mannheim.de/"/>
+			<outline type="rss" text="Tagesschau Blog" xmlUrl="http://blog.tagesschau.de/?feed=rss2" htmlUrl="http://blog.tagesschau.de/"/>
+		</outline>
+		<outline text="Flickr">
+			<outline type="rss" text="Recent Activity" xmlUrl="http://api.flickr.com/services/feeds/activity.gne?user_id=89089405@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/recent_activity.gne?days=7"/>
+			<outline type="rss" text="Comments Made" xmlUrl="http://api.flickr.com/services/feeds/photos_comments.gne?user_id=89089405@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos_comments.gne"/>
+			<outline type="rss" text="Photos From Contacts" xmlUrl="http://api.flickr.com/services/feeds/photos_friends.gne?user_id=89089405@N00&amp;friends=0&amp;display_all=0&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos/friends/"/>
+			<outline text="My Groups">
+				<outline type="rss" text="365 Behind the Scenes Discussions" xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=303684@N25&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/365bts/"/>
+				<outline type="rss" text="365 Behind the Scenes Pool" xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=303684@N25&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/365bts/pool/"/>
+				<outline type="rss" text="Guess Where Mannheim Discussions" xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=22762586@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/gwm/"/>
+				<outline type="rss" text="Guess Where Mannheim Pool" xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=22762586@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/gwm/pool/"/>
+				<outline type="rss" text="Mannheim Discussions" xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=24762601@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/mannheimcity/"/>
+				<outline type="rss" text="Mannheim Pool" xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=24762601@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/mannheimcity/pool/"/>
+				<outline type="rss" text="Night Over-Exposure Discussions" xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=35432914@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/n-oe/"/>
+				<outline type="rss" text="Night Over-Exposure Pool" xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=35432914@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/n-oe/pool/"/>
+				<outline type="rss" text="CCCamp07 Discussions" xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=87786787@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/cccamp07/"/>
+				<outline type="rss" text="CCCamp07 Pool" xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=87786787@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/cccamp07/pool/"/>
+				<outline type="rss" text="Stadtparks Mannheim Discussions" xmlUrl="http://api.flickr.com/services/feeds/groups_discuss.gne?id=58517411@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/mannheimparks/"/>
+				<outline type="rss" text="Stadtparks Mannheim Pool" xmlUrl="http://api.flickr.com/services/feeds/groups_pool.gne?id=58517411@N00&amp;format=rss_200" htmlUrl="http://www.flickr.com/groups/mannheimparks/pool/"/>
+			</outline>
+		</outline>
+		<outline text="Software">
+			<outline type="rss" text="Planet Gentoo" xmlUrl="http://planet.gentoo.org/rss20.xml" htmlUrl="http://planet.gentoo.org/"/>
+			<outline type="rss" text="KPhotoAlbum News" xmlUrl="http://kphotoalbum.org/news.rss" htmlUrl="http://kphotoalbum.org/"/>
+			<outline type="rss" text="SELFHTML Aktuell" xmlUrl="http://aktuell.de.selfhtml.org/weblog/atom-feed" htmlUrl="http://aktuell.de.selfhtml.org/"/>
+		</outline>
+		<outline text="Fun">
+			<outline type="rss" text="xkcd" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+			<outline type="rss" text="ahoi polloi" xmlUrl="http://ahoipolloi.blogger.de/rss" htmlUrl="http://ahoipolloi.blogger.de/"/>
+			<outline type="rss" text="Ctrl+Alt+Del" xmlUrl="http://www.cad-comic.com/rss/rss.xml" htmlUrl="http://www.cad-comic.com/"/>
+			<outline type="rss" text="Penny Arcade" xmlUrl="http://www.penny-arcade.com/rss.xml" htmlUrl="http://www.penny-arcade.com/"/>
+			<outline type="rss" text="User Friendly" xmlUrl="http://www.userfriendly.org/rss/uf.rss" htmlUrl="http://www.userfriendly.org/"/>
+			<outline type="rss" text="German Bash" xmlUrl="http://german-bash.org/latest-quotes.xml" htmlUrl="http://german-bash.org/"/>
+			<outline type="rss" text="Half-Life Portal" xmlUrl="http://www.hlportal.de/?site=news&amp;do=shownewsfeed&amp;feed=ATOM0.3" htmlUrl="http://www.hlportal.de/"/>
+			<outline type="rss" text="Streetgirl" xmlUrl="http://streetgirl.twoday.net/index.rdf" htmlUrl="http://streetgirl.twoday.net/"/>
+			<outline type="rss" text="Phonebitch" xmlUrl="http://phonebitch.blogspot.com/feeds/posts/default" htmlUrl="http://phonebitch.blogspot.com/"/>
+			<outline type="rss" text="Shopblogger" xmlUrl="http://www.shopblogger.de/blog/feeds/atom10.xml" htmlUrl="http://www.shopblogger.de/blog/"/>
+			<outline type="rss" text="Taxi-Blog" xmlUrl="http://www.taxi-blog.de/wordpress/feed/" htmlUrl="http://www.taxi-blog.de/wordpress/"/>
+			<outline type="rss" text="Erotikchat" xmlUrl="http://www.besorg.es/feed/" htmlUrl="http://www.besorg.es/"/>
+			<outline type="rss" text="Pizzalieferdienst" xmlUrl="http://pizza.blogg.de/rss.xml" htmlUrl="http://pizza.blogg.de/"/>
+			<outline type="rss" text="Buchhändleralltag" xmlUrl="http://aci.blogg.de/rss.xml" htmlUrl="http://aci.blogg.de/"/>
+			<outline type="rss" text="The Genital Arts" xmlUrl="http://citarre.blogspot.com/atom.xml" htmlUrl="http://citarre.blogspot.com/"/>
+		</outline>
+	</body>
+</opml>

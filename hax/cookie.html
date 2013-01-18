@@ -1,0 +1,30 @@
+<html><head><title>Info Getter</title>
+<script>
+function getInfo(o) {
+	document.write("Getting info...<br/>\n");
+	document.write("<dl>\n");
+	if (o.name)
+		document.write("<dt><strong>Name:</strong></dt><dd>"+o.name+"</dd>\n");
+	document.write("<dt><strong>Location:</strong></dt><dd>"+o.location+"</dd>\n");
+	if (o.document.cookie)
+		document.write("<dt>Cookie:</dt><dd>"+o.document.cookie+"</dd>\n");
+	document.write("</dl>\n");
+	return (true);
+}
+
+function start() {
+	if (top.frames.length > 0) {
+		document.write("Getting information from all frames.<br/>\n");
+		for (var i = 0; i < top.frames.length; i++) {
+			getInfo(top.frames[i]);
+		}
+	} else {
+		document.write("Getting information for this window.<br/>\n");
+		getInfo(window);
+	}
+	return (true);
+}
+</script>
+</head><body>
+<input type="button" name="go" onClick="start();" value="Click me!"/>
+</body></html>

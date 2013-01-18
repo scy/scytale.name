@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='scytale-presentation-1.0.xsl'?>
+
+<pres xmlns='http://scytale.de/ns/presentation/1.0'>
+<meta>
+	<title>TOFU-Grillen für Anfänger</title>
+	<subtitle>Wie man angenehm lesbare Nachrichten schreibt</subtitle>
+	<author>
+		<name>Tim Weber</name>
+		<nick>Scytale</nick>
+		<mail>scy-talk-tofu@scytale.de</mail>
+		<org>
+			<name>scytale.de</name>
+			<url>http://scytale.de/</url>
+		</org>
+	</author>
+	<date>2006-06-23</date>
+</meta>
+<main>
+	<part title='Die deutsche Sprache' id='deutsch'>
+		<slide title='Absolute Grundlagen' id='grundlagen'>
+			<ul>
+				<li>Verwendung von Groß- und Kleinschreibung</li>
+				<li>Zeichensetzung (Punkt, Komma, Fragezeichen)</li>
+				<li>mit Absätzen gliedern</li>
+				<li>bei Problemen: Rechtschreibprüfung, Wörterbuch</li>
+			</ul>
+			<cf><wp lang='de' art='DIN 5008'/> (eher für Briefe)</cf>
+		</slide>
+		<slide title='Leerzeichen' id='leerzeichen'>
+			<ul>
+				<li>im Allgemeinen vor Satzzeichen <em>keine</em> Leerzeichen (sonst Probleme bei Umbruch)</li>
+				<li>Ausnahme: öffnende Klammern, Gedankenstrich, Ergänzungsbindestrich</li>
+				<li>Faustregel: wenn der Umbruch stimmt, ist's meistens richtig</li>
+			</ul>
+			<cf><wp lang='de' art='Plenk'/>, <wp lang='de' art='Webtypographie'/>, <l url='http://www.duden.de/service/download/textverarbeitung_duden1.pdf'>Duden-Regeln Textverarbeitung</l></cf>
+		</slide>
+	</part>
+	<part title='Exkurs Netiquette' id='netiquette'>
+		<slide title='Was man tut' id='dos'>
+			<p>Du sollst...:</p>
+			<ul>
+				<li>Deutsch sprechen</li>
+				<li>deine Mails vor dem Absenden nochmal durchlesen</li>
+				<li>bei Aufreger-Themen eine Nacht drüber schlafen</li>
+				<li>Ironie, Sarkasmus, Scherzhaftes etc. explizit kennzeichnen (Smileys, Tags), besonders bei Posts in Fremdsprachen</li>
+			</ul>
+		</slide>
+		<slide title='Was man nicht tut' id='donts'>
+			<p>Du sollst <strong>nicht</strong>...:</p>
+			<ul>
+				<li>vergessen, dass am anderen Ende ein <em>Mensch</em> sitzt</li>
+				<li>ohne zu fragen persönliche Mails weiterleiten oder veröffentlichen</li>
+				<li>über Standards hinwegsehen (Threading, Subjects, Quoting, ...)</li>
+				<li>ignorieren, dass nicht jeder deinen Mailclient benutzt; manche sogar nur Textmodus-Clients</li>
+			</ul>
+			<cf><wp lang='de' art='Netiquette'/></cf>
+		</slide>
+	</part>
+	<part title='Konfigurations-Dogmen' id='konfdogmen'>
+		<slide title='für überall' id='dogmenueberall'>
+			<ul>
+				<li>Absendername (Spamfilter)</li>
+				<li>Zeilenlänge 72-76 (Textclients)</li>
+				<li>keine Lesebestätigungen anfordern</li>
+				<li>englische Subject-Präfixe ("Re" statt "Aw")</li>
+				<li>keine übertriebenen Signaturen oder Quote-Header</li>
+				<li>Zitieren mit "&gt; ", Signatur nach "-- "</li>
+			</ul>
+		</slide>
+		<slide title='auf Mailinglisten' id='dogmenliste'>
+			<ul>
+				<li>keine HTML-Mails ("nur-Text")</li>
+				<li>evtl. Realname</li>
+				<li>Software mit Thread-Unterstützung benutzen</li>
+				<li>keine Visitenkarten-Anhänge</li>
+			</ul>
+		</slide>
+	</part>
+	<part title='Verhaltensregeln' id='verhalten'>
+		<slide title='Betreffzeilen' id='betreff'>
+			<ul>
+				<li>keine Umlaute: ?ISO-8859-15?Q?Bl=F6der?= Betreff</li>
+				<li>aussagekräftig:
+					<ul>
+						<li>schlecht: Hilfe! Video geht nicht richtig auf meinem Laptop!</li>
+						<li>klug: XFree86 4.1 verzerrter Mouse Cursor, Fooware MV1005 vid. Chipsatz</li>
+						<li>besser: XFree86 4.1 Mouse Cursor auf Fooware MV1005 vid. Chipsatz - ist verzerrt</li>
+					</ul>
+				</li>
+				<li>Betreffzeilen sind unverschlüsselt...</li>
+			</ul>
+			<cf><l url='http://www.lugbz.org/documents/smart-questions_de.html'>Wie man Fragen richtig stellt</l></cf>
+		</slide>
+		<slide title='Betreffzeilen aufräumen' id='aufraeumen'>
+			<ul>
+				<li>Mehrere "Re"s zu einem zusammensetzen:
+					<ol>
+						<li><samp>Re: AW: [Blaliste] Re[3]: Chasey Lain</samp> wird zu</li>
+						<li><samp>Re: Chasey Lain [Blaliste]</samp></li>
+					</ol>
+				</li>
+				<li>Bei Themawechsel Betreff mit "was" anpassen:
+					<ol>
+						<li><samp>Re: Fwd: geiles Funvideo</samp> wird zu</li>
+						<li><samp>Videoformate (was: geiles Funvideo)</samp> wird zu</li>
+						<li><samp>Re: Videoformate</samp></li>
+					</ol>
+				</li>
+			</ul>
+		</slide>
+		<slide title='Zitateinleitung' id='zitateinleitung'>
+			<ul>
+				<li><em>eine</em> Zeile, höchstens zwei, keine Schmuckzeilen (Striche, ASCII-Art), aufwändige Witze werden langweilig <msg>5668</msg></li>
+				<li>sinnvolle Angaben: Autor, Datum</li>
+				<li>unsinnige Angaben: Message-ID (steht im Header), Empfänger (außer in Ausnahmen), Subject (steht im Subject, doh!)</li>
+				<li>die Einleitung ist von dir, bekommt also <em>keine</em> Zitatklammern</li>
+			</ul>
+		</slide>
+		<slide title='Zitatmenge und -position' id='zitatmenge'>
+			<ul>
+				<li>Zitat <em>vor</em> der Antwort, kein Jeopardy <msg>5907</msg></li>
+				<li>auf Relevantes kürzen (bitte!), evtl. mit eigenen Worten zusammenfassen <msg>5896</msg></li>
+				<li>Löschungen mitten im Satz mit <samp>[...]</samp> in eigener Zeile oder ausdrücklichem Hinweis</li>
+				<li>bei mehreren Bezugspunkten Zitat aufsplitten und dazwischen antworten <msg>5893</msg></li>
+				<li>beim Aufsplitten bitte Split nach Satz oder Nebensatz <msg>5622</msg></li>
+			</ul>
+		</slide>
+		<slide title='noch mehr zu Zitaten' id='zitate'>
+			<ul>
+				<li>keine Grußformeln oder Signaturen zitieren <msg>5530</msg></li>
+				<li>mehrstufige Zitate als "&gt; &gt; " usw.</li>
+				<li>bei großer Zitattiefe überlegen, ob man nicht Zitate streichen kann</li>
+				<li>bei "Überlauf" der Zeile durch Zitatzeichen "Kammquotes" reparieren <msg>5451</msg></li>
+			</ul>
+		</slide>
+		<slide title='auf Mailinglisten' id='aufmailinglisten'>
+			<ul>
+				<li>keine Anhänge (sind über ein Drittel größer, enorme Bandbreitenverschwendung)</li>
+				<li>kein <samp>Reply-To</samp>, wenn du nicht sicher bist, was du tust</li>
+				<li>Antworten nicht an den Autor <em>und</em> die Liste</li>
+			</ul>
+		</slide>
+	</part>
+	<part title='Technisches' id='technisches'>
+		<slide title='Aufbau einer Mail' id='aufbau'>
+<codeblock>From: Tim Weber &lt;devnull@scytale.de&gt;
+To: Angelina Jolie &lt;friends@angelinajolie.com&gt;
+Subject: Our date yesterday
+Date: Tue, 6 Jun 2006 22:39:00 +0200
+
+Hey sweetheart, it was great!
+
+Love, Tim.</codeblock>
+			<p>Also: Headerzeilen, eine Leerzeile, Text.</p>
+		</slide>
+		<slide title='Threads intern' id='threadsintern'>
+			<ul>
+				<li>Jede Message eindeutig identifiziert über <samp>Message-ID</samp>-Header</li>
+				<li>Beim Antworten auf eine Nachricht wird <samp>In-Reply-To</samp>-Header mit ID der Ursprungsnachricht vom Mailclient eingefügt</li>
+				<li>Außerdem (bei guten Clients) <samp>References</samp>-Header mit <em>allen</em> IDs aus dem Thread</li>
+			</ul>
+		</slide>
+		<slide title='Mails im falschen Thread' id='falscherthread'>
+			<ul>
+				<li>Klickst du bei einer Mailingliste (oder auch bei privaten Mails!) einfach auf "Antworten", obwohl du ein komplett neues Thema starten willst (damit du die Empfängeradresse nicht abtippen musst), setzt dein Client natürlich einen <samp>In-Reply-To</samp>- bzw. <samp>References</samp>-Header!</li>
+				<li>Effekt: Die Mail erscheint im völlig falschen Thread, vielleicht für den Empfänger gar nicht sichtbar</li>
+			</ul>
+		</slide>
+		<slide title='Mails ohne Thread' id='keinthread'>
+			<ul>
+				<li>Schlechte Clients erstellen Mails ohne Referenzheader (Exchange, Blackberry)</li>
+				<li>Effekt: Mails "brechen" den Thread und müssen von jedem mühsam wieder eingeordnet werden, <em>wenn überhaupt möglich</em></li>
+			</ul>
+		</slide>
+	</part>
+</main>
+</pres>

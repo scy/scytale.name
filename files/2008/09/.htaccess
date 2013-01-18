@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Photos from T.
+RewriteRule ^shoot(/.*)?$ - [G]

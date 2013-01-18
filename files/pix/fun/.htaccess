@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Too large and not funny.
+RewriteRule ^tf2-rl-pyro\.png$ - [G]

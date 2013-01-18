@@ -1,0 +1,41 @@
+ PROJEKT "BUNDESREPUBLIK CHINA"
+================================
+
+ ZIEL
+======
+
+Übersicht über aktuelle und geplante Netzzensur- und -filtermechanismen in Deutschland.
+Vergleich und Empfehlung von ISPs unter Zensurgesichtspunkten.
+Musterbriefe zur Positionsanfrage und zur Kündigung.
+Information über Möglichkeiten der politischen Mitwirkung.
+Auflistung von Möglichkeiten, Zensur zu umgehen.
+
+
+ ANFORDERUNGEN
+===============
+
+Angesichts der aufgeheizten Diskussion momentan ist mit entsprechendem Ansturm 
+zu rechnen. Die Seite sollte auf mehreren unabhängigen Servern abrufbar sein, 
+um den Ausfall eines einzelnen zu verkraften.
+
+In einer ersten Ausbaustufe ist eine statische Website ausreichend, Reaktionen 
+und Änderungsvorschläge werden per Mail entgegengenommen. Später kann über 
+eine interaktive Seite mit Community-Inhalt nachgedacht werden.
+
+
+ TECHNIK
+=========
+
+Erreichbar unter (www.)bundesrepublik-china.de. Die Registrierung weiterer 
+Domains mag zwar gut gemeint sein, führt aber nur zu Linkzerstreuung und ist 
+daher nicht erwünscht.
+
+Domainbesitzer ist Tim Weber. Gehostet bei Hetzner.
+
+TTL für DNS-Einträge liegt bei 30 Minuten, so kann auf ausgefallene oder 
+überlastete Server schnell reagiert werden.
+
+Alle verwendeten Server werden als Round Robin ins DNS eingetragen und müssen 
+auf den VHost bundesrepublik-china.de hören. Der beste verfügbare Server hört 
+zusätzlich auf www.bundesrepublik-china.de und leitet per Response Code auf 
+bundesrepublik-china.de weiter.

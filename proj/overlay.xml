@@ -1,0 +1,12 @@
+<?xml version='1.0' ?>
+<layman>
+	<overlay
+		status='unofficial'
+		type='git'
+		src='git://github.com/scy/overlay.git'
+		contact='scy-gentoo@scytale.name'
+		name='scy'>
+		<link>http://scytale.name/proj/overlay/</link>
+		<description>Scytale's Personal Overlay</description>
+	</overlay>
+</layman>

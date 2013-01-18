@@ -1,0 +1,44 @@
+scyTrack Protocol:
+
+UDP packet to any port (default: 4711)
+
+1-3:
+	0x73 0x54 0x61; ASCII string "sTa" (scyTrack, protocol version a).
+
+4-5:
+	16-bit unsigned int: user ID on server
+
+6-9:
+	32-bit float: latitude
+
+10-13:
+	32-bit float: longitude
+
+14-29:
+	128-bit unsigned int: MD5 checksum and password hash (see below)
+
+30-33:
+	32-bit float: speed
+
+34-35:
+	16-bit unsigned int: direction
+
+36-39:
+	32-bit signed int: unix timestamp
+
+All fields after the MD5 are optional. Speed and direction will default to
+"unknown" (can be interpolated by the reading software), "timestamp" to server
+time. These optional values need not be sent if you don't want to specify them,
+just end your packet after byte 29, 33 or 35 if you want to. However, you cannot
+leave out fields and provide others if their position is later, but you can set
+them to a negative value to mean "unknown". For example, if you want to leave
+out "speed", but specify "direction", set speed to a negative value.
+
+To calculate the MD5 sum, take _all_ the fields you are about to sent, except of
+course the checksum field, but including "unknown" optional fields in the right
+order and append the password as not-terminated UTF8 string. Then hash it.
+
+For example, if you're gonna send the optional "direction" (and are therefore
+forced to set "speed" to a negative value and send it as well), but don't want
+to send a timestamp, you would run MD5 over the following things:
+  protocol identifier, uid, lat, lon, speed, direction, password
