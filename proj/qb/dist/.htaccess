@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^qb-0\.1\.tar\.gz$ https://github.com/scy/qb/archive/v0.2.2.tar.gz [R=permanent]
+RewriteRule ^qb-0\.2\.2\.tar\.gz$ https://github.com/scy/qb/archive/v0.2.2.tar.gz [R=permanent]
+RewriteRule ^qb-current.tar\.gz$ http://scytale.name/proj/qb/dist/qb-0.2.2.tar.gz [R=temp]
