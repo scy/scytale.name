@@ -1,0 +1,22 @@
+<:iPhone schickt IMEI nach Hause><tags:German Apple iPhone IMEI "nach Hause" Datenschutz Tracking><via:<<http://blog.fefe.de/?ts=b9bf43b7 Fefe's Blog>>>
+<p>
+	Wer über sein supergeiles <<http://ars.userfriendly.org/cartoons/?id=20071108 iPhone>> das Wetter oder die Börsenkurse abfragt, schickt auch gleich seine <wde:International_Mobile_Equipment_Identity IMEI> zu Apple.
+	Ich bin mir sicher, dass sich das für ein paar tolle "location-based services" nutzen lässt.
+	Mehr siehe <<http://www.hackint0sh.org/forum/showthread.php?t=16125 Thread bei Hackintosh>>.
+</p>
+<p>
+	<strong>Update:</strong>
+	Okay, <<http://www.heise.de/security/news/meldung/99220/ in dem Parameter steht nicht die IMEI>>, sondern ein <wde:Globally_Unique_Identifier GUID>.
+	Was da allerdings drin reinverschlüsselt wurde, kann ich nicht nachvollziehen, da ich glücklicherweise kein iPhone habe, und schon gar nicht zwei.
+	Es gibt Leute, die behaupten, es wäre halt einfach die selbe Nummer auf jedem Gerät, wenn man die selbe Softwareversion verwendet.
+	Es gibt aber auch <<http://docpool.org/iphone/How%20it%20works.de.html Fanbois>>, die sagen, <<http://docpool.org/iphone/The%20day%20after.en.html es steht sehr wohl ne eindeutige Geräte-ID drin>>.
+</p>
+<p>
+	Was auch immer drinsteht, eigentlich ist es irrelevant.
+	Denn die Leute, die ein iPhone besitzen, denen wird es sowieso egal sein.
+	Von daher sage ich, wenn's euch juckt, macht euch selbst ein Bild davon, Links habt ihr ja jetzt genug, und das hier ist sicher kein Apfelblog.
+	Das Fazit aus dem ursprünglichen Post bleibt bestehen:
+</p>
+<p>
+	Gruß an alle, die denken, Apple wäre irgendwie ansatzweise erträglicher als Microsoft.
+</p>

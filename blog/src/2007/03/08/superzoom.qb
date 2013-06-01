@@ -1,0 +1,9 @@
+<:Google Maps Superzoom><tags:Google Maps zoom hack golem link><via:Boris>
+<p>
+	Und ich hab ungelogen noch vor drei Tagen aufm Heimweg drüber nachgedacht, ob man bei <<http://maps.google.de/ Google Maps>> <var>z</var> auf nen Wert größer als 19 setzen kann.
+	Aber dann dachte ich mir, <thought>hey, das ist Google, die werden das abfangen</thought>.
+	Pustekuchen, <<http://www.golem.de/0703/50940.html sie tun's nicht>>.
+</p>
+<p>
+	Ach ja, noch ein Schmankerl: <<http://maps.google.com/maps?f=q&amp;hl=en&q=38%C2%B013%2736.38%22N,+112%C2%B017%2756.59%22W&layer=&ie=UTF8&z=18&ll=38.22631,-112.298598&spn=0.002019,0.005332&t=k&amp;om=1&iwloc=addr INCOMING!>>
+</p>

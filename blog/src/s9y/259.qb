@@ -1,0 +1,24 @@
+<:Getting around Gentoo's current PHP problems><tags:Gentoo Computer>
+<p>
+<em>Dieser Artikel ist in Englisch, um möglichst viele Suchende zu erreichen.</em>
+</p>
+<p>
+Currently, there are some problems if you want to use bleeding-edge <a href='http://www.php.net/'>PHP5</a> and <a href='http://www.mysql.com/'>MySQL</a> on a box running <a href='http://www.gentoo.org/'>Gentoo Linux</a>. I will describe what these problems are, why they are there and how to fix them.
+</p>
+<p>
+Problem number one is the unmasking of PHP5. It is currently marked as "unstable" by the Gentoo developers. If you want to use it, you have to tell Portage that it should use the unstable version. Do this by adding the two lines <tt>dev-php/php</tt> and <tt>dev-php/mod_php</tt> to the file <tt>/etc/portage/package.keywords</tt>. If the file does not exist, create it. But sadly this alone won't help, because currently all PHP5 packages are hard-masked (see <tt>/usr/portage/profiles/package.mask</tt> and search for <tt>php</tt>). To unmask them, you would add something like <tt>&gt;=dev-php/php-5.0.0</tt> to <tt>/etc/portage/package.unmask</tt>. But this would also unmask the currently available <tt>php-5.1.0_beta</tt> packages, which you maybe do not want to use yet (I don't). So, in order to be able to use PHP 5.0.*, add the following lines to <tt>/etc/portage/package.unmask</tt>: <tt>&lt;dev-php/php-5.0.99</tt> and <tt>&lt;dev-php/mod_php-5.0.99</tt>.
+</p>
+<p>
+Problem number two are, if you're using the <a href='http://httpd.apache.org/'>Apache Web Server</a>, the Apache worker modules. Only mpm_prefork is currently compatible with PHP5, so you <em>must</em> disable all others, or strange stuff will happen. In order to do this, add <tt>net-www/apache -mpm-leader -mpm-peruser mpm-prefork -mpm-threadpool -mpm-worker</tt> to <tt>/etc/portage/package.use</tt>.
+</p>
+<p>
+Third and last problem is MySQL 4.1, if you want to use it. Gentoo's PHP5 packages depend on MySQL 4.0 and will downgrade it, if you don't do anything against it. Since I definitely need MySQL 4.1's subqueries, here's what I did. First, if you have not already done this, create a local Portage overlay tree by issuing <tt>mkdir /usr/local/portage</tt> and adding the line <tt>PORTDIR_OVERLAY="/usr/local/portage"</tt> to your <tt>/etc/make.conf</tt>. Portage wants to downgrade MySQL, because the PHP5 eclass, which every PHP5 package uses, says it wants MySQL 4.0*. The devs won't fix this at the moment, because it will break stuff for people having <tt>mysqli</tt> in their USE flags but not having MySQL in their <tt>package.unmask</tt>, see <a href='http://bugs.gentoo.org/show_bug.cgi?id=53886'>Bug #53886</a>. So, let's fix it ourselves because we know what we do (at least, I hope so). But be warned, MySQLi is said to be segfaulting quite often.</p>
+<p>
+First, add <tt>dev-db/mysql</tt> to <tt>package.keywords</tt> and <tt>package.unmask</tt>. Then create a directory <tt>/usr/local/portage/eclass</tt> and copy <tt>/usr/portage/eclass/php5-sapi-r2.eclass</tt> over to it. Edit <tt>/usr/local/portage/eclass/php5-sapi-r2.eclass</tt>. Find the line saying <tt>mysql? ( =dev-db/mysql-4.0* )</tt> and change it to <tt>mysql? ( =dev-db/mysql-4* )</tt>. Second, find the line saying <tt>if useq mysqli ; then</tt> and comment it and the following lines up to (including) the line <tt>fi</tt> out (by adding a <tt>#</tt> character at the beginning of each line).
+</p>
+<p>
+You should now be able to use PHP 5.0.* and MySQL 4.1.*, and, if you USE <tt>mysqli</tt>, this as well. If not, drop me a line.
+</p>
+<p>
+<strong>Update:</strong> Another idea, if you still have problems: Try deleting the whole <tt>/var/cache/edb</tt> directory. Thanks to <a href='http://forums.gentoo.org/viewtopic-t-345015.html'>Thread #345015</a> for pointing this out.
+</p>

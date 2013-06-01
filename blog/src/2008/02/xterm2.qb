@@ -1,0 +1,29 @@
+<:urxvt, Vim und ttymouse=xterm2><tags:German urxvt rxvt-unicode Vim mouse xterm2 Update>
+<p>
+	Was hab ich mich gestern geärgert... rausgefunden dass man tatsächlich auch mit einem Vim auf der Konsole die Maus benutzen kann, und sogar nicht nur zum simplen Klicken (wie ich es schon von nano gewöhnt war), sondern auch zum Markieren, und Firlefanz wie das Mausrad geht auch.
+	Die magische Einstellung dazu lautet <kbd>:set ttymouse=xterm2</kbd> und benutzt dann eben einen erweiterten Mausmodus, den xterm mal eingeführt hat.
+</p>
+<p>
+	Das Problem dabei:
+	Nach einigem Rumprobieren war ich der Ansicht, dass das über <wde:GNU_Screen screen> nicht funktioniert, zumindest wollte es mit meinem Vim auf meinem Server nicht.
+	Die Einstellung <var>xterm</var> (also ohne die 2) ging hingegen einwandfrei, aber da funktioniert das Markieren nicht so dolle.
+	Doch oh Schreck:
+	Es ging nicht mal auf einem lokalen Vim!
+</p>
+<p>
+	Nach einigem weiteren Rumprobieren war ich dann so verzweifelt, dass ich in #vim nachfragen musste, ob denn irgendjemand mit urxvt (<del>meinem</del> dem Terminalemulator, den ich benutze) das <em>xterm2</em>-Protokoll am Laufen hat, oder ob urxvt das überhaupt nicht unterstützt.
+	Und ich bekam die Antwort, die ich nicht hören wollte:
+	urxvt kann das nicht.
+</p>
+<p>
+	Also rumgeärgert und überlegt wieder auf xterm umzusteigen.
+	Aber vorher wollte ich dann doch noch schauen, ob es einen FAQ-Eintrag auf der Website von urxvt zu dem Thema gibt.
+	Gab es nicht, aber diverse neue Versionen... und ein Blick ins Changelog offenbarte mir, dass seit Version 8.4 <q>xterm 1002/1003 mouse tracking modes</q> unterstützt werden.
+	Meine installierte Version war 8.3.
+</p>
+<p>
+	Updaten, ausprobieren, glücklich sein...!
+	Und ja, es funktioniert auch unter screen.
+	Und remote.
+	Töhöhöhö.
+</p>

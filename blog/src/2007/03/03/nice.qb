@@ -1,0 +1,11 @@
+<:Nix mehr nice><tags:nice Gentoo usr bin cron etc weekly makewhatis update>
+<p>
+	Auf den ersten Blick bekommt man ja schon nen Schreck, wenn <wde:cron> einem sowas schickt:
+</p>
+<shell>
+/etc/cron.weekly/makewhatis: line 6: /bin/nice: No such file or directory
+</shell>
+<p>
+	Was war passiert?
+	Nun, beim letzten Update wurde <path>/bin/nice</path> nach <path>/usr/bin/nice</path> verschoben, mehr nicht.
+</p>

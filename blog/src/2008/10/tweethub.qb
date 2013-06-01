@@ -1,0 +1,15 @@
+<:Announcing TweetHub><tags:English software TweetHub announcement PHP GitHub Twitter tool gateway middleware>
+<p>
+	If you're admin of a <<http://github.com/ GitHub>> project and would like to have your commits pushed to Twitter, you were limited to feeding them via <<http://twitterfeed.com/ TwitterFeed>>, which means a delay of several minutes.
+</p>
+<p>
+	Since I'm a big fan of push technologies (as opposed to pulling like in RSS), I had to try out the <<http://github.com/guides/post-receive-hooks web hooks>> provided by GitHub.
+	They work pretty nice, and I've created a small tool that can be installed on your web server to listen for incoming commit messages and notify a Twitter account about it.
+	You can handle multiple projects and Twitter accounts with a single installation.
+	Setup shouldn't take more than 5 minutes.
+</p>
+<p>
+	The project is called <<https://scytale.name/proj/tweethub/ TweetHub>>, written in PHP and hosted on GitHub.
+	Patches and enhancements are welcome.
+	You can see TweetHub in action at the <<http://twitter.com/Tw33tHub Tw33tHub Twitter account>>.
+</p>

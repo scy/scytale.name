@@ -1,0 +1,14 @@
+<:glibc-Binaries mit einer Gentoo-Slug><tags:Gentoo Computer>
+<p>
+Vorhin hatte ich Probleme damit, <a href="http://www.twonkyvision.de/UPnP/index.html" target="_blank">TwonkyVision</a> (bzw. genauer TwonkyMedia) auf meiner <a href="http://scytale.de/blog/archives/360-Gentoo-auf-einer-NSLU2-Slug.html" target="_blank">Gentoo-Slug</a> zum Laufen zu bringen. TwonkyMedia gibt's nur als vorkompilierte Binaries (allerdings für haufenweise Architekturen), da es sich nicht um freie Software handelt. Die Version für die Slug ist passend für die eigentliche Zieldistribution <a href="http://www.nslu2-linux.org/wiki/Unslung/HomePage" target="_blank">Unslung</a> auf die <a href="http://www.gnu.org/software/libc/libc.html" target="_blank">glibc</a> kompiliert, Gentoo benutzt allerdings die <a href="http://www.uclibc.org/" target="_blank">uClibc</a>. Effekt: Die Shell wirft ein unschönes <samp>no such file or directory</samp> aus, weil diverse Libs nicht gefunden werden. Dieses Problem lässt sich aber (wenn man erst mal weiß wie) relativ leicht beseitigen, weil ja unter <var>/mnt</var> noch das <a href="http://nslu2-linux.org/wiki/OpenSlug/HomePage" target="_blank">OpenSlug</a>-Image liegt.
+</p>
+<pre><code># cd /lib
+# ln -s /mnt/lib/ glibc
+# LD_LIBRARY_PATH='/lib/glibc:/lib' ./twonkymedia -D
+</code></pre>
+<p>
+Interessante Kommandos bei solchen Problemen sind übrigens <var>ldd</var> und <var>readelf</var>.
+</p>
+<p>
+Und da wir gerade beim Thema sind: Hat jemand ein paar Kaufempfehlungen für <a href="http://de.wikipedia.org/wiki/Universal_Plug_and_Play" target="_blank">UPnP</a>-basierte WLAN-Medienplayer (auch Fotos und Videos, nicht nur Musik)? Momentan liegt mir der DSM-320 von <a href="http://www.d-link.de/" target="_blank">D-Link</a> in der Nase...
+</p>

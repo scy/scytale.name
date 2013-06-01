@@ -1,0 +1,9 @@
+<:newsbeuter 0.5><tags:English Gentoo ebuild newsbeuter>
+<p>
+	Yesterday, in the train back from <wen:Vienna> (where I've been on vacation for about a week), I witnessed the release of the new <<http://synflood.at/newsbeuter.html newsbeuter>> version.
+	For those of you who don't know it:
+	newsbeuter is a nice <wen:text-based> <wen:Atom_(standard) Atom> and <wen:RSS> reader that's worth trying if you're a user of <wen:Mutt_(e-mail_client) Mutt> and <wen:Irssi>.
+</p>
+<p>
+	I've created a <<http://bugs.gentoo.org/show_bug.cgi?id=187587 newsbeuter 0.5 ebuild>> for <wen:Gentoo_Linux Gentoo>, it should soon be included in the official <wen:Portage_(software) Portage tree>.
+</p>

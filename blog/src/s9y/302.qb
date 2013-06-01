@@ -1,0 +1,29 @@
+<:Keine Wartezeit bei Amazon><tags:PHP Computer>
+<p>
+Du willst bei einem Händler Preisnachlass bekommen, indem du ihm den Preis bei <a href="http://www.amazon.de/">Amazon</a> vorlegst? Bei manchen Händlern zieht das tatsächlich. Dumm wird's nur dann, wenn Amazon z.B. eine Lieferzeit von 4-6 Wochen für den gewünschten Artikel angibt. Da wird dich der Händler nämlich nur fies angrinsen. Was du also tun musst: Die Verfügbarkeit manipulieren.
+</p>
+<p>
+Einfach die Amazon-Seite lokal speichern und dann ändern ist erstens wegen der eingebundenen Bilder etc. nicht so einfach und produziert zweitens einen verdächtigen URL von wegen "<tt>file://</tt>" auf dem Ausdruck. Für genau solche Fälle habe ich <a href="http://scytale.de/files/code/amazon/index.phps">ein kleines PHP-Script</a> geschrieben. Um es benutzen zu können, brauchst du i.A. zwei Computer.
+</p>
+<p>
+Der erste Computer ist der Webserver. Leg das Script irgendwo im Webroot in ein Unterverzeichnis, nenne es index.php und wirf folgendes in die <a href='http://httpd.apache.org/'>Apache</a>-Config (Pfade anpassen):
+</p>
+<pre><tt>&lt;VirtualHost *:80&gt;
+        DocumentRoot /var/www/htdocs/amazon
+        ServerName www.amazon.de
+        Alias / /var/www/htdocs/amazon/index.php/
+        php_admin_flag "safe_mode" "off"
+&lt;/VirtualHost&gt;</tt></pre>
+<p>
+Damit das funktioniert, musst du deinen Apache natürlich für virtuelle Hosts konfiguriert haben.
+</p>
+<p>
+Jetzt änderst du noch auf dem zweiten Computer, dem Client, die <tt>/etc/hosts</tt> (bzw. unter minderwertigen Betriebssystemen die <tt>c:\windows\hosts</tt>, indem du folgende Zeile hinzufügst:
+</p>
+<pre><tt>123.123.123.123 www.amazon.de amazon.de</tt></pre>
+<p>
+Die IP <tt>123.123.123.123</tt> musst du natürlich durch die deines Webservers ersetzen. Und das war's auch schon. Alle Anfragen an <tt>www.amazon.de</tt> werden über das PHP-Script gejagt und jedes Vorkommen von "Versandfertig in ..." wird in "Versandfertig in 24 Stunden" geändert.
+</p>
+<p>
+Warum man (normalerweise) zwei Rechner für diesen Spaß braucht, sei dem Leser als Übung überlassen.
+</p>

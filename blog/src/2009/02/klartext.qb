@@ -1,0 +1,15 @@
+<:Klartext><tags:German Postfix Dokumentation Klartext root Konfiguration>
+<p>
+Aus der <<http://www.postfix.org/BASIC_CONFIGURATION_README.html#syntax Postfix-Dokumentation>>:
+</p>
+<blockquote>
+<p>
+By default, Postfix configuration files are in /etc/postfix.
+The two most important files are main.cf and master.cf; these files must be owned by root.
+Giving someone else write permission to main.cf or master.cf (or to their parent directories) means giving root privileges to that person.
+</p>
+</blockquote>
+<p>
+Das nenne ich mal Klartext.
+Feine Sache.
+</p>

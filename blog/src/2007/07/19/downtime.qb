@@ -1,0 +1,12 @@
+<:Unscheduled Downtime><tags:English blog meta down qb Gentoo CGI mod_fgcid>
+<p>
+	My blog has been down for about 48 hours, and I didn't even notice it until I read <<http://blog.galdo.de/2007/07/down Galdo's post>> about it, where he suspects a new <<http://scytale.de/proj/qb/ qb>> version to be released.
+	I'm sorry to say that there's no new qb yet, the reason was that the last server upgrade on Tuesday broke PHP (libcurl was updated and PHP couldn't find the .so anymore).
+</p>
+<p>
+	So, what about a new qb?
+	I'm currently working on several internal restucturings, including changing my mail server to be another host and moving my web site to a new domain (although the old one will be valid for at least a year, maybe far longer).
+	Then I finally took the time to tidy up my flat a bit (although I need to continue today), because all the preparations for <<http://cms.chaostreff-mannheim.de/ Chaos macht Schule>> (German only, sorry) forced me to let everything just lie where I dropped it, thus creating really big time chaos.
+	I'll continue to work on qb this week, and I'll really try to release 0.3 this month.
+	No guarantee, though.
+</p>

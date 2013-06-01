@@ -1,0 +1,58 @@
+<:qb Plans><tags:English qb code blog future>
+<p>
+	Okay, you're curious about <</proj/qb/ qb>>'s future?
+	Well, here's the deal:
+</p>
+<p>
+	qb has always been <wen:itch-scratchware>.
+	It was developed because I needed a blog.
+	Fast and simple.
+	And I wanted to stay in control of my content.
+	That's why it works on plain text files, and that's why I didn't use some blog hosting service.
+</p>
+<p>
+	Right now there are three people I know of, including me, that are using qb.
+	I want that number to increase, because I think a simple, lightweight blog is a lot better than "big" systems like Serendipity or Wordpress.
+	In order to attract more users (and not lose current ones), qb needs more features.
+	Comments, trackbacks, tags and searches are the most important ones in my opinion.
+	There are some other things that could be implemented as well, like referrer tracking or e-mail interaction.
+	However, that's not feasible with the 0.2 codebase:
+	It's way too hackish, and I admit that even <em>I</em> am sometimes confused by the code.
+</p>
+<p>
+	That's why I've been trying to write 0.3 basically from scratch, with a modular design.
+	Everyone should be able to create or extend (in the object-oriented sense) modules they need.
+	But, <</blog/2007/10/24/qb-embed as I said yesterday>>, I think I've created the bits of 0.3 code that are already there too bloaty and complex.
+	I got the most headaches from thinking about a new configuration file structure.
+	You know, one of qb's design goals is that people can always use the latest Git revision and not be afraid that it breaks their blog, while the default config should work flawlessly on my very own website, because I don't want to copy and edit configuration files each time I implement a new feature.
+</p>
+<p>
+	That was when I remembered the talk about <em>Pragmatic PHP</em> by Rasmus Lerdorf.
+	Among other things, he said something like <q>Why do you develop complicated template engines and parsers for PHP, when PHP itself is the most simple tool to use for that task?</q>
+	And he's right.
+	I've made a design decision for future qb versions:
+	<em>There will be no configuration file anymore.</em>
+</p>
+<p>
+	Instead, qb will be converted into a set of library functions and objects that you can use to build your very own blog.
+	A framework, if you like buzzwords (and I don't).
+	Now don't be afraid:
+	This doesn't mean qb will be harder to configure.
+	The current configuration file already is PHP code, so it seems every current user is able to write it, at least when having some useful examples.
+	And there will be useful examples in the future as well.
+	In fact, the examples will, again, be the code that runs this website, plus some more showing other possibilities.
+</p>
+<p>
+	The "configuration" a user is going to write will consist of some lines of PHP code that weave qb's components together in a unique way for each site.
+	Your blog will not be "running", but be "based on" qb.
+	I believe that you'll get a lot more flexibility out of that, and I hope that users will dare to experiment and do their own small hacks on their website.
+</p>
+<p>
+	Okay, now where's the sense in all that if that new, cool version will never be released?
+	I think that focusing on coding <em>components</em> will speed up the process a lot.
+	Actually, I hope that some people will join in, send patches or whole new components as soon as a solid foundation has been created.
+	I'll start throwing around code fragments in the repository this week, write new ones and get that thing running as soon as possible, keeping you updated right here, as always.
+</p>
+<p>
+	Oh, and by the way, there will be no qb 0.3; in order to emphasize the restructuring, the next version will be called 0.5 instead.
+</p>

@@ -1,0 +1,8 @@
+<:Ha. Der Meister schreibt.><tags:Persönliches Mail Netzwelt Computer>
+<p>Ich hab' vorhin (e-)Post von <a href='http://www.uit.co.uk/exim-book/author-bio.htm'>Philip Hazel</a>, dem Autor von <a href='http://www.exim.org/'>Exim</a> (<a href='http://de.wikipedia.org/wiki/Exim'>Wikipedia-Eintrag</a>), bekommen. Es ging um nix besonderes, ich habe ihn (bzw. eigentlich die Mailingliste <em>exim-users</em>) nur auf einen Fehler in der Doku hingewiesen:</p>
+<p><em>On Wed, 2 Feb 2005, Tim Weber wrote:<br/>
+&gt; In <a href='http://exim.org/exim-html-4.40/doc/html/spec_9.html#SECT9.2'>section 9.2</a>, at the point where "wildlsearch" is explained, the text says:<br/>
+&gt;&gt; The string may begin with an asterisk to mean "begins with".<br/>
+&gt; Don't you mean "ends with"?<br/>
+Of course I do! Thanks.</em></p>
+<p>Interessant an der Mail (s.a. <a href='http://www.exim.org/mail-archives/exim-users/Week-of-Mon-20050214/msg00049.html'>im <em>exim-users</em>-Archiv</a>)ist, dass Herr Hazel weder einen X-Mailer- noch einen User-Agent-Header mitschickt. Anhand der Message-ID lässt sich aber sehen, dass er Pine benutzt.</p>

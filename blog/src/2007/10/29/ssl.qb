@@ -1,0 +1,6 @@
+<:/mode +s><tags:English meta SSL encryption certificate>
+<p>
+	<<http://blog.galdo.de/2007/10/secure Galdo's post>> and the expiration of my one-month test certificate reminds me that I should post a note about <em>scytale.name</em> now being available encrypted as well, for no additional cost (well, at least not for you).
+	Give it a try at <<https://scytale.name/ https://scytale.name/>> and <</contact/ tell me>> if you get certificate warnings.
+	I paid 30 Euros for that thing, I expect it to work better than a self-signed one. :)
+</p>

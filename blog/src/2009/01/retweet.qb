@@ -1,0 +1,25 @@
+<:Why the new Retweet Symbol is FAIL><tags:English Twitter retweet Unicode UTF-8 encoding "Mac bashing">
+<p>
+	<em>(If you don't use Twitter, you will not understand the lingo I'm using here. Simply ignore this post. Oh, look, a monkey!)</em>
+</p>
+<p>
+	When people retweet others, they're mostly prefixing their tweet with <cite>RT @someuser:</cite>.
+	When I woke up today, I noticed that the German Twitter Elite (represented by <<http://twitter.com/kosmar/status/1120660680 @kosmar>>) decided to break this tradition and use the symbol ♺ instead.
+	There's <<http://www.stoweboyd.com/message/2009/01/new-twitter-cod.html an article about it>>, saying that it's cool because it's one character less and gives new Twitter users <cite>instant context</cite> of what the symbol means.
+	Since it seems that I can't comment on this site (or maybe they blocked my comment because it contained <cite>dumb Mac user</cite>, I'm writing my reply here:
+</p>
+<p>
+	Too bad that this is actually one byte MORE than "RT", because it's a Unicode character, and its UTF-8 representation are the three bytes <tt>0xe299ba</tt>.
+	And, you know, even if Twitter says "140 characters", it's actually "140 bytes (butthewebinterfacecountscharacters, <s>andanglebracketscountas4bytes</s>)".
+	That being said, the character is not available in SMS, except when you use Unicode messages, but then each SMS has, iirc, 70 instead of 160 characters.
+	Plus, you mobile phone's font will most likely not have the character available at all, as will most of the PCs, so newbie Twitter users may see nothing at all or a strange character surrogate box.
+	That's not what I'd call <cite>instant context</cite>.
+</p>
+<p>
+	Consider this idea dead on arrival.
+	Its advantages are zero, except for maybe looking 1337.
+	(Or, if you want, like another dumb Mac user who doesn't care about compatibility and has no idea of the internal workings of a computer.)
+</p>
+<p>
+	<em>(Update: it seems as if angle brackets finally count as one byte, not four for <tt>&amp;gt;</tt>, so we could maybe just use that. It's even ASCII.)</em>
+</p>

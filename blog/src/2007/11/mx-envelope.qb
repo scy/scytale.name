@@ -1,0 +1,53 @@
+<:CNAME-Rewriting eines Envelope Recipient><tags:German CNAME E-Mail MX DNS>
+<p>
+	<em>English readers: You might want to head over to a <<http://www.gossamer-threads.com/lists/qmail/users/128068 qmail-users thread>> which explains why rewriting envelope addresses to a CNAME target is "okay". German readers: Achtung, Fachchinesisch.</em>
+</p>
+<p>
+	<wde:Domain_Name_System DNS>-<wde:CNAME_Resource_Record CNAMEs> sind eine schöne Sache:
+	Man kann damit ein Alias im DNS anlegen und muss komplexere Konfigurationen nicht immer wieder redundant neu erstellen.
+	(Ja, es gibt in <wde:BIND> sowas wie <em>$INCLUDE</em>, aber nicht jeder hat nen BIND.)
+	Bis heute hatte ich das für folgendes Szenario im Einsatz:
+</p>
+<p>
+	Ich betreibe mehrere <wde:Mailingliste Mailinglisten> und habe dafür einen <wde:GNU_Mailman Mailman> installiert.
+	Diese Listen laufen unter verschiedenen Domains, unter anderem <em>lists.c3ma.de</em> und <em>lists.spilledwine.com</em>.
+	Damit ich nicht sowohl einen <wde:A_Resource_Record A-Record> für das Webinterface als auch einen <wde:MX_Resource_Record MX> für den <wde:Simple_Mail_Transfer_Protocol SMTP>-Verkehr anlegen muss (die beiden IPs sind zwar gleich, <em>könnten</em> aber potenziell verschieden sein), sind die Listendomains als CNAME auf <em>lists.scytale.name</em> realisiert.
+	<em>lists.scytale.name</em> selbst hostet wohlgemerkt (noch) keine Listen!
+	Jetzt habe ich in meinen Mail-Logs folgendes gesehen:
+</p>
+<log>
+2007-11-28 10:40:46 lowest numbered MX record points to local host: lists.scytale.name (while verifying &lt;talk<!-- lalala -->@lists.scytale.name&gt; from host relay2.uni-heidelberg.de [129.206.210.211])
+2007-11-28 10:40:46 H=relay2.uni-heidelberg.de [129.206.210.211] F=&lt;joachim.grabte@urz.uni-heidelberg.de&gt; temporarily rejected RCPT &lt;talk<!-- lululu -->@lists.scytale.name&gt;: lowest numbered MX record points to local host
+</log>
+<p>
+	Hier kommt also eine Mail an die Liste <em>talk</em> an.
+	Diese Liste gehört aber eigentlich zu <em>lists.c3ma.de</em>, und nicht <em>lists.scytale.name</em>.
+	Der versendende <wde:Mail_Transfer_Agent MTA> schreibt also den Envelope Recipient auf das Ziel des CNAME-Records um.
+	Diese Zieldomain ist allerdings gar nicht zum Empfang von Mails eingerichtet, weshalb sich mein <wde:Exim> auch wundert, dass der MX-Record der Meinung ist, er wäre für die Mail zuständig ist, seine Konfigurationsdatei das aber ganz anders sieht.
+</p>
+<p>
+	Bislang dachte ich immer, dass der Absender-MTA nicht alle Tassen im Schrank hat:
+	Nen <wde:Domain#Fully_Qualified_Domain_Name_.28FQDN.29 FQDN> in ner Envelope-Adresse umschreiben, geht's noch?
+	DNS und SMTP sind zwei verschiedene Paar Stiefel, oder?
+	Tja, denkste.
+	In der Tat erzählt ein <<http://www.gossamer-threads.com/lists/qmail/users/128068 Thread auf qmail-users vom Dezember 2005>> die Geschichte von <rfc:821>, <rfc:2821> und den CNAMEs, und die lautet:
+</p>
+<p>
+	In dem auf August 1982 datierten Ur-<wde:Request_for_Comments RFC>&nbsp;821 für SMTP steht in Abschnitt&nbsp;3.7 (außer dem unterhaltsamen <q>Domains are a recently introduced concept in the ARPA Internet mail system</q>) der Satz <q>Whenever domain names are used in SMTP only the official names are used, the use of nicknames or aliases is not allowed.</q>
+	Das besagt relativ eindeutig, dass CNAMEs, die ja nun wirklich unmissverständlich Aliase sind, bei SMTP-Kommunikationen nicht verwendet werden dürfen.
+	Das Umschreiben der CNAMEs, selbst im Envelope, ist also nicht nur erlaubt, sondern sogar erforderlich.
+	Trotzdem machen es einige Mailserver nicht.
+	Warum?
+</p>
+<p>
+	Nun, das steht in dem anderen RFC, dem mit der Nummer 2821, das das ältere 821 auch überholt (<q>Obsoletes: 821, <em>[...]</em></q>), und zwar in Abschnitt&nbsp;3.6 (Hervorhebung von mir):
+	<q><em>[N]</em>ames that can be resolved to MX RRs or A RRs <em>[...]</em> are permitted, as are CNAME RRs whose targets can be resolved, in turn, to MX or A RRs.  <strong>Local</strong> nicknames or unqualified names MUST NOT be used.</q>
+	Somit ist also die Verwendung von CNAMEs durchaus zulässig, ein Umschreiben aber weiterhin nicht verboten.
+	Es kommt erschwerend hinzu, dass es sich bei RFC&nbsp;821 momentan um einen Standard handelt, bei RFC&nbsp;2821 hingegen nur einen <q>proposed standard</q>.
+	Man kann sich als Programmierer also quasi aussuchen, wonach man handelt.
+</p>
+<p>
+	Und aus dem Grund wird jetzt <em>lists.scytale.name</em> zum Empfang von Mail konfiguriert.
+	Da bei Mailman sowieso nur der Local Part zählt, muss ich an den CNAMEs vorerst mal nichts umbiegen.
+	Ham'wer wieder was gelernt, hoffentlich erleuchtet dieser zugegebenermaßen nur für eine bestimmte Zielgruppe interessante Artikel den einen oder anderen.
+</p>

@@ -1,0 +1,19 @@
+<:Automatically pause your MPD on incoming Fritz!Box call><tags:English Fritz!Box HowTo code fritzmpdpause bash shell script MPD mute pause>
+<p>
+A friend recently told me how great it is to have an <<http://www.asterisk.org/ Asterisk>> server at home.
+One of the reasons was a nice feature he implemented:
+If a call is coming in (or going out) and his computer is currently playing music, the music will automatically stop and resume after the call ended.
+</p><p>
+Since I don’t have an Asterisk at home and don’t want one, I was thinking about whether that was possible with my <wen:Fritz!Box> DSL/WiFi/VoIP combo and <<http://musicpd.org/ MPD>> as well.
+Turns out, it is.
+</p><p>
+I have written a little shell script, <</files/code/fritzmpdpause/ fritzmpdpause>>, that:
+</p><ul>
+<li>requires nothing but a POSIX shell (like bash), sed and netcat (and of course MPD running on some host and a Fritz!Box)</li>
+<li>does not require changes on a Fritz!Box with stock firmware</li>
+<li>will pause MPD when a call comes in or goes out</li>
+<li>keeps track of the number of active calls (because you might have more than one) and resumes playing only if none are left</li>
+<li>does not resume playing if you have during the call manually instructed MPD to stop playing</li>
+</ul><p>
+Get it while it’s hot, post it to Fritz!Box power user forums (I’m not active on any of them) or MPD sites and tell your friends about it!
+</p>

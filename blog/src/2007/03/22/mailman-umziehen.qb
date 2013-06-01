@@ -1,0 +1,5 @@
+<:Wenn der Postmann umzieht...><tags:Mailman relocation howto hint>
+<p>
+	Wenn ihr jemals in die Situation kommt, einen <<http://www.gnu.org/software/mailman/ Mailman>> umziehen zu müssen, lasst euch nicht wie ich davon verarschen, dass das <kbd>Mailman/</kbd>-Verzeichnis, in dem die ganzen Python-Files liegen, so aussieht, als würde da nur Code drin liegen und als wäre es nach einer frischen Installation identisch mit dem, was ihr auf eurem Quellrechner habt.
+	Denn in diesem Verzeichnis liegt auch die <kbd>mm_cfg.py</kbd>, in der ihr damals bei der Installation Einstellungen reingehackt habt, und die, wenn man vergisst, sie umzuziehen, euren schönen neuen Mailman dazu bringt, Mails mit kaputten Absenderadressen zu verteilen und sonstigen Murks zu verbrechen.
+</p>

@@ -1,0 +1,2 @@
+<:Logserver mit syslog-ng><tags:Computer>
+<p>Hab mir heute mit <a href='http://www.balabit.com/products/syslog_ng/'>syslog-ng</a> einen Logserver für mein kleines <a href='http://de.wikipedia.org/wiki/Local_Area_Network'>LAN</a> eingerichtet, so dass jetzt alle Rechner ihre Logs lokal auf einen werfen, der die dann natürlich fein säuberlich sortiert. Zusammen mit <a href='http://bonehunter.rulez.org/CCZE.html'>CCZE</a>, das das ganze schön bunt macht lässt sich da ein wunderbares Logging-Fenster machen in dem alles wichtige auf einen Blick steht.</p>

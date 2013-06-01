@@ -1,0 +1,13 @@
+<:Gentoo auf einer NSLU2 (Slug)><tags:Gentoo Computer "Geek Home">
+<p>
+Eine NSLU2 ist ein <a href="http://de.wikipedia.org/wiki/Network_Attached_Storage" target="_blank">NAS</a>-Gerät; ein <a href="http://de.wikipedia.org/wiki/Embedded_System" target="_blank">Embedded System</a> mit einem <a href="http://de.wikipedia.org/wiki/ARM-Architektur" target="_blank">ARM-Prozessor</a>, 32MB RAM, 8MB Flash-Speicher, einem 100MBit-Ethernet-Port und zwei USB&nbsp;2.0-Anschlüssen. Damit lässt sich einiges machen. Bereits werksseitig läuft darauf ein Linux, das angeschlossene USB-Laufwerke mittels <a href="http://www.samba.org/" target="_blank">Samba</a> im Netz verfügbar macht. Die Kiste kostet ca. 90 Euro.
+</p>
+<p>
+Es gibt eine Linux-Distribution namens <a href="http://www.nslu2-linux.org/wiki/OpenSlug/HomePage" target="_blank">OpenSlug</a>, die man ziemlich einfach auf die Kiste flashen kann und die einem dann eine <a href="http://www.de.debian.org/" target="_blank">debianoide</a> Spielwiese mitsamt IPKG, dem bereits vom <a href="http://www.openwrt.org/" target="_blank">WRT</a> bekannten "Paketmanagementsystem" versorgt. Wem <a href="http://www.nslu2-linux.org/wiki/OpenSlug/PackageStatus" target="_blank">die Menge an dafür verfügbaren Paketen</a> zu gering ist, der ist versucht, eine "vollwertige" Linux-Distribution zu installieren. Wem <a href="http://www.nslu2-linux.org/wiki/DebianSlug/HomePage" target="_blank">DebianSlug</a> zu, ähm, debianig ist, der denkt vielleicht daran, es mit <a href="http://www.gentoo.org/" target="_blank">Gentoo</a> zu probieren, so wie ich. Und es klappt.
+</p>
+<p>
+Ein Herr namens "DanC" hat dazu ein <a href="http://gentoo-wiki.com/HARDWARE_Linksys_NSLU2" target="_blank">HowTo auf gentoo-wiki.com</a> geschrieben. Nachdem ich beim Ausprobieren noch einige Falltüren gefunden und diese im HowTo ergänzt habe, sollte das eigentlich von jedem nachvollziehbar sein. Von daher werde ich auch nicht mehr alles von vorne erklären, sondern hiermit einfach dahin verweisen.
+</p>
+<p>
+Meine Slug wird demnächst als BitTorrent-Client, als zentraler Backup-Server, Log-Server, DHCP-/DNS-Server, Web-Proxy, Nagios-Knoten und Portage-Mirror eingesetzt werden; vielleicht auch als Mail-Relay. Entsprechende HowTos werden folgen. Das mit dem Backup-Server scheint schon relativ gut zu funktionieren, vielleicht gibt's da heute noch ne Anleitung mit Scripts dazu.
+</p>

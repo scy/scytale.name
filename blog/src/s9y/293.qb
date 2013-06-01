@@ -1,0 +1,25 @@
+<:derstandard.at reagiert><tags:Netzwelt Computer>
+<p>Gerade eine Antwort auf <a href='http://scytale.de/blog/archives/291-Offener-Brief-an-den-Webmaster-von-derstandard.at.html'>meine Mail</a> erhalten. Ich werde nach dem Mittagessen darauf antworten.</p>
+<pre>Subject: Browser-Inkompatibilität
+Date: Thu, 15 Sep 2005 12:34:43 +0200
+Message-ID: &lt;B98D5F8D5F641C459A5B8C1A7268F4B402357B70@EXCHANGE2003.standard.at&gt;
+From: "webmaster" &lt;webmaster@DerStandard.at&gt;
+To: "Tim Weber" &lt;...@scytale.de&gt;
+
+Sg. Herr Weber
+
+Wir entwickeln nicht für bestimmte Browser. Wir wissen wie viele verschiedene
+Browser es gibt. 
+Wir leiten die Browser auf die Textversion um welche, nach dem wir das
+natürlich getestet haben, Probleme mit unserem Frameset bzw. der Auslieferung
+von Werbung haben. Wir testen auch bei jeder neuen Version der Browser wie
+z.B. Konqueror ob wir die Umleitung deaktivieren können. Parallel dazu
+versuchen wir das Problem durch Programmierung zu beheben was bis jetzt
+jedoch ohne Erfolg blieb. Weiters wird unser Quellcode laufend Schritt für
+Schritt optimiert um die W3C Standards einzuhalten.
+
+Vielleicht findet dieses Statement ja auch den Weg in Ihren Blog.
+
+Mit freundlichen Grüßen,
+webmaster@derStandard.at</pre>
+<p><em>(Fullquote gelöscht)</em></p>

@@ -1,0 +1,9 @@
+<:Experimenteller Atom-Feed><tags:Atom XML feed experimental qb code meta>
+<p>
+	Auf Bitten von <<http://www.philippfleck.de/ Philipp>> hat <em>qb</em> jetzt einen mit heißer Nadel während der <<http://www.informatik.uni-mannheim.de/pi4/courses/2007-fss-computer_networks Betriebssysteme-Vorlesung>> gestrickten <wde:Atom_(XML-Format) Atom-Feed>.
+	Der hat noch keine <code>&lt;summary&gt;</code>-Tags und keine Timestamps, aber die meisten Feedreader dürften damit klarkommen.
+	Das Ding gibt's hier: <<http://scytale.de/qb/?atom10 Atom 1.0-Feed>>, aber ein <code>&lt;link&gt;</code>-Tag ist auch eingefügt, euer Browser sollte den Feed somit automatisch erkennen.
+</p>
+<p>
+	Leider gibt's noch keine Kommentarfunktion, sonst könntet ihr mich auch informieren, wenn er nicht funktioniert...
+</p>

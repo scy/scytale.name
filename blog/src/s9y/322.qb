@@ -1,0 +1,18 @@
+<:Spaß mit exotischen Dateinamen><tags:Computer>
+<p>
+Frisch aus meiner Konsole. Ich lass' das jetzt einfach mal unkommentiert zum Selberlesen und -lachen. Der "file"-Kram scheint von less produziert worden zu sein.
+</p>
+<samp class='cmd'>scy@amy ~/proj/code/nagprobe $ ls
+modules  nagprobe  -p
+scy@amy ~/proj/code/nagprobe $ less -p
+Value is required after -p
+scy@amy ~/proj/code/nagprobe $ less -- -p
+Usage: file [-bcikLnNsvz] [-f namefile] [-F separator] [-m magicfiles] file...
+       file -C -m magicfiles
+Try `file --help' for more information.
+scy@amy ~/proj/code/nagprobe $ rm -p
+rm: Ungültige Option -- p
+&#8222;rm --help&#8220; gibt weitere Informationen.
+scy@amy ~/proj/code/nagprobe $ fu :P
+bash: fu: command not found
+scy@amy ~/proj/code/nagprobe $</samp>

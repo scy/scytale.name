@@ -1,0 +1,7 @@
+<:Shoutbox-Spam ade! (hoffentlich)><tags:Meta>
+<p>
+Ich habe jetzt das Shoutbox-Plugin dieses Blogs ein bisschen manipuliert, um damit dem Spam ein Ende zu bereiten. Zuerst dachte ich an einen Wortfilter, aber den zu warten wäre mir zu viel Aufwand gewesen. Stattdessen habe ich jetzt einfach den Wert von <var>serendipity[action]</var> von "fillshoutbox" auf "addtoshoutbox" geändert. Denn so wie ich das sehe machen sich die Spammer gar nicht die Mühe, meine Website aufzurufen und dort nach der Shoutbox zu suchen, sondern sie machen einfach direkt einen POST-Request, so als ob das Formular ausgefüllt und abgeschickt worden wäre. Da dürfte jetzt aber kein Plugin mehr drauf reagieren, da die Spammer nunmal die falsche "Action" anfordern.
+</p>
+<p>
+Eine Dauerlösung ist das allerdings nicht. Ich habe mir überlegt, das Shoutbox-Plugin so zu patchen, dass dieser "Action"-Wert konfigurierbar ist und somit jeder <a href="http://s9y.org/" target="_blank">s9y</a>-User in den Genuss dieser Funktionalität kommen kann. Ich befürchte jedoch, dass dann die Spammer tatsächlich dazu übergehen werden, einfach noch schnell das Blog nach der tatsächlichen Shoutbox zu durchsuchen. Eine wirkliche Lösung dafür ist mir noch nicht eingefallen.
+</p>

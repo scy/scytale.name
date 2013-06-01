@@ -1,0 +1,32 @@
+<:Retrieve the current (public) WAN IP of a Fritz!Box using cURL and UPnP><tags:English Fritz!Box HowTo public WAN IP cURL>
+<p>
+If you want to update a DynDNS account, a 6in4 tunnel or similar things that depend on you knowing your “external”, public Internet IP address, you need a way to find out what your current IP address is.
+</p>
+<p>
+Most people rely on external servers for this task:
+There a numerous web sites that tell you the IP they see you as, and you can use that information to find out what your address is and therefore also when it changes.
+The disadvantage of this method is that you need to find the balance between how often the site allows you to query it and how fast you want to update your address.
+Also, if the site goes down or blocks you or changes its output format, your setup breaks.
+</p>
+<p>
+I own a <wen:FRITZ!Box> 7270 home router.
+These are quite popular in Germany.
+I don’t want to use one of the “unofficial” firmware images built by the community, so I was looking for a way to retrieve my public IP address from a Linux machine in the easiest way.
+One could query the box’s web interface, but you’d have to log in and parse HTML and all that stuff, which is rather clumsy.
+Luckily I found a <<http://www.gimme-th.at/blog/?p=165 web site that explains how to access the UPnP service>>.
+They are using <<http://netcat.sourceforge.net/ Netcat>> to build the UPnP request on their own.
+But since UPnP is just HTTP with some XML, I thought I could try accessing it via <<http://curl.haxx.se/ cURL>>.
+And it works fine.
+</p>
+<p>
+This is a one-liner that retrieves the public address via UPnP and runs it through sed to read the reply, because as we know, sed is perfect for parsing XML. ;)
+</p>
+<shell>curl -s -H 'Content-Type: text/xml; charset="utf-8"' \
+  -H 'SOAPAction: urn:schemas-upnp-org:service:WANIPConnection:1#GetExternalIPAddress' \
+  --data-binary '&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"&gt;&lt;s:Body&gt;&lt;u:GetExternalIPAddress xmlns:u="urn:schemas-upnp-org:service:WANIPConnection:1" /&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;' \
+  http://169.254.1.1:49000/upnp/control/WANCommonIFC1 | \
+  sed -n -e 's#^.*&lt;NewExternalIPAddress&gt;\(.*\)&lt;/NewExternalIPAddress&gt;.*$#\1#p'</shell>
+<p>
+Should the Fritz!Box not be connected to the Internet at all, the address 0.0.0.0 will be returned.
+The command takes advantage of the fact that a Fritz!Box <em>always</em> binds to 169.254.1.1.
+</p>

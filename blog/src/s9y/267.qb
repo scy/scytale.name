@@ -1,0 +1,7 @@
+<:Live-Blogroll><tags:Meta>
+<p>
+So, nachdem <a href='http://blog.galdo.de/'>Galdo</a> mich heute daran erinnert hat, dass eigentlich alle Links, die links unter "Links" standen (geiler Satz), nicht funktionierten, habe ich ein bisschen daran gearbeitet. Ergebnis: "Links" existiert im Moment nicht mehr, wird aber in unabsehbarer Zeit durch meine Bookmarks ersetzt. Dafür habe ich ein bisschen Spielerei betrieben.
+</p>
+<p>
+Ergebnis: Die "Blogroll" links ist nicht mehr ein einfacher HTML-Block, in dem ich per Hand meine Lieblingsblogs eintrage, sondern ein schön geparster <a href='http://de.wikipedia.org/wiki/OPML'>OPML</a>-Feed. Und der kommt nicht etwa von irgendeiner Fremdwebsite, sondern direkt <a href='http://scytale.de/files/pim/feeds.opml'>aus meinem PIM-Verzeichnis</a> und ist nichts anderes, als die interne Feeds-Liste aus meinem <a href='http://akregator.sourceforge.net/'>akregator</a>. Das ganze wird mit meiner auf <a href='http://www.cis.upenn.edu/~bcpierce/unison/'>Unison</a> aufbauenden Synchronisierungs-Struktur zwischen Desktop, Notebook und Server in (noch) unregelmäßigen Zeitabständen auf dem letzten Stand gehalten. Wenn Interesse besteht, kann ich das gern näher erläutern. Der Effekt ist jedoch recht einfach erklärt: Es werden direkt meine Feeds aus akregator übernommen, ohne dass ich irgendwas manuell generieren muss. Feine Sache.
+</p>

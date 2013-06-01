@@ -1,0 +1,27 @@
+<:Dropping qb maintainership><tags:English qb software maintainer unmaintained open-source development>
+<p>
+	I have not blogged for months (although I'm pretty active <<http://twitter.com/Scytale at Twitter>>, you might want to check me out there).
+	And now that you get some proof of life of me again, it's bad news:
+	<strong>As of today, I'm dropping maintainership for my blogging software <em>qb</em>.</strong>
+</p>
+<p>
+	I've been thinking about this step since about July, and it doesn't seem likely that I'll find the time or the mood to continue working on qb in the foreseeable future.
+	To be honest with you, code cleanup is not one of the most enjoyable things to do, and qb needs not only that but also serious refactoring in order to support new features, and I've got a more powerful approach in mind (which, yes, will mean new software coming up).
+</p>
+<p>
+	The current Git repository state has been exported to <<http://github.com/ GitHub>> as a new <<http://github.com/scy/qb project named qb>>.
+	Anybody may take it from there, fork and develop it further.
+	Since I have not found the time to add GPLv3 licensing text to the source files, I hereby declare qb's current state (commit 9c28be6b0284045b28a7b01c70675ec6cc6e4759) to be licensed under the terms of the <wen:WTFPL WTFPLv2>.
+	Have a lot of fun.
+</p>
+<p>
+	The <</proj/qb/ qb project page>> will be updated accordingly somewhen in the next few days.
+	The mailing list will be shut down in December.
+	Thanks to everybody using and developing qb, it was fun working with you.
+	There are no known security holes, you should be safe to leave your installation online for as long as you wish.
+</p>
+<p>
+	<em>Update:</em>
+	The logo contest submissions will be online soon.
+	Plus, I've added a commit ID to the text.
+</p>

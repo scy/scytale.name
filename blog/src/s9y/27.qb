@@ -1,0 +1,17 @@
+<:Alles von überall mounten, via SSH><tags:Computer>
+<p><a href='http://lists.suse.com/archive/suse-linux/2003-Mar/2045.html'>Dieser Post</a> in einer SuSE-Mailinglist hat mich auf das Projekt <a href='http://shfs.sf.net/'>SHFS</a> hingewiesen, das ich ab sofort als einen kleinen Geniestreich ansehe. Es ermöglicht einem, beliebige Verzeichnisse über <a href='http://de.wikipedia.org/wiki/Secure_Shell'>SSH</a> zu mounten.</p>
+<p>Da ich mit meinem Notebook viel unterwegs bin und die unterschiedlichsten IPs besitze ist es absolut inakzeptabel, mein <a href='http://de.wikipedia.org/wiki/Maildir'>Maildir</a> per <a href='http://de.wikipedia.org/wiki/Network_File_System'>NFS</a>, das ja keine wirkliche <a href='http://de.wikipedia.org/wiki/Authentifizierung'>Authentifizierung</a> (nur via IP) kennt, freizugeben. Deshalb habe ich lange Zeit mit <a href='http://www.cis.upenn.edu/~bcpierce/unison/'>Unison</a> gearbeitet, das zwei Verzeichnisse (auch über eine SSH-Verbindung) synchronisieren kann. Das Problem dabei war jedoch immer, dass ich (um Probleme zu vermeiden) erst meinen Mailclient schließen, dann syncen und dann meinen Client wieder starten musste.</p>
+<p>Mit SHFS ist das jetzt nicht mehr nötig. Einfach nach dem Start (einen entsprechenden Eintrag in der fstab vorausgesetzt) <em>mount .maildir</em> eingeben, <em>einmal</em> sein Passwort angeben und ab sofort ist das unter Umständen hunderte von Kilometern entfernte Verzeichnis ganz transparent verfügbar. Die Wunder der Technik.</p>
+<p>Wer's genauer wissen will, für den hab ich hier eine Installations- und Konfigurationsanleitung für SHFS unter <a href='http://www.gentoo.org/'>Gentoo</a>:</p>
+<p>Diese vier Schritte sind sowohl auf dem Client als auch auf dem Server nötig:</p>
+<ol>
+<li><code>emerge -v /usr/portage/net-fs/shfs/shfs-0.34.ebuild</code> (ist zwar noch als <em>~x86</em> maskiert, funktioniert aber besser als die momentan "stabile" Version)</li>
+<li><code>echo shfs&gt;&gt;/etc/modules.autoload.d/kernel-2.6</code> (bzw. <code>2.4</code>, je nach Kernelversion)</li>
+<li><code>modules-update</code></li>
+<li><code>modprobe shfs</code></li>
+</ol>
+<p>Der Client braucht jetzt noch ne Software, um das Passwort abzufragen (da SHFS nach dem Mounten sofort wieder zurück zur Shell kehrt):</p>
+<p><code>emerge -v x11-ssh-askpass</code></p>
+<p>Jetzt noch ne kleine Zeile in die <code>/etc/fstab</code>, zum Beispiel die hier:</p>
+<p><code>server.scytale.de:/home/scy/.maildir /home/scy/.maildir shfs noauto,rw,user,persistent 0 0</code></p>
+<p>Danach lässt sich mit <code>mount /home/scy/.maildir</code> ohne Probleme das Verzeichnis mounten. Viel Spaß!</p>

@@ -1,0 +1,203 @@
+<:Jedem seine Wikipedia><tags:German Wikipedia Relevanz Git Levitation Omnipedia DVCS>
+<p>
+<em>Hinweis: Dieser Blogbeitrag ist auch als <</files/2009/11/jedem-seine-wikipedia.mp3 gesprochene MP3-Datei>> (ca. 10&nbsp;MB, ca. 20&nbsp;min) verfügbar. Wer lieber hört als liest findet das sicher praktisch. ;)</em>
+</p><p>
+Die Wikipedia in ihrer jetzigen Form wird abgeschafft.
+</p><p>
+Spätestens wenn man sich <<http://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/11._November_2009&amp;oldid=66672525#Easterhegg die heutigen Löschkandidaten>> ansieht, von denen fünf direkt hintereinander vom <<http://de.wikipedia.org/wiki/Benutzer:Weissbier gleichen Benutzer>> eingereicht wurden und die sich alle gegen <<http://www.ccc.de/ CCC>>-Themen richten, wird klar, dass hier eine Drohung gegen kritische Stimmen ausgesprochen wird, die da lautet:
+„Wenn ihr euch gegen die Allmacht der Wikipedia erhebt, löschen wir euch und alles was euch lieb und teuer ist aus dem kollektiven Gedächtnis der Menschheit.“
+Dabei wird über Jahre gesammeltes Wissen absichtlich vernichtet.
+</p><p>
+Rückblick.
+Das Ganze geht am 24. September diesen Jahres los, als ein <<http://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/24._September_2009&amp;oldid=65689411#Tschunk_.28gel.C3.B6scht.29 Löschantrag für „Tschunk“>>, ein in CCC-Kreisen recht beliebtes Mischgetränk, gestellt wird&nbsp;— übrigens vom selben Benutzer, „Weissbier“, wie im vorherigen Absatz.
+15&nbsp;Tage später fällt die Entscheidung:
+Der Artikel wird gelöscht, weil seine Relevanz in den Augen der Admins nicht ausreichend dargelegt wurde.
+Gleichzeitig entbrennt eine neue <<http://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/8._Oktober_2009&amp;oldid=65917039#MissbrauchsOpfer_Gegen_InternetSperren_.28gel.C3.B6scht.29 Löschdiskussion, diesmal über den Verein „MOGiS“>>, der in der Debatte über das <<http://www.google.de/search?q=Zugangserschwerungsgesetz Zugangserschwerungsgesetz>> eine nicht unerhebliche Rolle gespielt hat.
+Sieben Tage später wird auch dieser Artikel gelöscht.
+Es entbrennt eine Debatte in den Blogs, die bis heute andauert.
+</p><p>
+<em>Kurzer Einwurf: Ich linke hier absichtlich auf die zum Zeitpunkt der Entstehung dieses Blogbeitrages aktuellen Revisionen von Wikipedia-Seiten, um meinen Kenntnisstand während dem Verfassen widerzuspiegeln.</em>
+</p><p>
+Bereits vorgestern hat Weissbier einen <<http://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/9._November_2009&amp;oldid=66673607#What_The_Hack Löschantrag für „What The Hack“>>, das Hackercamp 2005, gestellt.
+Dieser Löschantrag wurde heute mit <<http://de.wikipedia.org/w/index.php?title=Wikipedia:L%C3%B6schkandidaten/11._November_2009&amp;oldid=66673705#Wikimania einem gegen die Wikipedia-Konferenz „Wikimania“>> erwidert, und womöglich als Folge davon rächte man sich mit den eingangs erwähnten CCC-Themen-Löschanträgen.
+</p><p>
+Machen wir mal einen Schritt zurück und sehen uns mal etwas distanzierter an, was hier läuft.
+Auf Basis einer hoch emotionalen Debatte bewerfen sich Leute gegenseitig mit Dreck und versuchen, sich mit maximierter Wucht gegen den virtuellen Karren zu fahren.
+Man bekommt fast den Eindruck, das „Wiki“ in Wikipedia stünde, <<http://kamelopedia.mormo.org/index.php?title=Wikipedia&amp;oldid=357715 wie andernorts behauptet>>, wirklich für „wie im Kindergarten“.
+Was macht man da jetzt?
+</p><p>
+Es galt im Internet aufgrund der dezentralen Struktur schon immer der Grundsatz „wenn dir was nicht passt, mach dein eigenes auf“.
+Und in der Tat gibt es <<http://de.wikipedia.org/w/index.php?title=Wikipedia:Alternativprojekte&amp;oldid=66634327 einige Forks und Alternativ-Wikipedien>>.
+Diese leiden im Normalfall darunter, dass sie weit weniger aktive Mitarbeiter und Ressourcen haben als die Wikipedia.
+Ein weiterer Fork kann da doch unmöglich die Lösung sein&nbsp;— oder doch?
+</p><p>
+Meiner Meinung nach zeigt die momentane Debatte vor allem das uralte Problem, dass man es nicht allen recht machen kann.
+Es gibt Leute, die dieses oder jenes in der Wikipedia haben wollen, und andere eben nicht.
+Die beste Lösung wäre wohl, dass jeder seine eigene Wikipedia hat.
+</p><p>
+Und genau das ist mein Vorschlag.
+</p><p>
+Wie <</blog/2009/11/announcing-levitation ihr wisst>>, arbeite ich momentan an einem Projekt namens <</proj/levitation/ Levitation>>, mit dem man Dumps der Wikipedia-Software (also quasi ein Backup aller Versionen aller Artikel) in ein <<http://git-scm.com/ Git>>-Repository umwandeln kann.
+Git ist ein verteiltes Versionskontrollsystem.
+Mit so einer Software arbeiten normalerweise Programmierer, um ein Protokoll ihrer Arbeit zu haben (und jederzeit zu einem früheren Stand zurückkehren zu können) und diese Arbeit mit anderen auszutauschen.
+Wer mehr darüber erfahren will, <<http://chaosradio.ccc.de/cre130.html Tim und hukl haben das sehr gut erklärt>>.
+</p><p>
+Eigentlich macht Git also so ziemlich genau das, was in der Wikipedia nötig ist:
+Mehrere Versionen von Texten speichern können, mit der Möglichkeit, ältere Versionen abzurufen, zu vergleichen und wiederherzustellen.
+Git kann noch einiges mehr, was MediaWiki (die Software, auf der die Wikipedia basiert) nicht kann, zum Beispiel Konflikte zwischen den Änderungen mehrerer Benutzer automatisch beheben.
+Und MediaWiki kann einiges, was Git nicht kann (und wofür es auch nicht gedacht ist), zum Beispiel bunte Bilder anzeigen oder Wikisyntax interpretieren.
+Aber im Prinzip könnte man MediaWiki, so wie wahrscheinlich jede andere Wikisoftware auch, so umbauen, dass sie keine MySQL-Datenbank mehr für die Datenhaltung benutzt, sondern Git.
+Aber das ist nicht mein Vorschlag.
+Mein Vorschlag hat was mit dem Entwicklungsmodell, das verteilte Versionskontrollsysteme (distributed version control systems, DVCS) ermöglichen, zu tun.
+</p><p>
+Die Dinger heißen nämlich deshalb „verteilt“, weil es keinen zentralen Server gibt, der sämtliche Daten vorhält.
+Stattdessen hat jeder Entwickler eine vollständige Kopie der Entwicklungsgeschichte, und keiner ist wichtiger als andere.
+Als Folge daraus ist es ausschließlich Konvention, welches der vielen Repositories denn jetzt „das Echte“ ist.
+Beim Linux-Kernel ist es das von Linus Torvalds, aber das muss nicht so sein.
+Wenn Linus plötzlich drei Jahre ins Gefängnis müsste, könnte jederzeit jeder der anderen Entwickler übernehmen und sagen „ich bin jetzt der neue König“.
+</p><p>
+Und warum passiert das nicht ständig?
+Weil es da nämlich eine Kontrollinstanz gibt.
+Parteien würden sie „die Basis“, Verfassungsrechtler „das Volk“ nennen.
+Sagen wir einfach „Leute“ dazu.
+Und diese „Leute“ entscheiden, ob sie den neuen König akzeptieren oder nicht.
+Nicht über irgendwelche Instrumente wie Wahlen oder so, sondern einfach, indem sie ihm folgen oder nicht.
+Auf das Entwicklerbeispiel übertragen:
+Indem sie seinen Code verwenden und seine Entscheidungen respektieren&nbsp;— oder eben nicht.
+Demokratischer geht nicht.
+</p><p>
+Und wie funktioniert das jetzt auf Wikipedia-Ebene?
+Ich erklär’s euch.
+Nennen wir unsere neue Wikipedia einfach mal Omnipedia, weil sie alles wissen und für alle da sein soll.
+</p><p>
+Fangen wir gleich mal mit nem Kracher an:
+Jeder hat seine eigene Omnipedia.
+Noch nicht mal zwingend auf dem eigenen Rechner, so wie man das bei Git ja eigentlich erwarten würde.
+Stattdessen hat die Omnipedia eine Serverfarm, die zigtausende Artikel in Millionen Revisionen vorhält.
+Jede dieser Revisionen hat eine sie eindeutig identifizierende Nummer, eine ID, so wie in Git jede Datei (jeder „Blob“) eine eindeutige ID hat.
+Wenn jemand eine neue Revision anlegt, bekommt diese eine neue ID und wird im System abgelegt.
+Wenn zwei Benutzer gleichzeitig den selben Artikel bearbeiten, werden beide Artikel abgelegt.
+Bearbeitungskonflikte gibt es nicht mehr, denn jeder stellt sich seine Omnipedia selbst zusammen; wenn man einen Artikel bearbeitet, so taucht dieser anfangs auch nur in der eigenen Omnipedia auf.
+Damit gibt es auch automatisch keinen Vandalismus mehr, denn niemand bekommt die vandalisierten Seiten mehr zu sehen.
+</p><p>
+Wie geht das jetzt technisch?
+Nun, bei jeder Änderung, die jemand durchführt, wird ein neuer „Schnappschuss“ der Omnipedia dieser Person angefertigt.
+Einen solchen Schnappschuss nennt man in der Git-Terminologie „Commit“.
+In einem Commit steht, welche Artikel sich zu diesem Zeitpunkt in der Omnipedia des Nutzers befunden haben, angegeben durch deren eindeutige ID.
+Außerdem steht in einem Commit noch, auf welchem vorherigen Commit er basiert, und natürlich wer ihn angelegt hat und wann.
+Damit kann man sich also in der Zeit zurückhangeln und sehen, welche Änderungen der Benutzer in seiner Omnipedia durchgeführt hat.
+Und da jede Änderung an einem Artikel in einem Commit endet, der sie referenziert, kann man so auch die verschiedenen Versionen eines einzelnen Artikels zurückverfolgen.
+Jeder dieser Commits hat ebenfalls eine eindeutige ID.
+Und daraus folgen einige interessante Dinge:
+Ich könnte beispielsweise sagen „die Omnipedia 8e8ce9a0cd15ee6217a08d91b60165ff8fa242c0“ (wobei die lange Zahl eine Commit-ID ist, also müsste der Satz eigentlich „der Omnipedia-Commit 8e8ce9a… heißen“) und hätte damit einen ganz bestimmten Stand aller sich in der Omnipedia dieses Benutzers zum Zeitpunkt des Commits befindlichen Artikel bestimmt.
+Und die gesamte Bearbeitungshistorie, bis zurück zu dem Punkt, an dem es nur einen einzigen Artikel in der Omnipedia gab.
+</p><p>
+Okay.
+Jeder arbeitet also in seiner eigenen Omnipedia vor sich hin, niemand kommt einem in die Quere, weil niemand Schreibrechte in die eigene Omnipedia hat.
+Und wie funktioniert dann Kollaboration?
+Es kann ja nicht der Sinn sein, dass jeder die Wikipedia für sich alleine neu schreiben muss.
+</p><p>
+Jetzt kommt diese Geschichte mit den Königen ins Spiel, die ich vorhin bei Linux erwähnt habe.
+Nur dass es nicht einen, sondern viele gibt.
+Und zwar kann sich jeder ein paar Leute aussuchen, deren Arbeit er für gut befindet.
+Alle Änderungen, die diese Personen an ihren jeweils eigenen Omnipedien machen, werden entweder vollautomatisch in die eigene übernommen, oder nach vorheriger Rückfrage.
+(Git-Nutzer erkennen das Schema wieder: Man pullt gute Sachen von anderen Leuten.)
+Und wer jetzt verwirrt sagt „aber dann muss ich ja tausenden Leuten followen, um eine halbwegs vollständige Omnipedia zu haben“, der hat den Knackpunkt noch nicht verstanden:
+Die Leute, denen du followst, followen ihrerseits wieder guten Leuten.
+Und so weiter.
+So ergibt sich eine Art „Hierarchie von Geschmäckern“ von Leuten, die mit dem, was sie in ihrer Omnipedia haben wollen, halbwegs in die gleiche Richtung driften.
+Quasi ein Klumpen von Leuten, wobei sich die Klumpen natürlich untereinander vermischen und eigentlich auch keine fest definierten Grenzen haben.
+Man könnte das „chunksourcing“ nennen.
+</p><p>
+So könnte ich beispielsweise meinen kompletten Freundes- und Bekanntenkreis als „Könige“ in meine Liste aufnehmen und mir deren Änderungen holen.
+Einer von denen ist vielleicht etwas arg paranoid, deshalb lege ich fest, dass ich seine Änderungen erst manuell durchsehen will, bevor ich sie übernehme.
+Meine Omnipedia zeigt mir deshalb eine Liste seiner Änderungen, die ich übernehmen, ablehnen oder darauf aufbauend wieder ändern kann, so wie GitHubs <<http://github.com/blog/270-the-fork-queue Fork Queue>>.
+Besonders verrückte Verschwörungstheorien übernehme ich dann einfach nicht, und schon stelle ich für so einige Leute wieder einen Mehrwert dar, bin eine Art „Filter“.
+(Ich könnte übrigens auch die Änderungen meines Paranoikers blind übernehmen und bei Problemen einfach im Nachhinein wieder rückgängig machen.)
+</p><p>
+Und damit wären wir gleich beim nächsten Thema.
+Relevanzkriterien.
+Die Omnipedia hat keine.
+Denn was relevant ist und was nicht, entscheidet die Masse der Leute.
+Was sich durchsetzt, ist relevant.
+Und was nur für einen kleinen Klumpen relevant ist, ist halt nur in den Omnipedien dieser Leute.
+</p><p>
+Natürlich muss es auch ein paar Admins geben, die Urheberrechtsverletzungen und die Telefonnummer der von irgendeinem Nutzer verhassten Nachbarin löschen.
+Aber abgesehen davon gibt es kaum administrative Tasks.
+Vandalismus existiert nicht mehr, Seiten umbenennen und löschen können die User selbst (natürlich in ihrer eigenen Omnipedia).
+Stattdessen konzentriert sich jetzt die Arbeit aller Nutzer auf das Verbessern von Artikeln und das Übernehmen guter Änderungen.
+Die Änderungen neuer Nutzer, die noch keine „Freunde“ haben, werden übrigens auf einer extra Seite angezeigt, eine Art gefilterte „<<http://de.wikipedia.org/wiki/Special:RecentChanges Letzte Änderungen>>“, und können von interessierten Nutzern geprüft und übernommen werden.
+</p><p>
+Und so wird es mehrere verschiedene Strömungen in der Omnipedia geben, insbesondere in Hinblick auf den berühmten neutralen Standpunkt.
+Es wird eine Gruppe geben, die eher linke Ansichten in den Artikeln hervorhebt und eine, die eher rechte Ansichten bevorzugt.
+Nerds, die die Frisur von Captian Picard in jeder Folge Star Trek akribisch dokumentieren.
+Und aber auch viele, die der Meinung sind, eine Enzyklopädie müsse sich neutral verhalten und belegbare Fakten dokumentieren.
+Je mehr Leute dieser Meinung sind, desto mehr werden diese Inhalte übernehmen, desto weiter werden sich diese Inhalte über die Omnipedias verteilen.
+</p><p>
+Bleibt die Frage:
+Welche Omnipedia kriegen neue Leute zu sehen, die noch gar keine Freunde für sich ausgewählt haben?
+Man könnte ihnen beispielsweise fünf Personen vorschlagen, die von vielen gewählt wurden, zusammen mit (von anderen geschriebenen) Kurzzusammenfassungen, was die Omnipedia dieser Person besonders auszeichnet.
+Oder man zeigt zu jedem Artikel diejenige Fassung an, die sich in den meisten Omnipedias befindet.
+Oder weist auf mehrere Alternativfassungen hin.
+Und es gibt sicher noch einige brauchbare Möglichkeiten, die mir gerade nicht einfallen.
+</p><p>
+Und was hat das jetzt alles mit Git zu tun?
+Naja, die Community hinter Git ist enorm.
+Die Qualität und Modularität der Software ist hervorragend, man kann nahezu alles damit basteln, und die Performance ist atemberaubend.
+Aber vor allem halte ich Git-Repositories für ein sehr gutes Austauschformat für die Daten der Omnipedia.
+Man könnte sich Omnipedias auf sein Notebook herunterladen, in der Versionsgeschichte stöbern, Analysen machen, offline neue Artikel committen und später problemlos und konfliktfrei wieder hochladen.
+Eine einmal heruntergeladene Omnipedia wird mit einem simplen „git pull“ zeitsparend aktualisiert.
+Und, was nicht zu unterschätzen ist:
+Man ist nicht darauf angewiesen, dass dieses Webportal, das „die Omnipedia“ für die meisten Leute darstellt, existiert.
+Wenn die irgendwann mal anfangen, sich seltsam zu benehmen, Artikel zu löschen oder einfach offline gehen, kann jederzeit von überallher ein neuer König kommen.
+</p><p>
+Soweit meine Ideen.
+Und als wäre dieser Beitrag nicht schon lang genug, erkläre ich jetzt auch noch, warum ich einige der Ideen, die andere vorgeschlagen oder an mich herangetragen haben, für nicht so sinnvoll halte.
+</p><p>
+Allen voran die relativ populäre Idee, eine Software zu bauen, die dann auf dem eigenen Server läuft und mit der man seine eigene Fassung von Artikeln online bringen kann.
+Nutzer können sich dann durch diese Pseudo-Wikipedia klicken, und alle Artikel, die man lokal nicht verändert hat, werden von der „echten“ Wikipedia geholt und gecached.
+Das hilft in meinen Augen aber nicht.
+Denn das ist kein Fork, sondern ein Overlay.
+Und er hat so einige Probleme.
+Erstens wird man so nie die ganze Wikipedia lokal haben.
+Man läuft Gefahr, dass Artikel, die man noch nicht importiert hat, in der Zwischenzeit bereits gelöscht werden.
+Und man kriegt eklige Konflikte, wenn einige der lokal veränderten Artikel in der Wikipedia aktualisiert werden.
+</p><p>
+Das Hauptargument für diese Idee ist ja, dass man zu Anfang nicht so viel Ressourcen aufwenden müsste.
+Schon richtig, aber zu kurz gedacht.
+Mein Ziel ist es, mich so schnell wie möglich vom zentralistischen Konzept der Wikipedia zu entfernen, und nicht auf Monate oder Jahre noch von deren guten Willen abhängig zu sein.
+(Bis die ursprüngliche Wikipedia dichtmacht ist auch problemlos ein 2-Wege-Sync denkbar.)
+Dass jeder, der mitmachen will, gleich irgendwie nen fetten Server und terabyteweise Speicher braucht, stimmt auch nicht.
+Die deutsche Wikipedia ist, mit voller History, komprimiert 70&nbsp;GB groß.
+In etwa in dieser Größenordnung sollte sich auch das Git-Repository bewegen.
+Und wenn man die History nicht braucht, kann man <em>shallow</em> clonen und braucht noch weniger Platz.
+Aber, wie ja oben skizziert, es muss gar nicht jeder eine Kopie der Daten haben.
+Der Punkt ist:
+Es soll jeder die Möglichkeit haben, es zu tun, wenn er denn will.
+Und momentan sind die Daten, die die Wikipedia anbietet, recht dürftig.
+(Von der englischen gibt es übrigens schon seit einem Jahr <<http://en.wikipedia.org/w/index.php?title=Wikipedia:Database_download&amp;oldid=321378696#Latest_complete_dump_of_english_wikipedia keine Dumps mehr>>.)
+Und Git ist nun wirklich das beste Tool für diese Aufgabe.
+</p><p>
+Dann gab es da noch den Vorschlag, gelöschte Artikel in einer <<http://deletionpedia.dbatley.com/ Deletionpedia>> zu archivieren.
+Damit sind sie aber nicht mehr im Kontext der Wikipedia und können nicht mehr sinnvoll verlinkt werden.
+Auch Verschiebungen in andere Namensräume oder Änderung der Sichtbarkeit von gelöschten Artikeln (z.B. dass angemeldete Nutzer gelöschte Artikel sehen können) sind ziemlich hässliche Workarounds im Vergleich zu den Möglichkeiten, die eine Omnipedia nach meinem Vorschlag bietet.
+</p><p>
+So.
+Jetzt aber erst mal genug Blabla.
+Ich widme mich jetzt weiter dem Coden an <</proj/levitation/ Levitation>>.
+Aber eins möchte ich noch loswerden:
+Ich habe die ganze letzte Woche eigentlich nichts anderes gemacht als gecodet und diskutiert, obwohl ich eigentlich ein Studium abzuschließen habe und mein Konto auch kurz davor ist, neue Nullstellen zu definieren.
+Aber diese Wikipedia-Sache ist einfach zu dringend und wichtig, um sie zu ignorieren.
+Weil mir nämlich wirklich was liegt am „Wissen der Menschheit“.
+Ich würde mich sehr freuen, wenn sich die Leute, denen meine Arbeit gefällt, überlegen, ob sie mir nicht was zurückgeben wollen.
+Vielleicht haltet ihr Levitation dieses Jahr ja für unterstützenswerter als die Wikipedia, die gerade wieder ihre jährliche Spendenaktion gestartet hat.
+Gutscheine bei <<http://www.amazon.de/ Amazon>> wären klasse, beispielsweise für mehr Plattenplatz zum Testen.
+Im Gegensatz zu PayPal, die beim Geldempfang Gebühren kassieren, kommen die nämlich 1:1 an.
+Was natürlich niemand von PayPal abhalten soll.
+<</contact/ Hier findet ihr meine Mail- und Postadresse>>, <</wish/ hier meine Wunschliste und nen PayPal-Button>>.
+Oder schaut euch <<http://is.gd/4SynW die alternativen, nichtmateriellen Möglichkeiten>> an, wie man Levitation unterstützen kann.
+Ich bin normalerweise echt kein Schnorrer, aber diesmal halte ich es wirklich für vertretbar, mal freundlich um ein kleines Dankeschön zu bitten.
+</p><p>
+Und ich sage meinerseits nochmal Danke an diejenigen, die mich momentan unterstützen; materiell, ideell oder einfach dadurch, dass sie Interesse zeigen.
+Gemeinsam hieven wir die Wikipedia auf eine neue Ebene.
+</p>

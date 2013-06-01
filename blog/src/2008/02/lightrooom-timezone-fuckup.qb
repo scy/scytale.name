@@ -1,0 +1,21 @@
+<:Liebes Adobe® Photoshop® Lightroom®...><tags:German Rant Lightroom Zeitzone Fuckup IPTC XMP Metadaten>
+<p>
+	Womöglich fragst du dich in ein paar Wochen, warum ich dich nicht mehr benutze.
+	Denn ich habe mich gestern dazu entschlossen, dich nicht mehr anzurühren.
+</p><p>
+	Du bist zwar eigentlich ein ganz nettes Tool.
+	Aber mit Aktionen wie dieser hier verscherzt du es dir ganz gewaltig bei mir:
+</p>
+<div class="bigimg"><img src="/files/2008/02/lightroom-timezone-fuckup.png" width="455" height="156" alt="Screenshot, der zeigt, wie Lightroom beim Importieren die Zeitzonen durcheinanderbringt"/></div>
+<p>
+	Es gibt nur eine Sache, die schlimmer ist, als fehlende Daten:
+	Falsche Daten.
+	Auf Wiedersehen Lightroom, es freut mich zu erfahren, dass Software für hunderte Euro auch nicht besser ist als freie Tools.
+</p>
+<p>
+	(Wer's nicht versteht:
+	In der Originaldatei oben ist als Aufnahmezeit 19:40 angegeben, und als Zeitzone GMT minus vier Stunden.
+	Diese Angabe steht sowohl in den EXIF- als auch in den IPTC-Daten, wobei die Zeitzonenunterstützung in EXIF nen ganz eigenen Rant wert ist.
+	Auf jeden Fall besteht der Witz&nbsp;&ndash; oder eher das Desaster&nbsp;&ndash; darin, dass Lightroom beim Importieren trotz eindeutiger gegenteiliger Angaben davon ausgeht, das Bild wäre in der Zeitzone des importierenden Rechners aufgenommen.
+	Was natürlich beispielsweise bei Urlaubsbildern absoluter Schwachsinn ist.)
+</p>

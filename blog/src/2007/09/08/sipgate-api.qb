@@ -1,0 +1,15 @@
+<:Sipgate veröffentlicht API><tags:German Sipgate API News>
+<p>
+	Darauf hab ich schon seit Monaten gewartet:
+	<<http://www.sipgate.de/ Sipgate>> zeigt mal wieder, dass sie durchaus die "Poweruser" als Zielgruppe im Visier haben:
+	<<https://secure.sipgate.de/user/download_api.php Seit Mittwoch kann man>> über <wde:XML-RPC> Funktionen wie SMS- oder Faxversand, das Initiieren von VoIP-Verbindungen oder auch Abfragen von Kontostand und Telefonbucheinträgen durchführen.
+	Vorbildlicherweise existiert auch eine <<http://lists.sipgate.net/cgi-bin/mailman/listinfo/sipgate-developers Mailingliste>> für Fragen und Diskussionen.
+</p>
+<p>
+	Momentan fehlt leider offenbar noch die Möglichkeit, Telefonbucheinträge zu manipulieren; ein Feature, das mir persönlich ziemlich wichtig wäre, da ich ungern mehrere verschiedene redundante Datenbanken pflege und eigentlich bereits ein Telefonbuch habe.
+	Wenn ich das allerdings zu Sipgate synchronisieren könnte, wäre die Welt ein großes Stück besser.&nbsp;;)
+</p>
+<p>
+	Sipgate kann meiner Meinung nach davon ausgehen, dass sich eine ziemliche Horde Open-Source-Fanatiker auf die API stürzen wird.
+	Ich fang auch gleich mal an, denn Faxe senden direkt aus <wde:K_Desktop_Environment KDE> wollte ich schon immer können...
+</p>

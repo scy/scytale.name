@@ -1,0 +1,8 @@
+<:Was los?><tags:Persönliches Meta>
+<p>Das wurde ich vorgestern in der Shoutbox gefragt. Tja, die Vermutung "keine Zeit" trifft eigentlich recht gut zu. Momentan bin ich größtenteils damit beschäftigt, meinen neuen Rootserver einzurichten, da ich meinen bisherigen zum 11.5. gekündigt habe. Bis dahin muss ich also meinen Mailserver und alle gehosteten Domains (dazu gehören unter anderem die <a href='http://www.thw-jugend-mannheim.de/'>THW-Jugend Mannheim</a> oder auch das Blog hier) umziehen. Mein <a href='http://wiki.splitbrain.org/wiki:dokuwiki'>DokuWiki</a> wird auch umziehen (die Software ist schon installiert und eingerichtet), allerdings ohne alle Einträge blind zu übernehmen. Das Uni-Projekt <a href='http://doscum.scytale.de/'>Doscum</a> wird nochmal neu gestartet, basierend auf <a href='http://wikipedia.sourceforge.net/'>MediaWiki</a> 1.4.</p>
+
+<p>Sowieso kommt auf der Kiste nur topaktuelle Software zum Einsatz: <a href='http://httpd.apache.org/'>Apache</a> 2.0.53, <a href='http://subversion.tigris.org/'>Subversion</a> 1.1.4, <a href='http://de.php.net/'>PHP</a> 5.0.3 (<a href='http://www.gentoo.org/'>Gentoo</a> hat 5.0.4 noch nicht). Ob ich das Blog zum Release von <a href='http://s9y.org/'>Serendipity</a> 0.8 umziehen soll oder erst, wenn ich endlich meine eigene Skin entwickelt hab, weiß ich noch nicht. Ach ja, und ich werde versuchen, möglichst viele Subdomains zu killen, um für so viel wie möglich SSL-Support anbieten zu können.</p>
+
+<p>Tja, und da ich damit so heftig beschäftigt bin und ab morgen auch die Uni wieder losgeht, gibt's halt hier recht wenig (lies: momentan nix neues) zu lesen. Aber ich gelobe Besserung. Wirklich.</p>
+
+<p>Irgendwas muss ich ja während den Vorlesungen machen, warum also nicht bloggen.</p>

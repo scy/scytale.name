@@ -1,0 +1,13 @@
+<:Überblick KDE-Bildverwaltungssoftware><tags:Software Computer>
+<p>
+In unserem Uniforum hat gerade ein Kommilitone gefragt, was es denn an gescheiten Bildverwaltungssoftwares gibt. Ich hab' mal geantwortet, und da das so eine hübsche Zusammenfassung ist, will ich euch die nicht vorenthalten.
+</p>
+<p>Aus persönlicher leidvoller Erfahrung: Es gibt keine gescheite. Das ist wie mit Content Management Systemen oder Blogs oder Browsern oder Mail-Clients.</p>
+
+<p>Die Alternativen, die ich dir nennen kann, sind wegen persönlicher Präferenz für KDE, könnten aber möglicherweise auch auf Apfeldingern laufen.</p>
+
+<p>Die absolute Referenz ist meiner Meinung nach <a href="http://ktown.kde.org/kimdaba/" target="_blank">KimDaBa</a>. Du kannst Bilder nach Aufnahmedatum, Ordner oder Schlüsselwörtern anzeigen. Das geniale dabei sind eben diese Schlüsselwörter. Ich kann z.B. ein Bild als "Ort: Uni" markieren und gleichzeitig mit "Person: Galdo" und "Person: Emu" und dann eine Suchabfrage in der Art "zeige mir alle Bilder, die im Jahr 2004 in Mannheim aufgenommen wurden und mindestens einen Kommilitonen von mir enthalten", und das Bild wäre dabei. Der Trick dabei ist, dass die Schlüsselwörter in einer Baumstruktur stehen. Die Software "weiß" also, dass die Uni in der Mannheimer Innenstadt liegt, diese wiederum in Mannheim, das in Baden-Württemberg, das in Deutschland und so weiter. Leider ist das Interface von KimDaBa etwas gewöhnungsbedürftig und auch nicht ganz bug-frei. Die Metadaten werden in einer XML-Datenbank gespeichert und sind somit portierbar. Für GNOME gibt es mit <a href="http://www.gnome.org/projects/f-spot/" target="_blank">F-Spot</a> was ähnliches, hab ich mir aber noch nicht angeschaut.</p>
+
+<p>Da wäre außerdem <a href="http://www.jalix.org/projects/showimg/" target="_blank">Showimg</a> (das mit der Kuh), von dem sogar, sehe ich gerade, just heute eine neue Version releast wurde, die ich gleich mal ausprobieren werde. Lange Zeit war es nur ein Bildbetrachter mit Thumbnails, inzwischen hat sich die Software jedoch gemausert. Der RC1 der aktuellen Version bekam auch Unterstützung für SQLite- (oder MySQL-) Datenbanken, das Feature war aber noch sehr buggy. Das hat sich vielleicht inzwischen erledigt, keine Ahnung. Wie gesagt, ich muss mir das mal anschaun.</p>
+
+<p>Und schlussendlich noch <a href="http://www.digikam.org/" target="_blank">digikam</a>, das am ehesten Picasa nachempfunden ist. Das hat inzwischen anscheinend auch eine Unterstützung für solche Baumstruktur-Schlüsselwörter, also werd' ich mir das auch mal anschaun.</p>

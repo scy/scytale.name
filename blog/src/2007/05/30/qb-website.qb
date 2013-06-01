@@ -1,0 +1,9 @@
+<:A web site for qb><tags:English qb blog PHP project code>
+<p>
+	If you were thinking about trying out my blog system called <em>qb</em>, but the lack of documentation frightened you, rejoice! because documentation and a nice little web site are now available.
+</p>
+<p>
+	You may point your browser to <<http://scytale.de/proj/qb/ the qb site>> and read about system requirements, how to get the source code, how to use it, some of the internal workings and more.
+	Maybe you'll notice that qb is open source, but not free software right now, because it lacks an appropriate license to allow you to distribute your own versions and all that stuff.
+	This is something that will be fixed in the 0.3 release which will hopefully come out this or the next week.
+</p>

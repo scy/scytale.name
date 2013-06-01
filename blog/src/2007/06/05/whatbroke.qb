@@ -1,0 +1,18 @@
+<:whatbroke.sh><tags:English Gentoo Bash script code Portage library howto fix>
+<p>
+	The application you are running on your <<http://www.gentoo.org/ Gentoo>> system was working fine a week ago, but right now it's crashing all the time.
+	You wonder whether this has something to do with the <code class="sh">emerge -DNuva world</code> you did three days ago.
+	But did that upgrade really modify any libraries your application depends on?
+	And if so, which ones?
+	Wouldn't it be nice if there was a tool you could tell <q>hey, <<http://synflood.at/newsbeuter.html newsbeuter>> worked fine a week ago, any idea what might have broken it?</q>
+	Well, there is one.
+</p>
+<p>
+	My little <<http://scytale.de/git/?p=scytools.git;a=blob_plain;f=whatbroke.sh;hb=master whatbroke.sh>> script does all that cumbersome stuff for you:
+</p>
+<pre class="sh"><code class="sh">chani ~ # ./whatbroke.sh /usr/bin/newsbeuter 'May 29 0:00'
+Getting libraries in /usr/bin/newsbeuter... ok
+Getting packages for each library... ok
+Finding all merges of those packages (dev-db/sqlite|dev-libs/openssl|net-libs/libmrss|net-libs/libnxml|net-misc/curl|sys-devel/gcc|sys-libs/glibc|sys-libs/ncurses|sys-libs/zlib)... ok
+Possible culprits (merged after Tue May 29 00:00:00 CEST 2007):
+  sys-libs/glibc-2.5-r3 (merged Thu May 31 08:03:59 CEST 2007 (1180591439))</code></pre>

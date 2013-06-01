@@ -1,0 +1,16 @@
+<:GitHub's existing Twitter integration><tags:English fuckup TweetHub software PHP Twitter integration existing "not found">
+<p>
+	Whoops.
+</p>
+<p>
+	Turns out that <<http://github.com/ GitHub>> already has Twitter integration, they just hid it pretty well (under <em>Services</em> in the <em>Admin</em> tab).
+	In that case there might actually be less people interested in <<https://scytale.name/proj/tweethub/ TweetHub>>, although it still has some advantages:
+</p>
+<ul>
+	<li>You don't need to give GitHub your Twitter password. (Actually, that's Twitter's fault, their API doesn't allow for anything else.)</li>
+	<li>You can change the information displayed in the tweets.</li>
+	<li>You have <<http://is.gd/ is.gd>> URL shortening instead of <<http://tinyurl.com/ TinyURL>>.</li>
+</ul>
+<p>
+	See also <<http://github.com/scy/tweethub/commit/a9c372692d24d5d14404e0a8af26ca1a21ce4c12 this FAQ item>>.
+</p>

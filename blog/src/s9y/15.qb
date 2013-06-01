@@ -1,0 +1,4 @@
+<:HP-UX: So Broken><tags:Computer>
+<p>Kann mir jemand nen vernünftigen Grund nennen warum das "Setup-Programm" von HP-UX (genannt SAM, quasi ein YaST-Pendant) beim Deaktivieren des Dienstes "FTP Server" die FTP-Einträge aus der <em>/etc/services</em> entfernt? Und sich die Software <em>ftp</em> (also der Client) danach nicht mehr zu FTP-Servern connecten kann?</p>
+<p>Oder warum der Daemon, der für die Installation von Software zuständig ist (bei HP-UX kann man Software auch auf Remote-Rechnern installieren, daher der Daemon) bei einer Standardinstallation zwar mitinstalliert wird, nicht jedoch ein anderes Paket von dem er zwingend abhängt und das man nur mit dem (nicht startenden) Daemon installieren kann?</p>
+<p>Ich schätze der Rechner, der vor ein paar Stunden erst installiert wurde, muss nochmal neu aufgesetzt werden. Geil sowas.</p>

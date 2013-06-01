@@ -1,0 +1,20 @@
+<:Embedded qb><tags:English qb blog meta code PHP>
+<p>
+	Those of you who are reading this blog only in a feed reader won't notice that its design has changed:
+	The ugly <<http://scytale.name/proj/qb/ qb>> default design has been replaced with an ugly <em>scytale.name</em> redesign that's still work in progress.
+</p>
+<p>
+	If you think of doing this to your own qb-powered blog as well, the necessary code changes are available in <<http://scytale.name/git/gitweb.cgi?p=qb.git;a=commit;h=e4e5e10bb9a51dc51883ee16a39d43655c6def72 the latest Git commit>>.
+	The new design requires a small PHP library to be called, as well as functions <code>hdr($title)</code> and <code>ftr()</code> before and after the main content.
+	My main goal when implementing that change was to keep things from breaking for users of qb's cutting-edge Git version.
+</p>
+<p>
+	Most of the embedding magic is done via PHP's <<http://php.net/manual/en/ref.outcontrol.php output buffers>>:
+	Send the real header, start output buffering, run qb, remove all HTML headers and other stuff that's being taken care of by the central library, send that out, add a footer and be done.
+	Just use <</files/2007/10/qb-embed.txt this code>> as your <em>qb-0.2.conf.php</em>.
+</p>
+<p>
+	Speaking of qb:
+	After coding around on the 0.3 version, I think all the new code goes in a wrong, bloaty direction, and I've decided not to go in that direction any further.
+	Stay tuned for a blog post tommorrow that will reveal what I've got in mind for the next version.
+</p>

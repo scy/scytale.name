@@ -1,0 +1,4 @@
+<:PHPXMLRPC - weiche, Dämon!><tags:PHP Computer>
+<p>
+Könnte sich irgendjemand mal erbarmen und dieses hemmungslos verkorkste Stück Software bitte "from scratch" neu schreiben? Es hagelt Advisories über Advisories, neuerdings gibt es sogar Schmankerl wie nach eval() geworfene Benutzereingaben. Wer sich den Code schon mal angeschaut hat mit seinen globalen Variablen und weiß der Teufel was für Magenkrämpfe, der wundert sich bei dieser Grausamkeit aber auch über gar nichts mehr. Ich jedenfalls habe an nur einem Nachmittag was gecoded, was zumindest halb so gut war wie PHPXMLRPC (schließlich wollte ich meine Software nicht freiwillig mit einem fünfäugigen eitrigen Parasiten ausstatten). Da sollte man in drei Nachmittagen doch nen würdigen Nachfolger hinbekommen... &lt;/rant&gt;
+</p>

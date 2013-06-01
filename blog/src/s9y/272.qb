@@ -1,0 +1,7 @@
+<:Einzeiler: DENIC ärgern><tags:Einzeiler Computer>
+<p>
+Ich bin auf der Suche nach einer möglichst kurzen Domain...
+</p>
+<p>
+<code>((for D in {a..z}{a..z}{a..z}; do echo $D.de; [ ! -z "$(whois $D.de | grep 'not found')" ] &amp;&amp; echo $D.de is free; done) | tee ~/3letterdomains.txt); grep free ~/3letterdomains.txt</code>
+</p>

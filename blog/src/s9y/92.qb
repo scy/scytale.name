@@ -1,0 +1,34 @@
+<:Häschen><tags:Links>
+<p>Wie Jeff <a href='http://scytale.de/archives/91_Schweinereien.html#c73'>hier</a> richtig bemerkt hat, ist mein letzter Post schon fast eine Woche her. Das ist natürlich kein Zustand, und da zählt auch die Ausrede nicht, ich wäre das ganze Wochenende mit dem <a href='http://www.thw.de/'>THW</a> beim "Tag der Helfer" gewesen. Der wahre Grund ist sowieso, dass ich erst mal zwei kleine Scripts schreiben musste, bevor ich euch diese Website vorstelle. Aber fangen wir von vorne an.</p>
+<p><a href='http://adorablebunnies.com/'>AdorableBunnies.com</a> ist eigentlich nichts anderes als eine riesige Dateisammlung. Hier können beliebige User anonym beliebigen Kram hochladen, solange es sich um Bilder oder Videos handelt. Was dabei herauskommt ist natürlich klar, und so ist AB.C inzwischen ein riesiges (Hauptverzeichnis und "Uploads" zusammen ca. 1,4 GB) Porno- und Funfilmearchiv geworden.</p>
+<p>Der Admin ist sich dessen natürlich bewusst und sorgt dafür, dass <a href='http://de.wikipedia.org/wiki/Leechen'>leechen</a> soweit wie möglich unterbunden wird. Da ich aber die ganze Site haben wollte (und zwar ohne jede Datei einzeln anzuklicken), habe ich ein bisschen rumprobiert. <em>wget -m</em> führt zu einem sofortigen IP-Ban. Daher habe ich zwei kleine <a href='http://de.wikipedia.org/wiki/Bash'>Bash</a>-Scripts geschrieben, die unauffällig die gesamte Seite leerschaufeln...</p>
+<p>Die Scripts gehören in das Verzeichnis, in dem später die heruntergeladenen Dateien landen sollen.</p>
+
+<p><strong>getab.sh</strong><code class='block'>
+#!/bin/bash
+export BASE='http://adorablebunnies.com/'
+AGENT='Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)'
+wget -q -U "$AGENT" -O - $BASE | grep -oE '&lt;A HREF=[^&gt;]+&gt;[^&lt;]+&lt;/A&gt;' | grep -oE "&lt;A HREF=\"[^.][^\"]*\"" | cut -b 10- | tr -d "\"" | tr '\n' '\000' | xargs -0 -n 1 ./getfile.sh</code></p>
+
+<p><strong>getfile.sh</strong><code class='block'>
+#!/bin/bash
+AGENT='Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)'
+if [ -z "$BASE" ]; then
+        echo BASE not set &lt;&amp;2
+        exit 1
+fi
+echo "$1" | grep -E '^/LOADER/' &gt;/dev/null
+WITHLOADER=$?
+SKIPWAIT=0
+if [ "$WITHLOADER" ]; then
+        TARGET=$(wget -q -U "$AGENT" --referer="$BASE" -O - "http://adorablebunnies.com$1" | grep -oE "URL=[^\"]*|src='[^']*'" | cut -b 5- | tr -d "\"'")
+        if [ ! -z $TARGET ]; then
+                if [ ! -f "$(echo $TARGET | grep -oE '[^/]*$')" ]; then
+                        sleep 1
+                        wget -a getfile.log -c -U "$AGENT" --referer="http://adorablebunnies.com$1" "$TARGET"
+                else
+                        SKIPWAIT=1
+                fi
+        fi
+fi
+[ "$SKIPWAIT" -eq "1" ] || sleep 3</code></p>

@@ -1,0 +1,33 @@
+<:Git 1.7 bricht mit Kompatibilität><tags:German Heise Git Rant "offener Brief">
+<p><em>Diese Mail habe ich gerade an den Autor von <<http://www.heise.de/open/meldung/Git-1-7-bricht-mit-Kompatibilitaet-930212.html Git 1.7 bricht mit Kompatibilität>> geschickt. Da sie hilft, den Artikel etwas differenzierter zu lesen (und vor allem, weil ich nicht zulassen kann, dass solcher Unfug unkommentiert bleibt), lass ich euch mal dran teilhaben.</em></p>
+<blockquote><p>
+Hallo ane,<br/>
+<br/>
+(für solche Fälle wären Klarnamen unter den Artikeln übrigens echt praktisch)<br/>
+<br/>
+nur ein paar kurze Sätze Feedback zum o.g. Artikel:<br/>
+<br/>
+1.7 behebt unsinniges Verhalten in früheren Versionen. Pushen in oder Löschen von gerade ausgecheckten Branches ist verwirrend, weil Arbeitskopie und Repo anfangen zu divergieren. Mit <em>receive.denyCurrentBranch</em> und <em>receive.denyDeleteCurrent</em> bieten die Entwickler aber weiterhin die Möglichkeit, dieses Verhalten zu gestatten. Wer das wirklich braucht, kann es also weiterhin verwenden. Ergo: Hier wird keine Kompatibilität zerstört.<br/>
+<br/>
+Dass <em>git status</em> nicht mehr <em>git commit --dry-run</em> entspricht, ist eine Änderung, die vielleicht 20% der User überhaupt wahrnehmen werden, weil die Mehrheit der User nämlich <em>git status</em> ohne Argumente aufruft. Die 20% sind Poweruser genug, um sich in ein paar Minuten an die Änderungen anzupassen. Hier gibt es für einen kleinen Teil der User ein paar Änderungen, die aber wohl kaum einen Bruch mit 1.6 darstellen, und die bei einem Übergang auf eine neue Versionsserie zu erwarten sind.<br/>
+<br/>
+Der Rest des Artikels beinhaltet auch keine grausamen Inkompatibilitäten, sondern nur Übersetzungen und Formulierungen zwischen Erheiterung und Tischkantenbissen.<br/>
+<br/>
+Was soll eigentlich „einen Befehl ohne Funktion laufen lassen“ sein?<br/>
+<br/>
+Was soll eigentlich ein Hilfepfad sein? Wenn der Artikel schon nur daraus besteht, die Release-Notes zusammenzufassen und zu übersetzen, sollte man sich vielleicht erst mal überlegen, was man da gerade an Unsinn zusammentippert. Hint: Mit einem „helper path“ sind Pfade zu Hilfsprogrammen gemeint.<br/>
+<br/>
+Was soll eigentlich „ein mit der Shell ausgezeichneter Hilfepfad“ sein? Mit der Shell ausgezeichnet? Was?!<br/>
+<br/>
+Was ist eigentlich „textkonv“? Die deutsche Version von textconv?<br/>
+<br/>
+Jetzt mal Klartext: Dieser Artikel hat eine Skandalüberschrift auf Bild-Niveau, einen Inhalt den mir Google Translate ähnlich wortgewandt und akkurat hätte geben können und einen FUD-Anteil, den ich von einer Institution wie Heise nicht erwartet hätte. Es wäre klasse, wenn da nachgearbeitet werden würde.<br/>
+<br/>
+Ich werf diese Mail auch mal auf mein Blog unter http://scytale.name/, nur FYI.<br/>
+<br/>
+Beste Grüße<br/>
+<br/>
+     Tim Weber.
+</p></blockquote>
+<p><strong>Update:</strong> Der Herr hat mir inzwischen geantwortet. Da ich artig bin (und euren Blutdruck schonen will), veröffentliche ich seine Mail nicht, außer meinen Lieblingssatz: <q>Wie sie gemerkt haben, habe ich mir mit dem Thema schwer getan.</q> Auf Deutsch: Heise Open(!) hat scheinbar keinen, der sich ausreichend auskennt, um die Release Notes eines Stücks Software zusammenzufassen. Vielleicht liegt es natürlich auch daran, dass Git in der Open-Source-Welt total irrelevant ist. Werte Leserschaft, wer jetzt klug ist, verschickt Initiativbewerbungen.</p>
+<p><strong>Update 2:</strong> Da der Artikel überarbeitet wurde, fehlt inzwischen das Schmankerl <q>Jeder Hilfepfad mit Leerzeichen oder anderen Metazeichen ist dadurch nun mit der Shell auszuzeichnen.</q> Schade eigentlich, das hätte schon fast Meme-Qualitäten. „Zwölfjähriger dänischer Unix-Hacker mit der goldenen Shell ausgezeichnet“ oder so.</p>

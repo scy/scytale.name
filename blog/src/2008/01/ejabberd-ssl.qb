@@ -1,0 +1,31 @@
+<:Fixing SSL problems in ejabberd on Gentoo><tags:English Gentoo ejabberd SSL fix>
+<p>
+	Recently a <wen:Extensible_Messaging_and_Presence_Protocol Jabber> contact of mine sent me an e-mail saying that he didn't see me online for weeks, asking whether something's broken with my Jabber server.
+	I started investigating and found out that indeed server-to-server connections between my host and <<http://web.jabber.ccc.de/ jabber.ccc.de>> didn't work since I rebooted the server machine on December 20.
+</p>
+<p>
+	First I thought that the problem was based on <wen:Domain_name_system DNS> <wen:SRV_record SRV records>, because <var>jabber.ccc.de</var> requires support for them.
+	There is a nice howto page on the <<http://www.ejabberd.im/ ejabberd web site>> about <<http://www.ejabberd.im/fix-dns-srv fixing DNS SRV>>, but running the provided <<http://www.ejabberd.im/fix-dns-srv#comment-1881 test case>> showed that SRV already worked quite fine on my server.
+</p>
+<p>
+	Peeking into the log files I saw messages about a module called <em>PKIX1Explicit88</em> and that it could not be loaded.
+	On Gentoo, stuff like that is caused mostly by <wen:Application_binary_interface ABIs> that were broken when updating packages, and solved by updating dependent software.
+	So what I did was to try re-<wen:Portage_(software) merging> <wen:Erlang_(programming_language) Erlang> and <wen:ejabberd>, only to find out that the ejabberd compile would die.
+</p>
+<p>
+	Enter <<http://bugs.gentoo.org/ Gentoo's bug tracker>>.
+	I found two bugs about this problem, namely <<http://bugs.gentoo.org/show_bug.cgi?id=202114 net-im/ejabberd-1.1.4 does not build with dev-lang/erlang-12.2.0>> which basically says <q>uhm, it's somehow broken with Erlang 12B, but we don't know why</q>, and <<http://bugs.gentoo.org/show_bug.cgi?id=200541 dev-lang/erlang-11.2.5: QA: TEXTREL usr/lib/erlang/lib/crypto-1.5.1.1/priv/lib/crypto_drv.so>> which explained why only a handfull of people experienced this bug:
+	It seems like you have to use the unstable branch of Gentoo <em>and</em> the "hardened" profile, <em>and</em> ejabberd.
+	As <<http://bugs.gentoo.org/show_bug.cgi?id=200541#c4 Jakub says>> on the bug: <q>Well, this completely breaks SSL support on hardened, causing b0rkage w/ stuff like net-im/ejabberd.</q>
+</p>
+<p>
+	I now had three choices:
+	Wait for the developers to resolve the problem, work on the bug myself or downgrade Erlang.
+	Since I was in a bit of a hurry, I decided for the latter, and now my Jabber server works flawlessly again.
+</p>
+<p>
+	Oh, by the way, I must admit that I'm a bit (or maybe more) scared about what is being said in the first bug, starting from <<http://bugs.gentoo.org/show_bug.cgi?id=202114#c6 comment #6>>:
+	<q>I feel that ejabberd would benefit from a maintainer with actual erlang knowledge. <em>[...]</em> Christian, Jan, are you interested in maintaining this?</q>&nbsp;&mdash;
+	<q>I have zero erlang knowledge <em>[...]</em></q>&nbsp;&mdash;
+	<q><a href="http://www.faulhammer.org/index.php?option=com_content&amp;task=view&amp;id=142">I only maintain Erlang because of sense of duty</a>...I know nothing about it.</q>
+</p>

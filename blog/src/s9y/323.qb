@@ -1,0 +1,28 @@
+<:Geek Home: &quot;Geht nicht&quot; gibt's nicht.><tags:"Geek Home" Computer>
+<p>
+Nachdem ich jetzt stolzer Besitzer einer <a href='http://www.avm.de/de/Produkte/FRITZBox/FRITZ_Box_Fon_WLAN/index.html'>Fritz!Box Fon WLAN 7050</a> (kurz FBF) bin, die in meinem LAN als Router, Access Point sowie VoIP- und Festnetz-Telefonanlage agiert, kam ich nicht umhin (allein schon aus ökologischen Gründen) zu versuchen, meinen "Server" (ein Athlon XP 2400+ mit drei Netzwerkkarten und diversen Platten) abzuschaffen und durch was kleineres, leiseres, weniger Strom fressendes zu ersetzen.
+Da auf der FBF hinter den Kulissen Linux läuft, bestand eine realistische Chance, alle bisherigen Serverfunktionen von ihr übernehmen zu lassen.
+Inzwischen weiß ich, dass die Box allein doch nicht alles bewerkstelligen kann, deshalb habe ich ihr einen Helfer zur Seite gestellt:
+Die <a href='http://www1.linksys.com/international/product.asp?coid=8&ipid=554'>Linksys NSLU2</a> (auch "Slug" genannt).
+Dieses Gerät besitzt einen Ethernet- und zwei USB&nbsp;2.0-Ports und kann an die USB-Ports angeschlossene Festplatten und Speichersticks über <a href='http://de.wikipedia.org/wiki/Server_Message_Block'>SMB</a> (lies: "Windows-Freigabe") für das LAN zugänglich machen.
+So ausgerüstet habe ich mir folgende Ziele gesetzt, die das dynamische Duo bewerkstelligen soll:
+</p>
+
+<ul>
+<li>Telefonanlage mit VoIP-Unterstützung, WLAN-AP, Routing, Port-Forwarding, Updaten meines <a href='http://www.no-ip.com/'>No-IP</a>-Accounts, Anrufliste (all das kann die FBF von Haus aus und wird hier nicht weiter besprochen)</li>
+<li>DHCP-Server mit festen IPs für bekannte MAC-Adressen und einer Zone mit dynamischen IPs</li>
+<li>DNS-Proxy (Weiterleitung von Anfragen ins Internet) inklusive der Möglichkeit, lokale Hosts zu definieren</li>
+<li>Netzwerkmonitoring und Weiterleitung an meinen zentralen <a href='http://www.nagios.org/'>Nagios</a>-Server</li>
+<li>Möglichkeit zum Login via SSH</li>
+<li>lokaler Mailproxy, der alle Mails von LAN-Hosts an einen zentralen Smarthost weiterleitet</li>
+<li>Logserver für das LAN</li>
+<li>angeschlossene USB-Platte per SMB und <a href='http://scytale.de/blog/archives/27-Alles-von-ueberall-mounten,-via-SSH.html'>SHFS</a> freigeben</li>
+<li>bei angeschlossener Platte zeitgesteuerte Downloads aus dem Internet durchführen (z.B. Aktualisierung freigegebener Kalender von Freunden, Podcatching etc.)</li>
+<li>aufwecken (wake on LAN) verschiedener Rechner bei Klingelnlassen auf einer bestimmten ISDN-MSN, je nach Dauer des Klingelns</li>
+</ul>
+
+<p>
+All das liegt also in nächster Zeit an.
+Ich werde hier im Blog meine Arbeit daran Schritt für Schritt dokumentieren, erstens damit ich selbst mich daran erinnern kann und zweitens weil es sicher den ein oder anderen gibt, der dadurch Anregungen findet.
+Die Arbeit hat schon begonnen, die ersten Artikel werden evtl. schon heute folgen.
+</p>

@@ -1,0 +1,21 @@
+<:When will qb 0.3 come out?><tags:English qb blog news>
+<p>
+	Just to keep you updated, since I <<http://scytale.name/blog/2007/07/19/downtime was talking about>> releasing 0.3 in June:
+	This, as you might have noticed, did not happen.
+	The new release will also not appear in August, because I'm currently working on University stuff.
+</p>
+<p>
+	I did some minor reorganization stuff in the code, as you can see in <<http://scytale.name/git/qb.git/ qb's gitweb>>, but it's still a lot of work to do.
+	I'm sorry that I can't tell you <em>when</em> something is going to happen, but I can tell you <em>what</em> is about to come next:
+</p>
+<ol>
+	<li>Finish that University stuff (this week).</li>
+	<li>Update the <<http://scytale.name/proj/qb/ qb web page>> with more information about its current features and status. Also the whole thing needs to be redone because it's pretty chaotic.</li>
+	<li>Convert qb to stable, object-oriented PHP&nbsp;5 code. Put everything under the GPLv3. There are <em>no</em> new features going to be added in 0.3, that's something that will happen in 0.4 when all the plugin architecture from 0.3 is available.</li>
+</ol>
+<p>
+	Version 0.4 should be released a lot faster than 0.3.
+	Oh, by the way, if you didn't notice it:
+	There's now <<http://scytale.name/proj/qb/doc/ code documentation for qb>> and an official IRC channel: <<irc://chat.freenode.net/qb #qb>> on <<http://freenode.net/ freenode>>.
+	Feel free to drop by.
+</p>

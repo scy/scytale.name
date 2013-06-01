@@ -1,0 +1,7 @@
+<:subjectAltName für SSL-Zertifikate><tags:German SSL TLS OpenSSL Zertifikat VHost>
+<p>
+	Wem die <<http://wiki.cacert.org/wiki/VhostTaskForce Wikiseite bei CAcert zum Thema "VHosts mit SSL">> zu wenig Informationen enthält, um das jetzt praktisch umzusetzen, dem ist vielleicht mit <<http://www.mail-archive.com/openssl-users%40openssl.org/msg43417.html diesem Mailinglisten-Posting>> geholfen, das eine funktionierende Config-Datei für OpenSSL angibt.
+	Mein Jabber-Server hat jetzt für drei verschiedene Hosts ein und dasselbe SSL-Zertifikat, und egal welchen Host ich benutze, Konqueror bringt mir beim Webinterface (das auch dieses Zertifikat benutzt) keine Fehlermeldung von wegen "hostname mismatch".
+	Jetzt müsste ich nur noch nen Jabber-Client finden, der mit solchen Zertifikaten klarkommt.
+	<<http://psi-im.org/ Psi>> und <<http://kopete.kde.org/ Kopete>> tun's schonmal offenbar nicht, wobei Kopete über "selbstsigniert" motzt, da es offenbar aus irgendwelchen Gründen nicht auf die KDE-weite CA-Liste zugreift.
+</p>

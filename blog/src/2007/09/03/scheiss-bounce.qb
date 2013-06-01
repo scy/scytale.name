@@ -1,0 +1,21 @@
+<:Scheiß-Bounce><tags:German Mail Bounce Fun>
+<p>
+	Gestern hat mal wieder jemand mit gefälschten <em>@scytale.de</em>-Absenderadressen Spam verschickt.
+	Und alles was nicht zugestellt werden kann, kommt natürlich zu mir zurück.
+	Unter anderem ist mir dann unter den ganzen Bounces folgendes Goldstück aufgefallen:
+</p>
+<pre class='mail'>Subject: <strong>Ausscheidung</strong>
+
+Sehr geehrter Absender
+
+ich bin ab dem 09 Februar 2006 nicht mehr bei der Fa. <em>XXX</em> tätig.
+Für alle Kontakt Fällen wurden meinen E-Mails an Herrn <em>S.</em> weiter geleitet.
+
+mfG
+
+<em>R. K.</em></pre>
+<p>
+	Über den Grund der Ausscheidung kann man nur spekulatius.
+	Es könntem aber des Grammatik gelegen haben.
+	Oder Mail-Betreffzeilen.
+</p>

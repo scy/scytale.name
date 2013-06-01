@@ -1,0 +1,38 @@
+<:THW-Website ohne mich><tags:German personal THW "web development">
+<p>
+	Dass es für das <<http://www.thw-mannheim.de/ THW Mannheim>> eine neue Website geben soll, ist ja <<http://scytale.de/blog/archives/124-Siehe,-ich-mache-alles-neu!.html schon seit über zwei Jahren bekannt>>, genauso wie dass ich daran arbeite.
+	Nach verschiedenen Ideen und Versuchen mit freien <wde:Content-Management-System Content-Management-Systemen> sowie dem Gedanken, die Site auf einem <wde:Wiki> basieren zu lassen, kristallisierte sich heraus, dass mal wieder selber coden das Mittel der Wahl war.
+</p>
+<p>
+	Ich habe verschiedene Versuche mit Systemen für statische Seiten auf Basis von <wde:XSL_Transformation XSLT> und <wde:Subversion_(Software) Subversion> durchgeführt, jeweils unter Zuhilfenahme eines anderen Build-Systems.
+	<wde:Make> schied aufgrund von Problemen mit Leerzeichen im Dateinamen aus.
+	(Eigentlich unglaublich, dass sowas für heutige Software noch Probleme darstellt.)
+	Auch <wde:Ant> war nicht ausreichend, da ich einen Großteil der Tasks selbst hätte implementieren müssen.
+	Anstatt mich dafür groß in Ants <wde:Programmierschnittstelle API> einzuarbeiten, entschied ich mich, ein speziell für Webseitengenerierung optimiertes <wde:PHP>-<wde:Framework> zu erstellen, dem ich den Namen <wde:Zankapfel Kallisti> gab.
+	Der <<https://globalgeeks.org/svn/repos/kallisti/ Quellcode>> ist online verfügbar, aber alles andere als umfangreich, was daran liegt, dass ich aus Zeitgründen (man hatte es plötzlich eilig) einen Haufen vorläufiger <wde:Unix-Shell Shellscripts> zur Generierung der fertigen Seite gecodet habe, die aber unter anderem recht stupide bei jedem Update die <em>gesamte</em> Seite neu generieren.
+</p>
+<p>
+	Nun wird's dieses ganze System aber nie zu sehen geben.
+	Das liegt daran, dass mir die Verantwortlichkeit für die Website entzogen wurde.
+	Trotz Aussagen wie <q>ich hab' von Softwareentwicklung so viel Ahnung wie die Kuh vom Eierlegen</q> sah sich die Ortsverbandsführung genötigt, konkrete Deadlines für ein wohlgemerkt auf freiwilliger Basis konstruiertes Projekt einzufordern.
+	Dabei weiß man doch spätestens seit <<http://www.heise.de/newsticker/meldung/84300 Windows Vista>> oder <wde:Duke_Nukem_Forever Duke Nukem Forever>, dass selbst Multi-Millionen-Dollar-Projekte ihre Deadlines nicht einhalten.
+	Das ist in der IT-Branche völlig normal, weil während der Entwicklung ständig unvorhersehbare Probleme und Verzögerungen auftreten.
+	Und das wohlgemerkt bei Programmierteams, die dafür bezahlt werden, den ganzen Tag nichts anderes zu machen.
+	Hat man anstelle eines Programmierteams allerdings einen einzigen Studenten, der das ganze in seiner sowieso schon spärlich gesäten Freizeit ehrenamtlich entwickeln soll, häufen sich diese Probleme und Verzögerungen natürlich entsprechend.
+	Effekt: Mehrere Deadlines verstrichen.
+	Und weil die Führung diese Deadlines offenbar auch schon anderen Personen innerhalb, vielleicht sogar auch außerhalb des Ortsverbands mitgeteilt hatte, stand sie jetzt entsprechend blöd da.
+	Gestern erreichte mich dann eine Mail, die zum Ausdruck brachte, dass den Oberen das Blöd-Dastehen jetzt auch zum Hals raushängt, und dass ab sofort jemand anderes die Entwicklung übernehmen würde, basierend auf seinem eigenen System.
+</p>
+<p>
+	Pikanterweise ist das derselbe Jemand, der keine halbe Woche zuvor noch auf die Bitte, einige Dateien in UTF-8 umzucodieren und ein paar Tags zu fixen (reine Hiwi-Arbeiten also), antwortete, er habe momentan ja mal sowas von absolut keine Zeit.
+	Ich frage mich, wie er dann eine Website auf die Beine stellen will, aber ich werde dieses Kunststück ja spätestens in einem Monat vorgeführt bekommen.
+	Das ist nämlich der Termin, an dem ich alle freiwillig übernommenen zusätzlichen Aufgaben innerhalb des Ortsverbandes niederlegen werde.
+	Nicht als Racheakt, sondern weil mir der Verlauf dieser Website-Geschichte sehr deutlich gezeigt hat, wie zusätzliches Engagement belohnt und respektiert wird.
+	Nämlich nicht.
+</p>
+<p>
+	<em>(Dieser Artikel wird veröffentlicht, um der üblichen Entwicklung von Gerüchten vorzubeugen.
+	Ich habe die Informationspolitik im OV immer kritisiert und möchte mit gutem Beispiel vorangehen.
+	Nur wenn sämtliche Meinungen offen auf dem Tisch liegen, kann sich jeder selbst ein Bild machen.
+	Ich will mit niemandem abrechnen, das Thema ist für mich schlicht erledigt und ich freue mich, ab sofort das schöne Wetter im Park statt an meinem Schreibtisch erleben zu können.)</em>
+</p>

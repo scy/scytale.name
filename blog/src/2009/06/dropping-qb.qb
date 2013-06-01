@@ -1,0 +1,20 @@
+<:Dropping qb maintainership — for real now><tags:English qb blog "open source" "free software" FLOSS maintainership WTFPL>
+<p>
+It is <</blog/2008/10/dropping-qb over half a year ago>> that I decided to stop developing my so far most successful open source project <</proj/qb/ qb>>.
+I promised to publish the logo contest submissions and I still had to update the documentation to reflect the change in maintainership.
+</p>
+<p>
+Two days ago an e-mail arrived, asking for qb installation support.
+This motivated me to finally tidy up the documentation, license and all that other stuff.
+Therefore I’m now announcing:
+</p>
+<p>
+The latest qb version is <<http://github.com/scy/qb/tree/unmaintained09 Git commit 5a6d1c9570997191a53a15fcc754d503365cdbb3>>, the tag “unmaintained09” pointing to it is signed by my PGP key.
+The docs have been updated, the GitHub repository now contains all the tags.
+Additionally, the WTFPL license text has been added.
+</p>
+<p>
+Farewell, qb, it was fun.
+Thanks to all the contributors.
+Oh, and a more powerful blog/wiki/ticketing solution is already planned&nbsp;— and it will include a qb import.&nbsp;;)
+</p>

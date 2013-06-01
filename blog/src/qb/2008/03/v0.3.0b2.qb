@@ -1,0 +1,18 @@
+<:New qb beta available: v0.3.0b2><tags:English qb meta blog PHP code Git beta tag>
+<p>
+	Some minutes ago, I've tagged the current state of the <</git/qb.git/ qb Git repository>> as version 0.3.0 Beta&nbsp;2.
+	qb users are strongly encouraged to have a look at it and report possible bugs and other strange things.
+	I'm planning to publish a 0.3.0 release candidate early next week.
+</p>
+<blockquote><p>Changes since 0.3.0b1:</p><ul>
+<li>Documentation in README.html improved <</git/gitweb.cgi?p=qb.git;a=commitdiff;h=3d1cd8df01fced8cc15960fdebc28d1075614280;hp=eba5f209d5fa6e5883d34ed0b48b2a9a03a26b49 quite a lot>>.</li>
+<li>Contrib script to import Wordpress data.</li>
+<li>.htaccess is now redirecting to qb.php instead of qb.php?$1</li>
+<li>Author and blog name are now configurable without modifying templates.</li>
+<li>QB_NODOTS has been removed, we should be safe from AFI/XSS nevertheless.</li>
+<li>Small tidying.</li>
+</ul><p>Testers are encouraged to check the following things:</p><ul>
+<li>Does URL rewriting still work for you, with and without trailing slashes?</li>
+<li>Can you think of any security exploits now that QB_NODOTS is gone?</li>
+<li>Do you understand the documentation? Is something unclear? Any suggestions?</li>
+</ul></blockquote>

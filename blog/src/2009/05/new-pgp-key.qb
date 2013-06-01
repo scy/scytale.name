@@ -1,0 +1,9 @@
+<:New PGP key><tags:English PGP gpg encryption>
+<p>
+I’m currently working on quite a lot of infrastructure changes.
+One of them is to host my web site and related things using my private DSL connection, which allows for unprecedented physical security on my server.&nbsp;;)
+Therefore I’ve created a <</files/scytale.asc new PGP key>> (ID 7057B218) which is available on my web site as well as on your favorite key servers.
+It’s currently not signed by anyone, but I expect that to change soonish.
+</p><p>
+The old key (ID 6E71F10F) has been revoked today and should not be used anymore.
+</p>

@@ -1,0 +1,7 @@
+<:Apache FATAL erealloc message with gigabytes><tags:Gentoo Computer>
+<p>
+<em>Dieser Artikel ist auf Englisch, um m&ouml;glichst viele Suchende zu erreichen.</em>
+</p>
+<p>
+Lately I found my Apache2 (2.0.54) throwing lots of messages like <tt>FATAL: erealloc(): Unable to allocate 2020565795 bytes</tt> in its <tt>error_log</tt>. I found out that this happened while reading e-mails via <a href='http://www.horde.org/imp/'>Horde IMP</a> from a <a href='http://www.courier-mta.org/'>Courier</a> IMAP server, which authenticates the user against a MySQL (4.1) database. First, I suspected MySQL. Then Horde. Then Courier. And then, finally, I found out what it was: my <tt>USE</tt> flag setting of <tt>hardenedphp</tt>, which enables the <a href='http://www.hardened-php.net/'>Hardened PHP</a> project. Disabling the flag led to a perfectly working Horde installation without any mail reading problems. I think I won't need Hardened PHP anyway.
+</p>

@@ -1,0 +1,15 @@
+<:Offline bloggen><tags:German Blog Meta qb scp KISS>
+<p>
+	Den vorigen Blogbeitrag hab ich übrigens heute Morgen im Zug geschrieben, auf meinem Notebook, offline.
+	Als Textdatei auf meiner lokalen Platte.
+	Heute Abend daheim angekommen war das Veröffentlichen ein simples
+</p>
+<shell>scp weiterfahrt.qb scytale.name:www/blog/src/2008/01</shell>
+<p>
+	Hatte ich schon erwähnt, dass ich <</proj/qb/ qb>> gerade deshalb so gut finde, weil es ohne übermäßig komplexen Unsinn auskommt, wie ihn andere Blogsysteme brauchen?
+	Datenbank, Posting-API, Google Gears... pff, ich frage euch, für was?
+	Wenn ich nicht <del>zu faul wäre</del> zu viel zu tun hätte, könnte ich das z.B. auch mit rsync vollautomatisch machen, ohne einen konkreten Beitrag angeben zu müssen.
+</p>
+<p>
+	Ach ja, die Dame am Service-Point im Frankfurter Hauptbahnhof hatte übrigens keine Ahnung, wohin ich mit meinem "Ticket zur Weiterfahrt" so alles hin darf, aber sie war der Meinung, wenn ich damit nach Frankfurt gekommen bin, dürfte ich wohl auch noch die S-Bahn nehmen...
+</p>

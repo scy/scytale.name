@@ -1,0 +1,16 @@
+<:qb version 0.3 approaching><tags:English qb meta blog PHP code Git beta>
+<p>
+	Those of you who monitor <</git/gitweb.cgi?p=qb.git qb's Git repository>> may have noticed that there's quite a lot going on.
+	The reason is that <<http://znc.in/~psychon/blog/ psychon>> approached me about running <</proj/qb/ qb>> on <<http://www.lighttpd.net/ lighttpd>>.
+	Well, we managed to make it run, and while we were at it, included parts of the 0.5 code into the current 0.2 codebase that allows qb to auto-detect where it's installed.
+	Also, new template tags were introduced and all kinds of other things fixed.
+</p>
+<p>
+	Therefore, and because lots have changed since the last official release 0.2.2, I've decided to do an interim 0.3 release before focusing on 0.5.
+	That way people who don't want to work with the Git version can be quite up-to-date, too.
+	There will be a 0.3 beta 2 in the next few days (beta 1 was Git-only), followed by a release candidate and finally the 0.3 version.
+	Stay tuned.
+</p>
+<p>
+	By the way, I've created a <</blog/qb/ sub-blog for qb news>>, so if you're not interested in the other parts of my life you can skip those now.
+</p>

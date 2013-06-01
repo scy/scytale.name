@@ -1,0 +1,27 @@
+<:Adobe RGB nach sRGB mit ImageMagick><tags:"Adobe RGB" sRGB ICC "color space" convert ImageMagick Linux "Open Source" profile howto>
+<p>
+	Das kommt davon, wenn man andere Leute an seiner Kamera rumspielen lässt.
+	Mir wurde <wde:Canon_EOS_350D die EOS> auf <wde:Adobe-RGB-Farbraum Adobe RGB> umgestellt, und ich hab es erst nach einer stundenlangen Fototour im <wde:Luisenpark> daran gemerkt, dass alle Dateien mit <path>_mg_</path> statt <path>img_</path> anfangen und die Farben blass aussehen.
+	Da ich mit Adobe RGB nicht wirklich was anfangen kann, sondern echt lieber sRGB hätte, habe ich eine Möglichkeit gesucht, das ganze automatisiert zu konvertieren, und zwar natürlich mit freien Tools.
+</p>
+<p>
+	<<http://www.imagemagick.org/ ImageMagick>>s <cmd>convert</cmd> hat einen <samp>-profile</samp>-Parameter, mit dem man auch zwischen diversen ICC-Profilen hin und her konvertieren kann.
+	Dafür braucht man aber erst mal die Profildateien.
+	Adobe stellt freundlicherweise <<http://www.adobe.com/support/downloads/iccprofiles/icc_eula_unix_end.html ICC-Profile für Linux>> bereit.
+	Die <wde:RPM>-Datei, die man bekommt, wandelt man mit <cmd>rpm2tar</cmd> in ein Tarfile um und entpackt dann die ICC-Dateien irgendwohin.
+	Die eigentliche Konvertierung läuft dann mittels (Zahlenbereich natürlich anpassen, bash&nbsp;3 benötigt):
+</p>
+<shell>
+for x in 2{786..925}; do
+  convert -profile ~/tmp/icc/AdobeRGB1998.icc _mg_$x.jpg \
+          -profile ~/tmp/icc/sRGB\ Color\ Space\ Profile.icm \
+          -quality 97 img_$x.jpg
+done
+</shell>
+<p>
+	Danach sollte man noch die EXIF-Daten wie <<http://studio.imagemagick.org/pipermail/magick-developers/2006-October/002666.html hier beschrieben>> anpassen:
+</p>
+<shell>
+exiftool -overwrite_original \
+  -ColorSpace=sRGB -InteropIndex=R98 img_2{786..925}.jpg
+</shell>

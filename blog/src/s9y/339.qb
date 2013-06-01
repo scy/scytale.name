@@ -1,0 +1,11 @@
+<:Netzteil mit neuem Layout><tags:Meta>
+<p>
+Es war mir zu blöd, jedesmal dieses kaputte tabellenbasierte Default-Skin von Serendipity an meine Bedürfnisse anflicken zu müssen. Von daher hab' ich jetzt einfach mal Tabula Rasa gemacht und mein ganz eigenes Layout gebaut. Noch lehnt es sich ein ganzes Stück an das Default-Template an, das wird aber im Laufe der nächsten Tage wohl verschwinden. Außerdem bin ich mir bewusst, dass es noch die ein oder anderen Bugs gibt:
+</p>
+<ul>
+<li>Der Internet Explorer hat Darstellungsschwierigkeiten. Das juckt mich jedoch nicht im geringsten. Dieses Stück Dreck hat noch ganz andere Schwierigkeiten, die mich genausowenig interessieren.</li>
+<li>Teilweise ist die Schrift zu klein. Zumindest kommt es mir so vor. Wie ist das bei euch? Daran werd' ich noch Detailarbeiten machen müssen.</li>
+<li>Ältere Einträge haben möglicherweise Probleme mit dem neuen CSS.</li>
+<li>Alles in allem ist das Design an sich noch eine etwas herbere Schönheit. Wobei Mozilla und Firefox gerundete Ecken machen, das ist schon weit hübscher. Ich werde aber noch einiges an Zeit ins Feintuning investieren müssen.</li>
+<li>Andere Bugs, die ich vergessen habe? Schreibt mir Kommentare, und natürlich auch einfach so Feedback, was ihr vom neuen Design haltet.</li>
+</ul>

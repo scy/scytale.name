@@ -1,0 +1,7 @@
+<:HTTPS in ebuilds?><tags:Gentoo Computer>
+<p>
+Vorhin hab' ich wieder was idiotisches gesehen. Beim Versuch <var>media-video/realplayer-10.0.6</var> zu mergen gab's eine Fehlermeldung. Die Download-URL für dieses Paket fängt nicht wie sonst mit <q>http</q> oder <q>ftp</q> an, sondern mit <q>https</q>. Das ist ja im Allgemeinen ein lobenswertes Ziel, bringt aber nicht sonderlich viel. wget kann nämlich das SSL-Zertifikat nicht auflösen und verweigert dementsprechend die Verbindung. Da hat wieder jemand mitgedacht. Lösung des Problems:
+</p>
+<samp class="cmd">cd /usr/portage/distfiles
+wget --no-check-certificate https://helixcommunity.org/download.php/1589/RealPlayer-10.0.6.776-20050915.i586.rpm</samp>
+<p>(Oder welche Datei auch immer heruntergeladen werden soll.)</p>

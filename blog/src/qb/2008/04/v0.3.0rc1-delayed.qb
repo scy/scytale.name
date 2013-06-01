@@ -1,0 +1,7 @@
+<:qb 0.3.0rc1 delayed><tags:English qb meta blog PHP code Git "release candidate" delay bug>
+<p>
+	It looks as if the first release candidate of 0.3 will be delayed some days.
+	<<http://drmaxx.org/ DrMaXX>> found a bug:
+	qb does not work well when it's not installed in a sub directory of the DocumentRoot.
+	I'll look into this ASAP, hopefully tomorrow, since I'm quite busy at the moment.
+</p>

@@ -1,0 +1,17 @@
+<:Weltverbesserer><tags:Fundstücke>
+<p>Aus meiner Konsole:</p>
+<samp class='cmd'>lie ~ # emerge -Duva world
+
+These are the packages that I would merge, in order:
+
+Calculating world dependencies
+!!! Problems have been detected with your world file
+!!! Please run emaint --check world
+
+lie ~ # emaint --check world
+Checking world for problems
+
+<em>[...]</em>
+
+lie ~ # emaint -f world
+Attempting to fix world</samp>

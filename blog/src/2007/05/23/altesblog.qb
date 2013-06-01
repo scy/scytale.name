@@ -1,0 +1,15 @@
+<:Altes Blog importiert><tags:German meta blog Netzteil>
+<p>
+	Gestern hatte dieses Blog noch zwei Seiten mit Artikeln, heute sind es 22.
+	Was ist passiert?
+	Nun, ich habe mich endlich mal aufgerafft, die Artikel aus meinem alten <<http://s9y.org/ Serendipity>>-basierten Blog in <em>qb</em>'s Datenformat zu konvertieren.
+	Das lief nicht ganz ohne Hürden, aber es lief.
+	Ich habe auch ein paar Umleitungen eingerichtet, um die alten Artikel unter ihrer damaligen URL erreichbar zu halten.
+	Was ich bislang nicht übernommen habe, sind Kommentare und Trackbacks, da <em>qb</em> schlicht noch keine entsprechenden Funktionen besitzt.
+	Das wird aber noch nachgeholt.
+	Ich freu mich jetzt erstmal darüber, dass <em>qb</em> wider Erwarten (meinerseits) auch mit knapp 400 Artikeln und wohlgemerkt komplett ohne Datenbank noch sehr flüssig läuft.
+</p>
+<p>
+	Bei der Gelegenheit möchte ich eventuelle <em>qb</em>-Interessenten darauf hinweisen, dass das Subversion-Repository momentan nicht erreichbar ist.
+	Ich arbeite an ein paar mittelschweren Umstrukturierungen, unter anderem bekommt <em>qb</em> eine eigene Website, dieses Blog eine Generalüberholung und noch vieles mehr.
+</p>

@@ -1,0 +1,29 @@
+<:Hallo qb.><tags:qb PHP code software blog regex meta HTML>
+<p>
+	Dies ist mein erster Blogpost seit langem.
+	Ich habe mich vor gut zehn Monaten mit <<http://scytale.de/blog/archives/423-Blog-wird-abgeschafft.html wilden Beschimpfungen>> in Richtung <<http://s9y.org/ Serendipity>> verabschiedet und angekündigt, mein eigenes Blogsystem zu schreiben.
+	Nun, das System, das mir damals vorschwebte, existiert immer noch nicht.
+	Aber nachdem ich in den letzten Wochen mehr als einmal den Gedanken hatte <thought>verdammt, <em>das</em> würde ich jetzt gerne bloggen</thought>, habe ich mir jetzt eben schnell was zusammengehackt, was gut genug funktioniert, um es auf die Öffentlichkeit loszulassen.
+</p>
+<p>
+	Das "<wde:Content-Management-System>" (der Begriff ist eigentlich <em>viel</em> zu hoch gegriffen), das euch dieses Blog ab sofort präsentieren wird, trägt den Namen <strong>qb</strong>, was für <em>quick blogging</em> steht und wie die beiden englischen Buchstaben, also <em>cubie</em> ausgesprochen wird.
+	Es handelt sich dabei um ein relativ kleines Script, das simple HTML-Dateien durch einige <wde:Regulärer_Ausdruck reguläre Ausdrücke> jagt und dann ausgibt.
+	Dabei ist es relativ flexibel, die Syntax der Dateien ist recht einfach und es kommt völlig ohne Datenbank aus.
+</p>
+<p>
+	Momentan fehlt noch einiges an Features, ich gehe davon aus, diese innerhalb der nächsten Tage implementieren zu können.
+	Eine unvollständige To-Do-Liste würde ungefähr so aussehen:
+</p>
+<ul>
+	<li>Syndication-Feeds <rem>(das sollte eigentlich relativ schnell zu machen sein, ich müsste nur das Template umschreiben)</rem></li>
+	<li>Paging <rem>(<em>noch</em> hab ich nicht so viele Einträge, dass das nötig wäre)</rem></li>
+	<li>Kommentare <rem>(wird wohl noch ein paar Tage dauern)</rem></li>
+	<li>Tag-Suche <rem>(getaggt ist bereits, das sollte auch machbar sein)</rem></li>
+	<li>Volltextsuche <rem>(ich will nicht.)</rem></li>
+	<li>Veröffentlichung der Software sobald habwegs brauchbar</li>
+</ul>
+<p>
+	<<http://scytale.de/blog/authors/2-Dakon Dakon>>, der schon des öfteren Gastauftritte in meinem bisherigen Blog hatte, und der über die letzten Monate immer wieder für Aktivität im Blog gesorgt hat (vielen lieben Dank dafür!), weiß noch gar nichts davon, dass es ab jetzt hier weitergeht, aber ich werde ihm morgen mal ne Mail schreiben.
+	Entweder, er setzt sein eigenes Blog auf (womöglich auf qb basierend?), oder er wird auch hier weiterhin Gastauftritte haben.
+	Das "alte" s9y werde ich wohl über kurz oder lang abschalten und nur noch eine statische Version online stellen, denn wir nähern uns dem <<http://blog.php-security.org/archives/71-Month-of-PHP-Bugs-and-PHP-5.2.1.html Month of PHP Bugs>> und ich hab ehrlich gesagt schon Schiss.
+</p>

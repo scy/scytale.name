@@ -1,0 +1,7 @@
+<:Heimautomatisierung mit FS20 und freier Software><tags:German Vortrag FS20 FHEM C3MA>
+<p>
+	Das war der Titel des Vortrags, den ich <<https://www.chaostreff-mannheim.de/wiki/Seminar_9._November_2007 gestern>> gehalten habe.
+	Ich ging darin auf die Grundlagen des Systems ein, inklusive seiner Schwächen wie z.B. die unverschlüsselte Übertragung, um dann anhand von einigen Beispielen der möglichen Programmierung mit <<http://www.koeniglich.de/fhem/ FHEM>> die Flexibilität von FS20 aufzuzeigen.
+	Der Vortrag ist inzwischen als PDF verfügbar, wer Interesse dran hat:
+	<</files/talks/fs20/fs20-slides-071109.pdf Heimautomatisierung mit FS20>>.
+</p>

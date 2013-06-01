@@ -1,0 +1,22 @@
+<:How to fix Outlook 2003's missing Message-ID header using Exim><tags:English howto Outlook Microsoft Message-ID header e-mail Exim>
+<p>
+	Ever replied on a mailing list to someone who's using Microsoft's Outlook 2003 and found your message outside of the threaded view?
+	That's because you can't set a <em>In-Reply-To</em> header for that person: There's no <em>Message-ID</em> to refer to!
+	And you know what?
+	It's actually considered a feature.
+</p>
+<p>
+	When sending a mail to a non-Exchange server, Outlook will not set a Message-ID because <<http://www.slipstick.com/emo/2003/up031211.htm#ol2003message-id Microsoft got some complaints about host names "leaking" in the Message-ID>>.
+	No, I'm not the first one <<http://pessoal.org/blog/?p=30 ranting>> <<http://www.terryfrazier.com/fullThread$msgNum=1526 about>> <<http://extelligence.ringlet.net/roam/archives/000018.html this>>.
+</p>
+<p>
+	Okay, whatever, Microsoft is out of their minds as always, what do we do to fix their insanity?
+	Well, if you run an <<http://www.exim.org/ Exim mail server>>, you can add this nifty little bit into your <em>DATA</em> ACL:
+</p>
+<pre class="file">warn    condition       = ${if !def:h_Message-ID: {yes}{no}}
+        message         = Adding Message-ID header because it is missing!
+        add_header      = Message-ID: &lt;GENERATED-WASMISSING-$message_exim_id@$primary_hostname&gt;</pre>
+<p>
+	You need Exim 4.62 or higher for the "add_header" command, but you can <<http://lists.exim.org/lurker/message/20051010.150348.b17d00dc.html do it with older Exim versions>> as well.
+	Greetings to the guy that made me implement this. ;)
+</p>

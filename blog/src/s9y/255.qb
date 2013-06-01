@@ -1,0 +1,7 @@
+<:HP-(S)UX><tags:Computer>
+<p>
+Wie kann ein einzelnes Betriebssystem nur so bekloppt sein? Habe mich gerade mit nem Kollegen zusammen eine gute Stunde mit einer <a href='http://de.wikipedia.org/wiki/HP-UX'>HP-UX</a>-Maschine verbracht, die wir schon unter der Kontrolle von irgendwelchen Crackern w&auml;hnten. Root-Login war nicht mehr m&ouml;glich, weder per Passwort noch mit einem SSH-Key. Unser normaler Benutzeraccount ging allerdings weiterhin. Mit dem und einem bisschen Logw&auml;lzerei fanden wir dann schlussendlich heraus, wo das Problem lag.
+</p>
+<p>
+Die Kiste ist, da sie relativ gut angebunden ist, unter regelm&auml;&szlig;igem Beschuss von SSH-Rootlogin-Versuchen von irgendwelchen Scriptkiddies. Nat&uuml;rlich ist das Root-Passwort gut genug, so dass diese Versuche allesamt fehlschlagen. Und genau das ist uns jetzt zum Verh&auml;ngnis geworden, denn HP-UX hat sich einfach gedacht <cite>"Na hoppla, zweihundert fehlgeschlagene Loginversuche? Lieber mal fix den Account deaktivieren, damit er nicht geknackt wird."</cite> Ergebnis: Kein Root-Login mehr m&ouml;glich, da schlie&szlig;lich der Account erst vom Administrator entsperrt werden muss. Wie der Administrator wieder reinkommen soll, die Antwort blieb uns HP-UX schuldig.
+</p>

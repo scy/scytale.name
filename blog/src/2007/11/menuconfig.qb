@@ -1,0 +1,9 @@
+<:make menuconfig><tags:English Linux kernel config menuconfig color theme scheme feature>
+<p><a href='/files/2007/11/menuconfig.png'><img src='/files/2007/11/menuconfig.thumb.png' width='150' height='113' alt='Screenshot' align='right' /></a>
+	Just a quick note:
+	Configuring your kernel with <em>make MENUCONFIG_COLOR=blackbg menuconfig</em> stops it from looking like <wen:Turbo_Pascal Turbo Pascal>.
+	On the other hand, now it looks like a mixture between <wen:Tron_(film) Tron> and <wen:Hackers_(film) Hackers>, and I couldn't keep from shouting <q>It's a UNIX system! I know this!</q>
+</p>
+<p>
+	(Other choices are <em>mono</em>, <em>classic</em> and <em>bluetitle</em>, the default.)
+</p>

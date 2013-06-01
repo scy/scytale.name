@@ -1,0 +1,25 @@
+<:Backup-Excludes, Teil 2><tags:Software Computer>
+<p>
+Und das passiert, wenn man beim Bearbeiten einer Exclude-Datei ein paar Zeilen vergisst.
+</p>
+<pre><tt>1441.07| &lt; Scy&gt; arglgrmpf
+1441.21| &lt; Scy&gt; diese Backup-Scheiße geht mir langsam echt auf den Keks
+1441.27| &lt; Dakon&gt; *lol*
+1441.35| &lt; Scy&gt; Processing changed file var/backup/backup/00000001/65/01/o56.rfw
+1441.49| &lt; Dakon&gt; tolle Idee
+1441.53| &lt; Scy&gt; Ja moment
+1441.55| &lt; Dakon&gt; du bist ein Honk, echt jetzt
+1442.00| &lt; Scy&gt; Das ist ja noch nicht mal das Backup, das grad läuft
+1442.10| &lt; Dakon&gt; es ist trotzdem Müll
+1442.13| &lt; Scy&gt; Ich sichere einen Rechner namens serena auf einen Rechner namens slug
+1442.21| &lt; Dakon&gt; aber das hast du ja vermutich auch gerade herausgefunden :)
+1442.33| &lt; Scy&gt; serena ist wiederum Backup-Server für eine Kiste namens iseran
+1442.41| &lt; Scy&gt; Und um jenes backup handelt es sich
+1443.10| &lt; Scy&gt; in der excludes steht ganz deutlich:
+1443.13| &lt; Scy&gt; NEIN
+1443.21| &lt; Scy&gt; *sich kleinlaut verzieh*
+1443.29| &lt; Dakon&gt; hrhr
+1443.39| &lt; Dakon&gt; in 95% der Fälle sitzt der Fehler...
+1443.46| &lt; Scy&gt; *mauskugel werf*
+1443.58| &lt; Scy&gt; Ich hab noch genug davon!
+1444.04| &lt; Scy&gt; Sogar welche aus Blei!</tt></pre>

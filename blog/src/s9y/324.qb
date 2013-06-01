@@ -1,0 +1,24 @@
+<:Geek Home: Telnet-Zugriff auf die Fritz!Box><tags:"Geek Home" Computer>
+<p><em>Dieser Artikel ist Teil der Reihe <a href='http://scytale.de/blog/archives/323-Geek-Home-Geht-nicht-gibts-nicht..html'>Geek Home</a>.</em></p>
+
+<p>
+Bevor man mit dem lustigen Linux auf der FBF was anfangen kann, muss man sich erst mal einloggen können. Also habe ich mal Herrn Google nach brauchbaren Sites zum Thema "Fritz!Box modden" gefragt. Heraus kamen erstens das <a href='http://www.wehavemorefun.de/fritzbox/Main_Page'>Fritz!Box Wiki von wehavemorefun.de</a> und zweitens das <a href='http://www.ip-phone-forum.de/forum/viewforum.php?f=92'>Modding-Board von ip-phone-forum.de</a>. Da las ich unter anderem, dass die Firmware-Updates für die Box nichts anderes sind als ein tar-Archiv mit Dateien, die hochgeladen werden, und einem Script, das ausgeführt wird. Damit kommt man relativ leicht an Telnet-Zugang auf die Box. Unter <a href='http://www.wehavemorefun.de/fritzbox/Starten_von_telnetd'>Starten von telnetd</a> im <a href='http://www.wehavemorefun.de/fritzbox/'>Fritz!Box-Wiki</a> findet sich eine Anleitung und ein Image namens starttelnet.image, das keine Daten auf der Box verändert, sondern nur Telnet startet. Und so benutzt man es:
+</p>
+<p>
+Zuerst mal eine Warnung: Die FBF beendet vor dem Aufspielen eines Firmware-Updates so ziemlich alle Dienste und aktiviert sie erst nach einem Neustart wieder. Da das von uns verwendete Image aber überhaupt keine Daten verändert, sondern nur einmalig Telnet startet, führt es keinen Neustart aus (sonst wäre der telnetd ja wieder beendet). Nach dem Einspielen muss man sich per Telnet einloggen, in einer Konfigurationsdatei im Flash-Speicher eine Zeile hinzufügen und dann die Box neu starten, erst dann kann man sie wieder benutzen. Die zweite Warnung: Ich habe schon länger Telnet auf meiner Box und schreibe diesen Artikel im Nachhinein, ohne die beschriebenen Schritte nochmal zu probieren. Vielleicht haben sich Fehler eingeschlichen. Vergleicht das hier am besten mit anderen Anleitungen und vergesst das Denken nicht.
+</p>
+<p>
+Geht ins Administrationsmenü der Fritz!Box und dort zum Punkt "Firmwareupdate". Werft der Box die von o.a. Adresse heruntergeladene starttelnet.image vor. Zur Not tut's auch ein selbstgebautes tar, das eine Datei "var/install" mit der Zeile <tt>/usr/sbin/telnetd -l /sbin/ar7login</tt> enthält. Die Box wird kurz arbeiten und dann die Meldung <cite>"Fehler: kein Fehler"</cite> ausgeben. Das gehört so.
+</p>
+<p>
+Jetzt kann man mittels <tt>telnet fritz.box</tt> eine Verbindung zur Box aufbauen. Sie fragt nach dem Passwort für's Webinterface. Gibt man dieses ein, ist man als root eingeloggt und bekommt erstmal einige Variablen entgegengeworfen und außerdem den Syslog auf sein Login umgelenkt. Das spammt einem, wenn man VoIP-Accounts definiert hat, ziemlich die Konsole voll, aber was soll's. Wenn es stört, einfach eine zweite, zusätzliche Telnet-Sitzung aufbauen und die benutzen, die hat nämlich dann keinen Syslog. Jetzt muss man nur noch eine permanente Änderung machen, um bei jedem Start den telnetd zu laden:
+</p>
+<pre><tt>echo '#!/bin/sh'&gt;/var/rc.user
+echo '/usr/sbin/telnetd -l /sbin/ar7login'&gt;&gt;/var/rc.user
+cat /var/rc.user &gt; /var/flash/debug.cfg</tt></pre>
+<p>
+Jetzt noch ein beherztes <tt>reboot</tt> und ab sofort gibt's Telnet-Zugang auf die Box bei jedem Booten.
+</p>
+<p>
+Es sei natürlich der Vollständigkeit halber darauf hingewiesen, dass Telnet alle Daten, inklusive dem Passwort, unverschlüsselt über das LAN leitet. Außerdem sollte man nach dem Aktivieren von Telnet von einem Rechner aus dem Internet aus prüfen, ob jetzt plötzlich die ganze Welt ihr Glück beim Admin-Passwort versuchen darf. Normalerweise ist das nicht der Fall, aber vielleicht ändert AVM das mit einer der nächsten Firmwares.
+</p>

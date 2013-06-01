@@ -1,0 +1,4 @@
+<:Denkfehler der Woche, KW 48><tags:German Denkfehler grep>
+<p>
+	Man benutze <em>grep -qv</em>, um herauszufinden, ob ein String in einer Datei <em>nicht</em> vorkommt.
+</p>

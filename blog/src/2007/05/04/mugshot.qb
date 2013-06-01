@@ -1,0 +1,35 @@
+<:Mugshot? Nice try.><tags:English Mugshot "Web 2.0" feeds>
+<p>
+	After learning about <<http://mugshot.org/ Mugshot>> (<wen:Mugshot Wikipedia article>) today, I was tempted to try it out.
+	The basic idea behind it is to create a page where all the stuff you're doing online comes together, like <<http://www.planetplanet.org/ Planet>> on Speed.
+	Every user creates his or her own page that shows the last photos you've sent to <<http://www.flickr.com/ Flickr>>, the last thing you've linked to on <<http://del.icio.us/ del.icio.us>>, your latest <<http://www.youtube.com/ YouTube>> videos, blog posts and what not.
+	All this stuff is aggregated into a neat AJAXish interface.
+	A desktop client for Windows and Linux is also available.
+</p>
+<p>
+	<q>Wait, what?</q> I can hear you say.
+	Yes, there's no desktop client for the Mac, so why is there one for Linux?
+	Because the company behind mugshot is not Google, Yahoo or any of the big Web&nbsp;2.0 players.
+	It's Red Hat.
+	Yes, the Linux distributor.
+	And in case you're wondering whether the source code is available:
+	<<http://developer.mugshot.org/ It is>>.
+</p>
+<p>
+	You can't get a lot of information from the <<http://mugshot.org/about about page>>, the <<http://mugshot.org/features features page>> or the <<http://blog.mugshot.org/?page_id=245a ridiculous help page>> (just have a look at the URL!) about how it's like to be a Mugshot user.
+	The only possiblity is to create an account.
+	After having tried Mugshot for about 15 minutes, I decided not to use it.
+</p>
+<p>
+	The main reason is the lack of documentation.
+	I couldn't find out after two hours how to add a news feed for my favorite blogs.
+	Maybe that's because it's not possible (although I've seen feeds on other people's Mugshot pages), but it would be nice if the site would clearly say that somewhere.
+	Maybe you can add feeds via the Mugshot desktop application.
+	But, left alone the fact that there's no package available for <<http://www.gentoo.org/ Gentoo>>, it reminds me way too much of <<http://desktop.google.com/ Google Desktop>>.
+</p>
+<p>
+	The second reason is, in order to interact with your (real life) friends using Mugshot, they need an account as well.
+	You can't add someone else's Flickr photostream, for example.
+	Yes, this is basically a good thing, but it makes Mugshot unusable for the kind of "centralized whats-going-on site" I was hoping to turn it into.
+	Back to developing this shit myself.
+</p>

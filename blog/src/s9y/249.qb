@@ -1,0 +1,8 @@
+<:dev-php/php-5.0.4 wants to downgrade MySQL><tags:Gentoo Computer>
+<p>
+<em>Dieser Eintrag ist auf Englisch, um m&ouml;glichst viele Suchende zu erreichen.</em>
+</p>
+
+<p>
+I just tried to <code>emerge -Duva world</code> on the server hosting this blog. Problem: The CLI version of <a href='http://php.net/'>PHP</a> wants to downgrade from MySQL 4.1.12 (which I am using) to 4.0.24-r2. After some searching I found the reason: <a href='http://bugs.gentoo.org/show_bug.cgi?id=95150'>bug #95150</a> explains that this is an error in php5-sapi-r2 (which the PHP ebuild inherits). I guess it will be fixed until the end of the week. I'll just wait.
+</p>

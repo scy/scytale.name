@@ -1,0 +1,4 @@
+<:KDE-Bug #108136: KRegExpEditors Probleme mit dem Dollar><tags:Software Computer>
+<p>
+Und just wieder einen neuen KDE-Bug aufgemacht. <a href='http://bugs.kde.org/show_bug.cgi?id=108136'>#108136</a> beschäftigt sich mit einem Problem, das der superpraktische, aber verkannte KRegExpEditor (sogar einige KDE-Entwickler kennen das Tool nicht) mit dem Dollarzeichen, das in regulären Ausdrücken für "Zeilenende" steht, hat. Benutzt man z.B. die Expression <span style="color:#080;">...$</span> ("drei Zeichen vor dem Zeilenende") mit dem Teststring <span style="color:#080;">abcde</span>, so wird nur "de" hervorgehoben. Mal schaun, woran das liegt, vielleicht schreibt ja jemand im Bug was interessantes.
+</p>

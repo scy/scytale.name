@@ -1,0 +1,4 @@
+<:Mein erster Patch><tags:Computer>
+<p>(Klingt irgendwie nach "mein erstes Pony", aber gut.)</p>
+<p>Hab gestern meinen ersten Patch für ein Open Source-Projekt erstellt und an die Verantwortlichen geschickt. Dabei handelt es sich um eine Änderung zu <a href='http://www.gentoo.org/'>Gentoos</a> Netzwerk-<a href='http://linux.about.com/cs/linux101/g/init_script.htm'>Initscript</a>, die es erlaubt, <a href='http://www.phystech.com/download/dhcpcd.html'>dhcpcds</a> <a href='http://www.phystech.com/download/dhcpcd.html'>Cache</a>-Datei auf Wunsch zu löschen, damit bei unautoritativen Servern wesentlich schneller eine IP wieder zugewiesen wird.</p>
+<p>Eine genaue Beschreibung inklusive Patches findet sich in <a href='http://bugs.gentoo.org/'>Gentoos Bugzilla</a> als <a href='http://bugs.gentoo.org/show_bug.cgi?id=53201'>Bug #53201</a>.</p>

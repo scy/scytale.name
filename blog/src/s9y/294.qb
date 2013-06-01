@@ -1,0 +1,80 @@
+<:derstandard.at, die Dritte><tags:Netzwelt Computer>
+<p>
+(<a href='http://scytale.de/blog/archives/291-Offener-Brief-an-den-Webmaster-von-derstandard.at.html'>Teil 1</a>, <a href='http://scytale.de/blog/archives/293-derstandard.at-reagiert.html'>Teil 2</a>)
+</p>
+<pre>From: Tim Weber &lt;...@scytale.de&gt;
+To: "webmaster" &lt;webmaster@derstandard.at&gt;
+Subject: Re: AW: Browser-Inkompatibilität
+Date: Thu, 15 Sep 2005 14:42:27 +0200
+
+Liebe(r) Webmaster,
+
+Am Donnerstag, 15. September 2005 12:34 schrieben Sie:
+&gt; Wir leiten die Browser auf die Textversion um welche, nach dem wir das
+&gt; natürlich getestet haben, Probleme mit unserem Frameset bzw. der
+&gt; Auslieferung von Werbung haben.
+
+Das ist nicht wahr.  In Ihrer 
+<a href='http://www.derstandard.at/js/site/UpgradeMessage_v4.2.js'>http://www.derstandard.at/js/site/UpgradeMessage_v4.2.js</a> steht folgendes:</pre>
+<pre><code>if (!top.State.Browser.ie5up &amp;&amp; !top.State.Browser.nav6up 
+&amp;&amp; !top.State.Browser.mozilla1_3up &amp;&amp; !top.State.Browser.opera7_2up 
+&amp;&amp; !top.State.Browser.safari &amp;&amp; RH_SID!='cy') {
+        top.location.replace('/text/');</code>
+
+Das bedeutet doch wohl eindeutig, dass Sie bei allen Browsern, die nicht 
+extra aufgeführt sind, auf die Textversion umleiten.  Wie gesagt, 
+sinnvoller wäre es, bestimmte Browser auszuschließen statt nur bestimmte 
+Browser zu erlauben.
+
+&gt; Wir testen auch bei jeder neuen Version der Browser wie z.B. Konqueror
+&gt; ob wir die Umleitung deaktivieren können.
+
+Ich habe gerade mit Konqueror und einer gefälschten User-Agent-Einstellung 
+von "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)", also einem 
+IE6.0 unter Windows XP, keinen elementaren Unterschied (verglichen habe 
+ich mit Firefox 1.0.5) im Aussehen oder beim Verhalten Ihrer Website 
+feststellen können.  Vielleicht können Sie mir sagen, was denn konkret 
+nicht funktioniert.
+
+&gt; Parallel dazu versuchen wir das Problem durch Programmierung zu 
+&gt; beheben was bis jetzt jedoch ohne Erfolg blieb. Weiters wird unser
+&gt; Quellcode laufend Schritt für Schritt optimiert um die W3C Standards
+&gt; einzuhalten.
+
+Vielleicht einen Vorschlag zum Kompromiss:  Lassen Sie den User 
+entscheiden, ob er sich trotzdem traut, Ihre Website anzusehen, sprich, 
+schaffen Sie die Möglichkeit, ein Cookie zu setzen, das aussagt "ich 
+weiß, dass mein Browser nicht offiziell unterstützt wird, bin aber 
+gewillt, das in Kauf zu nehmen".  Als Konqueror-User ist man wirklich 
+schlimmere Verbrechen gewohnt als eine Seite, bei der vielleicht ein oder 
+zwei Grafikfehler auftreten oder dass mal ein Werbebanner nicht angezeigt 
+wird.  Aber Ihr Hinweis weiter oben bezüglich eventueller Probleme beim 
+Darstellen von Werbung lassen in mir den Verdacht aufkommen, dass es 
+eigentlich nur darum geht.  Browser, die nicht alle Werbebildchen 
+anzeigen, sind unerwünscht.  Nun, ich kann ja verstehen, dass Sie auch 
+irgendwie Ihre Kosten wieder reinholen müssen.  Aber vielleicht sollten 
+Sie dann a) Ihre Werbung kompatibel zu mehr Browsern machen oder b) daran 
+denken, dass es haufenweise Werbeblocker-Proxies oder -Plugins gibt, so 
+dass Sie generell nicht davon ausgehen können, dass die Werbung angezeigt 
+wird, selbst auf unterstützten Browsern.
+
+Das größte Problem bei Ihrem Vorgehen liegt m.E. darin, dass Sie die 
+Benutzer "nicht unterstützter" Browser nicht etwa auf eine einfache 
+Textseite umleiten, damit könnte ich ja notfalls noch leben.  Das Problem 
+liegt vielmehr darin, dass diese "nur-Text"-Seite kostenpflichtig ist und 
+mich diese Umleitung im Endeffekt komplett davon abhält, derstandard.at 
+zu benutzen, sofern ich nicht bereit bin, ein paar Euro für die 
+Freischaltung zu zahlen.  Daher auch mein etwas weniger umgänglicher Ton 
+in der ersten Mail.  Klar, wer die nur-Text-Version nur lesen will um 
+keine Werbung auf den Seiten zu haben, der soll ruhig dafür zahlen.  Wer 
+jedoch, wie ich, einfach von einem Bekannten einen Link auf Ihre Seite 
+geschickt bekommt und sich sonst recht wenig für Nachrichten aus 
+Österreich interessiert, für den ist diese Policy schon ziemlich störend.
+
+&gt; Vielleicht findet dieses Statement ja auch den Weg in Ihren Blog.
+
+Hat es bereits, und diese Antwort auch gleich.
+
+Gruß,
+
+     Tim Weber.</pre>

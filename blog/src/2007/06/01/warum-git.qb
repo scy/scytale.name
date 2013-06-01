@@ -1,0 +1,10 @@
+<:Warum Git?><tags:German qb Git Code Subversion SVN SCM CVS YouTube Vortrag Linus><via:<<http://www.dholm.com/2007/05/23/git/ dholm>>>
+<p>
+	Falls jemand etwas verwundert ist, warum ich <<http://scytale.de/proj/qb/ qb>> von <<http://subversion.tigris.org/ Subversion>> auf <<http://git.or.cz/ Git>> umgestellt habe:
+	<<http://www.youtube.com/watch?v=4XpnKHJAok8 Dieser Vortrag>> von Linus Torvalds hat mich dazu gebracht, es mal auszuprobieren.
+	Und die Geschwindigkeit und Flexibilität, die Möglichkeit, offline Commits zu machen sowie die einfache Forkbarkeit von Projekten haben mich überzeugt.
+</p>
+<p>
+	PS: Ja, Linus ist nicht wirklich gut im Halten von Vorträgen.
+	Das macht in mir aber nicht unsympathischer; im Gegenteil.
+</p>

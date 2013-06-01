@@ -1,0 +1,17 @@
+<:Grmbl...><tags:Gentoo Computer>
+<p>Ja dankeschön. Jetzt lass' ich extra mein Notebook über Nacht laufen, um mein OpenOffice neu zu kompilieren, und dann sowas...</p>
+<p><tt>>>> Install openoffice-1.1.4 into /var/tmp/portage/openoffice-1.1.4/image/ category app-office<br/>
+* Installing OpenOffice.org into build root...<br/>
+glibc version: 2.3.4<br/>
+./setup: The temporary directory is full. (/var/tmp/portage/openoffice-1.1.4/temp/sv001.tmp)</p>
+<p>!!! ERROR: app-office/openoffice-1.1.4 failed.<br/>
+!!! Function src_install, Line 473, Exitcode 255<br/>
+!!! Setup failed</tt></p>
+<p>Ist doch zum Kotzen. Und jetzt crasht auch noch KMail, weil meine Platte voll is. Wargh.</p>
+<p><strong>Edit:</strong> Aber ganz blöd bin ich ja nicht...:</p>
+<p><tt>scy@acid scy $ rm suse92-*.iso<br/>
+root@acid root # ebuild /usr/portage/app-office/openoffice/openoffice-1.1.4.ebuild install<br/>
+root@acid root # ebuild /usr/portage/app-office/openoffice/openoffice-1.1.4.ebuild postinst<br/>
+root@acid root # ebuild /usr/portage/app-office/openoffice/openoffice-1.1.4.ebuild qmerge<br/>
+root@acid root # emerge -c app-office/openoffice</tt></p>
+<p>Hat geklappt.</p>

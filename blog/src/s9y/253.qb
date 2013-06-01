@@ -1,0 +1,4 @@
+<:Saving device nodes... [ oops ]><tags:Gentoo Computer>
+<p>
+Mein Gentoo-Notebook wirft mir neuerdings beim Runterfahren bei <cite>Saving device nodes...</cite> einen <em>tar</em>-Fehler, von wegen <cite>Cannot stat: No such file or directory</cite>. Mal wieder kurz in den erstaunlichen <a href='http://forums.gentoo.org/'>Gentoo-Foren</a> gesucht, und schon was gefunden: Laut <a href='http://forums.gentoo.org/viewtopic-t-318730.html'>Thread #318730</a> verschwinden die Nodes, bevor <em>tar</em> darauf zugreifen kann. Die Lösung: <code>RC_DEVICE_TARBALL='no'</code> in der <code>/etc/conf.d/rc</code>. Wenn man nämlich keine selbst angelegten Devices hat, kann man das sich genausogut sparen.
+</p>

@@ -1,0 +1,13 @@
+<:vCard><tags:English vCard e-mail rant>
+<p>
+	I've just received an e-mail with an attached <wen:vCard>:
+</p>
+<pre class='file'>BEGIN:VCARD
+VERSION:2.1
+N:;;;;
+EMAIL;INTERNET:<em>xxxxx</em>@web.de
+END:VCARD</pre>
+<p>
+	So, the person is actually telling me his e-mail address.
+	I like it when useless stuff happens.
+</p>

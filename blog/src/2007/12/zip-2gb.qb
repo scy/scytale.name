@@ -1,0 +1,7 @@
+<:Zippen von &gt;2GB-Dateien><tags:German ZIP "large file" Problem Software>
+<p>
+	Der Quasi-Standard für das Erstellen von <wde:PKZIP>-Dateien unter Unix, <<http://www.info-zip.org/Zip.html Zip>>, hat (zumindest auf meinem Rechner) <<http://bugs.gentoo.org/show_bug.cgi?id=200995 Probleme beim Hinzufügen einer Datei, die größer als 2&nbsp;Gigabyte ist>>.
+	Das scheint ein bisschen mit den <<http://www.info-zip.org/FAQ.html#limits bekannten Limitierungen>> zu tun zu haben, aber nicht wirklich.
+	Ideen, wie ich trotzdem eine große Datei in ein von Windows und OS&nbsp;X mit Bordmitteln lesbares Archiv kloppen kann, sind erbeten.
+	Die Tools müssen unter Linux laufen, da die Datei bereits auf meinen Rootserver hochgeladen ist und ein nochmaliger Upload keine Alternative ist.
+</p>

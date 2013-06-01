@@ -1,0 +1,32 @@
+<:Email Standards Project><tags:English e-mail standard CSS WTF>
+<p>
+	A friend recently pointed me to <<http://www.email-standards.org/ email-standards.org>>, because Internet Mail and its standards are some of my favorite subjects.
+	I was, however, quite surprised when I found out what that web site was all about.
+</p>
+<p>
+	When I hear "e-mail standards", I think of <rfc:2822>, Microsoft's <em>Thread-Index</em> crap, <wen:Sender_Policy_Framework SPF> or maybe the <wen:Netiquette>.
+	The "Email Standards Project" is about none of them.
+	When you go to their homepage, it lists some mail clients and their <q>state</q>, which is either <q>Excellent</q>, <q>Average</q> or <q>Poor</q>.
+	I did what maybe everyone would be doing first:
+	Find my own client, <wen:Mutt_(e-mail_client) Mutt>, in that list.
+	It wasn't there, although it is in my opinion one of the most standards-compliant clients out there.
+	So I had a look on what they were testing the clients for, and wondered why they called their test suite <<http://www.email-standards.org/acid-test/ acid test>>, like a <wen:Acid2 famous other one>.
+	Then I found out why.
+</p>
+<p>
+	The project that calls itself "Email Standards Project" is not about <em>e-mail</em> standards, but about the level of <em><wen:Cascading_Style_Sheets CSS> in <wen:HTML_e-mail HTML e-mail></em> support in various clients.
+	Their goal is to become a kind of reference for newsletter designers and to push mail client vendors to support more CSS than they do right now.
+</p>
+<p>
+	While I think that this is a nice thing for people who really need it, I have two big problems with the project as it is right now:
+</p>
+<ol>
+	<li>Their website completely lacks information about why HTML mail might probably be a bad thing and how to stop <</blog/2007/10/11/aperture annoying>> people who cannot or do not want to read HTML in their mails. (Hint: Make all the content in the mail available as plain text as well, don't just display "click here to read this in your browser" or "your client does not support HTML". If the project is about CSS because CSS improves accessibility, then don't forget that plain text is accessibility as well.)</li>
+	<li>The project name is just wrong. It should be something like "HTML Email Standards Project" or "Rich Newsletter Formatting Project". E-mail standards are something completely different. On the other hand, Microsoft's company name is as sucky, and they make lots of money. <em>Bloatysoft</em> wouldn't sound too good anyway.</li>
+</ol>
+<p>
+	Concerning everything else that project does:
+	Yeah, nice, keep it up.
+	I don't really care, because I hate HTML mail from the bottom of my soul, but if it helps the poor designers who are forced to write "rich e-mail", then so be it.
+	But please, just add some information on how to keep people like me from pulling their hair out because of HTML-<em>only</em> mail.
+</p>

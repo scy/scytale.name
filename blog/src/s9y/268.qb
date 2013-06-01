@@ -1,0 +1,10 @@
+<:Live-Bookmarks><tags:Meta>
+<p>
+Nachdem ich gestern die <a href='http://scytale.de/blog/archives/267-Live-Blogroll.html'>Live-Blogroll</a> eingeführt habe, gibt es nach dem selben Prinzip jetzt schon die nächste Neuerung: meine Bookmarks (oder Favoriten, Lesezeichen, wie auch immer) sind jetzt ebenfalls links untergebracht, direkt unter der Blogroll, und werden ebenfalls in unregelmäßigen Abständen vollautomatisch aktualisiert.
+</p>
+<p>
+Im Gegensatz zur Blogroll, die das <a href='http://s9y.org'>Serendipity</a>-eigene OPML-Plugin benutzt und einfach die <tt>feeds.opml</tt> meines Akregator ausgibt, ging das hier ein klein wenig schwieriger. Mein Browser, <a href='http://www.konqueror.org/'>Konqueror</a>, speichert seine Bookmarks im offenen <a href='http://pyxml.sourceforge.net/topics/xbel/'>XBEL</a>-Standard. Diese werden mittels einem von mir eigens zu diesem Zweck geklauten <a href='http://xmlvortrag.bitflux.ch/bookmarks.html'>XSLT-File</a> und ein paar wenigen Zeilen PHP-Code in XHTML umgewandelt. Dabei werden Bookmarks, die im Kommentar das Tag <tt>[priv]</tt> enthalten, nicht übernommen. Das ganze wird dann ebenfalls mittels PHP in die Datenbank geworfen, die Serendipity, mein Blog, benutzt (für s9y-User: ein einfacher "HTML-Klotz", dessen Wert überschrieben wird). Fertig.
+</p>
+<p>
+Ach ja, wundert euch nicht, dass es nur so wenig Links sind, ich habe meine Bookmarks in letzter Zeit etwas schleifen lassen. Das wird sich allerdings bald ändern...
+</p>

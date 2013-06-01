@@ -1,0 +1,5 @@
+<:Backup-Excludes für Dummies><tags:Software Computer>
+<p>
+Aua,  tut das weh. Mit chroot und beliebiger Backup-Software kann man sich klasse in die Nesseln setzen, merk ich gerade. Zum Beispiel dann, wenn man zwar das Backup so konfiguriert hat, dass es Schwachsinn wie "/proc" nicht sichert, dabei aber das komplette zweit-Gentoo, das im chroot auf der selben Kiste läuft, mitsichern will:
+</p>
+<samp class="cmd">Processing changed file var/unihost/data/_common/proc/kcore</samp>

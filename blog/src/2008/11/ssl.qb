@@ -1,0 +1,12 @@
+<:SSL certificate expires><tags:English SSL certificate HTTPS security warning>
+<p>
+	The <em>scytale.name</em> SSL certificate will expire tomorrow.
+	Since I am currently working on several infrastructure changes, I have not yet renewed it, therefore if you use SSL services on <em>scytale.name</em> (on the web site or the mail or Jabber server), you will start seeing security warnings.
+</p>
+<p>
+	Please note that your connection will not be less secure than before; your software will just warn you that there's a slight chance that the server you are talking to isn't the one you intended to reach.
+</p>
+<p>
+	The aforementioned infrastructure changes should be completed in the first or second week of December (this is not entirely in my hands); then there's going to be a new certificate.
+	Until then, you will get certificate warnings, although you can try to ask your software to accept the certificate permanently.
+</p>

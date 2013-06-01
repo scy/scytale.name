@@ -1,0 +1,19 @@
+<:Lovefilm-Plaintext-Export><tags:German Shell Script Lovefilm DVD Verleih Liste Export HTML TXT>
+<p>
+	Ich habe (momentan noch) ein Abonnement bei <<http://www.lovefilm.de/ Lovefilm>>, also einem Dienst, der mir regelmäßig DVDs zuschickt, die ich mir dann ansehe.
+	Praktisch dabei:
+	Die behalten eine Liste aller DVDs, die du dir je ausgeliehen hast.
+	Kann ganz interessant sein, wenn man sich zwei Jahre später mal ansieht, was man alles für einen Schwachsinn gesehen hat und sich nicht daran erinnert.
+</p>
+<p>
+	Nachdem ich meinen Account jetzt aber kündigen will, muss ich diese Liste irgendwie exportieren, damit ich sie nicht verliere.
+	Dafür habe ich mir folgenden Shellbefehl zusammengestrickt, der als Eingabe die <<http://www.lovefilm.de/account/selection-previous.html?previous_X_days=all HTML-Datei>> erwartet und dann für jede DVD eine Zeile mit Ausleihdatum, einem Tabulator und DVD-Titel ausgibt.
+</p>
+<shell>
+$ (grep -E 'detail.html|<td>[0-9]{1,2}\. [^ ]+ 200[0-9]</td>' |
+   sed -rn -e 's/.+title="(.+)".+/\1/p' -e 's# +<td>([0-9]{1,2}\. [^ ]+ 200[0-9])</td>#\t\1|#p' |
+   tr -d '\r\n' |
+   tr '|' '\n' |
+   sed -r -e 's/(.+)\t(.+)/\2\t\1/'
+  ) < lovefilm.html > lovefilm.txt
+</shell>

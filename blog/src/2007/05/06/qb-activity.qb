@@ -1,0 +1,27 @@
+<:qb activity><tags:English qb PHP software blog meta>
+<p>
+	Two days ago <<http://blog.galdo.de/ Galdo>> posted <<http://blog.galdo.de/index.php/qb-gefaellig/ a short article>> (in German) about me blogging again and the self-made software called <strong>qb</strong> I'm using for it.
+	This article motivated me to take the source code that's running on <<http://der-dakon.net/blog/ Dakon's blog>> and mine and tag it as <em>version 0.1</em> in the <<https://globalgeeks.org/svn/repos/qb/ Subversion repository>>.
+	Tarballs might be following tomorrow.
+</p>
+<p>
+	The next problem was that my blog is becoming longer and longer, since <em>qb</em> can't split the output on multiple pages.
+	But since I expect to be blogging more often, I needed to do something about it.
+	Therefore I've added support for pagination to <em>qb</em>.
+	While I was at it, I've removed unnecessary code and commented all the remaining source code and configuration file in detail.
+	The result was called <em>qb 0.2</em>, but I soon found out that parts of the template engine were broken (from 0.1 on), so I released a bugfix and called it <em>qb 0.2.1</em>.
+</p>
+<p>
+	<strong>Update:</strong> After posting this, I noticed that there was another off-by-one in the pagination code.
+	Fixed it, and now it's <em>qb 0.2.2</em>.
+</p>
+<p>
+	If you have <<http://subversion.tigris.org/ Subversion>> installed, you can check out the source code using:
+</p>
+<shell>
+svn co https://globalgeeks.org/svn/repos/qb/tags/release-0.2.2
+</shell>
+<p>
+	Right now it's not released under a free software license, but I'll change that soon.
+	The next feature that's gonna be added is a comment (and pingback/trackback?) function.
+</p>

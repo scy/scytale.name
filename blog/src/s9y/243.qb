@@ -1,0 +1,23 @@
+<:BBCode Destroyer für Serendipity><tags:Persönliches PHP Computer Meta>
+<p><em>Um möglichst alle Serendipity-User erreichen zu können, ist dieser Artikel in Englisch.</em></p>
+<p>I have recently updated my <a href='http://s9y.org/'>Serendipity</a> installation from the 0.7 series to 0.8 final. I was pretty surprised when I found out that the new <a href='http://www.phpbb.com/phpBB/faq.php?mode=bbcode'>BBCode</a> parser wouldn't recognize URLs having characters like "!", "~" or "?" as valid anymore and therefore show BBCode in your entries instead of a link. This is especially ugly if your blog has, say, 300 entries and even those written years ago get broken.</p>
+<p>Therefore I decided to stop using the BBCode parser and instead write my links and formatting (like bold, italic etc.) in plain HTML. But I didn't want to go through all of my 240 entries manually. So I wrote a dirty (but working) little script with the following features:</p>
+<ul>
+<li>replace tags like [b], [u], [img] and [url] with their XHTML equivalents</li>
+<li>possibility to easily modify the replacements and add new ones or delete those you don't like</li>
+<li>preview of changes before applying them to your database</li>
+<li>possibility to get rid of the NL2BR plugin as well by replacing newlines with "&lt;br/&gt;" tags and creating "&lt;p&gt;" tags around paragraphs (recognized by the one or more empty lines around them)</li>
+<li>the "newline" feature acts carefully by not touching entries already having "&lt;p&gt;" tags inside them or starting with stuff like "&lt;ul&gt;" or "&lt;div&gt;", but tells you that you need to change them manually</li>
+<li>no extra configuration needed because your local s9y config file is used</li>
+</ul>
+<p>The script is not quite perfect because except for the customization nothing is commented in the code. Also it doesn't edit the "extended" part of an entry. But I used it for my blog and it definitely worked quite fine.</p>
+<p><strong>How to use it:</strong></p>
+<ol>
+<li>get the script: <a href='http://scytale.de/files/code/serendipity/nobbcode.phps'>BBCode Destroyer</a></li>
+<li>save it inside your s9y path (where serendipity_config_local.inc.php is located), call it something like <code>nobbcode.php</code></li>
+<li>edit the settings at the top of the script file (if you want to, this is <em>optional</em>, the script works fine without)</li>
+<li>call it via your web browser (if your blog is at <code>http://scytale.de/blog/</code>, the script is at <code>http://scytale.de/blog/nobbcode.php</code>)</li>
+<li>check what it wants to do, and if it's okay, click the link at the top</li>
+<li>manually edit the stuff it couldn't change automatically</li>
+</ol>
+<p>If you have any questions concerning the script, feel free to post a comment. Saying "thank you" is considered nice as well. ;)</p>

@@ -1,0 +1,4 @@
+<:Bash-Scripting für Luser, Teil 1><tags:Computer>
+<p>Gebt das hier bitte niemals in eure Bash ein:</p>
+<p><tt>: () { :|: &amp; } ; :</tt></p>
+<p>(via <a href='http://forums.gentoo.org/viewtopic-t-67302.html'>Gentoo-Foren</a>)</p>

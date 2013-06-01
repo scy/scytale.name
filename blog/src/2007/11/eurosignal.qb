@@ -1,0 +1,12 @@
+<:Eurosignal><tags:German Eurosignal Nostalgie Funk Python Script Generator>
+<p>
+	Als ich vorhin <em>Les Professionels</em> von <wde:Air_(Band) Air> gehört habe, fiel mir auf, dass ich schon seit Jahren wissen wollte, was das für ein komisches Gedudel-Signal war, das man früher, wenn man sein UKW-Radio so niedrig wie möglich eingestellt hat, hören konnte.
+	Nach ein paar Minuten Sucherei erleuchtete mich die Wikipedia:
+	Dieses von 1974 bis 1998 gesendete Geräusch gehörte zum Funkrufdienst <wde:Eurosignal>.
+	Es wird also mitnichten die aktuelle Uhrzeit übertragen, sondern die "anzupiepsende" Nummer.
+</p>
+<p>
+	Da es das Signal im Zeitalter von SMS nicht mehr gibt, muss man es irgendwie für die Nachwelt erhalten.
+	Entweder durch den <<http://freenet-homepage.de/tufkati/eurosignal.mp3 Download einer Aufzeichnung>> oder aber mit einem praktischen kleinen <</files/2007/11/eurosignal.py Python-Script zur Eurosignal-Generierung>>, das ich <<http://forum.mysnip.de/read.php?8773,164803 bei mysnip.de>> gefunden habe.
+	Viel Spaß beim Gedudel erstellen!
+</p>

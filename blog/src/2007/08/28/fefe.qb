@@ -1,0 +1,11 @@
+<:Fefe vs. Gentoo><tags:English Fefe Gentoo bug fun><via:<<http://rrr.thetruth.de/2007/08/writing-a-bug-report/ robert's rant room>>>
+<p>
+	German <<http://www.fefe.de/dietlibc/ free software author>>, <<https://www.ccc.de/ CCC>> "VIP" and <<http://www.gentoo.org/ Gentoo>> user <<http://www.fefe.de/ Felix von Leitner>>, also known as Fefe, recently <<http://blog.fefe.de/?ts=b82e6489 blogged about>> a bug in Gentoo that made <wen:GNU_Compiler_Collection gcc> take over half a second to start up, even when called without any arguments.
+	He was, as usual, pretty <wde:polemic> about the matter in his blog, and it was fun to read.
+	However, it wasn't quite as funny to see that he used the same style in <<https://bugs.gentoo.org/190237 his actual bug report>>.
+</p>
+<p>
+	But this has been taken care of:
+	<<http://rrr.thetruth.de/ Robert Buchholz (rbu)>>, a Gentoo developer, did a great job <<http://rrr.thetruth.de/2007/08/writing-a-bug-report/ mocking Fefe in his own blog>>.
+	Everybody who reads <<http://blog.fefe.de/ Fefe's blog>> or knows him for any other reason will most likely have a great time with Robert's rant.
+</p>

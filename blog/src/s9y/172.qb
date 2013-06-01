@@ -1,0 +1,2 @@
+<:KOrganizer: Monat wechseln geht nicht><tags:Computer>
+<p>Hab mal wieder nen neuen Bugreport bei KDE eingetütet: <a href='http://bugs.kde.org/show_bug.cgi?id=98751'>#98751 Changing displayed month won't work if a day is displayed the new month doesn't have</a>. Kurz gesagt geht es darum, dass wenn man den 31. Januar betrachtet und dann in der kleinen Monatansicht links oben auf den Monatsnamen klickt und aus dem erscheinenden Drop-Down-Feld den Februar wählt, rein gar nichts passiert. Weil der Februar keine 31 Tage hat.</p>

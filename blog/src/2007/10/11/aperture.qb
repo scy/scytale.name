@@ -1,0 +1,24 @@
+<:Willkommen bei Aperture!><tags:German Apple Aperture Bashing fun Mail>
+<p>
+	Aus Gründen, die jetzt hier nichts zur Sache tun, hab ich mir eine <<http://www.apple.com/de/aperture/trial/ Trialversion von Apple's Aperture>> runtergeladen.
+	Dafür muss man seinen Namen sowie seine Mail-Adresse angeben und bekommt dann eine Mail mit einem Aktivierungsschlüssel (richtig, für ne zeitlich limitierte <em>Test</em>version).
+</p>
+<p>
+	Als wäre das nicht schon nervig genug, der <em>Inhalt</em> dieser Aktivierungsmail setzt dem ganzen die Krone auf:
+</p>
+<p class='center'><img src='/files/2007/09/aperture.png' width='554' height='368' alt='Screenshot Aperture-Mail'/></p>
+<p>
+	Man wirft mir also eine ganze 11&nbsp;KB große HTML-Mail entgegen, hat dann aber offenbar nicht mehr den Traffic, das Know-How oder, was ich ja vermute, die <em>Lust</em>, eine Plaintext-Version anzubieten.
+	Dabei könnte man, statt <q>Your email client does not support HTML messages</q> auch einfach <q>Your activation key is XXXXXXX, sorry for sending you lots of HTML crap</q> in den Plaintext-Teil schreiben.
+	Denn, und das ist ja das krasse daran, einen Textteil hat die Mail durchaus.
+	Er enthält nur keine verwertbare Information.
+</p>
+<p>
+	Naja, wahrscheinlich läuft das nach dem Motto "Aperture-User empfangen auch ihre Mails auf einem Mac, und wer nicht unsere Software verwendet, der soll schon spüren, dass alles viel problematischer ist".
+	Wie gut, dass ich Aperture wegen unsäglicher Langsamkeit und Featurearmut sowieso nicht benutze.
+</p>
+<p>
+	Achso, seh ich grad:
+	Die Message-ID ist auch ungültig.
+	Apple verstößt also nicht nur gegen die guten Sitten, sondern auch gegen RFCs.
+</p>

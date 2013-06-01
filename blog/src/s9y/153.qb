@@ -1,0 +1,3 @@
+<:HP PA-RISC, Linux 2.6 und (bzw. XOR) OpenAFS><tags:Computer>
+<p>Ich muss hier grad mal loswerden, dass eine Kombination aus einem <a href='http://www.robelle.com/library/smugbook/pa-risc.html'>HPPA</a>-Rechner mit nem 2.6er <a href='http://www.kernel.org/'>Kernel</a> so ziemlich das blödeste ist, was man sich aussuchen kann, um <a href='http://www.openafs.com/'>OpenAFS</a> zum Laufen bringen zu wollen. Mal ganz abgesehen davon, dass es OpenAFS nicht für 2.6er Kernels gibt (<strong>bitte</strong> überzeugt mich vom Gegenteil!), kann ich keinen 2.4er benutzen, weil das auf HP-Maschinen nur noch viel mehr Kopfweh verursacht.</p>
+<p>Nicht dass euch das jetzt irgendwie weiterhilft, ich wollt nur mal kurz heulen.</p>

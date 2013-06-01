@@ -1,0 +1,2 @@
+<:Backups via rsync><tags:Computer>
+<p>Eigentlich steht dieser Link nur hier, damit ich ihn nicht bookmarken muss. Aber vielleicht gefällt es dem einen oder anderen doch, sozusagen "dekrementelle" Backups zu haben, bei denen der aktuelle Snapshot vollständig ist und ältere die Unterschiede enthalten. Wie das geht und am besten implementiert wird, steht <a href='http://www.mikerubel.org/computers/rsync_snapshots/'>hier</a>. Ich werd's demnächst mal aufbauen und euch dann meine Erfahrungen mitteilen.</p>

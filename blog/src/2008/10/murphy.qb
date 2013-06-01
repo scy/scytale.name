@@ -1,0 +1,166 @@
+<:Murphy bei der Serverinstallation><tags:German Murphy Server "wahre Geschichte" Anekdote Fun>
+<p>
+	10:30 Uhr.
+	Ein mittelständisches Unternehmen.
+	Meine Mission:
+	Einen neu gelieferten 4&times;-Quad-Core-K10-Opteron aufsetzen.
+	Betriebssystem: <<http://www.gentoo.org/ Gentoo Linux>>.
+</p>
+<p>
+	Nach kurzem Briefing stehen der Geschäftsführer Herr X <em>(Name von der Red. geändert)</em> und ich im Serverraum.
+	Da ein passender Adapter für den ins Rack eingebaute <wde:KVM-Switch KVM> noch nicht geliefert wurde, improvisieren wir ein TFT-Display und eine USB-Tastatur an die Kiste und platzieren beides auf zwei übereinander gestapelte große Kartons mit Aufschrift <em>DELL</em>.
+	Der Server wird eingeschaltet, das eingebaute CD-ROM-Laufwerk geöffnet und die CD mit der Beschriftung <em>Gentoo 2008.0 AMD64 Minimal</em> eingelegt.
+	Bei der Gelegenheit verpassen wir die Chance, F11 für das Bootmenü zu drücken, was uns der Rechner nach einigen Sekunden mit <q>There is currently no operating system installed</q> quittiert.
+	<em>Strg-Alt-Entf</em>. Reboot.
+</p>
+<p>
+	Diesmal drücke ich F11 und wähle das CD-Laufwerk.
+	Das ISOLinux-Menü der Live-CD erscheint, ich drücke einfach Return, um die CD ganz normal zu booten.
+	Der Kernel lädt, haufenweise Text huscht über den Bildschirm in grusliger Menge und Geschwindigkeit.
+	Alles ganz normal.
+	Dann bleiben die Meldungen abrupt stehen.
+	<q>could not find the root block device</q>.
+	Nicht normal.
+	Ich möge doch bitte das <wde:Gerätedatei Device> zum CD-ROM-Laufwerk angeben oder mir mit <em>shell</em> eine <wde:Unix-Shell Shell> erbitten.
+</p>
+<p>
+	Hm. Was war passiert?
+	Nun, das Kernelimage wird noch vom <wde:Basic_Input_Output_System BIOS> bereitgestellt (man korrigiere mich, zumindest macht das noch ISOLinux ohne Bedarf an irgendwelchen Treibern).
+	Sobald der Kernel aber läuft, muss er auf das Laufwerk mit seinen eigenen Treibern zugreifen.
+	Und dafür hatte er offenbar keine passenden.
+</p>
+<p>
+	Okay, zweiter Versuch:
+	Knoppix.
+	(Ja, das ist für 32-Bit-Systeme. Nein, ich hatte nichts besseres dabei. Ja, das ist Dummheit.)
+	Bootloader kommt, danach wird der Bildschirm schwarz und nichts passiert mehr.
+	Schlecht.
+</p>
+<p>
+	Also Notebook raus und Google anwerfen.
+	Welches Kernelmodul brauche ich, damit dieses verdammte Laufwerk funktioniert?
+	Kann ich irgendwelche Bootparameter übergeben, die mich retten?
+	(Immerhin steht Herr X immer noch neben mir.)
+	Aber Google erzählt mir nichts brauchbares, nur einen <<http://bugs.gentoo.org/show_bug.cgi?id=232595#c5 Bugreport>>, dessen vorgeschlagener Workaround (<em>iso9660</em> in die <em>/etc/filesystems</em>) aber nicht hilft.
+	Da fragt mich Herr X:
+	<q>Könnte man nicht einfach von USB booten?</q>
+</p>
+<p>
+	Hm, gute Idee.
+	Mal abgesehen davon, dass ich das noch nie gemacht habe.
+	Aber es ist die sinnvollste Alternative.
+	Er gibt mir seinen USB-Stick (<q>Ist da auch nichts wichtiges drauf?</q>&nbsp;&ndash; <q>Der ist leer.</q>), und ich öffne die <<http://www.gentoo.org/doc/en/liveusb.xml Anleitung zum Erstellen eines Gentoo-Bootsticks>>.
+</p>
+<p>
+	Aha.
+	Man braucht ein Linuxsystem, um den Stick vorzubereiten.
+	Na gut, wir stehen hier immerhin im Serverraum.
+	Der enthält zwar nur ein einzelnes Rack mit Maschinen, und nicht auf allen läuft Linux, aber immerhin.
+</p>
+<p>
+	Erster Versuch:
+	Der momentane Webserver.
+	Hat aber kein USB-Loch.
+	Entfällt also.
+</p>
+<p>
+	Zweiter Versuch:
+	Ein anderer Server.
+	Hat ein (ziemlich verstaubtes) USB-Loch, in das ich den Stick stecke.
+	Logge mich ein.
+	<kbd>dmesg</kbd>.
+	Hm.
+	Nichts über den Stick.
+	<kbd>ls /dev/sd<em>&lt;Tab&gt;&lt;Tab&gt;</em></kbd>.
+	Nichts.
+	<kbd>lsmod</kbd>?
+	Oha: Nichts.
+	Also ein Kernel ohne Modulunterstützung, der keinen USB-Support hat.
+	Gentoo und Admin-Minimalismus <wde:Liste_der_Abkürzungen_(Netzjargon)#F for the win>.
+</p>
+<p>
+	Uns gehen die Maschinen aus.
+	Also schlage ich vor, irgendein Notebook mit einer meiner Live-CDs zu booten.
+	Aber nichts meins, denn es ist ein X60s und hat kein optisches Laufwerk.
+	Also geht Herr X kurz raus und kommt mit einem Dell-Notebook <q>designed for Windows 98</q> und fehlenden und zersplitterten Tasten wieder.
+	<q>Mein erstes</q>, sagt er und steckt eine PS/2-Tastatur in eins der Löcher auf der Rückseite, <q>die Tastatur geht nicht mehr.</q>
+</p>
+<p>
+	Wir legen die Knoppix-CD ein und booten.
+	Es dauert Ewigkeiten, weil weder der Rechner noch das Laufwerk mit Geschwindigkeitsrausch-Ambitionen gesegnet sind.
+	Also versuche ich nochmal, den Server irgendwie zum Starten zu bringen.
+	Erfolglos.
+	Nach ein paar Minuten sehe ich auf das halbtote Greisennotebook und stelle fest:
+	Der Bildschirm ist schwarz.
+	Herr X rührt am Touchpad, keine Reaktion.
+	<q>Schon okay,</q> sage ich, <q>der wird noch nen Moment brauchen.</q>
+	Schließlich muss er ja erst mal <wde:K_Desktop_Environment KDE> von der CD aus starten.
+</p>
+<p>
+	Ne halbe Minute später.
+	Es tut sich immer noch nichts, und zu meinem Schrecken stelle ich fest, dass auch die Aktivitätsleuchte am CD-ROM erloschen ist.
+	Okay.
+	Mag <wde:X_Window_System X> vielleicht nicht?
+	<em>Strg-Alt-F1</em>. <em>Strg-Alt-F1</em>.
+	Nichts passiert.
+	Ich fluche innerlich, aber da fällt mir plötzlich etwas ein.
+</p>
+<p>
+	Ich drücke <em>Strg-Alt-F1</em> auf der externen Tastatur.
+	Eine Konsole erscheint.
+</p>
+<p>
+	Okay, hübsch.
+	Also den USB-Stick einstecken und formatieren.
+	Und jetzt die Dateien von der Gentoo-CD draufkopieren.
+</p>
+<p>
+	Äh.
+</p>
+<p>
+	In dem Moment fällt mir ein, dass das CD-ROM-Laufwerk bereits belegt ist und ich die CD natürlich auch nicht rausnehmen kann, weil da ja das System von läuft.
+	Na gut.
+	Dann nehm ich eben den USB-Stick und kopier die ISO-Datei drauf, denn die liegt ja noch auf meinem Notebook.
+	Oder, äh, Moment.
+	Tut sie nicht.
+	Hab sie nämlich bereits ordentlich im Archiv für Linux-ISOs abgelegt.
+	Auf der externen Festplatte.
+	Daheim.
+</p>
+<p>
+	Wir entschließen uns, auf einer Windows-Kiste das Gentoo-ISO runterzuladen und auf den USB-Stick zu schieben.
+	Klappt einwandfrei.
+	Dann Stick wieder ans Notebook, <wde:Mounten mounten> und die ISO auf die <wde:RAM-Disk> schieben.
+	Per Loopback die ISO mounten und die Dateien rüberkopieren.
+	Oha, USB&nbsp;2.0 gab's damals noch nicht.
+	Also etwas warten.
+</p>
+<p>
+	Dann irgendwann ist der Stick fertig.
+	Abziehen, in den Server einlegen, neu starten.
+	Bootmenü.
+	"Von USB starten".
+	Warten.
+</p>
+<p>
+	Fehlermeldung.
+</p>
+<p>
+	<q>There is currently no operating system installed.</q>
+	Okay, anscheinend frisst er den USB-Stick nicht.
+	<strong>WAAAAAH.</strong>
+</p>
+<p>
+	Und das ist der Moment, in dem der akkurat gekleidete, dynamische Geschäftsführer dem geekigen Hacker plötzlich eine Lektion erteilt.
+	<q>Könnte man nicht von CD booten und dann, wenn er das CD-ROM nicht findet, auf den USB-Stick zugreifen lassen?</q>
+	<strong>Bam!</strong>
+	You have been <wde:Computerspieler-Jargon#O pwned>.
+</p>
+<p>
+	Naja, was soll ich noch groß sagen.
+	Von CD gebootet, Gentoo hat sogar ohne Zutun die Files auf dem Stick entdeckt und geladen und ist anstandslos hochgefahren.
+	Das Booten der Live-CD hat somit insgesamt ca. anderthalb Stunden in Anspruch genommen.
+</p>
+<p>
+	Und ja, dies ist eine wahre Geschichte.
+</p>

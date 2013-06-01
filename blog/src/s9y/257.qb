@@ -1,0 +1,9 @@
+<:Einzeiler: Alle FIXMEs und TODOs im Quellcode><tags:Einzeiler Computer>
+<p>
+Das funktioniert so:
+<code class='block'>
+grep -REin 'fix ?me|to[ -]?do' <span style='color:#080;'>src/*</span> | grep -v '/.svn/'
+</code>
+Dabei kann man den grünen Teil beliebig anpassen, je nachdem, welche Files man matchen will. Das zweite Grep sorgt dafür, dass die Zeilen nicht für jede "Sicherungskopie" in einem Subversion-Repository doppelt angezeigt werden.
+</p>
+

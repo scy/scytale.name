@@ -1,0 +1,28 @@
+<:Announcing Levitation: Wikipedia into Git><tags:English software FLOSS Levitation Wikipedia MediaWiki Git convert>
+<p>
+<strong>Update:</strong> Check out the <<http://levit.at/ion/ Levitation Wiki>>.
+</p><p>
+The last three days I have worked like crazy on a new project, and I’m happy to release its first usable version to the public now.
+The software is called <</proj/levitation Levitation>> and its purpose is to convert a <<http://www.mediawiki.org/ MediaWiki>> database XML dump into a <<http://git-scm.com/ Git>> repository&nbsp;— including the complete history.
+</p><p>
+Why would I want to do that?
+Because of two reasons.
+First, Git simply rocks, and I wanted to see whether it can be done.
+</p><p>
+Second, and more important:
+There is currently a nerd uprising against the <<http://de.wikipedia.org/ German Wikipedia>> and the exclusionist attitude that’s prevalent there.
+Quite a lot of people are talking about the possibility of <<http://en.wikipedia.org/w/index.php?title=Fork_(software_development)&amp;oldid=306094802 forking>>.
+People like me.
+People from the <<http://www.ccc.de/ CCC>>.
+That is, people who actually have the knowledge and resources to do it.
+</p><p>
+Since maintaining a fork using the current MediaWiki software is pretty hard to do, this is an experiment whether a distributed approach would be better.
+A system like Git makes it trivial to merge changes made in other forks into your own one (and vice versa).
+For example, it would be no problem for a single person to maintain a fork of the whole Wikipedia and keep it up-to-date, while having additional articles that would probably get deleted in the “upstream” Wikipedia.
+</p><p>
+If this system succeeds, we might be seeing not one, but 5 to 20 different “flavors” of Wikipedia soon, each with its own focus.
+Not every flavor will be useful to more than a handful of people, but the best ones will succeed.
+And if one starts to misbehave, the others can easily take its place.
+</p><p>
+Who knows, maybe there will even be some kind of <<http://www.svnhub.com/ WikiHub>> where people can maintain their own modifiactions to the mainstream Wikipedia, without requiring the massive amounts of servers the current, centralistic Wikipedia has.
+</p>

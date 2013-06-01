@@ -1,0 +1,10 @@
+<:Feed jetzt mit Timestamps><tags:Atom XML feed qb code meta>
+<p>
+	Nur mal als kleines Update zwischenrein:
+	Der Feed hat jetzt korrekte Timestamps (sowohl für <code>published</code> als auch <code>modified</code>), in der HTML-Version des Blogs stehen jetzt auch Datum und Uhrzeit (wenn auch momentan, so wie die ganze Seite, recht hässlich).
+	Dakon hat mich zu diesem Feature mit einem (zwar relativ unbrauchbaren, aber immerhin isses jetzt gemacht) Patch angestachelt.
+	Das Ausgabeformat ist flexibel, es wird das komplette Spektrum von PHPs <a href='http://de.php.net/manual/en/function.date.php'><code>date()</code></a> unterstützt.
+</p>
+<p>
+	Jetzt müsste ich nur noch aufraffen, das ganze in Subversion zu werfen, aber ich bin ja sooo müde gerade...
+</p>

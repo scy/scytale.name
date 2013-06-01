@@ -1,0 +1,72 @@
+<:Offener Brief an den Webmaster von derstandard.at><tags:Netzwelt Computer>
+<pre>Hallo Webmaster, mir wurde gerade folgendes von eurer Website vorgeworfen:
+
+&gt; Der von Ihnen verwendete Browser ist nicht mehr mit den aktuellen
+&gt; Internetstandards (HTML 4.01, CSS 2.0) kompatibel.
+
+Gelogen.  Ich benutze Konqueror 3.4.1, den Browser des KDE-Projektes und 
+Standardbrowser von diversen Linux-Distributionen wie z.B. SUSE oder 
+Kubuntu.  Dieser Browser basiert auf KHTML, KDEs ausgezeichneter 
+HTML-Rendering-Engine, die unter anderem auch von Apple im 
+Standardbrowser von Mac OS (Safari) benutzt wird.  Diese Engine versteht 
+sehr wohl HTML 4.01 und CSS 2.0, sie besteht in der aktuellsten Version 
+sogar den ACID-Test, was man von so ziemlich allen den von Ihnen als 
+Empfehlung angegebenen Browsern nicht sagen kann.
+
+&gt; Somit werden die zuletzt auf derStandard.at erfolgten Umstellungen von
+&gt; Ihrem Browser nicht mehr oder nur mehr bedingt angezeigt.
+
+Richtig, und zwar weil ihr es bekloppterweise (entschuldigt meine 
+Ausdrucksweise, aber ihr habt solche Kaspereien schon früher gemacht und 
+sie sind _total_ unsinnig und störend) für nötig haltet, für den User zu 
+entscheiden was richtig und was falsch für ihn ist.  Generell halte ich 
+es für keine falsche Idee, Benutzer, deren Browser die Seite nicht 
+korrekt darstellen kann, auf die nur-Text-Seite zu verweisen.  Aber dann 
+macht das doch bitte andersherum:  Ihr solltet grundsätzlich davon 
+ausgehen, dass der verwendete Browser die Seite darstellen _kann_, und 
+nur dann, wenn der Browser sicher inkompatibel ist, auf die Textversion 
+verweisen.  Ich weiß ja nicht, ob ihr euch bewusst seid, wie viele 
+verschiedene Browser, Screenreader und andere User Agents es auf der Welt 
+gibt, aber dadurch, dass ihr alle erstmal von vornherein als 
+"inkompatibel" deklariert, ohne überhaupt zu wissen, was das für ein 
+Browser ist und was er kann, macht ihr euch sicher keine Freunde unter 
+den Benutzern der vermeintlich "inkompatiblen" Browser (die meistens 
+_weit_ mehr von HTML (und vor allem CSS) verstehen als der empfohlene 
+Internet Explorer).
+
+&gt; derStandard.at wird sich in Zukunft strikt an die Vorgaben des W3Cs für
+&gt; die weitere Entwicklung der Website halten.
+
+Das W3C empfiehlt mit Sicherheit _nicht_ das Entwickeln nur für bestimmte 
+Browser.  Genau das tut ihr aber.  Vielleicht lohnt sich auch ein Blick 
+auf http://www.anybrowser.org/campaign/
+
+&gt; Installieren Sie sich bitte einen neuen Browser und nehmen Sie Teil an
+&gt; den zukünftigen Entwicklungsschritten von derStandard.at.
+
+Wie gesagt, mein Browser ist sehr aktuell und auch kompatibel zu den von 
+euch verwendeten Standards, auch wenn eure Politik, generell alle Browser 
+auszuschließen und nur bestimmte zuzulassen, zeigt, dass ihr eigentlich 
+keine Ahnung habt, _wofür_ die von euch so hoch gepriesenen Standards 
+überhaupt stehen.
+
+&gt; Mit dem von Ihnen verwendeten Browser werden Sie ab nun automatisch auf
+&gt; unsere Textversion unter derStandard.at/Text umgeleitet. Bitte beachten
+&gt; Sie, dass die Funktionalität dieser Version eingeschränkt ist gegenüber
+&gt; der Vollversion.
+
+Benutze ich übrigens einen Browser, der tatsächlich nur Text darstellen 
+kann (wie z.B. links2), so erscheint beim Aufrufen eurer Startseite 
+**rein gar nichts**.
+
+&gt; Prinzipiell sollten alle Browser und Betriebssysteme funktionieren,
+&gt; welche html4.01 und css2 unterstützen.
+
+Na dann vertraut doch da auch drauf!
+
+Diese Mail wird gleichzeitig als "offener Brief" auch in meinem Blog unter 
+http://scytale.de/blog/ veröffentlicht.
+
+Gruß,
+
+     Tim Weber.</pre>

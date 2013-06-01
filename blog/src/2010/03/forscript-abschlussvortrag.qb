@@ -1,0 +1,15 @@
+<:Abschlussvortrag forscript><tags:German forscript Bachelorarbeit Thesis Vortrag Termin>
+<p>
+Wer es nicht mitbekommen hat:
+Ich bin kurz davor, mein Studium abzuschließen.
+Meine Bachelorarbeit <<http://scytale.name/doc/thesis/forscript.pdf Design and Implementation of a Forensic Documentation Tool for Interactive Command-line Sessions>> ist abgegeben.
+Darin entwickle ich das (mehr oder weniger) bekannte Unix-Tool <em>script</em> in modernerem C und für forensische Untersuchungen verwendbar neu.
+Die resultierende Software, <</proj/forscript/ forscript>>, wurde/wird als freie Software veröffentlicht.
+</p><p>
+Am Montag (15. März, übermorgen) halte ich von 11—12 Uhr im Raum C116 im Gebäude A 5 der Uni Mannheim (am <<http://pi1.informatik.uni-mannheim.de/ Lehrstuhl PI1>>) meinen Abschlussvortrag.
+Gäste sind willkommen, also schaut einfach vorbei.
+Falls ihr Zweifel habt, ob ihr die Location findet, <</contact/ holt euch>> vorher meine Handynummer oder so.
+</p><p>
+Ich werde eine halbe Stunde lang über Motivation, Design und Implementierung sprechen, danach ist Zeit für Fragen.
+Die Folien wird es anschließend online geben, ich werde sie in diesem Blogbeitrag verlinken.
+</p>
