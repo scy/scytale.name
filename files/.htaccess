@@ -1,5 +1,8 @@
 Options +Indexes
 
+RemoveHandler .php
+AddType text/plain .php
+
 AddDescription "security advisories" adv
 AddDescription "some blog buttons" buttons
 AddDescription "code snippets" code
