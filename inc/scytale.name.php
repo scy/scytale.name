@@ -1,5 +1,7 @@
 <?php
 
+header('Content-Type: text/html; charset=UTF-8');
+
 if (!isset($_GET['novum'])) {
 	define('DEFAULTSTYLE', 'default.css');
 	define('TRENNER', '::');
