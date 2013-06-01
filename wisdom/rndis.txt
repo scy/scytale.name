@@ -1,0 +1,41 @@
+I’m using a HTC Touch Pro and O2 Germany for mobile internet access. Since I 
+have an unlimited data plan and my broadband DSL ISP “Alice” recently started 
+having multi-hour downtimes, I decided to hook up my mobile phone to my router 
+to provide uplink for my LAN.
+
+This is a Windows Mobile 6.1 device with a feature called “internet connection 
+sharing”. You hook it up via USB and the phone provides DHCP, DNS and does 
+masquerading for the connected host. The Linux “rndis_host” module is required 
+for this to work.
+
+
+MTU problems with RNDIS devices
+===============================
+
+The network device that appears (it will be called “cell” from now on) starts 
+with an MTU of 1492. However, this seems to be too large, and auto discovery 
+does not work apparently. Therefore I set the MTU down manually:
+
+  # ifconfig cell mtu 1380
+
+I don’t know whether it’s the device’s or O2’s fault that I have to do that 
+manually, all I know is that the device works flawlessly under Windows XP.
+
+Gentoo users can configure the MTU value in /etc/conf.d/net:
+
+  config_cell=dhcp
+  mtu_cell=1380
+
+However, after setting this MTU on the “cell” interface, I noticed that while 
+now my router can access the net quite fine, LAN clients still had issues. 
+They use the Ethernet MTU of 1500 and fail to get the correct path MTU, 
+apparently because they never see the “fragmentation required” ICMP message.
+
+Some googling led me to the TCPMSS iptables target, and its man page paragraph 
+sounded exactly like the problems I experienced. So I added the following line 
+to my iptables script:
+
+  iptables -t mangle -A FORWARD -o cell -p tcp --tcp-flags SYN,RST SYN -j \
+   TCPMSS --clamp-mss-to-pmtu
+
+And now it works.

@@ -1,0 +1,8 @@
+Running your own DNS resolver on Gentoo
+=======================================
+
+emerge -v pdns-recursor
+rc-update add precursor default
+/etc/init.d/precursor start
+echo -e "dns_servers='127.0.0.1'\\ndhcp='nodns'" >> /etc/conf.d/net
+/etc/init.d/net.eth0 restart

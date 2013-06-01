@@ -1,0 +1,10 @@
+Accessing the C$ share on Windows XP hosts
+==========================================
+
+Even when connecting with an Administrator account and password, the C$ share 
+(and other administrative shares) would return NT_STATUS_ACCESS_DENIED. I ran 
+the “set up a home network” assistant without success. Then I found a PDF[1] 
+on the web which told me where the problem was: You need to disable the 
+“simple file sharing” feature in the folder view(!) options.
+
+[1] http://www.chimica.unipd.it/luigino.feltre/pubblica/unix/winnt_doc/xp_samba.pdf

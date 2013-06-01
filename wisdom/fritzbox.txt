@@ -1,0 +1,35 @@
+VoIP phone connected to Fritz!Box via intermediate router can’t send
+====================================================================
+
+Situation:
+
+ VoIP phone --> router --> Fritz!Box
+
+The phone is in another subnet. In my case, the router is protecting a trusted 
+"core LAN" from other clients connected to the Fritz!Box, for example a 
+Nintendo Wii.
+
+The router allows RTP traffic to the phone and does not restrict the phone’s 
+outgoing connections in any way. Still, when I called somebody, I could hear 
+them quite fine, but they couldn’t hear me. SIP traffic (signalling) worked 
+like a charm in both directions.
+
+The problem turned out to be that the phone sent its outgoing RTP data not to 
+the Fritz!Box IP, but to 169.254.1.1, apparently because the box instructs it 
+to. However, the box itself sends its data to the phone from its defined LAN 
+IP address, but is available under the 169 address as well. According to the 
+manual, the box claims this IP always.
+
+There are two possible solutions. First, you could do something like
+
+   route add 169.254.1.1 interface_to_fritzbox
+
+on the router. It will then forward those strange destination address packages 
+from the phone to the correct interface.
+
+But since that address should actually be link-local, something like
+
+   iptables -t nat -A PREROUTING -i protected_lan -p udp -d 169.254.1.1 \
+      -j DNAT --to-destination your.fritzbox.ip
+
+is more consistent and more beautiful.

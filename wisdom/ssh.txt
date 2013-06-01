@@ -1,0 +1,16 @@
+h2. SSH cannot use mode 0640 private keys, how can I use a “group key”?
+
+So you’ve created an SSH key as root, chowned it to some group that should 
+have access, chmodded it to 0640 and tried using it, but then SSH complained 
+about “permissions too open”? Well, fear not.
+
+This warning exists to keep people from doing stupid things with their keys. 
+But if you know what you are doing, here’s the hint that will allow you to use 
+group- or world-readable (heck, even -writable) keys: The permissions check is 
+not made when you are not the owner of the key.
+
+In other words: Set the owner to someone else (root, or someone who’s member 
+of the target group but doesn’t need to use the key) and the group to the 
+group you want. And then try it as a not-the-owner user. It works.
+
+The check is in authfile.c, function key_perm_ok().
