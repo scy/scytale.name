@@ -1,0 +1,2291 @@
+*** Originalmail von   : Jens Ehlert@Fido 2:244/1122.9 (0:28 4.09.93)
+
+                 P e r   A n h a l t e r   r e i s e n   m i t
+
+     XXXXXX  XXXXXXX XXXXXX   XXXXX         XXXXXXX XXXXX    XXXXX  XX  XX
+    XX                  XX        XX                    XX             XX
+     XX      XX    XX  XX   XXXXXXX   XXX   XX    XXXXXXX  XXXXX  XXXXXX
+       XX   XX    XX  XX   XX  XX          XX    XX  XX   XX     XX    XX
+  XXXXXX   XX    XXXXXX   XX   XX         XX    XX   XX  XXXXX  XX     XX
+
+                    T h e    N e x t    G e n e r a t i o n
+
+                              [ Keine Panik! ]
+
+
+                       von David T Lu und Mickey McCarter
+                     uebersetzt ins Deutsche von Jens Ehlert
+
+(mit aufrichtiger Bewunderung an Douglas Adams sowie an alle Star Trek Autoren)
+
+Diese Parodie wurde von David T Lu und Mickey McCarter geschrieben und
+zur Public-Domain erklaert. Jede Vervielfaeltigung dieser Parodie ist
+vollkommen legal solange die Kopien innerhalb des Gebietes der
+Foederation der vereinigten Planeten gemacht wurde. Dies muss in allen
+Kopien erwaehnt werden, genauso wie jede Kopie mit einer kleinen Spende
+von 50 Altair-Dollars an die Delphinenstiftung versehen werden muss,
+(zum derzeit gueltigen intergalaktischen Wechselkurs). Spenden bitte
+zu Haenden von:
+
+         David T Lu, Amateurdenker
+         lulu@ucrmath.ucr.edu.Erde.Sonnensyst.null.milchstr
+ -oder-  Mickey McCarter, Potentieller Praesident
+         mickey@brahms.udel.edu.Erde.Sonnensyst.null.Milchstr
+ -oder-  Jens Ehlert, Babelfisch-Beauftragter
+         Fido 2:244/1122.9.Erde.Sonnensyst.null.Milchstr
+
+
+
+
+
+1. Szene: Enterprise-Bruecke.  Jeder ist auf seinem Posten
+
+Data    : Captain, Die Sensoren empfangen vor uns zwei Objekte. Das eine
+          scheint das andere unter Beschuss zu haben. Aber ich empfange keinen
+          Notruf vom angegriffenen Schiff.
+
+Picard  : Ist das eine Schiff der Borg, Mr. Data?
+
+Data    : Ich meine es sind die Borg, Sir, denn es scheint eine
+          wuerfelartige Form zu haben.
+
+Riker   : Alarmstufe Rot!  Schilde aktivieren!  Alle Phaser feuern!
+
+Picard  : Befehl zurueckgenommen, Nummer eins. Sie haben wohl nicht bemerkt,
+          dass ich noch nicht gekidnappt bin. Solange befehle ich das Schiff!
+
+Riker   : Oh, ja, richtig. Entschuldigung, Sir. Ich werde solange warten
+          bis man Sie in Gefangenschaft haelt und *dann* werde ich auf das
+          Borg-Schiff schiessen, wenn Sie drin sind.
+
+Picard  : aehh..., Ok. Was ist mit den anderen Schiff, Data? Ist es
+          romulanisch?
+
+Data    : Unbekannt, Captain.  Es sieht aus wie ein... ein Turnschuh.
+
+Picard  : Ein Turnschuh?
+
+Riker   : Ich habe da ein Geruecht gehoert, ueber eine neues Romulanisches
+          Nike-Class-Schiff. Es soll schneller laufen und weiter springen,
+          und es hat oben einen kleine Pumpknopf, den man druecken kann,
+          damit es sich optimal an die Gegebenheiten anpassen kann.
+          Ich habe davon im neuen "Playbeam" gelesen... aehh, (um einer
+          eventuellen frage von Councelor Troi vorzukommen) ... nur die
+          Artikel, selbstverstaendlich. Es soll streng geheim sein. Haben
+          Sie es auch gelesen, Captain?
+
+Picard  : Sie meinen den Artikel auf Seite 42, gleich nach dem Hologramm
+          von Exztentra Gallumbits, der dreibruestigen Hure von Erotikon 6?
+          Natuerlich nicht! Jeder weiss, dass ich ausschliesslich William
+          Shakespeare und Oolon Colluphid lese. Data, auf den Schirm
+          projezieren.
+
+Auf den Hauptschirm der Enterprise erscheint eine holographisch Aufzeichnung
+von Exzentra Gallumbits, der dreibruestigen... Sie wissen schon... Sie zeigt
+sich in einer Vielzahl von aufregenden Posen, ihre drei Brueste haengen -
+und was haengende Brueste - insbesondere in aufregenden Posen haengende -
+bedeuten, wird einem erst beim Anblick einer holographischen Aufzeichnung von
+Excentra Gallumbits wirklich klar...
+
+Picard  : Die Borg, nicht Seite 42, Mr. Data!
+
+Data    : Mein Versehen, Sir. Ich dachte Sie meinten...
+
+Picard  : Danke, Mr. Data!
+
+Auf den Schirm sehen wir nun das Borg-Schiff wie es gerade ein sehr viel
+kleineres, weisses, wie ein Turnschuh geformtes Schiff in einen Traktorstrahl
+gefangenhaelt. Die Schutzschilde dieses winzigen, weissen, Turnschuhgeformten
+Schiffes sind vollstaendig ausgefallen. Entsetzen macht sich auf der Bruecke
+breit.
+
+Picard  : (faucht) Worf, Frequenzen oeffnen, Kanal frei zur Kommunikation mit
+          aehh... den Turnschuh.
+
+Worf    : Frequenzen offen, Sir.
+
+Eddie   : Hallo Leute! Ich bins, Euer Eddie, der Boardcomputer hier auf der
+          Herz aus Gold. Find ich ja echt stark, dass Ihr uns begruesst,
+          lasst uns doch Freunde sein.
+
+Picard  : (richtet sich auf und seine Uniform zurecht)
+          Ich bin Jean-Luc Picard, Captain der USS Enterprise. Unsere
+          Sensoren zeigen, dass Sie Schwierigkeiten haben. Koennen wir ihnen
+          behilflich sein?
+
+Eddie   : Hey, hallo Jean-Luc! Oh ja, eine helfende Hand koennen wir hier
+          gut gebrauchen... Sie sehen ja, ich versuche gerade ein wenig
+          Tee zu machen.
+
+Riker   : Tee?
+
+Data    : Tee. Ein eigentuemliches Erdengetraenk erfunden in Asien. Ich glaube
+          in China, um praezise zu sein. Es enthaelt getrocknete Blaetter
+          in kochenden Wasser.
+
+Eddie   : Ja, genau wie es Ihr Roboter sagt. Aber mit Milch!
+
+Riker   : Milch? Etwa gemelkt von Kuehen?
+
+Data    : Ja, das ist eine alte englische Zubereitungsart. Nebenbei bemerkt
+          trifft "Roboter" auf mich nicht zu - ich bin Android.
+
+Wesley  : (fluestert) Grammatik, Data!
+
+Data    : Wie bitte?  Oh, Ich meine, ich bin _ein_ Android.
+
+Picard  : Alles schoen und gut. Ich bin sicher wir koennen bei Ihren Tee-
+          Problem helfen, richtig, Mr. LaForge?
+
+LaForge : Dazu muss die Datenstrukturen unseres Lebensmittelsynthesizers
+          reorganisiert und das Holodeck auf asiatische Pfanzenformen
+          programmiert werden, inklusive einem Fehleruebertragungsprotokoll
+          damit die beiden miteinander kommunizieren koennen. Nicht zu
+          vergessen die Benutzerfreundliche, Menuegefuehrte, Icon-basierende
+          Grafische Benutzeroberflaeche mit Cyberspace-Mausunterstuetzung und
+          Kontextbezogener Hypertextdatenbank. Geben Sie mir zwanzig Minuten
+          und ich liefere ihnen eine syrianische Affenkuh fuer die Milch.
+
+Picard  : Machen Sie es so, Lieutenant. (dreht sich zu den Schirm, auf den
+          Eddie grosswaendig dargestellt ist). Eigentlich besteht Ihr Problem
+          welches uns zur Hilfestellung bewegt hat eher aus dem Borg-Schiff,
+          welches Sie gerade attackiert.
+
+Eddie   : Huch? Die Borg? Hilfe! Moment mal, lassen sie mich gerade mal
+          ein paar Megajoules an meine Sensoren verschwenden. (Pause)
+          Himmmelkreuzdonnerwetter! Hey Jungs. Ich werde angegriffen,
+          wartet bitte, ich muss das hier ein paar Leuten erzaehlen. Bin ich
+          'ner Sekunde wieder da.
+
+[hier kommt jetzt der 30-Sekunden-Werbespot von Nike mit Michael Jordon,
+gefolgt von einem batteriebebetriebenen Hasen, der einfach nur trommelt
+und trommelt und trommelt und trommelt...]
+
+2. SZENE: Zu diesem Augenblick starren Arthur, Ford, Zaphod und Trillian
+          in der Herz aus Gold auf den Sichtschirm, der ihnen
+          via Langstreckenkamera den Angriff auf ein Schiff zeigt, welches
+          - dummerweise - das ihre ist. Die Herz aus Gold bebt jedesmal
+          wenn ein Phaserstrahl der Borg auf ihre Aussenhaut
+          prallt.
+
+Arthur  : Das war's dann wohl. Wir werden sterben!
+
+Ford    : ... Wegen einer Tasse Tee.
+
+Trillian: ... mit Milch.
+
+Marvin  : Kommt ja nicht auf den Gedanken und fragt mich, was ich da fuer
+          eine Melodie gepfiffen habe, denn Ihr wuerdet es ja doch nicht
+          verstehen. Hier stehe ich, mit meinem Gehirn von der Groesse eines
+          Planeten, damit beschaeftigt mich selbst mit ein wenig Musik von
+          der oede des Lebens abzulenken. Achja, Euere Schutzschilde halten
+          noch genau dreiundzwanzigkommazweifuenfdreisechs Sekunden, wenn
+          das noch jemand interessiert...
+
+Er dachte eine Weile darueber nach, warum er die Nanosekunden berechnet hat,
+wo ein durchschnittliches beteigeuzisches Gehirn in der Zeit zum Verarbeiten
+dieser Zahl so viel Zeit in Anspruch nimmt, dass sie wieder unkorrekt ist -
+geschweige denn der Verarbeitungsgeschwindigkeit eines Erdenmenschengehirns.
+Er subtrahierte daher eine Erdlingsverstaendigungspauschale von 1.2548 Sekunden
+von der uebriggebliebenen Zeit.
+
+Marvin  : Ich gehe Euch allen fuerchterlich auf die Nerven, Stimmt's?
+
+Zaphod  : Hey, nicht gleich aufgeben, Jungs. Uns faellt bestimmt was ein.
+          Schaut doch mal da (er bueckt sich unter die Steuerungskonsole
+          der Herz aus Gold)... Wo ist Eddies Stecker? Vielleicht bringt
+          der Computer uns da raus...
+
+Marvin  : Und Ihr habt immer erzaehlt ihr moechtet Abenteuer erleben, coole
+          und gefaehrliche Sachen machen und so...
+
+Zaphod  : Ruhe, Marvin.  Zum Zarkons, Ich brauche einen Drink!
+
+Eddie   : Hallo Leute, ich begruesse Euch (Eddie faengt sofort an alle einzeln
+          zu begruessen als Zaphod den seinen Stecker in die Dose unter der
+          Schaltkonsole gesteckt hat)
+          Habe ich da eben Drink gehoert? Lasst mir doch mal ne Pause,
+          ich werde gerade angegriffen, davor sollte ich Tee machen
+          und jetzt wollt ihr einen Drink... Was solls, Euer Wunsch ist
+          mir Befehl...
+
+Zaphod  : Bei allen Kyranautischen Propflern, Du kurzgeschlossenes Stueck
+          verdrecktes Billig-Silicon. Hol uns hier raus!
+
+Eddie   : Mit Eis?
+
+Zaphod  : Ich sagte HOL UNS HIER RAUS!!!!!
+
+Eddie   : Schongut, schongut. Nimms nicht persoenlich, Junge. Wohin fliegen
+          wir denn heute... ich kann Euch nach...
+
+Zaphod  : EGAL WOHIN!!!!!!
+
+Marvin  : Wenn ich mal bitte unterbrechen duerfte, obwohl ich genau weiss, dass
+          mir ja sowieso niemand zuhoert. Niemand kuemmert sich darum was ich
+          sage, das soll jetzt kein Fehler von Euch sein, denn meine
+          Intelligenz ist so ueberwaeltigend, dass niemand von Euch ueberhaupt
+          faehig ist, meine Gedanken ueberhaupt *beginnen* zu verstehen.
+          Ich wollte Euch nur klarmachen, dass wir alle in 5.2384 Sekunden
+          nur aus einem weiten Nebel von Elementarteilchen bestehen, nicht
+          das ich das zaehlen wuerde... Es war nett Euch zu kennen, abgesehen
+          von der Behandlung und die Ihr mir...
+
+Eddie   : Ist da jemand? Kann mir jemand mal flugs ne Zahl fuer den Zufalls-
+          generator geben?
+
+Zaphod stuerzt sich auf die Kontrollgeraete, und drueckt dabei im Fallen eine
+Kombination in das Computerterminal. Sofort scheinen sich die Konturen des
+Kontrollraumes der Herz aus Gold an Form zu verlieren. Verkehrslichter
+erscheinen ausserhalb vom Nirgendwo und amuesieren sich beim Pokerspiel mit
+Geschwindigkeitsuebertretungsanzeigen. Die endgueltige letzte Dezimalstelle
+von Pi schwebt in eine Ecke und versteckt sich vor den mathematischen
+Gesetzen.
+
+Es faengt an "Sweet (A La la la la long)"-Platten zu regnen.
+
+
+Was wird mit der allseits beliebten Enterprise geschehen? Wird sie die
+Borg stoppen koennen? Was wird aus der Herz aus Gold? Wird sie den
+Angriff ueberleben? Hat Arthur noch seine Digitaluhr an? Hat jeder ein
+Handtuch bei sich? Und die Frage, die uns alle auf den Naegeln brennt:
+Wird Arthur endlich seine Tasse Tee bekommen? Mit Milch? Die Antworten
+auf diese und viele andere, vollkommen irrelevanten Fragen folgen in
+der naechsten Folge...
+
+
+3. Szene: Wir waren gerade dabei, wie ein Borg-Schiff mitten in
+          der Zerstoerung der Herz aus Gold mitsamt ihrer Crew von einer mit
+          Teezubereitung beschaeftigten Enterprise mehr oder - eher - weniger
+          gestoert wird.
+
+Data    : Captain, Ich bekomme hier sehr merkwuerdige Daten...
+
+Picard  : Erklaeren Sie.
+
+Data    : Es sieht so aus, als wenn die Herz aus Gold im Nichts verschwunden
+          ist und sich das Borg-Schiff in einen Pottwal verwandelt hat.
+
+Riker   : Was?!
+
+Data    : Die Wahrscheinlichkeit der Verwandlung des Borgs ist zwei hoch
+          siebentrillioneneinhundersiebenundvierzigmillionen, achthundert-
+          achtzehntausendvierhundertdreiundziebzig zu eins. Das ist sehr
+          unwahrscheinlich, Sir.
+
+Riker   : Das koennte eine neue Angriffswaffe sein, von der wir noch nichts
+          wissen, Captain.
+
+Picard  : Wahrscheinlich.  Torpedos Feuer!
+
+Zwei Torpedos schiessen aus den Rohren der Enterprise. Einer von ihnen
+verwandelt sich in zehntausend Liter Schlagsahne, welche den Wal umschliessen,
+der andere verwandelt sich in eine gigantische Kirsche am Spiess und trifft
+den mit Sahne geschlagenen Pottwal einen Moment spaeter.
+
+Wesley  : Wow!  ein galaktischer Bananensplit!
+
+Data    : Captain, Ich bekomme merkwuerdige Daten vom Schiff.
+
+Picard: Sqeek-sqeek.
+
+Data    : (dreht seinen Kopf) Captain?
+          Darf ich Sie davon in Kenntnis setzten, dass sie sich in ein kleines
+          blaues pelziges Wesen von Alpha-Centauri verwandelt haben.
+          (dreht sich zu Troi)
+          Und Sie Counselor haben sich in Exzentrica Gallumbits, die
+          dreibruestige Hure von Erotikon 6 verwandelt.
+
+Riker   : Ich freue mich, dass Ihr neues Haarwuchsmittel wirkt, Captain.
+          Und Deanna, die Extra-Brust steht ihnen...
+
+Data    : Sir, Die Wahrscheinlichkeit ihrer und Counselor Troi's Metamorphose
+          betraegt genau  zwei hoch siebentrillioneneinhundersiebenundvier-
+          zigmillionen, achthundertachtzehntausendvierhundertdreiundziebzig
+          zu eins.
+
+Picard: Sqeeek!!
+
+Wesley: Ahhhhhhhhhh!
+
+Data    : (dreht sich zu Wesley)  Interessant. Es sieht so aus, als wenn sich
+          Ihre Steuereinheit in einen IBM-PCjr verwandelt haette.
+          (schaut auf seine eigene Konsole)
+          Und meine hat sich in einen C-64 verwandelt.
+
+Gleichzeitig verwandelte sich Worf in den grausamen Plapperkaefer von
+Traal und verspeiste genuesslich einen namenlosen Sicherheitsoffizier, der
+ausgerechnet heute Brueckendienst haben muss und ausnahmsweise eine rote
+Uniform der TOS-Folgen traegt. Kurz bevor er von Worf vereinnahmt wurde,
+bestand - wie auch immer - fuer Sekundebruchteile visueller Kontakt mit
+der Bruecke der Herz aus Gold, wohl aus den Grund, weil diese Szene so
+schrecklich unappetitlich ist. Das ungeschminkte Gesicht Arthur Dents
+blitze ueber den grossen Kontrollschirm. Interessanterweise waren die
+letzen Worte des Sicherheitzsoffiziers "Oh nein, nicht schon wieder...'.
+
+Lebewesen mit grosser Weisheit bemerken immer wieder, dass es der gesammten
+Menschheit bestimmt viel besser gehen wuerden, wenn man herausbekaeme, warum
+dieser jetzt tote Sicherheitsoffizier dies sagte.
+
+Wesley  : (gruebelt ueber die Bedienung einen IBM PCjr's)
+          Sir, der Computer sagt, dass er langsam muede sei immer nur
+          Tueren zu oeffnen und zu schliessen und zu oeffnen und zu schliessen
+          und zu oeffnen und zu schliessen - alle 14023 Tueren der Enterprise,
+          Und er setzt jetzt den Kurs auf Ursa Minor fuer einen Langzeiturlaub,
+          mit maximaler Warp-Geschwindigkeit.
+
+Picard: sqeek sqeek, sqeeeeek sqek sqeek!
+
+Troi    : Captain, ich spuere starke ... Verwirrung bei ihnen... und...
+          aerger... fuehlen Sie sich wohl? (Schlaegt mit ihren Augenliedern
+          sinnlich wie ein Schmetterling und streift ihren rechten Ober-
+          Schenkel ueber seinen Pelz)
+          Gibt es *irgenetwas*, das ich fuer Sie zu kann, damit Sie sich besser
+          fuehlen?
+
+Picard: sqeek sqeeek sqeeeek!
+
+Riker   : (starrt auf Troi - oder praeziser IN ihren Ausschnitt)
+          Captain, Soll ich vielleicht Dr. Crusher rufen?
+
+Picard: sqeek!
+
+Troi    : Oh, alles Klar.  Wesley, Rufe Deine Mutter.
+
+Spaeter trifft Dr. Beverly Crusher in der Bruecke ein, begleitet von
+fuenftausend Tribbles und einem stuermischen nordpolarischen Schneesturm.
+
+
+
+
+[Es folgt eine Ajax-Werbung]
+
+
+4. SZENE: Zurueck zu unseren Helden in der Herz aus Gold, die unendliche
+          Unwahrscheinlichkeit geht langsam zurueck...
+
+Trillian: (relaxt auf einer Bohnenstange mit einem Romulanischen Aal in der
+          Hand, ihr Drink frisst sich rapide durch das Glas, welches ihn
+          beinhaltet)
+          Gut. Die Wahrscheinlichkeit ist auf eins zu zwei hoch
+          siebentrillioneneinhundersiebenundvierzigmillionen, achthundert-
+          achtzehntausendvierhundertdreiundziebzig abgesunken. Jeder sollte
+          sich jetzt langsam wieder besser fuehlen.
+
+Arthur  : (schwebt in einer mit Eierschaum gefuellten Badewanne zwei Meter
+          ueber den Boden)
+          Brrr... Was ist hier los? Wo bin ich? Was ist passiert (pause)
+          verstehe ich nicht... gibt's denn keinen Tee zum Bad?
+
+Zaphod  : (Im Kampfe mit Algonianischen Turbo-Turtles)
+          Halt's Maul, Du und Dein Tee haetten uns fast umgebracht! Eh, einer
+          meiner Arme fehlt.
+
+Eddie   : Halloooo, Jungs, Wie wars? Ich war mir sicher, dass wir da
+rauskommen,
+          hey, die haben wir gelinkt. Jetzt ist es Zeit fuer ein Liedchen.
+          Mal sehen... irgendwelche Wuensche? Es ist Wunschtelefonzeit, alle
+          meine Leitungen sind nun geschaltet. Wollt Ihr was bestimmtes hoeren?
+          Wie waere es damit: mmmm, mmmmmm, m , mmmm, m, mmmmm
+
+Zaphod  : (versiegelt Eddies Lautsprecher mit einen Stueck Kleb-O-Tape)
+          Das sollte ihn ne weile ruhig stellen
+
+
+Trillian: Ein bischen vom romulanischen Aal? Damit fuehlst Du Dich besser.
+
+Zaphod  : Hey, gib mir auch was von den Zeug ab.
+
+Trillian: So wir sind jetzt bei der Wahrscheinlichkeit von eins zu zwei
+          hoch viertausendsechshunderacht angekommen. Alles wird gleich wieder
+          normal sein... aber wo ist Marvin?
+          Marvin?
+
+(Keine Antwort)
+
+Trillian: Marvin, wo bist Du?
+
+(immer noch keine Antwort)
+
+Trillian: Eddie, wo ist Marvin?
+
+Eddie: mmmmm mmm mmmmmmm mmm-mmm mmmmm.
+
+Trillian: Oh, Bruder.
+
+Arthur  : Ich glaube er ist weg.
+
+Ein Ausdruck den zu beschreiben jeder Ausdruck fehlt, befaellt Zaphods zwei
+Gesichter.
+
+Zaphod  : Ach, wer interessiert sich schon fuer das Stueck Metall. Alles was er
+          je getan hat war uns daran zu erinnern wie bloed unser Affenmaennchen
+          ist - als wenn wir das nicht schon wuessten. Den Schiffscomputer nach
+          einer Tasse Tee fragen, waehrend wir gesprengt werden...
+
+Trillian: Ok! Wir haben Normalitaet erreicht.  Aber wo sind wir?
+
+Zaphod  : Eddie, Schalte die Aussenkameras ein.
+
+Eddie: mm mmm mmm mmm-mmm m mmm mmmm-mmmm-mm mm-mmm mmm mmmmm!
+
+Zaphod  : Was sagt er?
+
+Ford    : I glaube er will erst entknebelt werden.
+
+Zaphod  : Ja, richtig, und darum bediene ich die Kameras von Hand!
+
+Zaphod lehnt sich ueber die Konsole und betrachtet sie ausgiebig.
+
+Zaphod  : Hmmmm... Weiss jemand wofuer diese Knoepfe da sind...
+          Kennt hier jemand die Bedeutung dieser Knoepfe???
+
+
+Der Anhalter bemerkt ueber den Sinn von unbekannten Knoepfen folgendes:
+
+"Knoepfe, deren Bedeutung man nicht kennt, sind das unlogischste im ganzen
+Universum ueberhaupt - und zwar deswegen: Man kennt ihre Bedeutung nicht,
+weil ihre Bedeutung darin ergeht, dass man sie nicht betaetigen soll.
+Das ist das ganze Geheimnis - nur mit dem klitzekleinen Nebeneffekt, dass
+durch die Betaetigung eines Knopfes ungewisser Bedeutung diese beiden
+unterschiedlichen Bedeutungsfelder eine Bedeutungsexplosion ausloesen,
+als wenn Materie auf Antimaterie trifft.
+
+Betaetigt man also einen vermeidlich bedeutungslosen Knopf, kippt das die
+Bedeutung des Universums und des ganzen Rests. Deswegen raecht sich das
+Universum am Knopfbediener, damit sein wahres Wesen unerkannt bleibt
+und es nicht in ein schamrotes bedeutungsloses Logikwoelkchen verwandelt
+wird. Im Allgemeinen fuehrt dieser eben betaetigte Knopf daher zum Abspielen
+eines Heino-Medleys in voller Lautstaerke, Werbeunterbrechungen,
+Atomraktenstarts und aehnlichen toedlichen Ereignissen."
+
+Ganz nebenbei hat es Zaphod mit zweiundvierzig vermeidlich bedeutungslosen
+Knoepfen zu tun - was absolut nichts zu bedeuten hat, ausser einen gewissen
+Trost, dass alles im Universum irgendwie zusammengehoert.
+
+Gluecklicherweise ist vom Aeusseren des Schiffes eine laute, eindringliche
+Stimme zu hoeren, bevor Zaphod einen Knopf betaetigen kann...
+
+
+Stimme  : Ok. oeffnet die Schleuse. Wir wissen, dass ihr da drin seit.
+          Und ihr seit umstellt.
+
+
+
+
+Wird die Crew der Enterprise mit ihrer Metharmophose klarkommen? Wo ist
+Marvin? Gefaellt Picard sein neuer Pelz? Muss sich Deanne Troi wegen ihrer
+neuen Brust neu einkleiden? Verspeist Worf auch Tribbles? Und wer haelt
+eigentlich unsere Helden in der Herz aus Gold gefangen?
+
+
+Das alles im naechsten Teil...
+
+"Bleiben Sie dran - Ich zaehle nach" (O. Kracht)
+
+
+
+SZENE 5 : Auf der Enterprise normalisiert sich alles langsam wieder.
+          Worfs Stirn bekommt wieder landschaftliche Zuege, Picard verliert
+          rapide seine Haare sowie seinem Blauton und Trois dritte Brust
+          verschwindet rasch - sehr zu ihrem und Rikers Unbehagen.
+
+          Inzwischen haben die Borg den Sektor mit der Stimmung einer
+          irrelevanten kollektiven Wal-Existenz verlassen.
+
+Worf    : (ruelpst)
+
+Picard  : Ihr Bericht, Mr. Data.
+
+Data    : Es scheint als ob ein Unwahrscheinlichkeitsfeld von der "Herz aus
+          Gold" generiert wurde, welches die Borg in einen Pottwal
+          verwandelte und auch fuer alle anderen Geschehnisse an Board der
+          Enterprise verantwortlich ist. Einschliesslich Ihrer kurzzeitigen
+          Verwandlung in ein kleines blaues...
+
+Picard  : Genug, Data.  Und wo befindet sich die Herz aus Gold im Moment?
+
+Worf    : Sir, die Herz aus Gold hat sich im Shuttle-Abteilung
+          drei materialisiert.
+          Wir sollten den Sicherheitsdienst dort einsetzen.
+
+Picard  : Gefangene! Gut. Ich wollte schon immer welche haben. Worf, Data,
+          Sie kommen mit mir. Sie uebernehmen das Kommando, Nummer eins.
+
+Worf und Data folgen Picard in den Turbo-Lift
+
+Picard  : Gefangene... Vielleicht werde ich ihnen meine beliebtesten
+          Shakespeare-Zitate vortragen...
+
+Worf unterbricht seinen Gang wie ein mit fuenf Tabletts beladener Kellner,
+gestoppt von einer sehr niedlichen und hochstimmigen Grossmutter, die
+fuenfzig Fotos ihrer zwanzig Enkelkinder vorhaelt und unverhalten die
+Frage stellt, ob er sie denn sich nicht mal eben schnell anschauen will.
+
+Worf    : Shakespeare, Sir?
+
+Picard  : Ja, Mr. Worf.  William Shakespeare war ein Dramaturge des
+          sechzehnten Jahrhunderts - Einer der bedeutendsten...
+
+Worf    : Shakespeare ist mir bekannt, Sir. Erbitte Erlaubnis zur Bruecke
+          zurueckzukehren, falls die Borg zurueckkehren.
+
+Picard  : Aber Worf, Ich glaube nicht, dass Sie meine Interpretation von
+          Julius Caesars erlebt haben. "Freunde, Roemer, Landsmaenner!..."
+
+Worf    : Tatsaechlich *habe* ich ihre Version von Julius Caesar bereits
+          genossen.
+
+Picard  : Oh. Das macht ueberhaupt nichts. Sollte ich vielleicht Hammlets
+          Monolog...
+
+Worf folgt Picard und Data in den Turbo-Lift, zuerst mit groesseren Zoegern,
+dann aber in der erneuten Erwartung eines klingonischen Unterhaltungs-
+progamms, Leid und Schmerz inklusive.
+
+Worf    : Ja, Sir.
+
+Data    : Sir, ich habe ihre Shakespear-Auffuehrungen immer sehr fasziniert
+          verfolgt.
+
+Picard  : Ahh, gut, Data, Sehen Sie... Shakespeare...
+
+
+Die Tuer des Turbo Liftes schliesst sich mit der Gewissheit gute Arbeit
+geleistet zu haben. Worf nimmt einen tiefen Atemzug, der seine Brust
+anschwellen laesst, genauso wie seine Wut ueber Data einschmeicheldes
+Interesse und den Wunsch seine Klingonenfinger ebenso in Data
+"einzuschmeicheln". Er versinkt tief in sich selbst: Das wird besser
+als das Uebungsprogramm vor ein paar Jahren im Holodeck, als er
+gegen Data, Geordi und Wes... Keinen Gedanken mehr daran verlieren, im
+Gegensatz zu dem Computergenerierten Spektakel wird dies
+- gluecklicherweise - ein *richtiger* Spass werden.
+
+
+[Werbung fuer... Erraten! den Vertikalen-Leute-Transporter der Cybernetic
+Corporation mit dem *neusten*, dem *verbesserten* und den am *meissten
+beeindruckenden* Persoenlichkeitsbild Er wird einen menschlichen Zug
+in *Jedes* Raumschiff bringen.
+
+Bestellen Sie noch heute. Waehlen Sie 00-00-0000-01342q23f08151212CYBER
+zum Sternensystemtarif
+
+Als *Gratiszugabe* erhalten sie zwei Ersatz-Persoenlichkeiten, die sie
+aus fuenf verschiedene auswaehlen koennen. Zu Risiken und Nebenwirkungen...
+
+
+SZENE 6 : Picard, Worf, Data und ein Sicherheitsteam kommen im Shuttle-
+          Abteilung drei an und umzingeln die "Herz aus Gold"
+
+Picard  : Oeffnen Sie! Wir wissen, dass Sie da drin sind und wir haben
+          Ihr Schiff umstellt!
+
+Worf    : Erlaubnis erbeten, die Luke einzutreten, Sir.
+
+Picard  : Abgelehnt, Lieutnant. Wir muessen uns wie zivilisierte
+          Sternenflottenoffiziere benehmen.
+          (fluestert zu Worf) Meist scheint die Leere in der Zivilisation
+
+Data    : Ah, Captain. "Wie es Euch gefaellt", zweiter Akt, ich glaube
+          die Rolle von "Duke Senior"
+
+Picard  : Vollkommen Korrekt, Mr. Data.
+
+Worf sieht Picard vor sich: Schreiend und rennend vor dem Hintergrund seines
+brennenden Quartiers, verfolgt von Mr. Data und zwanzig leicht vergifteten
+Pfeilen aus alten, ehrenvollen klingonischen Death-O-Shot-Laserboegen, wobei
+Data seinen Captain gerade informiert, wie lange die Wirkung des Giftes
+andauert und wie hoch die Wahrscheinlichkeit ist, dass er vor dieser Wirkung
+verblutet, welche psychologischen Erkenntnisse er aus den eben erzielten
+Treffer erkennt und das er eben diese Erkenntnisse fuer sehr unpassend zu
+einem vorbildlichen Sternenflottenkommandanten haelt.
+
+Aus dieser Vision zurueckkehrend stellt Worf fest, dass Data und Picard
+auf der anderen Seite der "Herz aus Gold" Position bezogen haben...
+
+Worf    : Entschuldigen Sie, Sir.  es scheint, als ob ich wieder einmal
+          die ganze Arbeit zu tun habe.
+
+Er hofft imbruestig, dass die Insassen des fremden Schiffes sich selbst nicht
+so schnell aufgeben, damit er zeigen kann wie unzivilisiert er tatsaechlich
+sein kann.
+
+Inzwischen haben Zaphod und seine Gefolgen ohne die Hilfe Eddies die
+externen Kameras der "Herz aus Gold" aktivieren koennen...
+
+Arthur  : Ich glaube wir sind umstellt.
+
+Zaphod  : Nette Analyse, Affenmaennchen.
+
+Arthur  : Was ist denn mit seiner Stirn passiert?
+
+Zaphod  : Nichts, das ist ein Klingone, Duemmerchen!
+
+Arthur erkennt, dass die Situation ihn langsam ueber den Kopf waechst.
+Er hat nicht den leisesten Schimmer, was da vor sich geht, aber zumindest
+fuehlt er sich in diesem Zustand sehr vertraut.
+
+Ford    : Nun, wie waer's wenn wir ein paar Blast-O-zap's nehmen und uns
+          einfach rausschiessen?
+
+Trillian: Ich denke wir sollten uns ergeben
+
+Ford    : Das war mein zweiter Gedanke...
+
+Arthur  : Guter Gedanke.
+
+Zaphod  : Ich wollte ihnen zeigen, mit wen sie es zu tun haben aber ich bin
+          wohl ueberstimmt und fuer Grundsatzdiskussionen habe ich keinen
+          Bock. Also lassen wir denen da draussen ihren Spass - fuer den
+          Moment zumindest.
+
+Die Austrittsluke der "Herz aus Gold" schwingt auf und ihre Insassen geht
+mit den Haenden hinter dem Kopf direkt in einen Kreis von
+Sicherheitsoffizieren
+
+Picard  : (richtet sich seine Uniform zurecht, was sonst?)
+          Ich bin Jean-Luc Picard, Captain der USS Enterprise. Ich wuerde
+          von ihnen gerne Wissen, was sie auf meinem Schiff zu suchen haben.
+
+Zaphod  : Captain Picard. Haben sie den geringsten Verdacht, mit wen Sie es
+          zu tun haben.
+
+Picard  : (Schulterzucken)  Err..., nein.
+
+Zaphod  : Zaehle meine Koepfe, Picard.
+
+Picard  : Gut, Sie haben zwei Koepfe.
+
+Zaphod  : Seeehr gut, Picard.  Und wieviel Arme habe ich?
+
+Picard  : Sie haben drei Arme.
+
+Data    : Captain, nur ein Mensch in der Galaxis hat zwei Koepfe und drei
+          Arme...
+
+Picard  : Richtig ... Zaphod Beeblebrox der erste, Praesident der hiesigen
+          Galaxis.
+
+Zaphod  : Richtig, Junge! Du siehst vor Dir den feinen Zaphod Beeblebrox.
+          dem ersten und einzigsten.
+
+Data    : *Ehemaliger* Praesident, Captain. Wir haben eine Multi-Frequenz-
+          Sub-Etha-Radio-Nachricht empfangen, welche besagt, dass eben dieser
+          zaphod beeblebrox unrechtmaessig den neuesten Prototypen der
+          Sternenflotte entwendet hat - die "Herz aus Golf". Es war auch
+          von einem Haftbefehl gegen Mr. Beeblebrox die Rede.
+
+Ford    : Bei Zarquon!
+
+Worf    : (strahlt freudig) Ein Haeftling (Das scheint besser zu werden als
+          Worf gehofft hatte). Soll ich sie verhoeren, Sir?
+
+Picard  : Aber, er *war* doch der Praesident.
+
+Worf    : Und nun ist er ein Haeftling, Sir!
+
+Picard  : Einverstanden. Verhoeren Sie sie, wenn Sie dies fuer noetig
+          halten. Und fragen Sie alle Gefangenen was sie zu trinken
+          wuenschen.
+
+Worf nimmt einen tiefen Atemzug, der seinen Brustkorb gigantisch aufblaeht.
+Er laeuft um die nun ehemalige Besatzung der "Herz aus Gold" und beobachtet
+sie aus den weitesten Augenwinkel. Seine Lippen formen eine duenne - sehr
+duenne - Linie. Er betrachtet jeden sorgfaeltig von oben bis unten,
+und Trillian ein wenig sorgfaeltiger als die anderen.
+
+Worf    : (bruellt) Also, Dreckskerl (nimmt beide Kinns von Zaphod
+          in seine Haende und dreht sie zu sich hin) Schau mich an wenn
+          ich zu Dir spreche, Du, Du mieser, stinkender Sohn einer
+          Purmesianischen Dschungelschildkroete mit ...
+
+Picard  : Ruhig, Lieutenant.
+
+Worf    : (nimmt noch einen tiefen Atemzug)  Jawohl, Sir.  (dreht sich
+          zurueck zu Zaphod und schreit) WAS WILLST DU TRINKEN!?!?!?!
+
+Zaphod  : Jaaa, wie waere es mit einen Panagalaktischen Donnergurgler...
+
+Worf    : MIT ODER OHNE EIS!!!!???
+
+Zaphod  : Ohne. Ich mag ihn stark.
+
+Worf    : ZITRONE ????!!!!
+
+Zaphod  : Ja.  zwei Scheiben bitte.
+
+Worf    : (zu Ford)  UND DU??!!
+
+Ford    : Ja, dasselbe - bitte. Koennen Sie bei mir bitte die Pogolarischen
+          Eisteufel dazutun?
+
+Worf    : ICH BIN ES HIER, DER DIE FRAGEN STELLT !!!!!!!
+
+Picard: Lieutenant ...
+
+Worf    : (zu Arthur) UND WAS WILLST DU, AFFENGEHIRN??!?!?
+
+Arthur  : Haben Sie Tee?
+
+Worf    : WAS???!!!!
+
+Data    : Tee, *richtigen* Tee. Ich glaube Geordi arbeitet gerade daran.
+
+Genau in diesem Moment durchdringt die Alarmsirene den Ort dieser bedaechtigen
+Konversation.
+
+Riker   : (Ueber Intercom)  Captain Picard bitte auf die Bruecke!
+
+Picard  : (beruehrt seinen Kommunikator)  Auf den Weg.
+          (zum Sicherheitsteam): Begleiten Sie diese Herren und die Dame
+          in das praesidiale-Gefangenschafts-Quartier. Und erklaeren sie
+          ihnen unser Kommunikationssystem.
+
+Ensign 1: Zu Befehl, Sir!
+
+Zur besseren Verstendnis zitieren wir nun aus dem Anhalter das Kapitel ueber
+Kommunikationssysteme der Sternenflotte:
+
+Die Sternenflotte der Foederation bedient sich mehrerer Kommunikationsgeraete:
+Am auffaelligsten ist der Kommunikator im Sternenflottenlogo, der von seinem
+Besitzer bzw. Dieb meisstens direkt am Herz getragen wird. Dass merk-
+wuerdigerweise Angaritaner ihren Kommunikator dort tragen, wo man bei
+Humanoiden das Herz vermuten wuerde und nicht dort, wo es wirklich ist
+(vorsichtig ausgedrueckt am "Allerwertesten") zeigt die Inkonsequenz der
+Foederation. Nebenbei klagen traditionsbewusste Angaritaner oefters ueber
+Schmerzen beim Sitzen.
+
+Diese Kommunikatoren werden durch einen Fingertipp aktiviert und geben als
+Signale ein Geraeusch von Sich, als wenn man einen versehentlich auf einen
+Frosch tritt - einer der Gruende, warum die Foederation immer noch keine
+Froesche aufgenommen hat. Diese Kommunikatoren aktivieren sich gelegentlich
+auch selbst - und zwar garantiert immer in den peinlichsten Momenten.
+
+Die Schiffe der Sternenflotte sind durchgaengig mit InterCom-Systemen
+ausgestattet, die ebenfalls selbst aktiv werden koennen und auch direkten
+Kontakt zum Schiffscomputer ermoeglichen. Das fuehrt zu aeusserst lustigen
+Situation: Jemand wird per InterCom gerufen, antwortet aber mit seinem
+Kommunikator ohne Fingertipp - da sich dieser von selbst beim Aufruf
+aktivierte. Nun bekommt die Gegenseite ein doppeltes Echo vom Intercom
+und dem Kommunikator, waerend der Computer die daraus entstehenden Echo und
+Rueckkopplungseffekte sofort als neuesten Rap auf CD presst und in die
+galaktischen Charts zu katapultieren versucht.
+
+Es ist wohl nicht noetig zu bemerken, dass die Foederation nur Kommunikations-
+Systeme der Sirius Cybernetic Corperation benutzt.
+
+
+
+Wird Arthur je seinen Tee bekommen? Wird Worf gluecklicherweise einem
+weiteren Shakespear-Attentat Picards entkommen? Wird die Enterprise
+Zaphod direkt zu den totalen Durchblicksstrudel auf Froschstern bringen?
+Das werden sie in der naechsten Folge erfahren...
+
+Versaeumen Sie nicht, wenn es wieder heisst: "Sternzeit..."
+
+
+
+SZENE 7 : ein wenig spaeter erreichen Picard, Data und Worf die Bruecke der
+          Enterprise. ein Borg-Schiff schwebt im leeren Raum vor der
+          Enterprise - so, wie es normalerweise Ziegelsteine nicht tun.
+
+
+Riker   : Sir, Die Borg sind zurueckgekehrt.
+
+Wesley  : Ich glaube als Banana-Split gefallen sie mir besser
+
+Worf    : Captain, wir werden gescannt.
+
+Picard  : Alle auf Gefechtsstation. Schilde auf maximale Leistung, Mr. Worf
+
+Worf    : (Pause)  Sir, Der Computer reagiert nicht.
+
+Riker   : Stoeren die Borg etwa unser Verteidigungssystem
+
+Data    : Negativ, Sir. Der Computer scheint einfach *zu beschaeftigt* zu
+          sein. Wir erhalten nur 15% der CPU-Zeit.
+
+Picard  : Beschaeftigt???!!
+
+Worf    : bestaetigt, Sir. Unsere Schilde sind jetzt aktiviert.
+
+Picard  : Alle Waffensysteme aktivieren, Mr. Worf. Auf mein Signal schiessen
+          Sie mit allem was wir haben
+
+Worf    : Zu Befehl Sir!
+
+Inzwischen, auf den Weg zur Praesidentenhaftzelle...
+
+Ford    : Hey!  Vorsicht mit den Phaser!
+
+Ensign 1: Widerstand ist Zwecklos!
+
+Ford    : Gut, aber Sie muessen mit den Teil nicht dauernd den Ruecken
+          massieren...
+
+Ensign 2: Widerstand ist Zwecklos!
+
+Arthur  : Kuemmert sich denn hier niemand um meinen Tee?
+
+Ensign 1: Widerstand ist Zwecklos!
+
+Computer: (aus einem Intercom-Speaker) Teezubereitung in Arbeit.
+          CPU-Zeit 87.9 Prozent. Voraussichtliche Berechnungszeit
+          noch 15 Minuten
+
+Ensign 2: Widerstand ist Zwecklos!
+
+Die "rote-Alarm" Neonroehren-Zierleisten blinken in der ganzen Enterprise
+Der Ruf "Alle Mann auf Gefechtsstation" sorgt fuer leichte Verwirrung
+der beiden Ensigns.
+
+Ensign 1: Gefechtsstation?  Meinst Du, dass betrifft auch uns?
+
+Ensign 2: Auf keinen Fall. Wir haben den direkten Befehl des Captains diese
+          Gefangene von der Praesidentenzelle auf die Bruecke zu bringen.
+
+Ford    : (realisiert die Vorteile einer gut "gelenkten"
+          Meinungsverschiedenheit) Achja, Ihr beide macht also einfach euere
+          Arbeit weiter, waehrend Euer Captain alles auf der Bruecke
+          ausschwitzen muss.
+
+Ensign 1: Was wollen Sie uns damit sagen?
+
+Ford    : Oh... gar nichts, wirklich nichts... ehrlich.
+
+Ensign 2: Wir denken nicht so.
+
+Ford    : Ok... ich meine, wenn Captain Picard vielleicht bemerkt, dass
+          zwei von Euch beiden seinen Befehl nicht ausgefuehrt haben -
+          den Befehl auf Gefechtsstation zu gehen...
+
+Zaphod  : (fluestert leiste)  Ford!
+
+Ford    : (ignoriert Zaphod) ... und das waehrend ihr den doch viel
+          ungefaehrlicheren und leichteren Auftrag uns zu eskortieren
+          ausfuehrt.
+
+Ensign 2: Ach ja? Ich habe bereits Bekanntschaft mit harmlos-aussehenden
+          Gefangenen gemacht...
+
+Ensign 1: Genau... Zur Zeit von Damascus, als wir dann einen ganzen Raum
+          voller aufmuepfiger Gefangenen in Notwehr mit Phasern beschossen
+          haben...
+
+Ensign 2: Richtig. Wir koennen sehr ungemuetlich werden, also fuehrt uns
+          dazu nicht in Versuchung, macht nichts Unueberlegtes.
+
+Ford    : Ohh, das klingt sehr rauh fuer mich. Wie ist es mit Dir, Arthur?
+
+Arthur  : Hmmm? Ja... schrecklich rauh... so ein Dienst. Ich moechte nicht
+          an ihrer Stelle sein.
+
+Ford    : (nach einer Pause) Wie koennen wir sicher sein, dass ihr uns mit
+          diesen klitzekleinen Phaserchen ueberhaupt etwas antun koennt.
+
+Ensign 2: Hey, willst Du uns anstinkern, oder was?
+
+Ford setzte ein Laecheln auf, dass seinem Betrachter an alles auf, in und
+um die Welt verunsichern kann. Nach drei Schritten gelangt die Gruppe der
+Gefangenen und ihre Waechter an eine Querverbindung, an welcher zufaellig
+zwei andere Sicherheitsleute sich ueber ihre Schiesskuenste unterhalten.
+Genau als Ford diese Querverbindung erreicht sagt er...
+
+Ford    : Schiesst doch auf mich?!?!?!
+
+Ensign 3: (zieht seinen Phaser und drueckt ab) Sie haben mich ja darum
+          gebeten, Bloedmann.
+
+
+
+
+
+[Werbung - kleine bunte Planetenmonde fallen von oben nach unten]
+
+Ein ca. 350 Jahre alter Mann sitzt in einen grauen Studio und trinkt Kaffee:
+
+"Ach wie gut, dass ich Ihnen nicht erzaehlen muss, dass das neue Waschmittel
+nun endlich die Gummibuendchen des Uniformsoberteil noch schonender
+Waschen kann als vorher, oder dass das neue Winterwarpfeld noch bessere
+Weltraumlage bei schnellen Manoevern garantiert...
+
+Das wollen Sie doch sowieso nicht hoeren.
+
+Ich sage ihnen nur, dass die neuen Melitto-Replikatoren-Filtertueten noch
+feinere Aromaporen haben und noch mehr gute Kaffegeschmack durchlassen..."
+
+
+
+SZENE 8 : Irgendwo auf dem Weg zur Praesidialen Haftzelle.
+          Ford hat mehr oder weniger absichtlich Ensign 3 zum Feuern
+          gebracht.
+
+Ford faellt blitzschnell auf den Boden und rollt in Richtung der
+eigentlichen Wach-Ensigns. Darauf schiesst Ensign 2 - in Erwartung mit
+diesem Schuss einen feindlichen Eindringling unschaedlich zu machen -
+dummerweise in Richtung Ensign 4. Ensign 3 stuerzt sich, als er dies
+sieht, in einem weiten Sprung, auf Ensign 1.
+
+Zaphod  : Folgt mir!
+
+Zaphod, Arthur, Trillian und Ford rennen vom Geschehen weg als Ensign 2
+die Situation als totales Chaos mit Flucht der Gefangenen als erster
+richtig interpretiert und seinen Phaser umstellt.
+
+Ensign 2: Mein Phaser steht auf voller Leistung, Beeblebrox! Nun sterbe
+          im Namen der Foederation der vereinigten Planeten!
+
+Das Buch "Per Anhalter durch die Galaxis" ist ein wirklich
+bemerkenswertes Buch. Dies ist genau der richtige Zeitpunkt um aus ihn
+etwas ueber die Foederation der Vereinigten Planeten zu zitieren. Dort
+heisst es:
+
+Es gibt ein paar wichtige Dinge an die man denken sollte, wenn man mal
+irgendwann einmal es mit der Foederation zu tun hat. Zuerst weist die
+Foederation immer darauf hin, dass sie durch und durch friedliche
+Absichten hat, sie besteht geradezu darauf, dass sie nur im aeussersten
+Notfall gewaltvolle Massnahmen zum erreichen ihrer Ziele benutzt.
+Trotzdem kann es durchaus mal vorkommen, dass ein oder zwei (oder eine
+ganze Schiffsbesatzung) ein wenig von der Pflichterfuellung ueberfordert
+sind und ihren Frust schlicht und einfach mal an jemanden auslassen
+wollen - indem sie mal kurz einen Gefangenen eliminieren, vielleicht
+auch mal zwei - oder einen ganzen Planeten.
+
+Das Kommando der Sternenflotte ist sehr verstaendnisvoll bei solchen
+Gefuehlsausbruechen und erklaert ihre Ergebnisse zu Unfaellen, so wie
+die immer noch ungeklaerte ploetzliche Supernova des Sternes Tueas,
+dessen drei bewohnte Planeten mit ihn vergluehten - wobei auch erwaehnt
+wird, dass sich in diesem Sektor geruchteweise drei romulanische Kriegs-
+schiffe aufgehalten haben sollen.
+
+Man sollte sich auch daran erinnern, dass die Foederation gross, ja sogar
+sehr gross ist. So Gross, dass selbst ein Mann wie Zaphod Beeblebrox
+nach Moeglichkeit sich diese als Freund halten sollte, denn als Feind
+der Foederation gibt es praktisch keinen bekannten Flecken der Galaxis,
+indem man sich vor der Foederation und ihrer grundsaetzlich friedlichen
+Mission verstecken kann. Wenn die beiden Gehirne von Zaphod Beeblebrox
+funktionieren wuerden (also wenn er in den letzten 5678,84 Jahren keinen
+panagalaktischen Donnergurgler getrunken haette), wuerde er erkennen,
+dass es nur eine Moeglichkeit gibt, sich von der Foederation zu
+verstecken: Indem man sich Pink anstreicht und ein Problem-anderer-Leute-
+Feld um sich herum generiert - womit die Foederation sofort vergessen
+wuerde sich um ihn ihre eigene Art von Sorgen zu machen.
+
+Das dritte und wichtigste jedoch ist die Tatsache, dass auf den Gebiet
+der Foederation im allgemeinen und der Sternenflotte im besonderen, es
+praktisch unmoeglich ist, einen guten Pangalaktischen Donnergurgler
+zu bekommen - ganz besonders, wenn er von einem Klingonen serviert wird.
+Die Replikatoren der Foederation koennen nicht den letzten Kick des
+Originales erzeugen - was zu Problemen fuehrt...
+
+... aber das wird Zaphod schon frueh genug merken.
+
+Trillian: Wir muessen die Shuttle-Abteilung erreichen, um wieder auf die
+          "Herz aus Gold" zu kommen.
+
+Die Gruppe stoppt an einer Kreuzung mit drei weiteren Wegen und nutzt
+diese Pause zum allgemeinen ausschnaufen.
+
+Arthur  : Wo, (Hechel, Hechelt) muessen wir (Hechel) lang?
+
+Trillian: Ich glaube, (Hechel) dass wir (Hechel)...
+
+Ensign 2 erreicht die Ecke hinter ihnen und versucht folgendes kraftvoll
+und respekteinfloessend zu verkuenden:
+
+Ensign 2: Ich (Hechel,Hechel) Ich habe (Hechel,Hechel) Euch (Hechel) jetzt.
+
+Zaphod  : (rennt nach links) Da lang!
+
+Ford    : (rennt nach rechts) Da lang!
+
+Beide fangen an in die jeweilige Richtung zu rennen. Sie blockieren sich
+gegenseitig. Hechelnd richtet Ensign 2 die Phaser auf unsere Helden.
+
+Zaphod  : Wir gehen in diese Richtung.
+
+Ford    : Nein, Wir gehen in diese Richtung.
+
+Beide stoppen wieder, leicht verwirrt schauen sie zuerst in die
+Richtung des anderen, dann in die Richtung, welche sie bevorzugen. Beide
+sind sich einig, dass der andere wohl recht hat und rennen so wieder
+in unterschiedliche Richtungen.
+
+Arthur bleibt auf einen Fleck und weiss nicht wohin.
+
+Ensign 2 zielt zittrig auf Zaphod und feuert
+
+Trillian reisst Arthur auf den Boden, sodass er nicht vom Phaserstrahl
+getroffen wird, denn dieser haette Arthur jede Lust auf Tee genommen.
+Ensign 1 erreicht den Ort des Geschehens von der Seite, sieht Ensign 1
+zu spaet um vor ihn zu stoppen und stolpert Ensign 1 entgegen.
+Ein unloesbarer Knoten von Armem und Beinen ist das Ergebnis.
+
+Trillian: Hier lang!
+
+Arthur mitschleifend, rennt Trillian einfach geradeaus weiter. Arthur
+und Zaphod schauen ihr zweifelnd hinterher, zucken die Achesln und
+folgen ihr.
+
+Ein wenig spaeter erreichen sie tatsaechlich die Shuttle-Abteilung
+
+Arthur  : Lasst uns hoffen, dass die Wache vor dem Raumschiff nicht
+          der beste Freund der anderen Ensigns ist, die uns
+          gerade ueber drei Decks verfolgten..
+
+Zaphod  : Keine Angst, Erdenmaennchen. Mein brillianter Plan hat doch bis
+          hierher ganz gut funktioniert, oder?
+
+Ford    : Dein brillianter Plan? Ich glaube eher es war *mein* brillianter
+          Plan.
+
+Zaphod  : Lese es in meinen Memoiren, Ford. Es ist zu lang und zu
+          kompliziert fuer diesen Augenblick, ok?
+
+Trillian: Hat jemand Marvin gesehn? Er muss sich hier mit uns irgendwo
+          auf den Schiff materialisiert haben...
+
+Zaphod  : Vergiss diesen paranoiden Roboter. Wir koennen uns jetzt keine
+          Sorgen um ihn ...
+
+Zaphod unterbricht ploetzlich seinen Satz.
+
+Ford    : Was? Hey Zaphod, was ist denn los?
+
+Zaphod  : Ich ... fuehle mich jetzt ... so unheimlich depremiert...
+
+Trillian: Was?
+
+Zaphod  : Nicht nur diesen Moment, ich werde jedem Moment nach diesem
+          genauso depremiert sein wie jetzt.
+
+Ford    : Renk' Dich ein, Du klingst ja schon wie Marvin.
+
+Arthur  : ...dieser schreckliche Gestank, was ist das?
+
+Merkwuerdigerweise haelt Zaphod noch immer das Glas seines Pangalaktischen
+Donnergurglers in der Hand, Trillian riecht am Glas und stellt fest, dass
+der Geruch vom Glas kommt.
+
+Trillian: Oh nein, Zaphods Drink war schlecht gemixt. Er bewirkt ein
+          biologisch-chemisches Ungleichgewicht in seinen zwei Gehirnen
+          und als er Marvins Namen hoerte wurde er genauso chronisch-
+          depressiv.
+
+Ford    : Was koennen wir tun?
+
+Trillian: Wir muessen sofort auf die Herz aus Gold zurueck, vielleicht
+          kann ich dort ein Gegenmittel herstellen.
+
+Ensign 2: (schliest zu den Helden auf)
+          Ihr seit jetzt an der Tuer der Shuttle-Abteilung... Aber ich
+          werde Euch nicht reinlassen...
+
+Zaphod  : Wie depirimierend. Hier bin ich nun, die wichtigste Person in
+          der Galaxis. Und ich kann nicht mal in diese bloede Shuttle-
+          Abteilung gehen...
+
+Der Ensign versucht auf Zaphod zu schiessen, merkt aber zu spaet, dass die
+Batterien des Phasers leer sind ("Verdammt, haette Duraquael nehmen sollen").
+Trillian bringt die anderen schnell an Board der Herz aus Gold
+
+
+Wird die Enterprise ihren Computer von der Teeerzeugung abhalten koennen?
+Wenn ja, wird Arthur diesen Tee ueberleben? Wird Picard die Borg mit
+Shakespear-Zitaten in die Flucht schlagen. Wann kommt endlich mal ein
+Handtuch vor? Das alles in der naechsten Folge...
+
+
+SZENE 9 : Das letzte mal konnten Zaphod und seine Freunde auf die
+          Herz aus Gold zurueckkehren, die immer noch in der Shuttle-
+          Abteilung der Enterprise steht. Der Computer der Enterprise
+          versucht sich immer noch in der Teezubereitung und die immer
+          aergerbringenden Borgs mischen mit Phaserstrahlen kraeftig mit.
+
+Picard  : Was meinen Sie mit "Der Computer ist mit Teezubereitungen
+          beschaeftigt"
+
+Data    : Sir, Sie gaben den Befehl diesen Tee sofort herzustellen vor
+          vierzehn Minuten und zweiunddreissig Sekunden.
+
+Picard  : Merde! Dann gebe ich jetzt den Befehl die Teezubereitung
+          sofort zu stoppen.
+
+Das Schiff bebt wieder als eine neue Phaser-Salve der Borg die Schilde
+weiter schwaechen.
+
+Geordi  : Ich versuche es ja, aber immer wenn ich einen Tee-Prozess
+          loesche, tauchen zwei neue auf!
+
+Picard  : Dann arbeiten Sie einfach doppelt so schnell!
+
+Geordi weiss noch nicht, dass sich die Nutra-Matic der Herz aus Gold
+ueber Eddie an die Enterprise Haupt- und Backup-Computer angeschlossen
+hat - mit dem Ziel eine Fluessigkeit herzustellen, die fast - aber
+nur ein wenig - nicht voellig unaehnlich mit Tee ist.
+
+Data    : Sir, meine Reflexe sind schneller als die von Geordi. Wenn ich
+          mich selbst an den Hauptcomputer der Enterprise anschliesse,
+          koennte ich vielleicht alle Tee-Prozesse anhalten.
+
+Picard  : Machen Sie es so, Data, Auf geht's!
+
+Data    : Auf geht's, Sir? Ich sehe nichts, was sich...
+
+Picard  : Machen Sie's, DATA!
+
+Data    : Zu Befehl, Sir.
+
+Ein weiteres mal bebt die Enterprise durch den Borg-Beschuss. Ein Borg
+materialisiert sich auf der Bruecke, schnappt sich Picard und verschwindet
+mit ihn.
+
+Riker   : (aktiviert Intercom) Hier spricht Commander Riker, Ihr freundlicher
+          erster Offizier. Diese Meldung soll sie davon informieren, dass
+          soeben Captain Picard von den Borg entfuehrt wurde. Ich habe
+          somit das Kommando ueber das Schiff.
+
+Worf    : Commander, Panik-Ausbrueche in Deck 1, 2, 5, 7 bis 11, 14, 15, 16,
+          20 bis 25 werden von den Internen Sensoren gemeldet.
+
+Riker   : (aktiviert nochmal Intercom ) Hier spricht nochmal Commander Riker.
+          Es gibt keinen Grund zur Panik. Sie befinden sich in guten Haenden.
+
+Worf    : Commander, Ueberfuellung aller Zugaenge zu den Shuttle-Abteilungen
+          und den Rettungs-Kapseln.
+
+Riker   : Shuttles und Rettungskapseln... Sehr gut. Das gibt den Borg
+          mehr Ziele, damit verwirren wir sie, so sind sie zu beschaeftigt
+          um mich *auch* zu kidnappen. Was fuer eine mutige und selbstlose
+          Besatzung ich habe, sie riskiert ihr Leben um den ersten Offizier
+          zu retten.
+
+Die Brueckenbesatzung tauscht ihre eigene Interpretation der Vorgaenge
+untereinander aus.
+
+Riker   : (denkt laut) Nein... ich kann das Leben meiner Crew nicht riskieren.
+          Worf, alle Zugaenge zu den Shuttles und den Rettungskapslen
+          versiegeln.
+
+Worf    : Zu Befehl Sir.
+
+Wesley  : Commander, das Borg-Schiff hat uns in seinem Beamstrahl und zieht
+          uns naeher heran.
+
+Riker   : Data, Was ist mit dem Tee?
+
+(eine unerwartet lange Pause)
+
+Riker: Data?
+
+Wesley  : (reicht zu Data rueber und schuettelt ihn)  Data, der Tee!
+
+Data    : (langsame, blecherne, computerisierte Stimme)
+          Tee. Zubereitung. in. Arbeit. CPU. Zeit. 96komma4. Prozent.
+          Voraussichtliche. Berechnungs. Zeit. Weitere. zehn. Minuten.
+          Zweiundvierzig. Sekunden. Bitte. Warten.
+
+Wesley  : Oh nein, Der Computer hat Data!
+
+Worf    : Commander, die Phaser sind jetzt endlich bewaffnet.
+
+Riker   : Mr. Worf, Feuer!
+
+
+Eine beeindruckende Schar von Phaserstrahlen tritt unterhalb der Bruecke
+aus der Enterprise aus und bricht eine kleine Schicht aus der aeussersten
+Huelle des Borg-Schiffes. Man koennte auch sagen, es wurde leicht angekratzt.
+Was auch mehr der Wahrheit entspricht, da ein kleiner Service-Roboter auf
+den Borgschiff seine Versorgunsleitung abtrennt um die getroffene Stelle
+neu zu lackieren, zu bemerken, dass er dafuer den falschen Farbton benutzt
+hat und aufgrund dessen das ganze Schiff mit seiner 5 Quadratkilometer
+grossen Aussenflaeche mit der neuen Farbe umzufaerben.
+
+Riker   : Mr. Worf, Wie gross ist ihr Schaden?
+
+Worf    : Sir, die Sensoren melden, dass einer ihrer Service-Roboter
+          unsere Trefferstelle und die naehere Umgebung neu lackiert.
+
+Riker   : Gut, dass koennte sie eine Weile beschaeftigen.
+
+Troi    : Will, der Captain ist in Gefahr.
+
+Riker   : Woher wissen Sie das, haben Sie einen telepathischen Kontakt?
+
+Troi    : Nicht direkt... Ich sehe ihn aus einem Fenster des Borg-Schiffes
+          wild zu uns winken.
+
+Die Enterprise wird dem Borg-Schiff immer naeher gezogen, auf den Hauptschirm
+ist Picard zu sehen, wie er in verschiedenen Zeichensprachen winkend der
+Enteprise-Besatzung zu signalisieren versucht, dass dies jetzt ein
+grossartiger Moment zum Beamen eines Aussenteams waere um ihn zu retten.
+Ein Borg erscheint hinter ihm und zieht ihn mit unnoetigem Kraftueberschuss
+unsanft vom Fenster weg.
+
+Wesley  : Commander, Ich glaube einen Fehler in der Abfallbeseitigung des
+          Borg-Schiffes erkannt zu haben. Es ist...
+
+Riker   : Was fuer eine Beseitigung?
+
+Wesley  : Abfallbeseitigung, Sir. Es scheint, als ob die Borg nicht
+          genuegend Sorgfalt im Umgang mit ihren Abfaellen besitzen.
+          Nun ist u.a. ihr Versorgungslager so verschmutzt, dass sich
+          eine neue Lebensform gebildet hat, die sich fuer soziale
+          Gerechtigkeit und allgemeines Wahlrecht einsetzt.
+
+Riker   : Aja, kenne ich... wie am East-River von New York.
+
+Wesley  : Ja, Sir. Und wir koennten vielleicht eine Allianz mit diesen
+          Lebensformen gruenden um so die Borg zu ueberwaeltigen.
+
+Riker   : Exzellenter Plan, Wesley. Wie koennen wir mit diesen Wesen
+          Kontakt aufnehmen?
+
+Wesley  : Ich werde versuchen, einen Schleim-Kommunikator fuer Spaghetti-
+          Code-Uebertragung zu...
+
+
+Riker   : Okay, okay, Machen Sie es einfach!
+
+Wesley  : Ja, Sir!
+
+
+[Werbung...]
+
+"Guten Tag! Mein Name ist Xrattrrhnf Sgert'Wrunft. Ich freue mich Sie in
+meiner Position als Herausgeber der "Encycloaedia Galactica" auf deren
+Vorteile gegenueber den vulgaeren "Anhalter durch die Galaxis" hinweisen
+zu koennen:
+
+Zuerst ist es uns gelungen, eine umfassende nichtelektronische Ausgabe
+herauszubringen (deutet auf zweiundzwanzig durchbuchstabierte LKWs) die
+dem laestigen Aerger leerer Batterien ein Ende bereitet.
+
+Uns ist es auch gelungen, die Beschriftung noch unfreundlicher zu
+gestalten, sodass niemand ihre wertvollen Buecher anzufassen wagt.
+Ausserdem haben wir den Preis verdoppelt, damit Sie sich keine Sorgen
+machen muessen, was Sie mit dem restlichen Geld anfangen.
+
+Uebrigens nehmen wir auch gerne ihre Anhalter-Ausgaben in Zahlung. Rufen
+Sie noch heute an und bestellen Sie das Standardwerk von gestern und
+morgen."
+
+
+
+SZENE 10: Waehrend Picard immer noch mit passiver Entfuehrung beschaeftigt
+          ist, beschaeftigt die Crew der Herz aus Gold immer noch die
+          Kontrolle ueber ihr Schiff. Am meissten beschaeftigt ist jedoch
+          Zaphod, er versucht seinen festen Glauben an seine Existent als
+          Fisch sich nicht ausreden zu lassen.
+
+Zaphod  : Offensichtlich bin ich ein Fisch. Ein ganz kleiner unwichtiger
+          Fisch, die Sorte, die von Fischern ueber Board geschmissen wird,
+          weil sie zu klein ist und bitter schmeckt.
+
+Trillian: Aber Du sprichst, das tun doch Fische nicht.
+
+Zaphod  : Die Crotesten von Ozeanien Fuenf sprechen, und sie sind Fische.
+
+Trillian: Ja, ja, aber Du bist kein Crostest
+
+Zaphod  : Nein, Die Crotesten schmissen mich aus ihrem Sonnensystem.
+
+Arthur  : Warum?
+
+Zaphod  : Sie hassen mich, das tut jeder.
+
+Trillian: Wir nicht.
+
+Arthur  : Wir nicht?
+
+Trillian: Sei Still, Arthur.  Wir nicht!
+
+Zaphod  : Doch, ihr auch. Jeder hasst mich. Ich bin ja so deprimieeerrrttt.
+
+In der Zwischenzeit arbeitet Ford verbissen am Terminal um Eddie wieder
+zum Sprechen zu bringen.
+
+Ford    : Verdammt, ich schaffe es nicht, Eddie zum Sprechen zu bewegen.
+
+Zaphod  : Da habt ihr's, nicht mal ein Computer will zu mir sprechen.
+
+Trillian: Aber er spricht mit niemanden von uns, Zaphod.
+
+Zaphod  : Nur weil ich da bin. Werft mich ueber Board und der Computer
+          wird mit Euch sprechen. Keine Sorge um mich, ich bin es gewoehnt
+          ueber Board geschmissen zu werden, denn ich bin ein unwichtiger
+          kleiner Fisch den niemand will.
+
+Ford    : Ruhe, Zaphod.  Hey Trillian, ist das Gegenmittel schon fertig?
+
+Trillian: Ohne Eddie kann ich kein Gegenmittel herstellen.
+
+Ford    : Oh, Grossartig.
+
+Arthur: Err ...
+
+Ford    : Sei Still, Arthur. Kannst Du nicht sehen, dass ich hier
+          beschaeftigt bin. Es ist schlimm genug sich mit zwei depressiven
+          Koepfen herumzuschlagen, ich kann Gespraeche ueber Tee jetzt
+          wirklich nicht gebrauchen.
+
+Arthur  : Schon gut, ich wollte ja nur darauf hinweisen, dass...
+
+Ford    : Trillian, warum gibst Du Zaphod nicht einen Spiegel, drueckst ihn
+          ein paar Bilder von Fischen in die Hand und laesst ihn das Problem
+          allein loesen?
+
+Arthur  : Ich glaube aber ...
+
+Trillian: Ich habe keine Bilder von Fischen.
+
+Arthur  : Weiss hier jemand ...
+
+Zaphod  : Wozu braucht ihr Bilder von einem Fisch, wenn ihr hier einen Fisch
+          habt? Oh, ich weiss es. Ich braucht nicht zu antworten. Ich weiss.
+          Ich moegt Bilder von Fischen mehr als mich. Ist verstaendlich.
+          denn schliesslich bin ich ja nur ein unwich...
+
+Ford    : Schnauze, Zaphod.
+
+Arthur  : Ich wundere mich nur ...
+
+Zaphod  : ...tiger kleiner Fisch.
+
+Arthur  : Kann ich Euch in Kenntnis...
+
+Trillian: Du bist kein Fisch, Zaphod. Fische leben im Wasser.
+          Wenn Du ein Fisch waerst, wuerdest Du hier ersticken.
+
+Arthur  : Schaut her, ich denke ...
+
+Zaphod  : WASSER!!!!
+
+Roechelnd haelt sich Zaphod mit zwei Haenden seine beiden Stirnen. Seine
+dritte Hand, die keine freie Stirn mehr findet, drueckt ihn vom Stuhl weg
+auf den Boden, wo er wie ein Fisch ohne Wasser hin- und herzappelt.
+
+Arthur, beleidigt, davon, dass er immer unterbrochen wird, versucht es
+noch einmal.
+
+Arthur  : Ich bin mir ganz sicher. Ich *weiss*...
+
+Mit Beteigeuzischer Ueber-Muskelkraft schleudert sich Zaphod hoch vom Boden
+weg, und stoesst beim darauffolgenden Fall Ford vom Stuhl runter.
+
+Ford    : Heiliger Zarquon, fliegende Fische!!!
+
+Arthur  : der Grund fuer ...
+
+Trillian: Ford!  Pass auf, was Du sagst!
+
+Ford greift sich seinen Beutel und schwingt ihn stark auf Zaphods linken
+Kopf. Zaphod irrt noch durch die Gegend, und verpasst Ford einen Kinnhaken.
+Trillian springt blitzschnell zu Zaphod und steckt ihn zwei Inst-O-Schlaf
+in den Mund des noch funktionierenden Kopfes. Zaphods Aktivitaeten schwinden
+in Sekunden.
+
+Beide, Ford und Trillian, liegen am Boden und Keuchen.
+
+Arthur  : Als ich sagte ...
+
+Er erwartete eine Unterbrechung.
+Er schaut um sich, sichtlich ueberrascht von der Tatsache, dass er diesmal
+nicht unterborchen wird und seinen Satz in voller Bluete zuendesprechen darf.
+
+Er versucht es noch einmal.
+
+Arthur  : Ich wollte nur sagen, dass der Grund fuer Eddies Schweigen
+          wohl das Kleb-O-Tape an seinem Lautsprecher sein wird.
+
+Er geht zu Eddie und entfernt die Knebelstreifen von Eddies Lautsprecher.
+Die Lichter gingen kurzzeitig aus, als Eddie sehr leise etwas von sich gab.
+
+Arthur  : ... ist der Regler mit der Aufschrift "Lautstaerke" aus irgend-
+          einen Grund auf "0" gestellt?
+
+Er dreht die Lautstaerke hoch.
+
+Eddie   : Och.
+
+
+
+Wird Riker faehig sein, Captain Picard von den Borgs zu retten? Wird die
+veraergerte Crew der Enterprise die Bruecke stuermen um Mitbestimmung zu
+verlangen? Wird Zaphod von seiner Fisch-Existenz und seiner Depression
+geheilt werden? Und wird jetzt, da Eddie wieder voll aktiv ist, Arthur
+*endlich* seinen Tee bekommen. Schalten Sie ein, wenn Zaphod wieder sagt:
+
+   "Macht's gut und Danke von den Fisch"
+
+
+
+SZENE 12: Es laeuft nicht gerade alles zum Besten fuer die Enterprise und die
+          Herz aus Gold. Picard ist *immer noch* in den Haenden der Borg,
+          Zaphod glaubt immer noch ein depressiver Fisch zu sein und Wesley
+          fiel eine mehr oder weniger aufgegessene Mikrowellenpizza namens
+          Slimer um den Hals (Asche zu Asche, Schleim zu Schleim)...
+
+Worf    : Ich habe Dr. Crusher gerufen. Ich bin trotzdem der Meinung,
+          dass es fuer Wesley besser ist den Tod eines Kriegers in Erfuellung
+          seiner Pflicht zu sterben. Denn dies bedeutet Ehre und Wuerde fuer
+          ihn.
+
+Riker   : Danke, Mr. Worf. Nun kuemmern Sie sich bitte um die Gefangenen.
+
+Worf    : Ja, Sir!
+
+Worf dreht sich um und geht waehrend die restliche Brueckenbesatzung ihre
+Blicke auf den anderen Slimer richtet.
+
+Riker   : Koennen Sie nicht ihren Gefolgen dazu bewegen, diesen sinnlosen
+          Akt der Aggression zu unterlassen? Er *ist* einer von ihrer Art.
+
+Troi    : Aber Will, Ich kann spuehren, dass sinnlose Gewalt ihre Existenz-
+          grundlage darstellt. Ihr Glauben ist erfuellt von Friede...
+
+Slimer  : der Gerechtigkeit ...
+
+Troi and Slimer : der Wahrheit, den Sport, das Familienleben sowie
+                  die Ausloeschung aller anderen Lebensformen!
+
+Slimer  : ... und den stinkensten Socken fuer unsere Kamikaze-Stirnbaender.
+
+Der zweite Slimer schlingt sich um Data, der ihn aber schnappt und wie einen
+gefangenen Fisch zur Schau stellt. Er untersucht die Kreatur mit Verwunderung
+waehrend diese versucht Data mit den Schwanz zu packen.
+
+Data    : Was soll ich mit diesem Wesen tun, Commander Riker?
+
+Riker   : Toeten, Data!  Es koennte einen von uns erwischen.
+
+Data    : Aber Sir! Das Toeten einer Lebensform - auch einer solchen
+          Mordsuechtigen, ist sinnlos, solange sie in der Gewalt eines...
+
+Riker zieht seinen Phaser und laesst den Slimer verdampfen, wobei er sehr
+vorsichtig schiesst um nicht Data zu treffen. Er steckt den Phaser mit einem
+Achselzucken weg.
+
+Riker   : Wir koennen jetzt keine weiteren Ausfaelle gebrauchen.
+
+Troi    : Vielleicht sollten sie das Wesen an Wesleys Hals auch eliminieren.
+
+Wesley: Ggggggnnnnnnrrrrrrffffffkkk!!!
+
+Riker   : Nein, die Gefahr Wesley mit dem Wesen ins Jenseits zu schicken ist
+          mir zu gross. Wir muessen abwarten.
+
+Wesley: TTTTThhhhyyyyyaaaaaaaarrrrrr!
+
+Inzwischen ist Trillian auf der Herz aus Gold dabei, mit Eddies Hilfe ein
+Mittel gegen Zaphods merkwuerdige chemische Vergiftung zu synthetisieren.
+Arthur und Ford halten ausserhalb der Herz aus Gold Wache waehrend Trillian
+und Eddie ihre Arbeit fortfuehren.
+
+Arthur  : Ich verstehe nicht, warum man mich grundsaetzlich bei
+          Problemloesungen rigoros umgeht...
+
+Ford    : Na gut, Weisst Du etwas ueber die Beteigeuzische Organchemie?
+
+Arthur  : Nun... nicht ganz genau, aber...
+
+Ford    : Wie sieht es mit synaptischen Nervenverbindungen zwischen zwei
+          Gehirnen aus...?
+
+Arthur  : Zwischen zwei Gehirnen?... Naja, Nicht gerade mit zwei, aber...
+
+Ford    : Dann mach' Dir keine Sorgen darum. Schliesslich sind wir hier
+          draussen sicher, wenn Zaphod erwachen sollte und noch verrueckter
+          wird.
+
+Arthur  : Ich dachte immer, dass Zaphod nur leben kann, weil er verrueckt
+          ist.
+
+Ford    : Schon richtig, aber ich meine verrueckt fuer Zaphods Massstaebe.
+          Wenn Du seinen normalen Wahnsinn als Messlatte nimmst, kannst du
+          doch ohne weiteres sagen, dass er doch vorhin total verrueckt
+          wurde, oder?
+
+Arthur  : Dann hatte er vielleicht den richtigen Einfall. Vielleicht sollten
+          *wir* einfach verrueckt werden.
+
+Ford    : Tja, das Universum ist eine lustige Sache, vielleicht werden wir
+          ja noch unser Glueck im Wahnsinn finden.
+
+Arthur  : Ford?
+
+Ford    : Ja?
+
+Arthur  : Ich denke hier draussen ist es besser als da drin. Es ist viel
+          friedlicher hier in der Shuttle-Abteilung.
+
+
+Genau nach diesem Satz oeffnet sich die Tuer zur Shuttle-Abteilung und ein
+bruellender klingonischer Sicherheitsoffizier tritt herein. Er schnappt sich
+ohne Vorwarnung Ford, wobei Fords Beutel auf den Boden faellt. Arthur tritt
+zurueck um aengstlich den daraffolgenen Kleinkrieg zu beobachten. Worf
+schleudert Ford quer ueber den Boden und springt hinterher.
+
+
+
+
+Wird die Enterprise Captain Picard retten koennen? Wird Dr. Crusher ihren
+Sohn retten koennen? Wird Trillian Zaphod retten koennen? Wird Arthur
+seinen Freund Ford retten koennen? Und am wichtigsten: Kann *irgendjemand*
+Troi vor Riker's Zuneigung retten? Sehen Sie es live in der naechsten Folge.
+
+
+SZENE 11: Die Situation auf der Enterprise ist nun mehr als nur chaotisch.
+          Data dient dem Computer als unfreiwilliger Coprozessor bei der
+          Teezubereitung. Wesley versucht den Kontaktaufbau zu Schleimwesen
+          die gerade von den Borgs unfreiwillig geschaffen wurden. Doch am
+          Wichtigsten ist die Tatsache, dass Captain Picard immer noch auf
+          den Borgschiff gefangengehalten wird, wo ihn unschoene Erlebnisse
+          bevorstehen wenn Riker nicht ganz schnell einen Plan zur Rettung
+          entwickelt.
+
+Riker   : Nun, Deanna, ich bin jetzt der Captain. Ich erwarte nun eine
+          Verbesserung unserer Beziehung - Du weisst schon...
+
+Worf    : (unterbricht Riker absichtlich) Commander Riker, Sir! Ich habe
+          gerade eine Meldung vom Sicherheitsdienst erhalten: Zaphod
+          Beeblebrox und seine Gefolgschaft sind entkommen.
+
+Riker   : Was? Verdammt! Meine erste Gelegenheit wieder das Kommando zu
+          erhalten und schon geht alles schief! Wo sind sie, Worf?
+
+Worf    : Sie sind immer noch in der Shuttle-Abteilung, Sir. Die Sensoren
+          melden, dass ihr Schiff nicht starten kann da ihr Computer an den
+          unseren noch angeschlossen ist.
+
+Riker   : Was? Warum?
+
+Data    : (dreht sich von seiner Konsole um) Ich glaube ich kann das
+          beantworten, Sir!
+
+Riker   : Data!  Sie sind wieder aehh... Funktionsfaehig!
+
+Data    : Ja, Commander. Gibt es einen Grund fuer die Annahme, dass ich einen
+          Defekt oder Schaden besitze?
+
+Riker   : Vergessen Sie's, Data. Sagen Sie uns nur warum die Herz aus Gold
+          ihren Computer mit unseren verbunden hat.
+
+Data    : Das ist sehr interessant, Sir. Die beiden Computer haben ihre
+          Ressourcen verbunden um eine *echte* Tasse Tee zu erzeugen. Als
+          ich mich mit den Enterprise-Computer zusammenschloss, war ich von
+          dieser Aufgabe so fasziniert, dass ich mit den Faehigkeiten meines
+          positronischen Gehirns dieses Projekt weiter voran bringen wollte.
+          Die paradoxen Zusammenhaenge zum erreichen dieses Ziels sind sehr
+          interessant. Bei Beruecksichtigung aller Faktoren...
+
+Riker   : Verstanden, Data. Wie ist der Status des Computers jetzt?
+
+Data    : Alle Systeme stehen hundertprozentig zur Verfuegung, Sir.
+
+Riker   : Worauf warten wir noch? Mr. Worf, richten Sie die Phaser auf das
+          Borg-Schiff aus.
+
+Worf    : Phaser ausgerichtet, Sir.
+
+Riker   : Feuer!!
+
+Die Phaser der Enterprise treffen genau in einen Hauptenergieverteiler der
+Borg, was ein paar Service-Roboter inaktiviert. Eine schnell folgende Salve
+Photonentorpedos sorgt dafuer, dass die Borg nun etwas mehr als ein paar
+Malerlehringsroboter benoetigen. Die Borg loesen ihren Traktorstrahl
+kurzzeitig um die Aussendekoration ihres Schiff wieder herstellen zu koennen.
+
+Troi: Will!
+
+Riker   : Nicht *jetzt*, Deanna.
+
+Troi    : Doch! ich fuehle, dass mit dem Captain etwas schreckliches passiert.
+
+Riker   : Dem Captain? Captain Picard? Was werden die Borg ihn antun?
+
+Data    : Sir! Ich moechte bemerken, dass im Moment wir es sind, die
+          Captain Picard indirekt sehr grossen Schaden zufuegen.
+
+Riker   : Oops!  Worf, Feuer einstellen!
+
+Worf    : (eigensinnig)  Ist das wirklich noetig, Sir?
+
+Riker   : Sofort Feuer einstellen, Worf!
+
+Die Phaser schweigen wieder, doch bevor die Schilde wieder voll hochgefahren
+werden, materialisieren sich zwei schleimige Wesen auf der Bruecke. Das eine,
+anscheinend der Befehlsgeber, traegt eine Botschaft-Pizza-Box mit einem
+Guertel aus teilweisen zersetzen Alluminiumkannen. Es wird von einem
+Assistenten, gekleidet in weniger eleganten halbgegessenen
+Mikrowellengerichte mit nicht-biologisch-abbaubaren Styropor-Kaffebechern
+als Schulterposter, begleitet. Sie verbreiten einen merkwuerdigen Geruch,
+der stark an eine LKW-Ladung gut gealterten Fisches erinnert, ueber welche
+jemand ungluecklicherweise ein paar Gallonen alten Janx-Geist gekippt hat.
+
+
+Wesley  : Ich habe es geschafft. Wir haben nun Kontakt zu den Bewohnern der
+          Borg'schen Abfallbeseitigung.
+
+Wesen   : Wir sind Slimer. Wir wurden gerade erst erschaffen und wundern
+          uns ueber das facettenreiche Universum. Wir glauben an den Frieden,
+          die Gerechtigkeit, die Wahrheit, den Sport, das Familienleben sowie
+          an die Ausloeschung aller anderen Lebensformen!
+
+Einer der stinkenden, schleimigen, schlapprigen Aal-aehnlichen Kreaturen
+schlingt sich um Wesleys Hals und ist dabei ihn zu erwuergen.
+
+Data    : Commander Riker, es ist ohne Zweifel zu erkennen, dass die
+          Bewohner der Borg'schen Abfallbeseitigung sehr ungeschickt im
+          Umgang mit fremden Lebensformen sind.
+
+Riker   : Danke, Mr. Data, aber das koennen wir selbst sehen.
+
+Wesley: Gyaaarrrrgggghhhh!!!!
+
+Worf    : Commander, Erbitte Erlaubnis die entflohenen Gefangenen wieder in
+          unsere Gewalt zu bringen, wenn es sein muss auch allein.
+
+Riker   : Erlaubnis erteilt, Mr. Worf. Bevor sie gehen, rufen sie Dr. Crusher
+          auf die Bruecke. Wir haben hier fuer sie eine Kombination aus
+          Retten-Sie-das-leidende-Mannschafts-Mitglied und Ihr-Sohn-Ist-in-
+          grosser-Gefahr. Das sollte ihr etwas Beschaeftigung verschaffen.
+
+
+
+
+[Programmhinweis]
+
+"Notruf! Wir stellen die Wirklichkeit zur Schau. Sehen Sie in der naechsten
+Sendung:
+
+Zupf-Wahn: Fuehrende Persoenlichkeiten zupfen andauernd an ihren Oberteilen.
+Ein Heilpratiker befreit die Zupfsuechtigen durch Armamputation.
+
+Gefangen zwischen zwei Zeiten: Das Bein eines 48-jaehrigen Polizisten
+ist immer noch in der Zeitebene seiner Geburt, sein Bein durchquert
+Jahrzehnte. Mutige Retter schneiden alle zwei Wochen eine Scheibe ab.
+
+Seine letzten Worte: Warum sagen so viele kurz vor einem tragischen Unfall
+"Nicht schon wieder"? Die Antwort in Notruf, Donnerstag! 21:30 - Diese
+Sendung rettet Blutlust.
+
+
+SZENE 13: Das Buch "Per Anhalter durch die Galaxis" enthaelt interessante
+          Hinweise ueber die klingonische Mentalitaet, Koerperbau und
+          Organumwandlungen - einer der trickreichesten modernen medizinischen
+          Spezialitaeten. Die Klingonische Kultur zum Beispiel erlaubt, dass
+          tatsaechlich durch einfache Provokation sie fuer jede Aufgabe ohne
+          Lohnforderung ihre Dienste zur Verfuegung stellen - Vorausgesetzt
+          Sie haben ihren besonderen Spass dabei.
+
+          Das Buch beschreibt auch, wie man am leichtesten den "Genuss"
+          einer Klingonischen Dienstleistung kommt: Indem man einem
+          Klingonen moeglichst ernst ins Gesicht sagt, dass er eine wirklich
+          nette Person ist.
+
+          Interressanterweise hat es Ford Prefect geschafft, diese
+          klingonische Dienstleistung ohne eine solche Beleidigung kosten-
+          frei zu erhalten. Was wieder einmal beweist, dass die Realitaet
+          aeusserst missverstanden und aeusserst ungenau ist - was wiederum
+          beweist, dass die ungeheuren Ungenauigkeiten und Fehlinter-
+          pretationen des Anhalters geradezu zur Quelle wahrer Weisheit und
+          universalem Wissen machen.
+
+
+Mit nur einer Hand hebt Worf Ford hoch ueber seinen Kopf, dreht ihn mehrere
+male um sich herum und schnippt ihn im hoechsten Schwung aus seiner Klaue.
+Ford landet relativ unsanft wie ein Sack Kartoffeln ein paar Meter weiter.
+
+Ford    : Umph.  ARTHUR!!
+
+Arthur  : Aehh ...
+
+Worf stuerzt sich wieder auf Ford, hebt ihn hoch und schleudert ihn an
+die Aussenhuelle der Herz aus Gold
+
+Ford    : Ouch!  Sag, Arthur ...
+
+Worf greift sich Ford und spielt mit ihn Squash an der Wand.
+
+Arthur  : Ford, versuchst Du mir etwas mitzuteilen?
+
+Worf haelt Ford an der Wand fest und wuergt ihn mit leichten Druck seines
+linken Ellenbogens.
+
+
+Ford    : Arthur!  Ggggg-ib-bbb...
+
+Arthur  : Hmmm? Was war das, Ford? Ich kann nicht mal ahnen was Du mir sagen
+          willst. Meinst Du etwa dass Du die Moeglichkeit in Erwaegung ziehst
+          zu ersticken ... ich meine auch leiden...
+
+Worf laesst Ford geschickt auf seine Knie, seine Haende und seinen Kopf
+aufprallen in einer Eleganz die hundert britische Fussballfans dazu bewegen
+wuerde, aus einen italienischen Gefaengnis auszubrechen, ein paar Kneipen
+der Gegen auszupluendern und ein oder zwei auf den Weg liegende Inter-
+continentalraketen mit unbestimmten Ziel zu starten.
+
+Ford    : (sein Mund wabbert) Bbbcheuuuuudlllll!
+
+Arthur  : Ahaaa, Verstanden. Gehe ich recht in der Annahme dass Du nach
+          Deiner Meinung diesem aehhh. (er sucht nach den richtigen Wort)
+          ... Gefecht ein Ende bereiten willst, und dazu wohl... hmmm...
+          etwas aus Deinem Beutel brauchst?
+
+Ford versucht dies durch ein Kopfnicken zu bestaetigen waeren Worf so
+ziemlich seinen ganzen Koerper zum Nicken bringt.
+
+Arthur  : Gut... Ich gehe nur mal kurz rueber und... aeh... nehme Deinen
+          Beutel, dann...
+
+Worf schnappt sich Ford und putzt den Boden mit ihn (wortwoertlich). Arthur
+schleicht sich hinter Worf an den Beutel und untersucht sorgfaeltig den
+Inhalt.
+
+Arthur  : Mal schauen, ein Sub-Etha Sens-o-Matic Signalgeber, ein paar
+          Erdnuesse, zwanzig Pfund, ein paar blossstellende Fotos einer
+          Bruenetten mit der ich Dich mal gesehen habe, Der Anhalter durch
+          die Galaxis, unzaehlige abgelaufene Kreditkarten und ein Handtuch.
+
+Ford    : (beim Flug in Richtung Wand)  Das Handtuch!  Gib mir das Handtuch!
+
+Worf rennt wieder gegen Ford.
+
+Arthur  : (wirft das Handtuch)  Ford, Ich glaube wirklich nicht, dass dies
+          der richtige Zeitpunkt fuer ein Bad ist. Ich erkenne darin keinen...
+
+Arthur wird von einem wilden Knurren Worfs unvorbereitet ueberrascht,
+als dieser fuer Arthurs Geschmack ein wenig zu nah an ihn vorbeigesprungen
+ist. Arthur schnappt den Beutel und zieht sich zur Herz aus Gold zurueck.
+Waehrend seines Rueckzugs stolpert er - wie auch immer - ueber seine
+eigenen Fuesse - doch gerade kurz bevor er auf den Boden aufkommen sollte,
+entdeckt er im Augenwinkel einen fluechtigen Moment lang eine Art Tanz
+von Ford mit seinem Handtuch.
+
+Dieser merkwuerdige Augenblick lenkt Arthur so vom Fallen ab,
+dass er dadurch zwar weiter faellt, aber total daneben.
+
+Wie wir aus dem Anhalter wissen, fliegt jedes Lebewesen, dass total daneben
+auf den Boden faellt.
+
+Arthur schraubt sich in die Hoehe als Worf seinen Freund Ford erneut
+attackiert. Ford springt rechtzeitig zur Seite, das Handtuch an zwei
+gegenseitige Ecke haltend und wickelt eben dieses Handtuch hinter Worf
+um dessen Kopf. Mit einer schwingenden Bewegung und einem wahrhaft
+nervenden Schrei wirft Worf seinen Angreifer ueber die Schulter und
+verfehlt den drei Meter hoch schwebenden Arthur nur knapp. Arthur
+schraubt sich noch etwas mehr in die Hoehe als Worf nach ihn zu greifen
+scheint. Gluecklicherweise sind die Gesetzte der Physik zu sehr mit
+Worfs Schlaege in Fords Brust und dem daraus resultierenden Fall Fords
+beschaeftigt, sodass Arthur ohne Ruecksicht auf die Schwerkraft weiter
+in seiner fuer Humanoide ungewoehnliche Hoehe verweilt.
+
+Ford schiebt nun schnell sein Handtuch an Worfs Kehle und knotet es
+hinten zu. Worf stecht sichtlich erschoepft auf und bruellt mit letzter
+Kraft seinen Ich-bin-noch-nicht-ganz-mit-meinem-klingonisch-am-Ende-Schrei,
+der das ganze Raumschiff zum schwingen bringt und das Handtuch um seinen
+Hals platzen laesst. Worf greift Ford an den Knoecheln und spielt mit
+ihn Presslufthammer bis Ford meint, dass fuenf Excentrica Gallumbits im
+Hintergrund einen heissen Strip tanzen.
+
+Waehrend Ford und Worf weiter kaempfen, oder - praeziser ausgedrueckt -
+Worf weiterhin Ford schuettelt und Ford versucht sich in Sicherheit zu
+winden, Begreift Arthur erst, dass er es wieder mal geschafft hat zu fliegen.
+Er schwebt ueber Worf und gibt seinem Hinterkopf einen ziemlich flinken
+Haken. Worf sackt wortlos auf den Boden, Ford und sein Handtuch liegen
+ungeschickterweise unter ihm.
+
+Ford    : (keuchend) Gute Arbeit, Arthur, Einfach brilliant von Dir... Dich
+          zum Fliegen zu entscheiden.
+
+Arthur  : Ahem. Danke, Ford, aber...
+
+Ford    : Nun, wie waer's mich jetzt aus dieser Klingonenpresse rauszuhelfen?
+
+Inzwischen hat Trillian mit Eddies Hilfe Zaphods Zurechnungsfaehigkeit
+(oder Unzurechnungsfaehigkeit - ganz vom persoenlichen Standpunkt aus)
+wiederhergestellt. Zaphod steht in der Herz aus Gold um sich genau in
+diesem Moment in die Shuttleabteilung beamen zu lassen.
+
+Zaphod  : (mit leichtem Gelaechter)  Hi Jungs, was hat Euch so zugerichtet?
+
+Leicht erschrocken zischt Arthur vor Zaphods Gesicht und haette fast die
+Balance verloren, faengt sich aber wieder.
+
+Trillian: Oh mein Gott, Arthur, Du kannst doch unmoeglich fliegen!
+
+Nun befreit von der Aufmerksamkeit auf Worf und seinen Kampf, welche die
+Gesetze der Physik die letzten fuenf Minuten voll beschaeftigten, bemerken
+eben diese Gesetze der Physik unguenstigerweise wieder Arthur, nachdem
+Trillian die Physik auf ihn aufmerksam machte. Was zum Universum hat
+dieser Erdenmensch da oben zu suchen, denkt sich die Gravitation und
+der Betonboden macht sich auf Arthur herzlichst zu begruessen, womit
+die Gesetzte der Physik, insbesondere das der Gravitation (in diesem
+wortwoertlichem Falle eine Kuenstliche) wieder korrigiert sind.
+
+Arthur  : (Leicht benommen vom Sturz) Ich glaube wir sollten zur Herz
+          aus Gold zuruckkehren - am besten sofort.
+
+
+
+[Werbung...]
+
+"Neu: Microschrott Windows Version 33.1 for SleepGroups. Absolut
+*Absturzsicher*, erledigen Sie ihre Arbeit *im Schlaf* Mit
+selbstinstallierenden Treiber aller handelsueblichen Wecker.
+Die moderne Dream-about-Oberflaeche mit Throw-Away-Menues.
+
+Wozu die Arbeit einer ganzen Woche in vollster Konzentration versauen.
+Windows for Sleepgroups zerstoert ihre Daten im Schlaf....
+
+
+... nun kommen wir langsam zum dramaturgischen Hoehepunkt...
+
+
+
+SZENE 14: Auf der Bruecke der Enterprise ist Beverly Crusher durch den
+          Turbolift angekommen.
+
+Beverly : Oh mein Gott, Commander, sie muessen meinen Sohn retten!
+
+Riker   : Aber ich bin viel zu sehr damit beschaeftigt den Captain zu
+          retten. Nun wen soll ich zuerst retten?
+
+Beverly : Oh.  Aehh ...
+
+Ueberraschenderweise loest der Slimer seinen Wuergegriff und faellt keuchend
+zu Boden.
+
+Slimer  : Schleim! Dreck! Hochstrahlende Nuclearabfaelle! Hust, Hust!
+
+Wesley, vom Slimer befreit, rennt in Beverly's offene Arme und beide
+spalten sich vom Geschehen fuer eine senitmentale Einlage ab.
+
+Troi    : Ohhh ... wie suess.  Das ist so ein ergreifender Moment.
+
+Slimer  : Dieser Ort ist zu sauber, zu steril! Ich brauche Wasser, grosse
+          mengen von schwarzen, starkverschmutzen Wasser! Meere, Meere
+          aus Pizza-Kartons mit verschuetteten stinkenden Rohoel und
+          verfaulten Biomuell.
+
+Data    : Ich glaube diese Kreatur liegt im Sterben, Sir.
+
+Riker betaetigt seinen Phaser und verwandlt Slimer in eine Gaswolke.
+
+Riker   : Das war ein Gnadenschuss.
+
+Wesley und Beverley umarmen sich weiter herzlich.
+
+Riker   : Okay, Wes, nimm Deine Station ein. Wir retten nu Captain Picard.
+
+Wesley  : (loest sich von Beverly)  Zu Befehl Sir.
+
+Riker   : Volle Energie auf die Phaser, Photonen-Torpedos bereitmachen.
+          Ziel erfassen und sofort feuern.
+
+Wesley  : Alle Waffensysteme feuern, Sir.
+
+Die hellroten Laserstrahlen von der Enterprise treffen ein paar
+Oberflaechendesigner des Borg-Schiffes, welche gerade Vermessungen
+der Aussenhuelle durchfuehren und lebhaft - bzw. borghaft - ueber
+die Neigung der Serviceroboter-Pfade fuer optimalen Karma-Genuss
+diskutieren.
+
+Riker   : Data, Schadensreport.
+
+Data    : Scanne, Sir.
+
+Wesley: Commander!
+
+Wesley zeigt auf den Hauptschirm, auf dem das Borgschiff langsam aber
+deutlich unter Verschleisserscheinungen leidet. Kleinere Teile und
+Brocken sprengen sich aus der Aussenhuelle heraus. Lichter und Blitze
+zucken unregelmaessig um schliesslich einfach nicht mehr zu funktionieren
+
+Troi    : Es stirbt, ich kann es spuehren, es ist so... oh!
+
+Troi bricht ohnmaechtig zusammen. Dr. Crusher kniet seitlich von ihr
+und haelt ihren Sens-O-Medic ueber ihren Koerper. Dann reisst sie
+hoffnungslos ihre Haende hoch.
+
+Beverly : Commander. Alles scheint an ihr normal zu sein, ich kann nichts
+          fuer sie tun.
+
+Data    : Counselor Troi hatte recht. Die Sensoren registrieren einen
+          erstaunlichen Energieverlust
+
+Wesley  : Ja!  Wir haben es geschafft, die Borg sind zerstoert.
+
+Data    : Aber was ist mit den Captain?
+
+Riker   : Da ist nichts mehr zu retten. Ich glaube ich muss die Sache
+          nun in die Hand nehmen. Wesley, sofort wenden und volle
+          Beschleunigung. Nichts wie weg.
+
+Wesley  : Sir, die Borg rufen uns.
+
+Riker   : Was?  Oh, err ...
+
+Wesley  : Es ist moeglich, dass sie unsere Kapitulationsbedingungen
+          erfragen wollen.
+
+Riker   : Wirklich? Okay. Visuelle Kommunikation auf den Hauptschirm.
+
+Auf den Hauptschirm erscheint ein bestuerztes, krummes und offensichtlich
+nicht vollstaendig intaktes Metallwesen, das auf die Kamera des Borg-Schiffes
+zulaeuft. Im Hintergrund sind Rauch, Nebel und Flammen zu erkennen. Das Wesen
+scheint etwas schweres hinter sich herzuschleifen.
+
+Wesen   : Hallo ihr da.
+
+
+
+Werden Zaphod und seine Freunde letztenendlich entkommen? Wird Worf dies
+noch verhindern koennen? Ist Captain Picard gestorben? Wird Troi aus ihren
+Koma erwachen? Und wer ist das mysterioese metallene Wesen auf den Borg-
+Schiff?
+
+
+... Der vorletzte Teil...
+
+
+SZENE 15: In der Herz aus Gold stoehnt Ford lautstark waehrend er seine
+          letzten Mahlzeiten in eine Kotztuete verlagert. Zaphod ist
+          indessen mit Eddie beschaeftigt.
+
+Zaphod  : Sag mir noch einmal, warum wir hier nicht einfach wegrauschen
+          koennen!
+
+Eddie   : Weil uns immer noch Marvin fehlt.
+
+Zaphod  : Marvin ist nicht mehr. Puff! Kawumm! Niemand weiss wo er ist.
+
+Eddie   : Aetschiebaetschi! Ich schon.
+
+Zaphod  : Gut fuer Dich! Nun lass uns hier verschwinden, okay?
+
+Trillian: Warte, Zaphod. Eddie, warum sagst Du uns nicht, wo Marvin ist?
+
+Zaphod  : Ist das wirklich notwendig?
+
+Trillian: Ja. Nun Eddie, wo ist Marvin?
+
+Eddie   : Ich zeig' es Euch, Freunde!
+
+Der Hauptschirm der Herz aus Gold aktiviert sich von Geisterhand. Zuerst
+ist nur ein tiefer Nebel giftiger Gase zu erkennen. Dann erscheint - durch
+den Nebel hindurch - eine metallisch spiegelnde Gestalt, die sich langsam
+der Kamera naehert. Sie scheint etwas schweres hinter sich herzuschleifen.
+
+Arthur, Trillian, Zaphod: Marvin!
+
+Marvin  : Hallo ihr da.
+
+Trillian: Marvin, wie geht es Dir?
+
+Marvin  : Mir?  Oh, Ich war nur eben auf den Borg-Schiff. Sehr nett von Euch
+          mich hier einfach sitzen zu lassen, nachdem mich der
+          Unwahrscheinlichkeitsdrive hierher gestossen hat.
+
+Zaphod  : Hey, Du warst die ganze Zeit bei den schrecklichsten Wesen der
+          Galaxis? Das muss ja sehr spannend gewesen sein, alleine
+          die Gefahr...
+
+Marvin  : Erzaehlt mir nichts von Spannung...
+
+Trillian: Wir wussten nicht dass Du dort bist. Das Unwahrscheinlichkeitsfeld...
+
+Marvin  : Jaja, das sagt ihr immer. "Wir wussten das nicht, Marvin",
+          "Wir hoffen es macht Dir nichts aus, Marvin", "Wir hatten
+          keine Ahnung dass Du darunter bist, als wir das 50-Tonnen-schwere
+          Gewicht dort hingestellt haben, Marvin". Das kenne ich, ihr
+          braucht mir nichts zu erklaeren, ich bin es gewoehnt...
+
+Trillian: Marvin, wir haben uns Sorgen um Dich gemacht
+
+Marvin  : Taeuscht mir nicht Euer Mitleid vor. Das klappt nicht mehr.
+          Keiner mag mich. Nicht einmal (er kreist seine Hand herum)
+          dieses Schiff.
+
+Trillian: Die Borg? Was ist mit den Borg passiert?
+
+Marvin  : ... haben ausgeborgt. Ich habe mich an ihr kollektives Denken
+          angeschlossen. Mann war ich von der Borg-Technologie
+          gelangweilt... da habe ich mich mit der Hauptintelligenz
+          der Borg unterhalten.
+
+Trillian: Wow.  und...
+
+Marvin  : Wir hatten eine vielversprechende Konversasation ueber die
+          Beziehung zwischen Landschaftsdesign und Hinduismus.
+
+Zaphod  : Hey, Marvin. Das ist ja grossartig. (fluestert zu Trillian) Was
+          in aller Welt schwafelt der da?
+
+Marvin  : Wie ich es gesagt habe, dieses Schiff mochte mich nicht. Die
+          Philosophie des Hinduismus vertrug sich nicht mit meiner
+          Einstellung zum Universum und...
+
+Trillian: ... und?
+
+Marvin  : ... und die Hauptintelligenz wurde so depressiv, dass es zum
+          Selbstmord entschlossen war.
+
+Zaphod  : Okay, Marvin!  Zeit zum abhaun!
+
+Marvin  : Fangt nicht an mich unter Druck zu setzten.
+
+Trillian: Aber das erklaert nicht die Fehlkonstruktion des Borg-Schiffes,
+          warum geht das *ganze* Schiff in die Luft?
+
+Marvin  : ich habe hier etwas, das dies erklaeren kann. (Marvin greift
+          ein kleines Schild von einen Hauptprozessor der Borg-haupt-
+          Intelligenz). Ich habe mir diesen Prozessor hier mal genommen.
+          Soll ich Euch vorlesen, was auf den Typenschild steht? Es
+          wird nur einen ganz geringen Teil meiner Intelligenz benoetigen
+          um es in Euere widerwaertig-einfache Sprache zu uebersetzen.
+          aber daran bin ich gewoehnt. "Marvin wuerdest Du mich bitte
+          zurueckbringen", "Marvin, kontrolliere die Temperatur meines
+          Badewassers", "Marvin, wuerdest Du bitte den Sternenflotten-
+          captain das Leben retten" - Da stehe ich mit der Intelligenz
+          eines ganzen Planeten und ihr verlangt solche Sachen von mit.
+          Nennt ihr das berufliche Erfuellung. Ich nicht. Aber mich
+          fragt ja niemand. Als ich zum Beispiel...
+
+Zaphod  : Lies es uns schon vor, Marvin?
+
+Trillian scheint etwas verwirrt von Marvins letzter Aussage
+
+Marvin  : Oh, ich soll also auf den sogenannten Punkt kommen, soll ich?
+          Wenn ich schon mal auf den Punkt komme, da sind immer noch die
+          Schmerzen an den Dioden in meinem linken...
+
+Zaphod  : (warnend)  Marvin ...
+
+Marvin  : Na gut meinetwegen. Also auf den Prozessor steht: Ein weiteres
+          feines Produkt der Sirius Cybernetic Corporation.
+
+Trillian und Zaphod sortieren ihre Gedanken, dann verstehen sie die
+Zusammenhaenge. Ja, jetzt macht alles einen Sinn.
+
+Trillian: Keine Frage, sie werden als erste an die Wand gestellt, wenn die
+          Revolution kommt.
+
+Zaphod  : Ja, kein Zweifel.
+
+Marvin  : Trotzdem, der einzige Grund weswegen ich euch benachrichtigen
+          wollte...
+
+Trillian: Marvin, Hast Du nicht was ueber den Sternenflottencaptain gesagt?
+
+Marvin  : Wie ich es sagte... (er legt eine lange rhetorische Pause ein)
+          der Grund fuer diese Verbindung ist etwas, dass ihr vielleicht
+          zurueckhaben wollt.
+
+Zaphod  : Ja, mann, was ist es?
+
+Marvin richtet eine humpelnde Gestalt auf, die sich als Captain Picard
+entpuppt.
+
+Marvin  : (deutet auf den Captain)  Das.
+
+Trillian: Ist das nicht Captain Picard?
+
+Zaphod  : Hey, Junge, was macht denn der da drueben?
+
+Marvin  : (schaut auf den erschoepften Picard)  Nicht gerade viel.
+
+Eddie   : Hey, Jungs. Die Enterprise beamt gerade mal flott den Captain
+          und MArvin rueber. Soll ich den Transporterstrahl fuer Euch
+          unterbrechen?
+
+Auf den Hauptschirm der Herz aus Gold zerbroeseln Marvin und Picard
+in gewohnter Weise, als der Transporter der Herz aus Gold dem der
+Enterprise zuvorkommt.
+
+Trillian: Bring Marvin hierher.  Wir brauchen den Captain nicht.
+
+Zaphod  : Hey, Ich dachte ich haette das Kommando hier?
+
+Ein wenig spaeter erscheint Marvin auf der Herz aus Gold.
+
+Marvin  : Ihr wisst, ihr haettet das nicht tun muessen...
+
+Marvin schlaendert in seine Ecke.
+
+
+
+
+
+
+[Prgrammhinweise]
+
+Weitere Star-Trek-Specials in diesem Programm:
+
+ - Am Montag die fuenfstuendige Diskussionsrunde ueber Syncronisationsfehler
+   der Vulkanischen Version.
+ - Am Dienstag Der Film-Film: "Star-Trek 28: Kirks Mumie fordert Rente"
+ - Am Mittwoch alle Szenen, in denen McCoy "Er ist Tot, Jim" sagt (213 min)
+ - Am Donnerstag ein literarischer Vergleich zwischen Klingonischer
+   Liebeslyrik und vogonischen Armseligkeitshinweisgedichten.
+ - Am Freitag die Dokumentation "Wie nutze ich Luecken in der Zeitachse"
+ - Am darauffolgenden Donnerstag "Wie nutze ich Luecken in der Zeitachse"
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+         Der letzte Teil von "Per Anhalter reisen mit Star-Trek"
+
+
+         Ich bedanke mich fuer den grossen Zuspruch via Netmail
+                 und fuer die Geduld der Moderatoren!
+
+               Viel Spass beim Lesen wuensche ich Euch
+
+                                Jens.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+SZENE 16: Waehrend Marvin auf die Herz aus Gold gebeamt wurde, erscheint
+          Captain Picard auf der Bruecke der Enterprise. Dr. Crusher ist
+          sofort zur Stelle und streift ihren Sens-O-Medic ueber den Captain
+          und verabreicht ihm eine Dosis Inst-A-Wach
+
+Picard  : Was ist passiert, Nummer eins?
+
+Riker   : Captain, Ich habe sie von den Borgs gerettet!
+
+Data    : Korrektur, Commander.  Es scheint so, als ob der Captain der
+          Enterprise von einen Androiden namens Marvin gerettet wurde,
+          der sich jetzt in unserem Shuttledeck befindet.
+
+Riker   : Ich gab doch die Instruktion ihn direkt in die Arestzelle zu
+          beamen?
+
+Data    : Richtig, Commander, aber die Herz aus Gold unterbrach den
+          Transport.
+
+Riker   : Was?  Ich dachte Mr. Worf kuemmert sich um die Gefangenen.
+
+Data    : Offensichtlich nicht, Sir. Die Sensoren registrieren ein
+          Unwahrscheinlichkeitsfeld in der Shuttleabteilung. Die Herz
+          aus Gold scheint zu starten.
+
+Picard  : (geht von Deck)  Okay, Mir geht es besser. Data, kommen Sie mit,
+          wir gehen zum Shuttle-Deck 3.
+
+Beverly : Aber Captain, Ich muss sie noch weiter untersuchen. Nach allem was
+          geschehen ist koennten die Borg Sie...
+
+Picard  : assimiliert haben? Unsinn! Sie behandelten mich besser als erwartet.
+          Sie wollten nur meine Meinung ueber ihr Drehbuch fuer Hamlet
+          wissen. Es war exzellent geschrieben, nur denke ich, dass ihren
+          Monologen doch der letzte Biss...
+
+Riker: Sir ...
+
+Picard  : Ja, Nummer eins?
+
+Riker   : Die Gefangenen, Sir, Zaphod Beeblebrox ist noch im Shuttle-Deck.
+
+Picard  : Oh ja, richtig (strafft seine Uniform) "Halte Deine Pflicht wie
+          Deine Seele" - Das war eine Variation aus Hamlet, Nummer Eins.
+          Kommen Sie Data "Unsere feinde sollen vor uns fallen"
+
+Picard und Data gehen in den Turbo-Lift.
+
+Beverly : Er ist in Ordnung, Kerngesund.
+
+Die Doppeltuer des Turbo-Liftes schliesst sich, als die Bruecke gerade
+ihre Form zu verlieren schient, da die Herz aus Gold ihren Unwahrscheinlich-
+keitsdrive zum Start aktiviert hat. Dort veraendern sich rapide die
+Proportionen von Fords Koerperteile waehrend Zaphod mit Eddie noch ueber
+den noetigen Unwahrscheinlichkeitsfaktor fuer das naechste Ziel streitet.
+
+Arthur schlendert gemuetlich in sein Quartier wo er zu seiner Freude eine
+kleine chinesische Kanne mit vier kleinen chinesischen Tassen auf vier
+kleinen chinesischen Untertassen vorfindet. Nach dem Genuss einer Tasse
+stellt er fest, dass dies hier einwandfrei der beste Tee ist, den er je
+getrunken hat. Er findet auch einen kleinen Zettel, auf dem in altenglischer
+Schrift die Worte "Trinke und Geniesse" zu finden sind.
+
+Einen kurzen Moment ist er sichtlich verwundert ueber eine verrueckte Kuh,
+die seine Kleidung traegt und genuesslich ein Handtuch kaut. Doch diese
+Kuh verschindet schnell beim Bremsen des Unwahrscheinlichkeitsdrive und
+Arthur stellt fest dass das einzige Kleidungsstueck, welches er je fern
+der Erde getragen hat, immer noch an seinem Koerper anliegt.
+
+Zaphod  : (Ueber Schiffs-Intercom) Diese vielen Abenteuer machen mich langsam
+          hungrig. Wie ist es mit Dir, Affenmaennchen?
+
+Arthur  : (nippt an seinem Tee mit freundlichen Laecheln) Jetzt etwas
+          Essen gehen... Jaa, das klingt gut.
+
+Zaphod  : Okay, dann lasst uns einen Happen im Milliways essen, das Restaurant
+          am Ende des Universums!
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+EPILOG  : Data und Picard erreichen die Shuttleabteilung um gerade noch
+          zu sehen, wie sich die Herz aus Gold in einen unerwarteten
+          Subtropischen Regenwald verwandelt, indem es - wie es sich fuer
+          einen ordentlichen Regenwald gehoert - aus Eimern regnet.
+          Ziemlich Nass helfen sie Lieutenant Worf auf die Beine.
+
+Data    : Beeblebrox und die anderen sind entkommen, Sir.
+
+Picard  : Ich sehe es, Mr. Data.
+
+Data    : Ich wuenschte ich haette die Moeglichkeit mit diesem Androiden
+          namens Marvin mich zu unterhalten. Es scheint so als sei er
+          gewissermassen eine... Persoenlichkeit.
+
+Picard  : Gut, Data.  Sie haben mit Ihrer Vermutung vollkommen recht,
+          aber glauben Sie mir, vielleicht ist es besser so...
+
+Picard macht sich mit Worf auf den Weg zur Krankenstation.
+
+Data    : Captain, warten Sie bitte!
+
+Picard  : Was ist los, Data?
+
+Data    : (hebt ein Buch mit der Aufschrift "Keine Panik" in grossen
+          freundlichen Buchstaben auf) Die Herz aus Gold hat das hier
+          liegen lassen.
+
+Picard  : (Nimmt das Buch und untersucht es) Was ist es?
+
+Data    : Ich meine es handelt sich hierbei um "Per Anhalter durch die
+          Galaxis". Ein aeusserst bemerkenswertes Buch. Wahrscheinlich das
+          bemerkenswerteste Buch, das die grossen Verlage von Usar Minor je
+          herausbrachten - Und dieses Buch ist nicht nur ausserordentlich
+          bemerkenswert, es ist auch ausserordentlich erfolgreich - populaerer
+          als "Der himmlische Heimschuetz-Allmanach", es verkaufte sich besser
+          als "dreiundfuenfzig neue Sachen, die man bei Schwerelosigkeit
+          machen kann" und ist streitlustiger als Oolon Coluphids drei
+          philosophische Bombenerfolge "Wo Gott sich irrte", "Noch ein paar
+          von Gottes groessten Fehlern" und "Wer ist denn dieser Gott
+          ueberhaupt"
+
+Picard  : Interessant, Mr. Data, bitte fahren Sie fort.
+
+Data    : Gerne, Sir: In vielen der etwas laessigeren Zivilisationen am
+          aeussersten Ostrand der Galaxis hat der Reisefuehrer "Per Anhalter
+          durch die Galaxis" die grosse "Encyclopaedia Galactica" als
+          Standardwerk fuer alle Kenntnisse und Weisheiten inzwischen
+          laengst abgeloest. Denn obwohl er viele Luecken hat und viele Dinge
+          enthaelt, die sehr zweifelhaft oder zumindest wahnsinnig ungenau
+          sind, ist er dem aelteren und viel langatmigeren Werk in
+          zweierlei Hinsicht ueberlegen...
+
+
+
+
+                * * *            E  n  d  e          * * *
+
+
+[Datas Erklaerung ueber "Per Anhalter durch die Galaxis" ist direkt aus
+dem gleichnamigen Roman von Douglas Adams uebernommen]
+
