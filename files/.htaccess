@@ -16,7 +16,6 @@ AddDescription "talks I held" talks
 AddDescription "temporary chaos" tmp
 
 RewriteEngine On
-RewriteRule ^qb-src(|/.*?)(\.qb)?$ /blog$1 [R=permanent]
 
 RewriteRule ^(avatar|pim)(|/.*)$ - [G]
 RewriteRule ^code/(amazon|calextract|frenzy|p5|pingbot|rcal|retzel|tagesschau-av500)(|/.*)$ - [G]
