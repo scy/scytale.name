@@ -3,10 +3,9 @@ Options +Indexes
 RemoveHandler .php
 AddType text/plain .php
 
-HeaderName /inc/files-header.html
-# ReadmeName /inc/files-footer.html
-IndexOptions Charset=UTF-8 NameWidth=* DescriptionWidth=* +FancyIndexing +FoldersFirst -HTMLTable +IconsAreLinks +IgnoreCase +XHTML
-# +SuppressHTMLPreamble
+HeaderName /inc/files-header.php
+ReadmeName /inc/files-footer.php
+IndexOptions Charset=UTF-8 NameWidth=* DescriptionWidth=* +FancyIndexing +FoldersFirst -HTMLTable +IconsAreLinks +IgnoreCase +XHTML +SuppressHTMLPreamble
 
 AddDescription "security advisories" adv
 AddDescription "some blog buttons" buttons

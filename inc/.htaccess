@@ -1,2 +1,2 @@
 AddType text/html .php
-AddHandler php-fcgid .php
+AddHandler application/x-httpd-php .php
