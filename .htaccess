@@ -9,10 +9,6 @@ RewriteRule ^qb(|/.*)$ /blog$1 [R=permanent,L]
 RewriteRule ^$ /blog/ [R,L]
 
 # Things that have been deleted.
-RewriteRule ^files/(avatar|pim)(|/.*)$ - [R=410,L]
-RewriteRule ^files/code/(amazon|calextract|frenzy|p5|pingbot|rcal|retzel|tagesschau-av500)(|/.*)$ - [R=410,L]
-RewriteRule ^files/talks/(lastfm|planung)(|/.*)$ - [R=410,L]
-RewriteRule ^files/pix/(050423a|060510b|060708a|060708b)(|/.*)$ - [R=410,L]
 RewriteRule ^where(|/.*)$ - [G]
 
 # Redirects for things I will maybe host myself soon.

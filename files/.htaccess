@@ -17,3 +17,8 @@ AddDescription "temporary chaos" tmp
 
 RewriteEngine On
 RewriteRule ^qb-src(|/.*?)(\.qb)?$ /blog$1 [R=permanent]
+
+RewriteRule ^(avatar|pim)(|/.*)$ - [G]
+RewriteRule ^code/(amazon|calextract|frenzy|p5|pingbot|rcal|retzel|tagesschau-av500)(|/.*)$ - [G]
+RewriteRule ^talks/(lastfm|planung)(|/.*)$ - [G]
+RewriteRule ^pix/(050423a|060510b|060708a|060708b)(|/.*)$ - [G]
