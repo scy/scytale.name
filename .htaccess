@@ -32,3 +32,11 @@ RewriteRule ^\.plan$ https://github.com/scy/scytale.name/blob/master/plan.markdo
 
 # Things that should not be accessible.
 RewriteRule ^\. - [F]
+
+# Some custom error documents.
+ErrorDocument 403 /error/index.php
+ErrorDocument 404 /error/index.php
+ErrorDocument 405 /error/index.php
+ErrorDocument 410 /error/index.php
+ErrorDocument 500 /error/index.php
+ErrorDocument 503 /error/index.php
