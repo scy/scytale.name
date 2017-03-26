@@ -1,3 +1,4 @@
+buildspec.yml
 Dockerfile
 .dockerignore
 .git
