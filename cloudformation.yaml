@@ -1,0 +1,192 @@
+Description: CD pipeline and hosting for scytale.name and related domains
+
+Resources:
+
+  deRedirectBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: scytale.de
+      WebsiteConfiguration:
+        IndexDocument: index.html
+        RoutingRules:
+        - RedirectRule:
+            HostName: scytale.name
+            HttpRedirectCode: 307 # temp
+            Protocol: http
+      Tags:
+      - Key: Project
+        Value: scysite
+
+  wwwdeRedirectBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: www.scytale.de
+      WebsiteConfiguration:
+        RedirectAllRequestsTo:
+          HostName: scytale.de
+      Tags:
+      - Key: Project
+        Value: scysite
+
+  scyRedirectBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: scy.name
+      WebsiteConfiguration:
+        IndexDocument: index.html
+        RoutingRules:
+        - RedirectRule:
+            HostName: scytale.name
+            HttpRedirectCode: 307 # temp
+            Protocol: http
+      Tags:
+      - Key: Project
+        Value: scysite
+
+  wwwscyRedirectBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: www.scy.name
+      WebsiteConfiguration:
+        RedirectAllRequestsTo:
+          HostName: scy.name
+      Tags:
+      - Key: Project
+        Value: scysite
+
+  wwwscytaleRedirectBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: www.scytale.name
+      WebsiteConfiguration:
+        RedirectAllRequestsTo:
+          HostName: scytale.name
+      Tags:
+      - Key: Project
+        Value: scysite
+
+  deZone:
+    Type: AWS::Route53::HostedZone
+    Properties:
+      Name: scytale.de.
+      HostedZoneTags:
+      - Key: Project
+        Value: scysite
+
+  scyZone:
+    Type: AWS::Route53::HostedZone
+    Properties:
+      Name: scy.name.
+      HostedZoneTags:
+      - Key: Project
+        Value: scysite
+
+  scytaleZone:
+    Type: AWS::Route53::HostedZone
+    Properties:
+      Name: scytale.name.
+      HostedZoneTags:
+      - Key: Project
+        Value: scysite
+
+  deRecords:
+    Type: AWS::Route53::RecordSetGroup
+    Properties:
+      Comment: scytale.de (redirect only)
+      HostedZoneId: !Ref deZone
+      RecordSets:
+      - Name: scytale.de.
+        Type: A
+        AliasTarget:
+          HostedZoneId: Z1BKCTXD74EZPE # ID for S3 in eu-west-1
+          DNSName: !Sub s3-website-${AWS::Region}.amazonaws.com
+      - Name: www.scytale.de.
+        Type: A
+        AliasTarget:
+          HostedZoneId: Z1BKCTXD74EZPE # ID for S3 in eu-west-1
+          DNSName: !Sub s3-website-${AWS::Region}.amazonaws.com
+      - Name: scytale.de.
+        Type: MX
+        ResourceRecords:
+        - 10 mxa.mailgun.org
+        - 10 mxb.mailgun.org
+        TTL: 3600
+      - Name: scytale.de.
+        Type: TXT
+        ResourceRecords: [ '"v=spf1 include:mailgun.org ~all"' ]
+        TTL: 3600
+      - Name: pic._domainkey.scytale.de.
+        Type: TXT
+        ResourceRecords: [ '"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClp0+3pn315U7A6Ss2fEDjhQ1NBvghZlF7bBGbtFiiaPrHEFgKU8fb9kI8rLdLhVdWWBMPlty3/xO9aj3xycUcSevJ5On/D56puX6awi+GAtZnpYKD9q/oS1g9GHKZgZVqC1OQVfDUZ/HCfKG8fLZ2wc3cuXffUUmALVFyPqJR3wIDAQAB"' ]
+        TTL: 3600
+
+  scyRecords:
+    Type: AWS::Route53::RecordSetGroup
+    Properties:
+      Comment: scy.name (the future)
+      HostedZoneId: !Ref scyZone
+      RecordSets:
+      - Name: scy.name.
+        Type: A
+        AliasTarget:
+          HostedZoneId: Z1BKCTXD74EZPE # ID for S3 in eu-west-1
+          DNSName: !Sub s3-website-${AWS::Region}.amazonaws.com
+      - Name: www.scy.name.
+        Type: A
+        AliasTarget:
+          HostedZoneId: Z1BKCTXD74EZPE # ID for S3 in eu-west-1
+          DNSName: !Sub s3-website-${AWS::Region}.amazonaws.com
+      - Name: photos.scy.name.
+        Type: CNAME
+        ResourceRecords: [ domains.smugmug.com ]
+        TTL: 3600
+      - Name: planb.scy.name.
+        Type: A
+        AliasTarget:
+          HostedZoneId: Z2FDTNDATAQYW2 # global ID for CloudFormation
+          DNSName: dh6qxsiol87a1.cloudfront.net
+      - Name: scy.name.
+        Type: MX
+        ResourceRecords:
+        - 10 mxa.mailgun.org
+        - 10 mxb.mailgun.org
+        TTL: 3600
+      - Name: scy.name.
+        Type: TXT
+        ResourceRecords: [ '"v=spf1 include:mailgun.org ~all"' ]
+        TTL: 3600
+      - Name: smtp._domainkey.scy.name.
+        Type: TXT
+        ResourceRecords: [ '"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCybWwp1mtESNRiJC2oR5JhWjWdZCSg/7RrhHndX25gQmgMUb4C/WvnTsJYfWqfQSxRXBqel0igchOZZN3IVw2y00zByahOfC+aCgGBXLqBaY1zFdveBqH3pKIXO0AVtmnAlCFmfOHTFydJA3eiGMi7i5XcCFEcL0sukqDZyuFBzwIDAQAB"' ]
+        TTL: 3600
+
+  scytaleRecords:
+    Type: AWS::Route53::RecordSetGroup
+    Properties:
+      Comment: scytale.name (the present)
+      HostedZoneId: !Ref scytaleZone
+      RecordSets:
+      - Name: scytale.name.
+        Type: A
+        ResourceRecords:
+        - 82.98.87.120 # Uberspace, for now
+        TTL: 60
+      - Name: www.scytale.name.
+        Type: A
+        AliasTarget:
+          HostedZoneId: Z1BKCTXD74EZPE # ID for S3 in eu-west-1
+          DNSName: !Sub s3-website-${AWS::Region}.amazonaws.com
+      - Name: scytale.name.
+        Type: MX
+        ResourceRecords:
+        - 10 mxa.mailgun.org
+        - 10 mxb.mailgun.org
+        TTL: 3600
+      - Name: scytale.name.
+        Type: TXT
+        ResourceRecords: [ '"v=spf1 include:mailgun.org ~all"' ]
+        TTL: 3600
+      - Name: krs._domainkey.scytale.name.
+        Type: TXT
+        ResourceRecords: [ '"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7DopG142OuCVxppJR7EaXx7upPeuYYz1vpOW+Y7pwAr2PoYSdZb8n5sm9KbKS8xXpLSj/G52aEJTVHclHrnC8KaPmjEziEa3aXhycolZKpa11h820LaqMLJ7GGnCB2uEkDOUQJq0eeQnX2svil9TAACeUug7ppbDQ4oxsC3hlrwIDAQAB"' ]
+        TTL: 3600
