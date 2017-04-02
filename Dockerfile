@@ -20,8 +20,10 @@ RUN apt update \
 # copy the whole repo (except for the things in .dockerignore) to the root.
 COPY . /var/www/html
 
-# Move php.ini to the correct spot and get rid of the patch file which was
+# Move php.ini to the correct spot, set permissions for the web content, restore
+# the timestamps from the backup file and get rid of the patch file which was
 # already applied (but copied again nevertheless).
 RUN mv /var/www/html/php.ini /usr/local/etc/php \
 	&& chown -R www-data:www-data /var/www/html \
-	&& rm use-addhandler.patch
+	&& (cd /var/www/html/blog && while read -r ts file; do touch -d "@$ts" "$file"; done) <blog/timestamps.txt \
+	&& rm use-addhandler.patch blog/timestamps.txt
