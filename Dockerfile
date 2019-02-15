@@ -1,4 +1,4 @@
-FROM php:5-apache
+FROM php:7-apache
 
 # That patch is important, because else the RemoveHandler directives in the
 # .htaccess files in several directories don't work, leading to the stuff in
