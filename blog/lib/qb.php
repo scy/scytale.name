@@ -127,7 +127,7 @@ qb_define('QB_URIPATH', $_SERVER['REQUEST_URI']);
 
 // If there is no class autoloader currently set, define ours.
 if (!function_exists('__autoload')) {
-	eval('function __autoload($class) { return (qb_autoload($class)); }');
+	spl_autoload_register('qb_autoload');
 	define('QB_OURAUTOLOAD', true);
 } else {
 	define('QB_OURAUTOLOAD', false);
